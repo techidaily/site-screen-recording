@@ -1,7 +1,7 @@
 ---
 title: "\"Brighten Up Your Gameplay  Tips to Fix a Black Screen on OBS for 2024\""
-date: 2024-05-18T00:51:18.103Z
-updated: 2024-05-19T00:51:18.103Z
+date: 2024-05-19T17:20:24.854Z
+updated: 2024-05-20T17:20:24.854Z
 tags: 
   - screen-recording
   - ai video
@@ -281,4 +281,5 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-voice-capture-made-easy-the-ultimate-mac-users-guide-for-high-quality-recordings/"><u>Updated In 2024, Voice Capture Made Easy The Ultimate Mac Users Guide for High-Quality Recordings</u></a></li>
 <li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-the-best-free-avi-video-editor-downloads/"><u>New 2024 Approved The Best Free AVI Video Editor Downloads</u></a></li>
 </ul></div>
+
 

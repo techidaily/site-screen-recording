@@ -1,7 +1,7 @@
 ---
 title: "[New] Prime 7 FPS Titles You Can't Miss"
-date: 2024-05-18T00:35:17.584Z
-updated: 2024-05-19T00:35:17.584Z
+date: 2024-05-19T17:19:45.643Z
+updated: 2024-05-20T17:19:45.643Z
 tags: 
   - screen-recording
   - ai video
@@ -503,4 +503,5 @@ For macOS 10.12 or later
 <li><a href="https://techidaily.com/how-to-reset-infinix-hot-40i-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Infinix Hot 40i Without the Home Button | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-oppo-reno-9a-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Oppo Reno 9A Without PUK Codes</u></a></li>
 </ul></div>
+
 

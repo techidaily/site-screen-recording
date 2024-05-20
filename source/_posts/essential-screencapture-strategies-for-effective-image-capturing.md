@@ -420,3 +420,4 @@ ScreenRec is usually a powerful display recording tool that will you can down lo
 <li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-itel-p40-by-fonelab-android-recover-photos/"><u>How to get back lost photos from Itel P40.</u></a></li>
 </ul></div>
 
+

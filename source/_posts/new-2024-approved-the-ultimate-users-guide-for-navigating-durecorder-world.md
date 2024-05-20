@@ -574,3 +574,4 @@ The article above is very detailed and is full of information for any soul who a
 <li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-xiaomi-redmi-note-12-4g-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Xiaomi Redmi Note 12 4G Screen | Dr.fone</u></a></li>
 </ul></div>
 
+

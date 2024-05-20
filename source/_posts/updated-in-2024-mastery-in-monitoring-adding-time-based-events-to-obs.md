@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Mastery in Monitoring  Adding Time-Based Events to OBS\""
-date: 2024-05-18T00:54:16.961Z
-updated: 2024-05-19T00:54:16.961Z
+date: 2024-05-19T17:20:32.317Z
+updated: 2024-05-20T17:20:32.317Z
 tags: 
   - screen-recording
   - ai video
@@ -246,4 +246,5 @@ OBS Studio can look intimidating at first. But once you learn the ropes, this de
 <li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-unleash-the-fun-top-10-free-game-download-sites-for-pc-android-and-more/"><u>New 2024 Approved Unleash the Fun Top 10 Free Game Download Sites for PC, Android, and More</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Vivo Y78+? | Dr.fone</u></a></li>
 </ul></div>
+
 

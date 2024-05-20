@@ -280,3 +280,4 @@ ShareX is great if you want to capture screenshots of your current screen as wel
 <li><a href="https://sound-tweaking.techidaily.com/updated-the-editors-manual-mastering-the-art-of-attaching-and-aligning-soundtracks-in-final-cut-pro/"><u>Updated The Editors Manual Mastering the Art of Attaching and Aligning Soundtracks in Final Cut Pro</u></a></li>
 </ul></div>
 
+

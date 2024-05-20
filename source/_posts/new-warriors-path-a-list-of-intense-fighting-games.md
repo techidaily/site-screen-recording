@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Warrior's Path  A List of Intense Fighting Games\""
-date: 2024-05-18T00:34:35.721Z
-updated: 2024-05-19T00:34:35.721Z
+date: 2024-05-19T17:19:44.151Z
+updated: 2024-05-20T17:19:44.151Z
 tags: 
   - screen-recording
   - ai video
@@ -284,4 +284,5 @@ Follow @Richard Bennett
 <li><a href="https://ai-video-tools.techidaily.com/new-in-2024-best-video-editing-software-for-mac-windows-movie-maker-equivalents/"><u>New In 2024, Best Video Editing Software for Mac Windows Movie Maker Equivalents</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-change-samsung-galaxy-m14-5g-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Samsung Galaxy M14 5G Location on Skout | Dr.fone</u></a></li>
 </ul></div>
+
 

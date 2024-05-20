@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Creating Ken Burns Transitions in Camtasia 9  A Step-by-Step Guide\""
-date: 2024-05-18T00:56:36.127Z
-updated: 2024-05-19T00:56:36.127Z
+date: 2024-05-19T17:20:37.524Z
+updated: 2024-05-20T17:20:37.524Z
 tags: 
   - screen-recording
   - ai video
@@ -388,4 +388,5 @@ Follow @Max Wales
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-get-the-apple-id-verification-code-from-iphone-6s-in-the-best-ways-by-drfone-ios/"><u>In 2024, How To Get the Apple ID Verification Code From iPhone 6s in the Best Ways</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-how-to-make-a-powerpoint-looping-slideshow/"><u>New How to Make a PowerPoint Looping Slideshow</u></a></li>
 </ul></div>
+
 

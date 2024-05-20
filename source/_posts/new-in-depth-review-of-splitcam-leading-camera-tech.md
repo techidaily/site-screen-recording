@@ -268,3 +268,4 @@ SplitCam as a free video record is great to say the least. However, it fails to 
 <li><a href="https://screen-mirror.techidaily.com/how-to-cast-nokia-xr21-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Nokia XR21 to Computer for iPhone and Android? | Dr.fone</u></a></li>
 </ul></div>
 
+

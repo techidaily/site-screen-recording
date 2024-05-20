@@ -436,3 +436,4 @@ Recording voice over for videos is no more a magic. We have illustrated all the 
 <li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-itel-a70-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Itel A70 | Dr.fone</u></a></li>
 </ul></div>
 
+

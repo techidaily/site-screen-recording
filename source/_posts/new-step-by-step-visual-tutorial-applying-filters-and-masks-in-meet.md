@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Step-by-Step Visual Tutorial  Applying Filters & Masks in Meet\""
-date: 2024-05-18T00:32:18.693Z
-updated: 2024-05-19T00:32:18.693Z
+date: 2024-05-19T17:19:38.814Z
+updated: 2024-05-20T17:19:38.814Z
 tags: 
   - screen-recording
   - ai video
@@ -611,4 +611,5 @@ Follow @Richard Bennett
 <li><a href="https://iphone-transfer.techidaily.com/in-2024-easy-methods-how-to-transfer-pictures-from-apple-iphone-12-pro-to-pc-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Easy Methods How To Transfer Pictures From Apple iPhone 12 Pro to PC | Dr.fone</u></a></li>
 <li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-intro-maker-software-for-gamers-windows-and-mac-compatible/"><u>Updated 2024 Approved Intro Maker Software for Gamers Windows and Mac Compatible</u></a></li>
 </ul></div>
+
 

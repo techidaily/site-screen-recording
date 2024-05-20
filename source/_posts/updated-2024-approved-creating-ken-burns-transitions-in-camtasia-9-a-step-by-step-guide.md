@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Creating Ken Burns Transitions in Camtasia 9  A Step-by-Step Guide\""
-date: 2024-05-18T00:36:25.174Z
-updated: 2024-05-19T00:36:25.174Z
+date: 2024-05-19T17:19:48.630Z
+updated: 2024-05-20T17:19:48.630Z
 tags: 
   - screen-recording
   - ai video
@@ -342,4 +342,5 @@ Follow @Max Wales
 <li><a href="https://video-content-creator.techidaily.com/updated-top-digital-collage-creators-for-photos-and-videos-for-2024/"><u>Updated Top Digital Collage Creators for Photos and Videos for 2024</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/if-you-wish-to-edit-flv-videos-without-any-problems-you-should-utilize-a-multipurpose-video-editor-that-supports-the-flv-file-format/"><u>If You Wish to Edit FLV Videos without Any Problems, You Should Utilize a Multipurpose Video Editor that Supports the FLV File Format</u></a></li>
 </ul></div>
+
 

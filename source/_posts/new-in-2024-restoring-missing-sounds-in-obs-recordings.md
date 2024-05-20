@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Restoring Missing Sounds in OBS Recordings"
-date: 2024-05-18T00:46:15.932Z
-updated: 2024-05-19T00:46:15.932Z
+date: 2024-05-19T17:20:12.004Z
+updated: 2024-05-20T17:20:12.004Z
 tags: 
   - screen-recording
   - ai video
@@ -567,4 +567,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-samsung-galaxy-s24plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Samsung Galaxy S24+ | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/easy-ways-to-change-aspect-ratio-in-imovie/"><u>Easy Ways to Change Aspect Ratio in iMovie?</u></a></li>
 </ul></div>
+
 

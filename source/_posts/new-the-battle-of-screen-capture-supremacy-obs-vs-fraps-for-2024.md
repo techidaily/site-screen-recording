@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The Battle of Screen Capture Supremacy  OBS vs Fraps for 2024\""
-date: 2024-05-18T00:33:39.816Z
-updated: 2024-05-19T00:33:39.816Z
+date: 2024-05-19T17:19:41.801Z
+updated: 2024-05-20T17:19:41.801Z
 tags: 
   - screen-recording
   - ai video
@@ -250,4 +250,5 @@ To sum it up for you, if you have a low configuration computer, you should opt f
 <li><a href="https://smart-video-editing.techidaily.com/new-in-2024-gif-tempo-tweakers-the-best-online-and-mobile-solutions/"><u>New In 2024, GIF Tempo Tweakers The Best Online and Mobile Solutions</u></a></li>
 <li><a href="https://video-ai-editor.techidaily.com/free-divx-video-editors-with-cutting-capability-2023-list/"><u>Free Divx Video Editors with Cutting Capability (2023 List)</u></a></li>
 </ul></div>
+
 

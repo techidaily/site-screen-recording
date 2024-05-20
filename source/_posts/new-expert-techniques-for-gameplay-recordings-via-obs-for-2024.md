@@ -1,7 +1,7 @@
 ---
 title: "[New] Expert Techniques for Gameplay Recordings via OBS for 2024"
-date: 2024-05-18T00:56:52.739Z
-updated: 2024-05-19T00:56:52.739Z
+date: 2024-05-19T17:20:38.145Z
+updated: 2024-05-20T17:20:38.145Z
 tags: 
   - screen-recording
   - ai video
@@ -392,4 +392,5 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Google Pixel 8 Pro? | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-xiaomi-redmi-a2plus-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Xiaomi Redmi A2+ Lock Screen Clock in Seconds</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Quieting Unwanted Sounds  OBS Audio Issue Fixed\""
-date: 2024-05-18T00:59:43.902Z
-updated: 2024-05-19T00:59:43.902Z
+date: 2024-05-19T17:20:44.945Z
+updated: 2024-05-20T17:20:44.945Z
 tags: 
   - screen-recording
   - ai video
@@ -582,4 +582,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-ways-to-calculate-pixel-calculator-ratio/"><u>New 2024 Approved Ways to Calculate Pixel Calculator Ratio</u></a></li>
 <li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Samsung Galaxy A25 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

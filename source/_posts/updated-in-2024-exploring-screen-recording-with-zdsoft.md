@@ -554,3 +554,4 @@ The article covered the critical features of the ZD Soft recorder, the method to
 <li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-y78plus-t1-edition-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on Y78+ (T1) Edition</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Epic Martial Arts Arcade Classics Revisited"
-date: 2024-05-18T00:57:57.903Z
-updated: 2024-05-19T00:57:57.903Z
+date: 2024-05-19T17:20:40.547Z
+updated: 2024-05-20T17:20:40.547Z
 tags: 
   - screen-recording
   - ai video
@@ -274,4 +274,5 @@ Follow @Richard Bennett
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-tecno-spark-10-4g-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Tecno Spark 10 4G to Outlook | Dr.fone</u></a></li>
 <li><a href="https://audio-shaping.techidaily.com/step-by-step-guide-to-muting-background-audio-elements-in-premiere-pro/"><u>Step-by-Step Guide to Muting Background Audio Elements in Premiere Pro</u></a></li>
 </ul></div>
+
 

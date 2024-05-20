@@ -273,3 +273,4 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-xiaomi-redmi-note-12-pro-5g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Xiaomi Redmi Note 12 Pro 5G Mirror Screen to PC? | Dr.fone</u></a></li>
 </ul></div>
 
+

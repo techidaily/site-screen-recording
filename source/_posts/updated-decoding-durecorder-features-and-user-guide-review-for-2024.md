@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Decoding DuRecorder  Features and User Guide Review for 2024\""
-date: 2024-05-18T00:48:40.614Z
-updated: 2024-05-19T00:48:40.614Z
+date: 2024-05-19T17:20:18.500Z
+updated: 2024-05-20T17:20:18.500Z
 tags: 
   - screen-recording
   - ai video
@@ -579,4 +579,5 @@ The article above is very detailed and is full of information for any soul who a
 <li><a href="https://ai-video-editing.techidaily.com/updated-top-10-sony-lut-for-different-purposes/"><u>Updated Top 10 Sony LUT for Different Purposes</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/splitting-clips-in-adobe-after-effects-step-by-step/"><u>Splitting Clips in Adobe After Effects Step by Step</u></a></li>
 </ul></div>
+
 

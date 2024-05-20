@@ -235,3 +235,4 @@ If you want to record high-end games, ShadowPlay is ideal as it does not affect 
 <li><a href="https://pokemon-go-android.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Honor Magic 6 Pro? | Dr.fone</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: "Setting Up Your Gaming Studio with OBS for 2024"
-date: 2024-05-18T00:55:53.428Z
-updated: 2024-05-19T00:55:53.428Z
+date: 2024-05-19T17:20:36.105Z
+updated: 2024-05-20T17:20:36.105Z
 tags: 
   - screen-recording
   - ai video
@@ -411,4 +411,5 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://techidaily.com/best-fixes-for-samsung-galaxy-s23-tactical-edition-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Samsung Galaxy S23 Tactical Edition Hard Reset | Dr.fone</u></a></li>
 <li><a href="https://video-creation-software.techidaily.com/2024-approved-top-glitch-video-editing-software-for-windows-and-mac-free-and-paid-options/"><u>2024 Approved Top Glitch Video Editing Software for Windows and Mac Free and Paid Options</u></a></li>
 </ul></div>
+
 

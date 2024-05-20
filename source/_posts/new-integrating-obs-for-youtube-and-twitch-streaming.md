@@ -1,7 +1,7 @@
 ---
 title: "[New] Integrating OBS for YouTube & Twitch Streaming"
-date: 2024-05-18T00:55:04.272Z
-updated: 2024-05-19T00:55:04.272Z
+date: 2024-05-19T17:20:33.987Z
+updated: 2024-05-20T17:20:33.987Z
 tags: 
   - screen-recording
   - ai video
@@ -219,4 +219,5 @@ OBS is an open-source [video recorder](https://tools.techidaily.com/wondershare/
 <li><a href="https://video-ai-editor.techidaily.com/updated-free-video-splitter-software-top-rated-options-for-this-year/"><u>Updated Free Video Splitter Software Top-Rated Options for This Year</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/in-2024-modern-silence-detection-tools-are-changing-the-face-of-video-editing-use-them-to-improve-the-quality-of-your-video-clips-learn-how-these-tools-let-/"><u>In 2024, Modern Silence Detection Tools Are Changing the Face of Video Editing. Use Them to Improve the Quality of Your Video Clips. Learn How These Tools Let You Detect Silence with Pinpoint Accuracy</u></a></li>
 </ul></div>
+
 

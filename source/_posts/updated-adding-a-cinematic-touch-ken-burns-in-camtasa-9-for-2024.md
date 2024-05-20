@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Adding a Cinematic Touch  Ken Burns in Camtasa 9 for 2024\""
-date: 2024-05-18T00:39:18.724Z
-updated: 2024-05-19T00:39:18.724Z
+date: 2024-05-19T17:19:55.480Z
+updated: 2024-05-20T17:19:55.480Z
 tags: 
   - screen-recording
   - ai video
@@ -330,4 +330,5 @@ Follow @Max Wales
 <li><a href="https://smart-video-editing.techidaily.com/updated-get-windows-movie-maker-a-step-by-step-download-guide-for-2024/"><u>Updated Get Windows Movie Maker A Step-by-Step Download Guide for 2024</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-what-are-the-best-15-slideshow-presentation-examples-your-audience-will-love/"><u>Updated What Are the Best 15 Slideshow Presentation Examples Your Audience Will Love</u></a></li>
 </ul></div>
+
 

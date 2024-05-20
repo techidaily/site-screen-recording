@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Ultimate Guide to Using OBS in Android\""
-date: 2024-05-18T00:58:31.549Z
-updated: 2024-05-19T00:58:31.549Z
+date: 2024-05-19T17:20:42.209Z
+updated: 2024-05-20T17:20:42.209Z
 tags: 
   - screen-recording
   - ai video
@@ -525,4 +525,5 @@ OBS Studio is a popular application among gamers, professional trainers, and int
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-oppo-find-x6-pro-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Oppo Find X6 Pro To iPhone 15/14/13? | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Vivo Y78 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

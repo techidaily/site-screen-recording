@@ -654,3 +654,4 @@ Follow @Richard Bennett
 <li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-motorola-moto-g73-5g-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Motorola Moto G73 5G Step-by-Step Solutions | Dr.fone</u></a></li>
 </ul></div>
 
+

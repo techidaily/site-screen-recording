@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  From Game to Giga  Full PS4 Capture Using OBS\""
-date: 2024-05-18T00:50:55.458Z
-updated: 2024-05-19T00:50:55.458Z
+date: 2024-05-19T17:20:23.980Z
+updated: 2024-05-20T17:20:23.980Z
 tags: 
   - screen-recording
   - ai video
@@ -371,4 +371,5 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-top-dual-screen-video-editing-apps-for-mobile-devices/"><u>New 2024 Approved Top Dual-Screen Video Editing Apps for Mobile Devices</u></a></li>
 <li><a href="https://sound-tweaking.techidaily.com/updated-ways-to-export-audacity-to-mp3-for-2024/"><u>Updated Ways to Export Audacity to Mp3 for 2024</u></a></li>
 </ul></div>
+
 

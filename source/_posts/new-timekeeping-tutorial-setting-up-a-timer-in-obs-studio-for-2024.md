@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Timekeeping Tutorial  Setting Up a Timer in OBS Studio for 2024\""
-date: 2024-05-18T00:44:11.824Z
-updated: 2024-05-19T00:44:11.824Z
+date: 2024-05-19T17:20:07.094Z
+updated: 2024-05-20T17:20:07.094Z
 tags: 
   - screen-recording
   - ai video
@@ -290,4 +290,5 @@ OBS Studio can look intimidating at first. But once you learn the ropes, this de
 <li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-samsung-galaxy-m54-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on Samsung Galaxy M54 5G</u></a></li>
 <li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Xiaomi Redmi 13C? | Dr.fone</u></a></li>
 </ul></div>
+
 

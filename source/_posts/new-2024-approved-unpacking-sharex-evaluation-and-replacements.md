@@ -286,3 +286,4 @@ ShareX is great if you want to capture screenshots of your current screen as wel
 <li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-11-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 11 without Passcode or Face ID | Dr.fone</u></a></li>
 </ul></div>
 
+

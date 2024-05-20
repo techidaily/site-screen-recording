@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Comprehensive Guide to OBS Setup, Use, macOS Edition\""
-date: 2024-05-18T00:40:51.782Z
-updated: 2024-05-19T00:40:51.782Z
+date: 2024-05-19T17:19:59.003Z
+updated: 2024-05-20T17:19:59.003Z
 tags: 
   - screen-recording
   - ai video
@@ -356,4 +356,5 @@ Unlike OBS, which only offers a few recording options, Filmora includes all of t
 <li><a href="https://sim-unlock.techidaily.com/how-do-i-sim-unlock-my-iphone-11-pro-by-drfone-ios/"><u>How Do I SIM Unlock My iPhone 11 Pro?</u></a></li>
 <li><a href="https://voice-adjusting.techidaily.com/new-perfecting-music-syncs-with-gifs-on-a-windows-device-for-2024/"><u>New Perfecting Music Syncs with Gifs on a Windows Device for 2024</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Resolving OBS Darkness During Playbacks"
-date: 2024-05-18T00:33:38.422Z
-updated: 2024-05-19T00:33:38.422Z
+date: 2024-05-19T17:19:41.761Z
+updated: 2024-05-20T17:19:41.761Z
 tags: 
   - screen-recording
   - ai video
@@ -245,4 +245,5 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://howto.techidaily.com/bricked-your-xiaomi-redmi-note-12-pro-5g-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Xiaomi Redmi Note 12 Pro 5G? Heres A Full Solution | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-poco-x5-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Poco X5 to Other Android Devices Easily | Dr.fone</u></a></li>
 </ul></div>
+
 

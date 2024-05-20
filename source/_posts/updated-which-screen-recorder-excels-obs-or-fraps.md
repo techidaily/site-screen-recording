@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Which Screen Recorder Excels  OBS or Fraps?\""
-date: 2024-05-18T00:55:08.222Z
-updated: 2024-05-19T00:55:08.222Z
+date: 2024-05-19T17:20:34.123Z
+updated: 2024-05-20T17:20:34.123Z
 tags: 
   - screen-recording
   - ai video
@@ -261,4 +261,5 @@ To sum it up for you, if you have a low configuration computer, you should opt f
 <li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-visually-captivating-a-comprehensive-strategy-to-enthrall-listeners-with-podcast-covers/"><u>New 2024 Approved Visually Captivating A Comprehensive Strategy to Enthrall Listeners with Podcast Covers</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/2024-approved-the-best-video-editing-experience-on-windows-11-free-paid-and-everything-in-between/"><u>2024 Approved The Best Video Editing Experience on Windows 11 Free, Paid, and Everything in Between</u></a></li>
 </ul></div>
+
 

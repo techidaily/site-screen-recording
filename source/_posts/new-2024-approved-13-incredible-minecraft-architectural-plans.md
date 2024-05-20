@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  13 Incredible Minecraft Architectural Plans\""
-date: 2024-05-18T00:40:34.548Z
-updated: 2024-05-19T00:40:34.548Z
+date: 2024-05-19T17:19:58.355Z
+updated: 2024-05-20T17:19:58.355Z
 tags: 
   - screen-recording
   - ai video
@@ -330,4 +330,5 @@ Follow @Shanoon Cox
 <li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-best-8-ai-title-generators-for-creating-catchy-titles-for-all-platform/"><u>Updated 2024 Approved Best 8 AI Title Generators for Creating Catchy Titles For All Platform</u></a></li>
 <li><a href="https://audio-editing.techidaily.com/updated-in-2024-mastering-autotune-effects-a-guide-for-audacity-users/"><u>Updated In 2024, Mastering AutoTune Effects A Guide for Audacity Users</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "Resolving OBS Fullscreen Not Functional"
-date: 2024-05-18T00:45:56.219Z
-updated: 2024-05-19T00:45:56.219Z
+date: 2024-05-19T17:20:11.260Z
+updated: 2024-05-20T17:20:11.260Z
 tags: 
   - screen-recording
   - ai video
@@ -262,4 +262,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://activate-lock.techidaily.com/how-to-jailbreak-icloud-locked-iphone-7-plus-by-drfone-ios/"><u>How to jailbreak iCloud locked iPhone 7 Plus</u></a></li>
 <li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-final-cut-pro-x-the-art-of-freeze-frames-and-slow-motion-storytelling/"><u>Updated In 2024, Final Cut Pro X The Art of Freeze Frames and Slow Motion Storytelling</u></a></li>
 </ul></div>
+
 

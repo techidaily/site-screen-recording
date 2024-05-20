@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Fixing Dark Mode Issues During Recording\""
-date: 2024-05-18T00:45:09.046Z
-updated: 2024-05-19T00:45:09.046Z
+date: 2024-05-19T17:20:09.189Z
+updated: 2024-05-20T17:20:09.189Z
 tags: 
   - screen-recording
   - ai video
@@ -260,4 +260,5 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-oppo-reno-11-pro-5g-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Oppo Reno 11 Pro 5G Easily & Safely | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-samsung-galaxy-s23-fe-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Samsung Galaxy S23 FE Phone Now with These Tips</u></a></li>
 </ul></div>
+
 

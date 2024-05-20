@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  OBS vs ShadowPlay\""
-date: 2024-05-18T00:40:32.607Z
-updated: 2024-05-19T00:40:32.607Z
+date: 2024-05-19T17:19:58.279Z
+updated: 2024-05-20T17:19:58.279Z
 tags: 
   - screen-recording
   - ai video
@@ -235,4 +235,5 @@ If you want to record high-end games, ShadowPlay is ideal as it does not affect 
 <li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-contacts-from-galaxy-f34-5g-by-fonelab-android-recover-contacts/"><u>How to get back lost contacts from Galaxy F34 5G.</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/turn-any-video-into-a-paper-rip-effect-with-filmora-for-2024/"><u>Turn Any Video Into a Paper Rip Effect with Filmora for 2024</u></a></li>
 </ul></div>
+
 

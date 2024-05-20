@@ -235,3 +235,4 @@ As a content creator, you now understand how important frame rates are and how c
 <li><a href="https://smart-video-creator.techidaily.com/new-fcpx-title-tutorial-from-basics-to-advanced-techniques/"><u>New FCPX Title Tutorial From Basics to Advanced Techniques</u></a></li>
 </ul></div>
 
+

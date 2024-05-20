@@ -1,7 +1,7 @@
 ---
 title: "[New] A Comprehensive Guide to Mac Audio Recording with Audacity"
-date: 2024-05-18T00:42:16.037Z
-updated: 2024-05-19T00:42:16.037Z
+date: 2024-05-19T17:20:02.318Z
+updated: 2024-05-20T17:20:02.318Z
 tags: 
   - screen-recording
   - ai video
@@ -292,4 +292,5 @@ If you are looking for a free audio recorder on Mac, Audacity fits in perfectly.
 <li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-samsung-galaxy-s23-tactical-edition-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Samsung Galaxy S23 Tactical Edition to Other Android devices | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Oppo Find N3 Flip | Dr.fone</u></a></li>
 </ul></div>
+
 

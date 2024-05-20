@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Nine Effective Ways to Record System Audio & Mic Outputs"
-date: 2024-05-18T00:54:24.492Z
-updated: 2024-05-19T00:54:24.492Z
+date: 2024-05-19T17:20:32.519Z
+updated: 2024-05-20T17:20:32.519Z
 tags: 
   - screen-recording
   - ai video
@@ -808,4 +808,5 @@ This article highlights the various methods that can be used to record pc sound 
 <li><a href="https://ai-voice-clone.techidaily.com/new-what-is-an-ai-artist-wondershare-virbo-glossary/"><u>New What Is an AI Artist? | Wondershare Virbo Glossary</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/new-bokeh-effects-unleashed-top-ios-and-android-apps-for-photography/"><u>New Bokeh Effects Unleashed Top iOS and Android Apps for Photography</u></a></li>
 </ul></div>
+
 

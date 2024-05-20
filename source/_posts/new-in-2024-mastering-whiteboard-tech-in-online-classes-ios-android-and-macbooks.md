@@ -551,3 +551,4 @@ Follow @Richard Bennett
 <li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-samsung-galaxy-xcover-7-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Samsung Galaxy XCover 7 Without Power Button | Dr.fone</u></a></li>
 </ul></div>
 
+

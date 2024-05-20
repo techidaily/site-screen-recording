@@ -1023,3 +1023,4 @@ If you are not satisfied with OBS Studio due to its complicated user interface, 
 <li><a href="https://smart-video-creator.techidaily.com/new-easily-edit-avi-files-on-your-windows-8-pc-a-beginners-guide/"><u>New Easily Edit AVI Files on Your Windows 8 PC A Beginners Guide</u></a></li>
 </ul></div>
 
+

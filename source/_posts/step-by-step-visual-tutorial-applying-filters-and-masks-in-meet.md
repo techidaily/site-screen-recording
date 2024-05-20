@@ -1,7 +1,7 @@
 ---
 title: "\"Step-by-Step Visual Tutorial  Applying Filters & Masks in Meet\""
-date: 2024-05-18T00:43:47.334Z
-updated: 2024-05-19T00:43:47.334Z
+date: 2024-05-19T17:20:06.153Z
+updated: 2024-05-20T17:20:06.153Z
 tags: 
   - screen-recording
   - ai video
@@ -582,4 +582,5 @@ Follow @Richard Bennett
 <li><a href="https://ai-video-tools.techidaily.com/new-top-10plus-websites-to-download-games-for-2024/"><u>New Top 10+ Websites to Download Games for 2024</u></a></li>
 <li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-kapwing-online-editor-trim-and-refine-your-videos-in-minutes/"><u>New 2024 Approved Kapwing Online Editor Trim and Refine Your Videos in Minutes</u></a></li>
 </ul></div>
+
 

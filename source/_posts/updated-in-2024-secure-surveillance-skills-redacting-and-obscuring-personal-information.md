@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Secure Surveillance Skills  Redacting and Obscuring Personal Information\""
-date: 2024-05-18T00:33:08.530Z
-updated: 2024-05-19T00:33:08.530Z
+date: 2024-05-19T17:19:40.692Z
+updated: 2024-05-20T17:19:40.692Z
 tags: 
   - screen-recording
   - ai video
@@ -506,4 +506,5 @@ Follow @Max Wales
 <li><a href="https://audio-editing.techidaily.com/new-in-2024-navigating-the-nuances-of-audio-graphics-plotting-waveform-data-and-infusing-videos-with-life-like-animations-using-premiere-pro/"><u>New In 2024, Navigating the Nuances of Audio Graphics Plotting Waveform Data & Infusing Videos with Life-Like Animations Using Premiere Pro</u></a></li>
 <li><a href="https://audio-shaping.techidaily.com/mastering-the-art-of-implementing-audio-decline-techniques-for-2024/"><u>Mastering the Art of Implementing Audio Decline Techniques for 2024</u></a></li>
 </ul></div>
+
 

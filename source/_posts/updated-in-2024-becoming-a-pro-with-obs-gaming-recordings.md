@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Becoming a Pro with OBS Gaming Recordings"
-date: 2024-05-18T00:46:37.371Z
-updated: 2024-05-19T00:46:37.371Z
+date: 2024-05-19T17:20:12.817Z
+updated: 2024-05-20T17:20:12.817Z
 tags: 
   - screen-recording
   - ai video
@@ -419,4 +419,5 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-create-chroma-key-written-text-effects-in-filmora/"><u>Updated In 2024, Create Chroma Key Written Text Effects in Filmora</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-samsung-galaxy-xcover-7-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Samsung Galaxy XCover 7 Without PUK Codes</u></a></li>
 </ul></div>
+
 

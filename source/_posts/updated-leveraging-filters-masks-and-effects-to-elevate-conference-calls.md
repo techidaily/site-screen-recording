@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Leveraging Filters, Masks & Effects to Elevate Conference Calls"
-date: 2024-05-18T00:38:43.546Z
-updated: 2024-05-19T00:38:43.546Z
+date: 2024-05-19T17:19:54.157Z
+updated: 2024-05-20T17:19:54.157Z
 tags: 
   - screen-recording
   - ai video
@@ -580,4 +580,5 @@ Follow @Richard Bennett
 <li><a href="https://blog-min.techidaily.com/how-to-fix-videos-not-playing-on-huawei-nova-11-pro-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix Videos Not Playing on Huawei Nova 11 Pro?</u></a></li>
 <li><a href="https://change-location.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Vivo X Fold 2? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Obs Full Screen Troubles  Now Under Control for 2024\""
-date: 2024-05-18T00:57:53.417Z
-updated: 2024-05-19T00:57:53.417Z
+date: 2024-05-19T17:20:40.371Z
+updated: 2024-05-20T17:20:40.371Z
 tags: 
   - screen-recording
   - ai video
@@ -254,4 +254,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-wax-video-editing-software-tips-tricks-and-tutorials/"><u>New 2024 Approved Wax Video Editing Software Tips, Tricks, and Tutorials</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-realme-narzo-n55-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Realme Narzo N55 Screen | Dr.fone</u></a></li>
 </ul></div>
+
 

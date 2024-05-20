@@ -1,7 +1,7 @@
 ---
 title: "[New] Correcting Muted Voice in OBS Broadcasts for 2024"
-date: 2024-05-18T00:33:50.363Z
-updated: 2024-05-19T00:33:50.363Z
+date: 2024-05-19T17:19:42.123Z
+updated: 2024-05-20T17:19:42.123Z
 tags: 
   - screen-recording
   - ai video
@@ -539,4 +539,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-oneplus-11r-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your OnePlus 11R | Dr.fone</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/1714045194400-edit-videos-on-android-without-watermarks-top-10-free-apps/"><u>Edit Videos on Android without Watermarks Top 10 Free Apps</u></a></li>
 </ul></div>
+
 

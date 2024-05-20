@@ -267,3 +267,4 @@ We have stated all the different ways to record the screen of your Dell laptop. 
 <li><a href="https://techidaily.com/how-to-reset-vivo-y200e-5g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Vivo Y200e 5G Without the Home Button | Dr.fone</u></a></li>
 </ul></div>
 
+

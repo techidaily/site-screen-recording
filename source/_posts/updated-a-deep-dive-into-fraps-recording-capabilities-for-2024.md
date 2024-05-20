@@ -371,3 +371,4 @@ If you're already using Fraps for benchmarking or simply keeping track of framer
 <li><a href="https://ai-video-tools.techidaily.com/new-the-art-of-slow-motion-how-to-create-stunning-videos-on-kapwing-for-2024/"><u>New The Art of Slow Motion How to Create Stunning Videos on Kapwing for 2024</u></a></li>
 </ul></div>
 
+

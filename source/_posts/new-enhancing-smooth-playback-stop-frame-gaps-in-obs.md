@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Enhancing Smooth Playback  Stop Frame Gaps in OBS\""
-date: 2024-05-18T00:56:01.815Z
-updated: 2024-05-19T00:56:01.815Z
+date: 2024-05-19T17:20:36.306Z
+updated: 2024-05-20T17:20:36.306Z
 tags: 
   - screen-recording
   - ai video
@@ -580,4 +580,5 @@ OBS drop frame is probably the most common issue reported by OBS users. Whenever
 <li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-configure-your-computer-for-seamless-premiere-pro-performance/"><u>Updated 2024 Approved Configure Your Computer for Seamless Premiere Pro Performance</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/how-to-make-the-most-of-your-iphone-15-plus-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>How to Make the Most of Your iPhone 15 Plus Lock Screen with Notifications? | Dr.fone</u></a></li>
 </ul></div>
+
 

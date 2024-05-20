@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Remedy for Audio Pause in OBS Streams"
-date: 2024-05-18T00:51:06.675Z
-updated: 2024-05-19T00:51:06.675Z
+date: 2024-05-19T17:20:24.455Z
+updated: 2024-05-20T17:20:24.455Z
 tags: 
   - screen-recording
   - ai video
@@ -591,4 +591,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://audio-editing.techidaily.com/new-in-2024-top-online-and-offline-mp3-to-karaoke-converters-compared/"><u>New In 2024, Top Online And Offline MP3 To Karaoke Converters Compared</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/realme-11-5g-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Realme 11 5G Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
 </ul></div>
+
 

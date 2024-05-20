@@ -1,7 +1,7 @@
 ---
 title: "\"Eliminating Noise  Fixing Silent Sounds in OBS Streams\""
-date: 2024-05-18T00:48:46.470Z
-updated: 2024-05-19T00:48:46.470Z
+date: 2024-05-19T17:20:18.741Z
+updated: 2024-05-20T17:20:18.741Z
 tags: 
   - screen-recording
   - ai video
@@ -593,4 +593,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://audio-shaping.techidaily.com/updated-the-leading-pc-audio-recorders-a-list-of-10-hits-for-2024/"><u>Updated The Leading PC Audio Recorders A List of 10 Hits for 2024</u></a></li>
 <li><a href="https://smart-video-editing.techidaily.com/new-in-2024-best-timecode-conversion-tools-for-filmmaker/"><u>New In 2024, Best Timecode Conversion Tools for Filmmaker</u></a></li>
 </ul></div>
+
 

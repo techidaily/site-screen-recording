@@ -1028,3 +1028,4 @@ If you are not satisfied with OBS Studio due to its complicated user interface, 
 <li><a href="https://ai-vdieo-software.techidaily.com/determining-screen-resolution-a-step-by-step-guide/"><u>Determining Screen Resolution A Step-by-Step Guide</u></a></li>
 </ul></div>
 
+

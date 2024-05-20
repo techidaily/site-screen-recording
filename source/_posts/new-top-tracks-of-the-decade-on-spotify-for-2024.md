@@ -1,7 +1,7 @@
 ---
 title: "[New] Top Tracks of the Decade on Spotify for 2024"
-date: 2024-05-18T00:43:44.003Z
-updated: 2024-05-19T00:43:44.003Z
+date: 2024-05-19T17:20:05.728Z
+updated: 2024-05-20T17:20:05.728Z
 tags: 
   - screen-recording
   - ai video
@@ -1042,4 +1042,5 @@ There is no option available to record a stream on Spotify. If you are a premium
 <li><a href="https://voice-adjusting.techidaily.com/updated-how-to-remove-audio-from-avi/"><u>Updated How to Remove Audio From AVI</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-huawei-nova-y91-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Huawei Nova Y91? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -382,3 +382,4 @@ Follow @Max Wales
 <li><a href="https://ai-video-editing.techidaily.com/new-learn-eight-simple-steps-that-will-allow-you-to-create-a-stunning-text-reveal-animation-in-filmora-simple-yet-very-professional/"><u>New Learn Eight Simple Steps that Will Allow You to Create a Stunning Text Reveal Animation in Filmora. Simple yet Very Professional</u></a></li>
 </ul></div>
 
+

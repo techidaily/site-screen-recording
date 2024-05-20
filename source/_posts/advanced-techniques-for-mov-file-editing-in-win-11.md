@@ -713,3 +713,4 @@ You can record MOV file on Windows as well as Mac when you have the recorder tha
 <li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-motorola-defy-2-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Motorola Defy 2 Phone</u></a></li>
 </ul></div>
 
+

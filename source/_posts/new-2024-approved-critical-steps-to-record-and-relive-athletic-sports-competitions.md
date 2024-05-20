@@ -467,3 +467,4 @@ Video catch can help you create a little sense of the chaos you might feel, espe
 <li><a href="https://smart-video-creator.techidaily.com/new-fcpx-image-editing-a-beginners-guide-to-cropping/"><u>New FCPX Image Editing A Beginners Guide to Cropping</u></a></li>
 </ul></div>
 
+

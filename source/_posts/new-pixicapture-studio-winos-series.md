@@ -1,7 +1,7 @@
 ---
 title: "[New] PixiCapture Studio WinOS Series"
-date: 2024-05-18T00:54:37.911Z
-updated: 2024-05-19T00:54:37.911Z
+date: 2024-05-19T17:20:33.045Z
+updated: 2024-05-20T17:20:33.045Z
 tags: 
   - screen-recording
   - ai video
@@ -558,4 +558,5 @@ If you are confused if you should install Screen Recorder Pro to record your scr
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-iphone-6s-plus-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on iPhone 6s Plus</u></a></li>
 <li><a href="https://video-creation-software.techidaily.com/in-2024-streamline-your-video-library-top-mac-metadata-editing-tools/"><u>In 2024, Streamline Your Video Library Top Mac Metadata Editing Tools</u></a></li>
 </ul></div>
+
 

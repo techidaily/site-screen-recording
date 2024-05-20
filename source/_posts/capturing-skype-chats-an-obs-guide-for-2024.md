@@ -1,7 +1,7 @@
 ---
 title: "\"Capturing Skype Chats  An OBS Guide for 2024\""
-date: 2024-05-18T00:46:44.902Z
-updated: 2024-05-19T00:46:44.902Z
+date: 2024-05-19T17:20:13.103Z
+updated: 2024-05-20T17:20:13.103Z
 tags: 
   - screen-recording
   - ai video
@@ -332,4 +332,5 @@ So form the above discussion it can be concluded that OBS for screen recording c
 <li><a href="https://video-creation-software.techidaily.com/new-dont-miss-out-4-best-ways-to-get-filmora-discount-codes-and-offers-for-2024/"><u>New Dont Miss Out! 4 Best Ways to Get Filmora Discount Codes and Offers for 2024</u></a></li>
 <li><a href="https://sound-tweaking.techidaily.com/updated-become-an-mp3-aficionado-expert-techniques-for-audio-editing-perfection-for-2024/"><u>Updated Become an MP3 Aficionado Expert Techniques for Audio Editing Perfection for 2024</u></a></li>
 </ul></div>
+
 

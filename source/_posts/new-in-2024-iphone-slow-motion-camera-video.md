@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, IPhone Slow-Motion Camera Video\""
-date: 2024-05-18T00:55:43.635Z
-updated: 2024-05-19T00:55:43.635Z
+date: 2024-05-19T17:20:35.483Z
+updated: 2024-05-20T17:20:35.483Z
 tags: 
   - screen-recording
   - ai video
@@ -532,4 +532,5 @@ iPhone offers various easy-to-use and creative tools and apps for producing inno
 <li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-vivo-y100i-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Vivo Y100i for Free? | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-how-to-create-emoji-on-mac-that-take-less-than-10-mins/"><u>Updated How to Create Emoji on Mac That Take Less Than 10 Mins</u></a></li>
 </ul></div>
+
 

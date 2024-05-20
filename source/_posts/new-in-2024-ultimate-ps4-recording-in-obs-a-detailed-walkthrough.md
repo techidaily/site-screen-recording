@@ -357,3 +357,4 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://audio-editing.techidaily.com/perfecting-your-macs-audio-capabilities-5-must-know-techniques-to-record-high-quality-sounds/"><u>Perfecting Your Macs Audio Capabilities 5 Must-Know Techniques to Record High-Quality Sounds</u></a></li>
 </ul></div>
 
+

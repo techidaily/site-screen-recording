@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, From Gameplay to Video  Full Guide on PS4 with OBS\""
-date: 2024-05-18T00:32:43.195Z
-updated: 2024-05-19T00:32:43.195Z
+date: 2024-05-19T17:19:39.724Z
+updated: 2024-05-20T17:19:39.724Z
 tags: 
   - screen-recording
   - ai video
@@ -364,4 +364,5 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://audio-editing.techidaily.com/updated-in-2024-top-10-tools-for-clearing-up-clutter-in-audio-files-a-comprehensive-guide/"><u>Updated In 2024, Top 10 Tools for Clearing Up Clutter in Audio Files A Comprehensive Guide</u></a></li>
 <li><a href="https://techidaily.com/how-to-repair-apple-iphone-12-ios-system-issues-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 12 iOS System Issues? | Dr.fone</u></a></li>
 </ul></div>
+
 

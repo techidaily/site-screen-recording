@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Live on Air  How to Broadcast on YouTube & Twitch Using OBS\""
-date: 2024-05-18T00:55:04.556Z
-updated: 2024-05-19T00:55:04.556Z
+date: 2024-05-19T17:20:33.998Z
+updated: 2024-05-20T17:20:33.998Z
 tags: 
   - screen-recording
   - ai video
@@ -165,4 +165,5 @@ OBS is an open-source [video recorder](https://tools.techidaily.com/wondershare/
 <li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-oppo-a79-5g-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Oppo A79 5G FRP</u></a></li>
 <li><a href="https://techidaily.com/hard-resetting-an-vivo-x90s-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Vivo X90S Device Made Easy | Dr.fone</u></a></li>
 </ul></div>
+
 

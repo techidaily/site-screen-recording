@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, 5 Must-Know Fixes to Avoid Darkness on Game Capture by OBS\""
-date: 2024-05-18T00:48:52.880Z
-updated: 2024-05-19T00:48:52.880Z
+date: 2024-05-19T17:20:19.057Z
+updated: 2024-05-20T17:20:19.057Z
 tags: 
   - screen-recording
   - ai video
@@ -292,4 +292,5 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://audio-editing.techidaily.com/new-mute-audio-and-add-new-sound-in-windows-movie-maker/"><u>New Mute Audio and Add New Sound in Windows Movie Maker</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-c51-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Realme C51 Phone with Broken Screen</u></a></li>
 </ul></div>
+
 

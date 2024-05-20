@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Fixing Inactive OBS Video Inputs\""
-date: 2024-05-18T00:48:55.405Z
-updated: 2024-05-19T00:48:55.405Z
+date: 2024-05-19T17:20:19.128Z
+updated: 2024-05-20T17:20:19.128Z
 tags: 
   - screen-recording
   - ai video
@@ -251,4 +251,5 @@ OBS Studio is especially popular in the gaming community since it helps you crea
 <li><a href="https://blog-min.techidaily.com/how-to-recover-data-from-dead-iphone-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to recover data from dead iPhone | Stellar</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-tecno-spark-20c-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Tecno Spark 20C to Laptop Without USB | Dr.fone</u></a></li>
 </ul></div>
+
 

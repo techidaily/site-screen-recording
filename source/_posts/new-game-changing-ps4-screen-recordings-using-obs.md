@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Game-Changing PS4 Screen Recordings Using OBS\""
-date: 2024-05-18T00:46:09.537Z
-updated: 2024-05-19T00:46:09.537Z
+date: 2024-05-19T17:20:11.767Z
+updated: 2024-05-20T17:20:11.767Z
 tags: 
   - screen-recording
   - ai video
@@ -381,4 +381,5 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://voice-adjusting.techidaily.com/2024-approved-master-windows-audio-arranger-pro/"><u>2024 Approved Master Windows Audio Arranger Pro</u></a></li>
 <li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-samsung-galaxy-m34-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Samsung Galaxy M34 | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"Digital Filmmaking  Implementing Callout Lines in Edits\""
-date: 2024-05-18T00:36:18.482Z
-updated: 2024-05-19T00:36:18.482Z
+date: 2024-05-19T17:19:48.372Z
+updated: 2024-05-20T17:19:48.372Z
 tags: 
   - screen-recording
   - ai video
@@ -499,4 +499,5 @@ Follow @Max Wales
 <li><a href="https://techidaily.com/how-to-reset-a-poco-x6-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Poco X6 Phone That Is Locked | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/how-to-reset-a-locked-zte-axon-40-lite-phone-by-drfone-android/"><u>How to Reset a Locked ZTE Axon 40 Lite Phone</u></a></li>
 </ul></div>
+
 

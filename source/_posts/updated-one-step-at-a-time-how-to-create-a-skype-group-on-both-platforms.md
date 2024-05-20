@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] One Step at a Time  How to Create a Skype Group on Both Platforms\""
-date: 2024-05-18T00:55:05.402Z
-updated: 2024-05-19T00:55:05.402Z
+date: 2024-05-19T17:20:34.025Z
+updated: 2024-05-20T17:20:34.025Z
 tags: 
   - screen-recording
   - ai video
@@ -730,4 +730,5 @@ Follow @Richard Bennett
 <li><a href="https://ios-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-apple-iphone-se-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for Apple iPhone SE</u></a></li>
 <li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-samsung-galaxy-m14-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Samsung Galaxy M14 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

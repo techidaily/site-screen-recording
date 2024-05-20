@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Skype Screencasting with OBS for 2024"
-date: 2024-05-18T00:47:22.795Z
-updated: 2024-05-19T00:47:22.795Z
+date: 2024-05-19T17:20:15.368Z
+updated: 2024-05-20T17:20:15.368Z
 tags: 
   - screen-recording
   - ai video
@@ -348,4 +348,5 @@ So form the above discussion it can be concluded that OBS for screen recording c
 <li><a href="https://video-ai-editor.techidaily.com/in-2024-home-movie-magic-proven-video-editing-techniques-to-wow-your-audience/"><u>In 2024, Home Movie Magic Proven Video Editing Techniques to Wow Your Audience</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/2024-approved-vintage-film-effect-1990s-how-to-make/"><u>2024 Approved Vintage Film Effect 1990S - How to Make</u></a></li>
 </ul></div>
+
 

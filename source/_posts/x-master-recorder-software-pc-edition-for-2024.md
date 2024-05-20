@@ -421,3 +421,4 @@ This is an amazing app as it does everything that you want it to and more. Altho
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-lava-yuva-2-pro-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Lava Yuva 2 Pro to Samsung Phone | Dr.fone</u></a></li>
 </ul></div>
 
+

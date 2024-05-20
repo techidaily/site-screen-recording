@@ -1,7 +1,7 @@
 ---
 title: "[New] MiniCam Project Scrutiny Overview"
-date: 2024-05-18T00:36:21.552Z
-updated: 2024-05-19T00:36:21.552Z
+date: 2024-05-19T17:19:48.499Z
+updated: 2024-05-20T17:19:48.499Z
 tags: 
   - screen-recording
   - ai video
@@ -515,4 +515,5 @@ TinyTake is not difficult to utilize screen catch and recorder, which you can us
 <li><a href="https://techidaily.com/hard-resetting-an-xiaomi-redmi-note-12-4g-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Xiaomi Redmi Note 12 4G Device Made Easy | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
 </ul></div>
+
 

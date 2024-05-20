@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Top Tracks of the Decade on Spotify for 2024"
-date: 2024-05-18T00:48:58.486Z
-updated: 2024-05-19T00:48:58.486Z
+date: 2024-05-19T17:20:19.230Z
+updated: 2024-05-20T17:20:19.230Z
 tags: 
   - screen-recording
   - ai video
@@ -1078,4 +1078,5 @@ There is no option available to record a stream on Spotify. If you are a premium
 <li><a href="https://audio-editing.techidaily.com/new-in-2024-top-10-windowsmaclinux-friendly-audio-editors-that-match-audacitys-capabilities/"><u>New In 2024, Top 10 Windows/Mac/Linux-Friendly Audio Editors That Match Audacitys Capabilities</u></a></li>
 <li><a href="https://smart-video-editing.techidaily.com/new-facebook-video-cover-best-practices-size-resolution-and-more-for-2024/"><u>New Facebook Video Cover Best Practices Size, Resolution, and More for 2024</u></a></li>
 </ul></div>
+
 

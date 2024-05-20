@@ -413,3 +413,4 @@ Apple has now disabled the function of capturing internal and desktop sound in a
 <li><a href="https://phone-solutions.techidaily.com/factory-reset-on-iphone-12-mini-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset on iPhone 12 mini | Dr.fone</u></a></li>
 </ul></div>
 
+

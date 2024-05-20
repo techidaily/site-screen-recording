@@ -412,3 +412,4 @@ Apple has now disabled the function of capturing internal and desktop sound in a
 <li><a href="https://ai-vdieo-software.techidaily.com/the-latest-social-media-aspect-ratio-trends-and-best-practices/"><u>The Latest Social Media Aspect Ratio Trends and Best Practices</u></a></li>
 </ul></div>
 
+

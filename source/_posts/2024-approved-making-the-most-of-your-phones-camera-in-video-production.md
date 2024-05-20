@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Making the Most of Your Phone's Camera in Video Production\""
-date: 2024-05-18T00:36:49.167Z
-updated: 2024-05-19T00:36:49.167Z
+date: 2024-05-19T17:19:49.505Z
+updated: 2024-05-20T17:19:49.505Z
 tags: 
   - screen-recording
   - ai video
@@ -606,4 +606,5 @@ Follow @Max Wales
 <li><a href="https://ai-video-apps.techidaily.com/2024-approved-stop-motion-on-demand-cloud-based-software-for-animators/"><u>2024 Approved Stop Motion on Demand Cloud-Based Software for Animators</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/new-create-stunning-animated-videos-with-these-12-online-makers/"><u>New Create Stunning Animated Videos with These 12 Online Makers</u></a></li>
 </ul></div>
+
 

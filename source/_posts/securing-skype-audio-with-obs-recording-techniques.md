@@ -1,7 +1,7 @@
 ---
 title: "Securing Skype Audio with OBS Recording Techniques"
-date: 2024-05-18T00:45:24.364Z
-updated: 2024-05-19T00:45:24.364Z
+date: 2024-05-19T17:20:09.731Z
+updated: 2024-05-20T17:20:09.731Z
 tags: 
   - screen-recording
   - ai video
@@ -367,4 +367,5 @@ So form the above discussion it can be concluded that OBS for screen recording c
 <li><a href="https://audio-shaping.techidaily.com/updated-capturing-your-computers-sounds-a-guide-to-using-audacity-for-2024/"><u>Updated Capturing Your Computers Sounds A Guide to Using Audacity for 2024</u></a></li>
 <li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>What are Location Permissions Life360 On Apple iPhone 6 Plus? | Dr.fone</u></a></li>
 </ul></div>
+
 

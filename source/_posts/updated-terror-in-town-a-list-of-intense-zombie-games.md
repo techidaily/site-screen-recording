@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Terror in Town  A List of Intense Zombie Games\""
-date: 2024-05-18T00:36:23.505Z
-updated: 2024-05-19T00:36:23.505Z
+date: 2024-05-19T17:19:48.577Z
+updated: 2024-05-20T17:19:48.577Z
 tags: 
   - screen-recording
   - ai video
@@ -344,4 +344,5 @@ Get started today with Filmora's powerful performance, user-friendly interface, 
 <li><a href="https://ai-editing-video.techidaily.com/updated-do-you-wish-to-make-changes-across-your-video-are-you-looking-to-record-your-desktop-screen-on-mac-worry-not-as-this-article-provides-details-about-/"><u>Updated Do You Wish to Make Changes Across Your Video? Are You Looking to Record Your Desktop Screen on Mac? Worry Not, as This Article Provides Details About QuickTime Player that Caters to All User Requirements</u></a></li>
 <li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-sonic-symphony-compendium-a-thorough-exploration-of-premiere-audio-editing-software-highlighting-advantages-and-shortcomings/"><u>Updated In 2024, Sonic Symphony Compendium A Thorough Exploration of Premiere Audio Editing Software, Highlighting Advantages & Shortcomings</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] The Way of the Warrior  Game Lineup Mirroring Ghost of Tsushima for 2024\""
-date: 2024-05-18T00:36:15.688Z
-updated: 2024-05-19T00:36:15.688Z
+date: 2024-05-19T17:19:48.266Z
+updated: 2024-05-20T17:19:48.266Z
 tags: 
   - screen-recording
   - ai video
@@ -596,4 +596,5 @@ Follow @Ollie Mattison
 <li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-samsung-galaxy-f14-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP from Samsung Galaxy F14 5G?</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-videos-and-music-files-from-iphone-12-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Photos, Videos & Music Files from iPhone 12 | Stellar</u></a></li>
 </ul></div>
+
 

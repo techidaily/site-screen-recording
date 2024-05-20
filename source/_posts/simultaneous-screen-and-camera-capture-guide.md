@@ -1,7 +1,7 @@
 ---
 title: "Simultaneous Screen & Camera Capture Guide"
-date: 2024-05-18T00:44:01.497Z
-updated: 2024-05-19T00:44:01.497Z
+date: 2024-05-19T17:20:06.712Z
+updated: 2024-05-20T17:20:06.712Z
 tags: 
   - screen-recording
   - ai video
@@ -361,4 +361,5 @@ Follow @Max Wales
 <li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-realme-11x-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Realme 11X 5G</u></a></li>
 </ul></div>
+
 

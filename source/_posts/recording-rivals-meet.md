@@ -471,3 +471,4 @@ To sum it up for you, OBS is completely free while Bandicam is a premium softwar
 <li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-poco-x6-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Poco X6 | Dr.fone</u></a></li>
 </ul></div>
 
+

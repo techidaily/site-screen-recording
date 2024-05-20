@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Live Gaming Shows  Set Up with OBS\""
-date: 2024-05-18T00:37:14.660Z
-updated: 2024-05-19T00:37:14.660Z
+date: 2024-05-19T17:19:50.417Z
+updated: 2024-05-20T17:19:50.417Z
 tags: 
   - screen-recording
   - ai video
@@ -387,4 +387,5 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://easy-unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-realme-narzo-60-pro-5g-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Realme Narzo 60 Pro 5G</u></a></li>
 <li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Lenovo ThinkPhone | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "Into the World of Fraps Screenshots"
-date: 2024-05-18T00:37:28.342Z
-updated: 2024-05-19T00:37:28.342Z
+date: 2024-05-19T17:19:50.962Z
+updated: 2024-05-20T17:19:50.962Z
 tags: 
   - screen-recording
   - ai video
@@ -354,4 +354,5 @@ If you're already using Fraps for benchmarking or simply keeping track of framer
 <li><a href="https://ai-video-tools.techidaily.com/updated-top-motion-detection-apps-for-mobile-devices/"><u>Updated Top Motion Detection Apps for Mobile Devices</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-iphone-12-mini-drfone-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For iPhone 12 mini | Dr.fone</u></a></li>
 </ul></div>
+
 

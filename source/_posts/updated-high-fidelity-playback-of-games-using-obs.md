@@ -1,7 +1,7 @@
 ---
 title: "[Updated] High Fidelity Playback of Games Using OBS"
-date: 2024-05-18T00:34:13.845Z
-updated: 2024-05-19T00:34:13.845Z
+date: 2024-05-19T17:19:43.342Z
+updated: 2024-05-20T17:19:43.342Z
 tags: 
   - screen-recording
   - ai video
@@ -407,4 +407,5 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Realme 10T 5G? | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/top-apps-and-online-tools-to-track-samsung-galaxy-a24-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Samsung Galaxy A24 Phone With/Without IMEI Number</u></a></li>
 </ul></div>
+
 

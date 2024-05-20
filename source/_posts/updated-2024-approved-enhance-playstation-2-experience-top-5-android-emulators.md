@@ -543,3 +543,4 @@ For macOS 10.12 or later
 <li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-12-pro-max-to-other-iphone-12-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 12 Pro Max to other iPhone 12 Pro devices? | Dr.fone</u></a></li>
 </ul></div>
 
+

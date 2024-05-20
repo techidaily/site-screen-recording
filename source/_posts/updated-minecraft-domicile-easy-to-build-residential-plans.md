@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Minecraft Domicile  Easy-To-Build Residential Plans\""
-date: 2024-05-18T00:56:05.724Z
-updated: 2024-05-19T00:56:05.724Z
+date: 2024-05-19T17:20:36.462Z
+updated: 2024-05-20T17:20:36.462Z
 tags: 
   - screen-recording
   - ai video
@@ -359,4 +359,5 @@ Follow @Shanoon Cox
 <li><a href="https://ai-video-apps.techidaily.com/new-from-fast-to-furious-top-10-slow-motion-video-editing-solutions-for-2024/"><u>New From Fast to Furious Top 10 Slow Motion Video Editing Solutions for 2024</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-infinix-smart-8-plus-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Infinix Smart 8 Plus FRP</u></a></li>
 </ul></div>
+
 

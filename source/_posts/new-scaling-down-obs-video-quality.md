@@ -1,7 +1,7 @@
 ---
 title: "[New] Scaling Down OBS Video Quality"
-date: 2024-05-18T00:49:04.631Z
-updated: 2024-05-19T00:49:04.631Z
+date: 2024-05-19T17:20:19.476Z
+updated: 2024-05-20T17:20:19.476Z
 tags: 
   - screen-recording
   - ai video
@@ -259,4 +259,5 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 <li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-samsung-galaxy-f15-5g-device-sim-by-drfone-android/"><u>Easily Unlock Your Samsung Galaxy F15 5G Device SIM</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-tecno-camon-20-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Tecno Camon 20 Phones with/without a PC</u></a></li>
 </ul></div>
+
 

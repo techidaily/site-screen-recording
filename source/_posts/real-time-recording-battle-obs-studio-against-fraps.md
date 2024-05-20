@@ -1,7 +1,7 @@
 ---
 title: "\"Real-Time Recording Battle  OBS Studio Against Fraps\""
-date: 2024-05-18T00:51:30.119Z
-updated: 2024-05-19T00:51:30.119Z
+date: 2024-05-19T17:20:25.355Z
+updated: 2024-05-20T17:20:25.355Z
 tags: 
   - screen-recording
   - ai video
@@ -246,4 +246,5 @@ To sum it up for you, if you have a low configuration computer, you should opt f
 <li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-vivo-s17-pro-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Vivo S17 Pro? Here Is the Answer | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-vivo-y02t-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Vivo Y02T with and without jailbreak | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Recording Your Games in HD  PS4 & OBS Studio Guide\""
-date: 2024-05-18T00:32:34.658Z
-updated: 2024-05-19T00:32:34.658Z
+date: 2024-05-19T17:19:39.356Z
+updated: 2024-05-20T17:19:39.356Z
 tags: 
   - screen-recording
   - ai video
@@ -390,4 +390,5 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-fixes-to-solve-apple-iphone-se-2022-randomly-asking-for-apple-id-password-drfone-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve Apple iPhone SE (2022) Randomly Asking for Apple ID Password | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/still-using-pattern-locks-with-samsung-galaxy-m54-5g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Samsung Galaxy M54 5G? Tips, Tricks and Helpful Advice</u></a></li>
 </ul></div>
+
 

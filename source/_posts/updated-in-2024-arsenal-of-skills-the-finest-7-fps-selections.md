@@ -485,3 +485,4 @@ For macOS 10.12 or later
 <li><a href="https://activate-lock.techidaily.com/how-to-factory-reset-ipad-or-iphone-6s-without-icloud-password-or-apple-id-by-drfone-ios/"><u>How to Factory Reset iPad or iPhone 6s without iCloud Password or Apple ID?</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering Ease In/Ease Out Techniques in Camtasa 9\""
-date: 2024-05-18T00:53:25.571Z
-updated: 2024-05-19T00:53:25.571Z
+date: 2024-05-19T17:20:30.009Z
+updated: 2024-05-20T17:20:30.009Z
 tags: 
   - screen-recording
   - ai video
@@ -352,4 +352,5 @@ Follow @Max Wales
 <li><a href="https://voice-adjusting.techidaily.com/updated-enhance-visual-storytelling-techniques-for-seamless-audio-integration-in-adobe-after-effects-for-2024/"><u>Updated Enhance Visual Storytelling Techniques for Seamless Audio Integration in Adobe After Effects for 2024</u></a></li>
 <li><a href="https://audio-shaping.techidaily.com/starting-out-in-audio-visual-filmmaking-on-a-budget-for-2024/"><u>Starting Out in Audio-Visual Filmmaking on a Budget for 2024</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "Reinstating Lost Sound Output in OBS Recordings"
-date: 2024-05-18T00:48:46.749Z
-updated: 2024-05-19T00:48:46.749Z
+date: 2024-05-19T17:20:18.751Z
+updated: 2024-05-20T17:20:18.751Z
 tags: 
   - screen-recording
   - ai video
@@ -546,4 +546,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://easy-unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-realme-c67-5g-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Realme C67 5G</u></a></li>
 <li><a href="https://sound-optimizing.techidaily.com/ways-to-disengage-music-elements-from-multimedia-projects/"><u>Ways to Disengage Music Elements From Multimedia Projects</u></a></li>
 </ul></div>
+
 

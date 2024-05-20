@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  How to Fix OBS Camera Not Working\""
-date: 2024-05-18T00:32:23.083Z
-updated: 2024-05-19T00:32:23.083Z
+date: 2024-05-19T17:19:38.963Z
+updated: 2024-05-20T17:19:38.963Z
 tags: 
   - screen-recording
   - ai video
@@ -265,4 +265,5 @@ OBS Studio is especially popular in the gaming community since it helps you crea
 <li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-samsung-galaxy-m54-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Samsung Galaxy M54 5G Devices | Dr.fone</u></a></li>
 <li><a href="https://ai-video-tools.techidaily.com/updated-final-cut-pros-finest-10-iconic-films-for-2024/"><u>Updated Final Cut Pros Finest 10 Iconic Films for 2024</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Ken Burns Method in Camtasia 9 Explained Simply\""
-date: 2024-05-18T00:37:47.629Z
-updated: 2024-05-19T00:37:47.629Z
+date: 2024-05-19T17:19:51.660Z
+updated: 2024-05-20T17:19:51.660Z
 tags: 
   - screen-recording
   - ai video
@@ -332,4 +332,5 @@ Follow @Max Wales
 <li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-poco-m6-pro-4g-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Poco M6 Pro 4G to Enjoy More Fun | Dr.fone</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-movie-magic-9-best-intro-makers-for-your-video-projects/"><u>Updated 2024 Approved Movie Magic 9 Best Intro Makers for Your Video Projects</u></a></li>
 </ul></div>
+
 

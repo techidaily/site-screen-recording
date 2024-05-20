@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Obs Issue  Full-Screen Bug Fixed\""
-date: 2024-05-18T00:52:22.114Z
-updated: 2024-05-19T00:52:22.114Z
+date: 2024-05-19T17:20:27.810Z
+updated: 2024-05-20T17:20:27.810Z
 tags: 
   - screen-recording
   - ai video
@@ -287,4 +287,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Xiaomi Redmi Note 12 Pro+ 5G? | Dr.fone</u></a></li>
 <li><a href="https://video-content-creator.techidaily.com/in-2024-subtitle-it-for-free-10-best-online-tools/"><u>In 2024, Subtitle It for Free 10 Best Online Tools</u></a></li>
 </ul></div>
+
 

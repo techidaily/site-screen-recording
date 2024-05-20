@@ -532,3 +532,4 @@ For macOS 10.12 or later
 <li><a href="https://video-ai-editor.techidaily.com/2024-approved-the-secret-to-perfectly-sizing-your-vertical-videos-for-social-platforms/"><u>2024 Approved The Secret to Perfectly Sizing Your Vertical Videos for Social Platforms</u></a></li>
 </ul></div>
 
+

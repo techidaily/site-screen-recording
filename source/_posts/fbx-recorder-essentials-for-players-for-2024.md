@@ -536,3 +536,4 @@ If you are looking for a screen recorder that is specifically designed to captur
 <li><a href="https://audio-editing.techidaily.com/new-a-beginners-guide-to-setting-up-audacity-in-ubuntu/"><u>New A Beginners Guide to Setting Up Audacity in Ubuntu</u></a></li>
 </ul></div>
 
+

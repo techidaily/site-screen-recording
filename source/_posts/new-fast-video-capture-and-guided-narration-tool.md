@@ -1,7 +1,7 @@
 ---
 title: "[New] Fast Video Capture & Guided Narration Tool"
-date: 2024-05-18T00:39:29.841Z
-updated: 2024-05-19T00:39:29.841Z
+date: 2024-05-19T17:19:56.058Z
+updated: 2024-05-20T17:19:56.058Z
 tags: 
   - screen-recording
   - ai video
@@ -504,4 +504,5 @@ If you are a Mac user, QuickTime player screen recording with audio is available
 <li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-streamline-your-video-editing-fast-and-easy-video-trimming-on-mac/"><u>Updated In 2024, Streamline Your Video Editing Fast & Easy Video Trimming on Mac</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-vivo-s17-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Vivo S17 | Dr.fone</u></a></li>
 </ul></div>
+
 

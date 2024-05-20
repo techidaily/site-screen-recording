@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Zoom for Beginners  Managing Breakout Groups\""
-date: 2024-05-18T00:32:48.983Z
-updated: 2024-05-19T00:32:48.983Z
+date: 2024-05-19T17:19:39.939Z
+updated: 2024-05-20T17:19:39.939Z
 tags: 
   - screen-recording
   - ai video
@@ -562,4 +562,5 @@ Follow @Richard Bennett
 <li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your OnePlus Ace 3 | Dr.fone</u></a></li>
 <li><a href="https://video-content-creator.techidaily.com/new-2024-approved-create-stunning-videos-anywhere-best-mobile-editing-apps/"><u>New 2024 Approved Create Stunning Videos Anywhere Best Mobile Editing Apps</u></a></li>
 </ul></div>
+
 

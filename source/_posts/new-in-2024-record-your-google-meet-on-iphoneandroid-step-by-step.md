@@ -1060,3 +1060,4 @@ Follow @Richard Bennett
 <li><a href="https://screen-mirror.techidaily.com/how-infinix-hot-40-pro-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Infinix Hot 40 Pro Mirror Screen to PC? | Dr.fone</u></a></li>
 </ul></div>
 
+

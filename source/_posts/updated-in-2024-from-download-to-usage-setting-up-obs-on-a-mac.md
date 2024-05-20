@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, From Download to Usage  Setting Up OBS on a Mac\""
-date: 2024-05-18T00:41:37.421Z
-updated: 2024-05-19T00:41:37.421Z
+date: 2024-05-19T17:20:00.720Z
+updated: 2024-05-20T17:20:00.720Z
 tags: 
   - screen-recording
   - ai video
@@ -339,4 +339,5 @@ Unlike OBS, which only offers a few recording options, Filmora includes all of t
 <li><a href="https://easy-unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-nokia-c12-pro-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Nokia C12 Pro</u></a></li>
 <li><a href="https://audio-editing.techidaily.com/new-the-beginners-blueprint-to-creating-an-audio-book-with-ease-a-compreranly-updated-manual/"><u>New The Beginners Blueprint to Creating an Audio Book with Ease A Compreranly Updated Manual</u></a></li>
 </ul></div>
+
 

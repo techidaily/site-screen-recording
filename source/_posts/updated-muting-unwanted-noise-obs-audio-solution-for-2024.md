@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Muting Unwanted Noise  OBS Audio Solution for 2024\""
-date: 2024-05-18T00:45:50.047Z
-updated: 2024-05-19T00:45:50.047Z
+date: 2024-05-19T17:20:11.051Z
+updated: 2024-05-20T17:20:11.051Z
 tags: 
   - screen-recording
   - ai video
@@ -590,4 +590,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://change-location.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Vivo T2 5G? | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/full-guide-to-unlock-your-sony-by-drfone-android/"><u>Full Guide to Unlock Your Sony</u></a></li>
 </ul></div>
+
 

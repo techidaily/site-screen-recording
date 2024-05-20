@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Zoom Basics for Non-Experts  Setting Up Your First Meeting\""
-date: 2024-05-18T00:34:29.343Z
-updated: 2024-05-19T00:34:29.343Z
+date: 2024-05-19T17:19:43.890Z
+updated: 2024-05-20T17:19:43.890Z
 tags: 
   - screen-recording
   - ai video
@@ -560,4 +560,5 @@ Follow @Richard Bennett
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-itel-p55-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Itel P55 to iPod | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-itel-a60-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Itel A60 | Dr.fone</u></a></li>
 </ul></div>
+
 

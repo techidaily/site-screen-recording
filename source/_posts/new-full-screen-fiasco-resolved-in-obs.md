@@ -1,7 +1,7 @@
 ---
 title: "[New] Full Screen Fiasco Resolved in Obs"
-date: 2024-05-18T00:55:00.326Z
-updated: 2024-05-19T00:55:00.326Z
+date: 2024-05-19T17:20:33.829Z
+updated: 2024-05-20T17:20:33.829Z
 tags: 
   - screen-recording
   - ai video
@@ -280,4 +280,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://ios-pokemon-go.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>What Legendaries Are In Pokemon Platinum On Apple iPhone 11? | Dr.fone</u></a></li>
 <li><a href="https://smart-video-creator.techidaily.com/new-top-rated-iphone-apps-expert-reviews-and-recommendations-for-2024/"><u>New Top-Rated iPhone Apps Expert Reviews and Recommendations for 2024</u></a></li>
 </ul></div>
+
 

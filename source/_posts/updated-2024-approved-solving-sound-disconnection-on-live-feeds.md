@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Solving Sound Disconnection on Live Feeds\""
-date: 2024-05-18T00:39:24.838Z
-updated: 2024-05-19T00:39:24.838Z
+date: 2024-05-19T17:19:55.890Z
+updated: 2024-05-20T17:19:55.890Z
 tags: 
   - screen-recording
   - ai video
@@ -561,4 +561,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Apple iPhone 6s Plus | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-infinix-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Infinix online without jailbreak</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Insider Tips for Documenting Your Favorite Games on PS4"
-date: 2024-05-18T00:36:08.167Z
-updated: 2024-05-19T00:36:08.167Z
+date: 2024-05-19T17:19:47.595Z
+updated: 2024-05-20T17:19:47.595Z
 tags: 
   - screen-recording
   - ai video
@@ -400,4 +400,5 @@ Hopefully, you have understood how to record videos on PS4\. If your gameplay is
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-locked-apple-id-on-iphone-14-plus-by-drfone-ios/"><u>In 2024, How to Fix Locked Apple ID on iPhone 14 Plus</u></a></li>
 <li><a href="https://ios-location-track.techidaily.com/in-2024-3-ways-to-track-apple-iphone-13-mini-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, 3 Ways to Track Apple iPhone 13 mini without Them Knowing | Dr.fone</u></a></li>
 </ul></div>
+
 

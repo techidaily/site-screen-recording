@@ -1,7 +1,7 @@
 ---
 title: "Resolving Missing Sound in OBS"
-date: 2024-05-18T00:47:07.468Z
-updated: 2024-05-19T00:47:07.468Z
+date: 2024-05-19T17:20:13.944Z
+updated: 2024-05-20T17:20:13.944Z
 tags: 
   - screen-recording
   - ai video
@@ -567,4 +567,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://smart-video-editing.techidaily.com/new-in-2024-free-video-editing-on-ubuntu-the-top-10-options-you-should-know/"><u>New In 2024, Free Video Editing on Ubuntu The Top 10 Options You Should Know</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-honor-90-gt-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Honor 90 GT | Dr.fone</u></a></li>
 </ul></div>
+
 

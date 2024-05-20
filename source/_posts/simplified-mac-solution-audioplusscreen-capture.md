@@ -1,7 +1,7 @@
 ---
 title: "\"Simplified Mac Solution  Audio+Screen Capture\""
-date: 2024-05-18T00:42:15.481Z
-updated: 2024-05-19T00:42:15.481Z
+date: 2024-05-19T17:20:02.300Z
+updated: 2024-05-20T17:20:02.300Z
 tags: 
   - screen-recording
   - ai video
@@ -476,4 +476,5 @@ The methods that we have discussed here are quite simple and you will get some v
 <li><a href="https://smart-video-editing.techidaily.com/new-the-top-free-mov-video-rotation-tools-you-need/"><u>New The Top Free MOV Video Rotation Tools You Need</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/how-to-change-lock-screen-wallpaper-on-vivo-y100i-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Vivo Y100i</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Securing Sound Output  Fixes for Silent OBS Streams\""
-date: 2024-05-18T00:37:58.311Z
-updated: 2024-05-19T00:37:58.311Z
+date: 2024-05-19T17:19:52.009Z
+updated: 2024-05-20T17:19:52.009Z
 tags: 
   - screen-recording
   - ai video
@@ -569,4 +569,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-something-that-you-should-know-about-mp4-video-format/"><u>Updated In 2024, Something That You Should Know About MP4 Video Format</u></a></li>
 <li><a href="https://audio-editing.techidaily.com/new-in-2024-top-5-essential-audio-editing-apps-for-android-devices-unmissable/"><u>New In 2024, Top 5 Essential Audio Editing Apps for Android Devices Unmissable</u></a></li>
 </ul></div>
+
 

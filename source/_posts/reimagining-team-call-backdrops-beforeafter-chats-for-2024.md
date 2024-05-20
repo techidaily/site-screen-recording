@@ -764,3 +764,4 @@ Follow @Richard Bennett
 <li><a href="https://video-creation-software.techidaily.com/updated-video-editing-essentials-how-to-resize-and-crop-videos/"><u>Updated Video Editing Essentials How to Resize and Crop Videos</u></a></li>
 </ul></div>
 
+

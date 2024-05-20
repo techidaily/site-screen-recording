@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Survival of the Undead  Cutthroat Top 8 Zombie Titles for 2024\""
-date: 2024-05-18T00:47:04.119Z
-updated: 2024-05-19T00:47:04.119Z
+date: 2024-05-19T17:20:13.786Z
+updated: 2024-05-20T17:20:13.786Z
 tags: 
   - screen-recording
   - ai video
@@ -354,4 +354,5 @@ Get started today with Filmora's powerful performance, user-friendly interface, 
 <li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-14-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Xiaomi 14 Phone with Broken Screen</u></a></li>
 <li><a href="https://video-ai-editor.techidaily.com/updated-easiest-video-metadata-editing-software-for-mac-users-2023-update/"><u>Updated Easiest Video Metadata Editing Software for Mac Users 2023 Update</u></a></li>
 </ul></div>
+
 

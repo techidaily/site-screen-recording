@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Record Computer Sound and Microphone for 2024"
-date: 2024-05-18T00:54:03.755Z
-updated: 2024-05-19T00:54:03.755Z
+date: 2024-05-19T17:20:31.864Z
+updated: 2024-05-20T17:20:31.864Z
 tags: 
   - screen-recording
   - ai video
@@ -767,4 +767,5 @@ This article highlights the various methods that can be used to record pc sound 
 <li><a href="https://android-pokemon-go.techidaily.com/how-to-use-ispoofer-on-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Tecno Pova 5 Pro? | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/your-account-has-been-disabled-in-the-app-store-and-itunes-on-iphone-11-pro-by-drfone-ios/"><u>Your Account Has Been Disabled in the App Store and iTunes On iPhone 11 Pro?</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Solved  OBS Full Screen Anomaly for 2024\""
-date: 2024-05-18T00:54:46.854Z
-updated: 2024-05-19T00:54:46.854Z
+date: 2024-05-19T17:20:33.318Z
+updated: 2024-05-20T17:20:33.318Z
 tags: 
   - screen-recording
   - ai video
@@ -309,4 +309,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-realme-c33-2023-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Realme C33 2023 to iPhone XS/11 | Dr.fone</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/new-methods-for-determining-screen-resolution-ratios/"><u>New Methods for Determining Screen Resolution Ratios</u></a></li>
 </ul></div>
+
 

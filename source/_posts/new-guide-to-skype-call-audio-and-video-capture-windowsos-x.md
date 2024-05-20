@@ -1,7 +1,7 @@
 ---
 title: "[New] Guide to Skype Call Audio & Video Capture Windows/OS X"
-date: 2024-05-18T00:40:58.239Z
-updated: 2024-05-19T00:40:58.239Z
+date: 2024-05-19T17:19:59.165Z
+updated: 2024-05-20T17:19:59.165Z
 tags: 
   - screen-recording
   - ai video
@@ -592,4 +592,5 @@ Follow @Max Wales
 <li><a href="https://ai-driven-video-production.techidaily.com/how-to-remove-background-noise-in-final-cut-pro-x-for-2024/"><u>How to Remove Background Noise in Final Cut Pro X for 2024</u></a></li>
 <li><a href="https://smart-video-editing.techidaily.com/updated-for-people-who-want-to-perform-some-simple-editing-tasks-and-upload-to-youtube-or-play-for-there-own-amusement-there-are-a-number-of-excellent-choic/"><u>Updated For People Who Want to Perform some Simple Editing Tasks and Upload to YouTube or Play for There Own Amusement, There Are a Number of Excellent Choices for 2024</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Capturing the Action  PS4 to Video Using OBS\""
-date: 2024-05-18T00:36:07.608Z
-updated: 2024-05-19T00:36:07.608Z
+date: 2024-05-19T17:19:47.581Z
+updated: 2024-05-20T17:19:47.581Z
 tags: 
   - screen-recording
   - ai video
@@ -365,4 +365,5 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://animation-videos.techidaily.com/updated-top-12-video-to-gif-converters-high-quality-to-check-out-for-2024/"><u>Updated Top 12 Video to GIF Converters High Quality to Check Out for 2024</u></a></li>
 <li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Vivo Y200e 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

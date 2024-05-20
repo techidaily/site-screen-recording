@@ -262,3 +262,4 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://fix-guide.techidaily.com/reasons-for-infinix-hot-40-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Infinix Hot 40 Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
 </ul></div>
 
+

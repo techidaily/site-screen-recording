@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Efficient Recording Methods for Skype Calls Using OBS"
-date: 2024-05-18T00:39:48.784Z
-updated: 2024-05-19T00:39:48.784Z
+date: 2024-05-19T17:19:56.729Z
+updated: 2024-05-20T17:19:56.729Z
 tags: 
   - screen-recording
   - ai video
@@ -355,4 +355,5 @@ So form the above discussion it can be concluded that OBS for screen recording c
 <li><a href="https://fake-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Infinix Note 30 Pro? | Dr.fone</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/quicktime-video-editing-how-to-speed-up-or-slow-down-footage-for-2024/"><u>QuickTime Video Editing How to Speed Up or Slow Down Footage for 2024</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Play and Save  NVIDIA's Simple Screen Recorder\""
-date: 2024-05-18T01:00:05.971Z
-updated: 2024-05-19T01:00:05.971Z
+date: 2024-05-19T17:20:46.828Z
+updated: 2024-05-20T17:20:46.828Z
 tags: 
   - screen-recording
   - ai video
@@ -507,4 +507,5 @@ NIVIDA game recorder is available for free and there are good enough features to
 <li><a href="https://voice-adjusting.techidaily.com/ranking-the-best-6-apps-to-transform-your-voice-in-seconds-for-2024/"><u>Ranking the Best 6 Apps to Transform Your Voice in Seconds for 2024</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-how-to-create-your-own-lol-montage-video-for-2024/"><u>New How to Create Your Own LOL Montage Video for 2024</u></a></li>
 </ul></div>
+
 

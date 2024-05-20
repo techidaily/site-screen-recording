@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Troubleshooting OBS Full Screen Malfunction"
-date: 2024-05-18T00:37:59.712Z
-updated: 2024-05-19T00:37:59.712Z
+date: 2024-05-19T17:19:52.061Z
+updated: 2024-05-20T17:19:52.061Z
 tags: 
   - screen-recording
   - ai video
@@ -260,4 +260,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://easy-unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-oppo-f23-5g-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Oppo F23 5G</u></a></li>
 <li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-nubia-red-magic-9-pro-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

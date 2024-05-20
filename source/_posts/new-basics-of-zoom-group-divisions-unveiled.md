@@ -1,7 +1,7 @@
 ---
 title: "[New] Basics of Zoom Group Divisions Unveiled"
-date: 2024-05-18T00:52:27.141Z
-updated: 2024-05-19T00:52:27.141Z
+date: 2024-05-19T17:20:28.034Z
+updated: 2024-05-20T17:20:28.034Z
 tags: 
   - screen-recording
   - ai video
@@ -558,4 +558,5 @@ Follow @Richard Bennett
 <li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-the-ultimate-fcpx-shortcut-add-a-countdown-timer-in-3-clicks/"><u>Updated 2024 Approved The Ultimate FCPX Shortcut Add a Countdown Timer in 3 Clicks</u></a></li>
 <li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Oppo Find N3 Flip | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Game Recording Pros & Cons  OBS and ShadowPlay\""
-date: 2024-05-18T00:45:53.402Z
-updated: 2024-05-19T00:45:53.402Z
+date: 2024-05-19T17:20:11.171Z
+updated: 2024-05-20T17:20:11.171Z
 tags: 
   - screen-recording
   - ai video
@@ -260,4 +260,5 @@ If you want to record high-end games, ShadowPlay is ideal as it does not affect 
 <li><a href="https://unlock-android.techidaily.com/how-to-unlock-vivo-y200e-5g-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Vivo Y200e 5G Pattern Lock if Forgotten? 6 Ways</u></a></li>
 <li><a href="https://sound-optimizing.techidaily.com/new-put-music-over-a-video-for-2024/"><u>New Put Music Over a Video for 2024</u></a></li>
 </ul></div>
+
 

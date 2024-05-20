@@ -1,7 +1,7 @@
 ---
 title: "\"Smooth Operations  Boosting Memory Allocation to Minecraft\""
-date: 2024-05-18T00:33:27.871Z
-updated: 2024-05-19T00:33:27.871Z
+date: 2024-05-19T17:19:41.392Z
+updated: 2024-05-20T17:19:41.392Z
 tags: 
   - screen-recording
   - ai video
@@ -625,4 +625,5 @@ Follow @Ollie Mattison
 <li><a href="https://blog-min.techidaily.com/how-to-sign-excel-2019-files-online-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to sign Excel 2019 files online</u></a></li>
 <li><a href="https://voice-adjusting.techidaily.com/in-2024-optimizing-audio-levels-a-guide-to-dynamic-ducking-in-windows-edition-of-adobe-premiere-pro/"><u>In 2024, Optimizing Audio Levels A Guide to Dynamic Ducking in Windows Edition of Adobe Premiere Pro</u></a></li>
 </ul></div>
+
 

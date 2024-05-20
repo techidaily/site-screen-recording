@@ -1,7 +1,7 @@
 ---
 title: "\"First-Timer's Guide to Zoom Segregation Rooms\""
-date: 2024-05-18T00:52:26.025Z
-updated: 2024-05-19T00:52:26.025Z
+date: 2024-05-19T17:20:27.999Z
+updated: 2024-05-20T17:20:27.999Z
 tags: 
   - screen-recording
   - ai video
@@ -534,4 +534,5 @@ Follow @Richard Bennett
 <li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-top-rated-video-creators-for-photos-and-music/"><u>Updated 2024 Approved Top-Rated Video Creators for Photos and Music</u></a></li>
 <li><a href="https://smart-video-editing.techidaily.com/new-reviewing-vn-video-editor-the-ultimate-video-editing-app/"><u>New Reviewing VN Video Editor The Ultimate Video Editing App?</u></a></li>
 </ul></div>
+
 

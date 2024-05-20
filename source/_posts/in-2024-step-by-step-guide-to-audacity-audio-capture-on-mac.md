@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Step-by-Step Guide to Audacity Audio Capture on Mac\""
-date: 2024-05-18T00:56:20.787Z
-updated: 2024-05-19T00:56:20.787Z
+date: 2024-05-19T17:20:37.013Z
+updated: 2024-05-20T17:20:37.013Z
 tags: 
   - screen-recording
   - ai video
@@ -306,4 +306,5 @@ If you are looking for a free audio recorder on Mac, Audacity fits in perfectly.
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-itel-p55t-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Itel P55T? | Dr.fone</u></a></li>
 <li><a href="https://sound-tweaking.techidaily.com/new-exploring-resources-for-clap-induced-acoustic-enhancements/"><u>New Exploring Resources for Clap-Induced Acoustic Enhancements</u></a></li>
 </ul></div>
+
 

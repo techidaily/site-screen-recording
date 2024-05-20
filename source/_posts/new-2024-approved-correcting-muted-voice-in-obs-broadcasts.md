@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Correcting Muted Voice in OBS Broadcasts\""
-date: 2024-05-18T00:47:46.178Z
-updated: 2024-05-19T00:47:46.179Z
+date: 2024-05-19T17:20:16.500Z
+updated: 2024-05-20T17:20:16.500Z
 tags: 
   - screen-recording
   - ai video
@@ -553,4 +553,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-samsung-galaxy-m14-5g-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Samsung Galaxy M14 5G For Mobile Legends? | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-honor-70-lite-5g-by-fonelab-android-recover-data/"><u>How to recover lost data from Honor 70 Lite 5G?</u></a></li>
 </ul></div>
+
 

@@ -419,3 +419,4 @@ We have answered your question on how to record gameplay on PC Windows 10\. You 
 <li><a href="https://howto.techidaily.com/9-solutions-to-fix-infinix-smart-8-hd-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Infinix Smart 8 HD System Crash Issue | Dr.fone</u></a></li>
 </ul></div>
 
+

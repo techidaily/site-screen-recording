@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Origami & Samurai Inspirations for Minecraft Homes"
-date: 2024-05-18T00:54:11.049Z
-updated: 2024-05-19T00:54:11.049Z
+date: 2024-05-19T17:20:32.121Z
+updated: 2024-05-20T17:20:32.121Z
 tags: 
   - screen-recording
   - ai video
@@ -330,4 +330,5 @@ Follow @Ollie Mattison
 <li><a href="https://change-location.techidaily.com/honor-90-lite-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Honor 90 Lite Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Infinix Hot 40 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

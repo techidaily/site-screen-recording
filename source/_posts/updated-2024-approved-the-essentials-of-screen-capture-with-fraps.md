@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  The Essentials of Screen Capture with Fraps\""
-date: 2024-05-18T00:59:45.021Z
-updated: 2024-05-19T00:59:45.021Z
+date: 2024-05-19T17:20:44.996Z
+updated: 2024-05-20T17:20:44.996Z
 tags: 
   - screen-recording
   - ai video
@@ -348,4 +348,5 @@ If you're already using Fraps for benchmarking or simply keeping track of framer
 <li><a href="https://howto.techidaily.com/how-to-restore-a-bricked-xiaomi-redmi-13c-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Xiaomi Redmi 13C Back to Operation | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-tecno-spark-10c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Tecno Spark 10C | Dr.fone</u></a></li>
 </ul></div>
+
 

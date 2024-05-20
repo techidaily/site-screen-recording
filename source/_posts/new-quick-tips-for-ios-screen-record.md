@@ -1,7 +1,7 @@
 ---
 title: "[New] Quick Tips for iOS Screen Record"
-date: 2024-05-18T00:45:43.632Z
-updated: 2024-05-19T00:45:43.632Z
+date: 2024-05-19T17:20:10.506Z
+updated: 2024-05-20T17:20:10.506Z
 tags: 
   - screen-recording
   - ai video
@@ -548,4 +548,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://video-ai-editor.techidaily.com/ditch-vegas-pro-explore-these-10-mac-friendly-video-editing-alternatives/"><u>Ditch Vegas Pro? Explore These 10 Mac-Friendly Video Editing Alternatives</u></a></li>
 <li><a href="https://ai-driven-video-production.techidaily.com/transforming-text-into-audio-expert-guidance-for-mp3-creation-for-2024/"><u>Transforming Text Into Audio Expert Guidance for MP3 Creation for 2024</u></a></li>
 </ul></div>
+
 

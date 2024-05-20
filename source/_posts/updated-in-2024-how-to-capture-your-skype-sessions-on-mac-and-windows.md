@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, How to Capture Your Skype Sessions on Mac and Windows"
-date: 2024-05-18T00:44:35.034Z
-updated: 2024-05-19T00:44:35.034Z
+date: 2024-05-19T17:20:07.946Z
+updated: 2024-05-20T17:20:07.946Z
 tags: 
   - screen-recording
   - ai video
@@ -640,4 +640,5 @@ Follow @Max Wales
 <li><a href="https://smart-video-creator.techidaily.com/updated-m4r-converter-101-what-you-need-to-know-first-for-2024/"><u>Updated M4R Converter 101 What You Need to Know First for 2024</u></a></li>
 <li><a href="https://video-content-creator.techidaily.com/nikon-video-editing-essentials-software-tips-and-best-practices-for-2024/"><u>Nikon Video Editing Essentials Software, Tips, and Best Practices for 2024</u></a></li>
 </ul></div>
+
 

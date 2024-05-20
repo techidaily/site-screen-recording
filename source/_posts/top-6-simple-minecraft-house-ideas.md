@@ -1,7 +1,7 @@
 ---
 title: "Top 6 Simple Minecraft House Ideas"
-date: 2024-05-18T00:58:40.222Z
-updated: 2024-05-19T00:58:40.222Z
+date: 2024-05-19T17:20:42.575Z
+updated: 2024-05-20T17:20:42.575Z
 tags: 
   - screen-recording
   - ai video
@@ -387,4 +387,5 @@ Follow @Shanoon Cox
 <li><a href="https://ai-vdieo-software.techidaily.com/new-top-video-accelerators-for-pc-and-mac/"><u>New Top Video Accelerators for PC and Mac</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-can-oppo-find-x7mirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Oppo Find X7Mirror Share to PC? | Dr.fone</u></a></li>
 </ul></div>
+
 

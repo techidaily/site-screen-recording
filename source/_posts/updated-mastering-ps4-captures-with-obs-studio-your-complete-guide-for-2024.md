@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Mastering PS4 Captures with OBS Studio - Your Complete Guide for 2024\""
-date: 2024-05-18T00:43:40.111Z
-updated: 2024-05-19T00:43:40.111Z
+date: 2024-05-19T17:20:05.548Z
+updated: 2024-05-20T17:20:05.548Z
 tags: 
   - screen-recording
   - ai video
@@ -374,4 +374,5 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-note-30-pro-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Infinix Note 30 Pro Phone without Any Data Loss</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/edit-freely-10-best-android-video-editing-apps-with-no-watermark/"><u>Edit Freely 10 Best Android Video Editing Apps with No Watermark</u></a></li>
 </ul></div>
+
 

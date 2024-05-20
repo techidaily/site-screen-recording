@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Choosing the Best Screen Capture App – OBS vs Fraps"
-date: 2024-05-18T00:59:37.003Z
-updated: 2024-05-19T00:59:37.003Z
+date: 2024-05-19T17:20:44.689Z
+updated: 2024-05-20T17:20:44.689Z
 tags: 
   - screen-recording
   - ai video
@@ -282,4 +282,5 @@ To sum it up for you, if you have a low configuration computer, you should opt f
 <li><a href="https://ai-vdieo-software.techidaily.com/new-slideshow-magic-on-mac-easy-video-editing-for-beginners/"><u>New Slideshow Magic on Mac Easy Video Editing for Beginners</u></a></li>
 <li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-honor-90-gt-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Honor 90 GT | Dr.fone</u></a></li>
 </ul></div>
+
 

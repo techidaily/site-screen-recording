@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Exploring 8 Open Source Video Collaboration Software Picks"
-date: 2024-05-18T00:58:24.269Z
-updated: 2024-05-19T00:58:24.269Z
+date: 2024-05-19T17:20:41.963Z
+updated: 2024-05-20T17:20:41.963Z
 tags: 
   - screen-recording
   - ai video
@@ -694,4 +694,5 @@ Follow @Richard Bennett
 <li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-samsung-galaxy-s23-ultra-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Samsung Galaxy S23 Ultra for Free? | Dr.fone</u></a></li>
 <li><a href="https://sound-optimizing.techidaily.com/2024-approved-premium-selection-complimentary-internet-services-for-sound-normalization/"><u>2024 Approved Premium Selection Complimentary Internet Services for Sound Normalization</u></a></li>
 </ul></div>
+
 

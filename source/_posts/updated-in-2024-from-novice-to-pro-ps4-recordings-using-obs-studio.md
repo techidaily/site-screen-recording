@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, From Novice to Pro  PS4 Recordings Using OBS Studio\""
-date: 2024-05-18T00:49:28.930Z
-updated: 2024-05-19T00:49:28.930Z
+date: 2024-05-19T17:20:20.525Z
+updated: 2024-05-20T17:20:20.525Z
 tags: 
   - screen-recording
   - ai video
@@ -384,4 +384,5 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://android-pokemon-go.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-huawei-p60-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Huawei P60 | Dr.fone</u></a></li>
 <li><a href="https://ai-video-tools.techidaily.com/2024-approved-merge-like-a-pro-the-top-5-free-online-video-editors/"><u>2024 Approved Merge Like a Pro The Top 5 Free Online Video Editors</u></a></li>
 </ul></div>
+
 

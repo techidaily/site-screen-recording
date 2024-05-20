@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Becoming a Pro with OBS Gaming Recordings"
-date: 2024-05-18T00:38:39.094Z
-updated: 2024-05-19T00:38:39.094Z
+date: 2024-05-19T17:19:54.019Z
+updated: 2024-05-20T17:19:54.019Z
 tags: 
   - screen-recording
   - ai video
@@ -378,4 +378,5 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-nubia-red-magic-9-pro-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Nubia Red Magic 9 Pro Phone that is Locked?</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-7-best-explainer-video-makers-you-may-like/"><u>New In 2024, 7 Best Explainer Video Makers You May Like</u></a></li>
 </ul></div>
+
 

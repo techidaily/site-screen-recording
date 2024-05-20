@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Full-Screen Fix for OBS Enthusiasts\""
-date: 2024-05-18T00:34:30.450Z
-updated: 2024-05-19T00:34:30.450Z
+date: 2024-05-19T17:19:43.919Z
+updated: 2024-05-20T17:19:43.919Z
 tags: 
   - screen-recording
   - ai video
@@ -286,4 +286,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://iphone-unlock.techidaily.com/can-you-unlock-apple-iphone-7-plus-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>Can You Unlock Apple iPhone 7 Plus After Forgetting the Passcode? | Dr.fone</u></a></li>
 <li><a href="https://video-ai-editor.techidaily.com/the-best-imovie-alternative-for-windows-10-free-and-paid/"><u>The Best iMovie Alternative for Windows 10 Free & Paid</u></a></li>
 </ul></div>
+
 

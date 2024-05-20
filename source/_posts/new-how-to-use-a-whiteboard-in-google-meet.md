@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Use a Whiteboard in Google Meet"
-date: 2024-05-18T00:57:59.018Z
-updated: 2024-05-19T00:57:59.018Z
+date: 2024-05-19T17:20:40.577Z
+updated: 2024-05-20T17:20:40.577Z
 tags: 
   - screen-recording
   - ai video
@@ -564,4 +564,5 @@ Follow @Richard Bennett
 <li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-stolen-apple-iphone-8-in-different-conditionsin-drfone-by-drfone-ios/"><u>How To Unlock Stolen Apple iPhone 8 In Different Conditionsin | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-disabling-iphone-11-pro-max-parental-restrictions-withwithout-password-by-drfone-ios/"><u>In 2024, Disabling iPhone 11 Pro Max Parental Restrictions With/Without Password</u></a></li>
 </ul></div>
+
 

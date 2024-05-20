@@ -1,7 +1,7 @@
 ---
 title: "\"Transformative Video Editing  Master the Art of Ken Burns in Camtasa 9 for 2024\""
-date: 2024-05-18T00:41:19.784Z
-updated: 2024-05-19T00:41:19.784Z
+date: 2024-05-19T17:20:00.040Z
+updated: 2024-05-20T17:20:00.040Z
 tags: 
   - screen-recording
   - ai video
@@ -365,4 +365,5 @@ Follow @Max Wales
 <li><a href="https://techidaily.com/things-you-dont-know-about-vivo-y200e-5g-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Vivo Y200e 5G Reset Code | Dr.fone</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/3-easy-methods-to-unlock-icloud-locked-iphone-7ipadipod-by-drfone-ios/"><u>3 Easy Methods to Unlock iCloud Locked iPhone 7/iPad/iPod</u></a></li>
 </ul></div>
+
 

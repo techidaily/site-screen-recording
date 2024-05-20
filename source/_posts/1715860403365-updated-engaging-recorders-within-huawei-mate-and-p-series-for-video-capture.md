@@ -392,3 +392,4 @@ Follow @Max Wales
 <li><a href="https://video-content-creator.techidaily.com/updated-the-science-of-screen-size-calculating-pixels-and-ratios/"><u>Updated The Science of Screen Size Calculating Pixels and Ratios</u></a></li>
 </ul></div>
 
+

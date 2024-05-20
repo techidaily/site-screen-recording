@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Guide to Restoring OBS's Audio Functionality\""
-date: 2024-05-18T00:55:11.617Z
-updated: 2024-05-19T00:55:11.617Z
+date: 2024-05-19T17:20:34.246Z
+updated: 2024-05-20T17:20:34.246Z
 tags: 
   - screen-recording
   - ai video
@@ -576,4 +576,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Honor X50i+ | Dr.fone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-speed-updown-videos-in-vlc/"><u>New 2024 Approved Speed Up/Down Videos in VLC</u></a></li>
 </ul></div>
+
 

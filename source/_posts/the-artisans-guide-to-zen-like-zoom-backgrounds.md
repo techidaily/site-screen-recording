@@ -1,7 +1,7 @@
 ---
 title: "\"The Artisan's Guide to Zen-Like Zoom Backgrounds\""
-date: 2024-05-18T00:49:19.162Z
-updated: 2024-05-19T00:49:19.162Z
+date: 2024-05-19T17:20:20.110Z
+updated: 2024-05-20T17:20:20.110Z
 tags: 
   - screen-recording
   - ai video
@@ -664,4 +664,5 @@ Follow @Richard Bennett
 <li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-top-rated-online-video-editors-for-chromebook-users/"><u>New 2024 Approved Top-Rated Online Video Editors for Chromebook Users</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Sony Xperia 1 V | Dr.fone</u></a></li>
 </ul></div>
+
 

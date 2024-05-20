@@ -1,7 +1,7 @@
 ---
 title: "[New] Resolving Missing Sound in OBS for 2024"
-date: 2024-05-18T00:44:37.266Z
-updated: 2024-05-19T00:44:37.266Z
+date: 2024-05-19T17:20:08.004Z
+updated: 2024-05-20T17:20:08.004Z
 tags: 
   - screen-recording
   - ai video
@@ -545,4 +545,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://audio-editing.techidaily.com/new-in-2024-simplified-approach-to-sound-wave-suppression-with-audacity/"><u>New In 2024, Simplified Approach to Sound Wave Suppression with Audacity</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/how-to-delete-all-photos-from-iphone-6-beyond-scope-of-recovery-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Delete All Photos from iPhone 6 Beyond Scope of Recovery? | Stellar</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"Pixelated Palaces  Starter Designs for New Minecrafters\""
-date: 2024-05-18T00:44:56.197Z
-updated: 2024-05-19T00:44:56.197Z
+date: 2024-05-19T17:20:08.603Z
+updated: 2024-05-20T17:20:08.603Z
 tags: 
   - screen-recording
   - ai video
@@ -336,4 +336,5 @@ Follow @Ollie Mattison
 <li><a href="https://ai-editing-video.techidaily.com/updated-how-to-use-blender-green-screen-for-2024/"><u>Updated How to Use Blender Green Screen for 2024</u></a></li>
 <li><a href="https://smart-video-editing.techidaily.com/in-2024-there-we-list-5-mov-video-cutters-and-all-of-them-are-free-and-easy-to-use/"><u>In 2024, There We List 5 MOV Video Cutters, and All of Them Are Free and Easy to Use</u></a></li>
 </ul></div>
+
 

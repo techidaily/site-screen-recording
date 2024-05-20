@@ -1,7 +1,7 @@
 ---
 title: "[New] Integrating OBS Recording Capabilities Into Zoom Sessions"
-date: 2024-05-18T00:43:17.203Z
-updated: 2024-05-19T00:43:17.203Z
+date: 2024-05-19T17:20:04.623Z
+updated: 2024-05-20T17:20:04.623Z
 tags: 
   - screen-recording
   - ai video
@@ -445,4 +445,5 @@ OBS enables recording into several video formats. But the major reason why you m
 <li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-vivo-s18-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Vivo S18 Phone FRP Lock</u></a></li>
 <li><a href="https://ai-video-tools.techidaily.com/2024-approved-s-top-video-editors-for-4k-proxy-files-a-comprehensive-guide/"><u>2024 Approved S Top Video Editors for 4K Proxy Files A Comprehensive Guide</u></a></li>
 </ul></div>
+
 

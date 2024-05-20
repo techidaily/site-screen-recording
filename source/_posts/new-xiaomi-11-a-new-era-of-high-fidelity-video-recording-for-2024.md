@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Xiaomi 11  A New Era of High Fidelity Video Recording for 2024\""
-date: 2024-05-18T00:33:41.755Z
-updated: 2024-05-19T00:33:41.755Z
+date: 2024-05-19T17:19:41.848Z
+updated: 2024-05-20T17:19:41.849Z
 tags: 
   - screen-recording
   - ai video
@@ -558,4 +558,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://audio-shaping.techidaily.com/updated-normalizing-volume-in-vlc-a-step-by-step-guide/"><u>Updated Normalizing Volume in VLC A Step-by-Step Guide</u></a></li>
 <li><a href="https://apple-account.techidaily.com/how-to-create-an-apple-developer-account-from-apple-iphone-13-by-drfone-ios/"><u>How To Create an Apple Developer Account From Apple iPhone 13</u></a></li>
 </ul></div>
+
 

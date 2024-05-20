@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Quick Fixes for Missing Sound in OBS\""
-date: 2024-05-18T00:43:08.262Z
-updated: 2024-05-19T00:43:08.262Z
+date: 2024-05-19T17:20:04.252Z
+updated: 2024-05-20T17:20:04.252Z
 tags: 
   - screen-recording
   - ai video
@@ -589,4 +589,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-8-plus-to-samsung-simplified-guide-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer From Apple iPhone 8 Plus to Samsung Simplified Guide | Dr.fone</u></a></li>
 <li><a href="https://meme-emoji.techidaily.com/new-in-2024-10-popular-cartoon-characters-that-should-top-your-list/"><u>New In 2024, 10 Popular Cartoon Characters That Should Top Your List</u></a></li>
 </ul></div>
+
 

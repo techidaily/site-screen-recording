@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Roguelike's Traditional Tactics Vs. Modern Mechanics"
-date: 2024-05-18T00:39:24.005Z
-updated: 2024-05-19T00:39:24.005Z
+date: 2024-05-19T17:19:55.864Z
+updated: 2024-05-20T17:19:55.864Z
 tags: 
   - screen-recording
   - ai video
@@ -332,4 +332,5 @@ Follow @Ollie Mattison
 <li><a href="https://ai-editing-video.techidaily.com/linkedin-posts-can-be-made-engaging-by-using-the-emojis-this-article-will-tell-you-its-importance-and-different-ways-to-add-them-for-2024/"><u>Linkedin Posts Can Be Made Engaging by Using the Emojis. This Article Will Tell You Its Importance and Different Ways to Add Them for 2024</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-remove-mdm-from-iphone-12-pro-max-by-drfone-ios-unlock-ios-unlock/"><u>How to Remove MDM from iPhone 12 Pro Max?</u></a></li>
 </ul></div>
+
 

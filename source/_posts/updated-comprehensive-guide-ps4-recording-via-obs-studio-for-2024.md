@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Comprehensive Guide  PS4 Recording via OBS Studio for 2024\""
-date: 2024-05-18T00:52:04.194Z
-updated: 2024-05-19T00:52:04.194Z
+date: 2024-05-19T17:20:27.107Z
+updated: 2024-05-20T17:20:27.107Z
 tags: 
   - screen-recording
   - ai video
@@ -388,4 +388,5 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://video-creation-software.techidaily.com/updated-video-to-gif-made-easy-28-converter-recommendations-for-2024/"><u>Updated Video to GIF Made Easy 28 Converter Recommendations for 2024</u></a></li>
 <li><a href="https://howto.techidaily.com/app-wont-open-on-your-realme-narzo-60-pro-5g-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Realme Narzo 60 Pro 5G? Here Are All Fixes | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] DigitalDiary Pro  Rich Windows/Mac Screen Capture for 2024\""
-date: 2024-05-18T00:40:22.002Z
-updated: 2024-05-19T00:40:22.002Z
+date: 2024-05-19T17:19:57.946Z
+updated: 2024-05-20T17:19:57.946Z
 tags: 
   - screen-recording
   - ai video
@@ -1287,4 +1287,5 @@ Follow @Max Wales
 <li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-are-you-looking-to-find-out-how-to-loop-youtube-videos-on-iphone-learn-how-to-loop-your-favorite-youtube-video-on-your-iphone-so-you-c/"><u>Updated 2024 Approved Are You Looking to Find Out How to Loop YouTube Videos on iPhone? Learn How to Loop Your Favorite YouTube Video on Your iPhone, so You Can Play that Part over and Over</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-cloud-stop-motion-software-guidelines-and-alternatives/"><u>2024 Approved Cloud Stop Motion Software Guidelines and Alternatives</u></a></li>
 </ul></div>
+
 

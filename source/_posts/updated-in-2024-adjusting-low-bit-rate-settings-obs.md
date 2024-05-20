@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Adjusting Low-Bit Rate Settings (OBS)\""
-date: 2024-05-18T00:35:32.658Z
-updated: 2024-05-19T00:35:32.658Z
+date: 2024-05-19T17:19:46.222Z
+updated: 2024-05-20T17:19:46.222Z
 tags: 
   - screen-recording
   - ai video
@@ -264,4 +264,5 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 <li><a href="https://change-location.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Samsung Galaxy S23+? | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-honor-magic-5-lite-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Honor Magic 5 Lite to iPhone Easily | Dr.fone</u></a></li>
 </ul></div>
+
 

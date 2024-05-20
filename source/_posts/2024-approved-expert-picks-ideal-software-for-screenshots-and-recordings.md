@@ -795,3 +795,4 @@ Follow @Max Wales
 <li><a href="https://video-creation-software.techidaily.com/updated-transform-your-videos-how-to-add-slow-motion-effects-on-kapwing/"><u>Updated Transform Your Videos How to Add Slow Motion Effects on Kapwing</u></a></li>
 </ul></div>
 
+

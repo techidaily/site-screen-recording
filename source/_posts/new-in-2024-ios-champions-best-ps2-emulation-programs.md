@@ -519,3 +519,4 @@ For macOS 10.12 or later
 <li><a href="https://ai-driven-video-production.techidaily.com/the-social-media-designers-handbook-aspect-ratios-and-beyond-for-2024/"><u>The Social Media Designers Handbook Aspect Ratios and Beyond for 2024</u></a></li>
 </ul></div>
 
+

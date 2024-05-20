@@ -1,7 +1,7 @@
 ---
 title: "Top Video Meeting Applications Excluding Zoom for 2024"
-date: 2024-05-18T00:57:35.750Z
-updated: 2024-05-19T00:57:35.750Z
+date: 2024-05-19T17:20:39.638Z
+updated: 2024-05-20T17:20:39.638Z
 tags: 
   - screen-recording
   - ai video
@@ -1300,4 +1300,5 @@ Follow @Richard Bennett
 <li><a href="https://video-ai-editor.techidaily.com/updated-top-rated-free-mov-video-splitters-for-easy-editing-for-2024/"><u>Updated Top-Rated Free MOV Video Splitters for Easy Editing for 2024</u></a></li>
 <li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-the-ultimate-checklist-for-maximizing-efficiency-with-twistedwave-audio-editor/"><u>Updated 2024 Approved The Ultimate Checklist for Maximizing Efficiency with TwistedWave Audio Editor</u></a></li>
 </ul></div>
+
 

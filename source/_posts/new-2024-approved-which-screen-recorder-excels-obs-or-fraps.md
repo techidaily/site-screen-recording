@@ -284,3 +284,4 @@ To sum it up for you, if you have a low configuration computer, you should opt f
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-tecno-camon-20-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Tecno Camon 20 to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
 </ul></div>
 
+

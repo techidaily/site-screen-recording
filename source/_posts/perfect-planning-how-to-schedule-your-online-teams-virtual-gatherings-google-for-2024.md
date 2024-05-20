@@ -1,7 +1,7 @@
 ---
 title: "\"Perfect Planning  How to Schedule Your Online Team's Virtual Gatherings (Google) for 2024\""
-date: 2024-05-18T00:56:06.002Z
-updated: 2024-05-19T00:56:06.002Z
+date: 2024-05-19T17:20:36.470Z
+updated: 2024-05-20T17:20:36.470Z
 tags: 
   - screen-recording
   - ai video
@@ -682,4 +682,5 @@ You can share links of the meetings you have created, join with links, schedule 
 <li><a href="https://meme-emoji.techidaily.com/new-how-to-make-an-emoji-of-yourself-on-android-and-iphone-emoji-yourself-for-2024/"><u>New How to Make an Emoji of Yourself on Android and iPhone Emoji Yourself for 2024</u></a></li>
 <li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-bring-your-ideas-to-life-best-video-animation-apps-for-mobile-devices/"><u>Updated 2024 Approved Bring Your Ideas to Life Best Video Animation Apps for Mobile Devices</u></a></li>
 </ul></div>
+
 

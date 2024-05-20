@@ -702,3 +702,4 @@ Assuming you at any point need to record your screen on Ubuntu Linux, there are 
 <li><a href="https://screen-mirror.techidaily.com/6-methods-to-share-apple-iphone-8-plus-screen-with-pc-drfone-by-drfone-ios/"><u>6 Methods to Share Apple iPhone 8 Plus Screen with PC | Dr.fone</u></a></li>
 </ul></div>
 
+

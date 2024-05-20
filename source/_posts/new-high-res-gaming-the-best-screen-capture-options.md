@@ -364,3 +364,4 @@ If you're already using Fraps for benchmarking or simply keeping track of framer
 <li><a href="https://audio-shaping.techidaily.com/pure-soundscapes-a-comprehensive-manual-on-sound-editing-in-adobe-audition/"><u>Pure Soundscapes A Comprehensive Manual on Sound Editing in Adobe Audition</u></a></li>
 </ul></div>
 
+

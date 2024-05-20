@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Dissecting Fraps Screen Capture Features\""
-date: 2024-05-18T00:51:23.676Z
-updated: 2024-05-19T00:51:23.676Z
+date: 2024-05-19T17:20:25.101Z
+updated: 2024-05-20T17:20:25.101Z
 tags: 
   - screen-recording
   - ai video
@@ -339,4 +339,5 @@ If you're already using Fraps for benchmarking or simply keeping track of framer
 <li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Oppo K11 5G | Dr.fone</u></a></li>
 <li><a href="https://iphone-location.techidaily.com/how-to-view-gpx-files-online-and-offline-solutions-of-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>How to View GPX Files Online and Offline Solutions Of Apple iPhone 6s | Dr.fone</u></a></li>
 </ul></div>
+
 

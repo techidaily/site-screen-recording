@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Step-by-Step OBS Tutorial for Skype Sessions\""
-date: 2024-05-18T00:48:37.823Z
-updated: 2024-05-19T00:48:37.823Z
+date: 2024-05-19T17:20:18.413Z
+updated: 2024-05-20T17:20:18.413Z
 tags: 
   - screen-recording
   - ai video
@@ -374,4 +374,5 @@ So form the above discussion it can be concluded that OBS for screen recording c
 <li><a href="https://video-creation-software.techidaily.com/new-in-2024-unbiased-review-is-avs-video-editor-the-right-choice-for-you/"><u>New In 2024, Unbiased Review Is AVS Video Editor the Right Choice for You?</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-play-hevc-h-265-video-on-motorola-moto-g34-5g-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How to play HEVC H.265 video on Motorola Moto G34 5G?</u></a></li>
 </ul></div>
+
 

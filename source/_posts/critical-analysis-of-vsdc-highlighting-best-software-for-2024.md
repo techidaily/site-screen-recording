@@ -309,3 +309,4 @@ There may be a lot of other similar applications like VSDC on the internet out t
 <li><a href="https://animation-videos.techidaily.com/2024-approved-how-to-animate-image-on-scroll-and-text-on-scroll/"><u>2024 Approved How to Animate Image on Scroll and Text on Scroll?</u></a></li>
 </ul></div>
 
+

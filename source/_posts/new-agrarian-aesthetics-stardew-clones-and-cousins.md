@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Agrarian Aesthetics  Stardew Clones and Cousins\""
-date: 2024-05-18T00:46:44.623Z
-updated: 2024-05-19T00:46:44.623Z
+date: 2024-05-19T17:20:13.096Z
+updated: 2024-05-20T17:20:13.096Z
 tags: 
   - screen-recording
   - ai video
@@ -312,4 +312,5 @@ Follow @Richard Bennett
 <li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-15-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 15 without Losing Anything? | Dr.fone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/new-in-2024-detailed-tutorial-to-rotate-a-video-in-cyberlink-powerdirector/"><u>New In 2024, Detailed Tutorial to Rotate a Video in Cyberlink PowerDirector</u></a></li>
 </ul></div>
+
 

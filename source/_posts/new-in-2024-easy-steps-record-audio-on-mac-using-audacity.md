@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Easy Steps  Record Audio on Mac Using Audacity\""
-date: 2024-05-18T00:38:03.353Z
-updated: 2024-05-19T00:38:03.353Z
+date: 2024-05-19T17:19:52.184Z
+updated: 2024-05-20T17:19:52.184Z
 tags: 
   - screen-recording
   - ai video
@@ -266,4 +266,5 @@ If you are looking for a free audio recorder on Mac, Audacity fits in perfectly.
 <li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-infinix-hot-40-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on Infinix Hot 40</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-apple-iphone-8-activation-lock-by-drfone-ios/"><u>In 2024, How to Remove Apple iPhone 8 Activation Lock</u></a></li>
 </ul></div>
+
 

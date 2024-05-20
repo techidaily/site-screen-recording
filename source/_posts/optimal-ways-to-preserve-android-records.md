@@ -193,3 +193,4 @@ The easiest way to record the screen on your Android device is by using the inbu
 <li><a href="https://techidaily.com/how-do-i-reset-my-infinix-note-30i-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Infinix Note 30i Phone without technical knowledge? | Dr.fone</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: "The Complete Guide to Professional FBX Game Capture"
-date: 2024-05-18T00:51:58.342Z
-updated: 2024-05-19T00:51:58.342Z
+date: 2024-05-19T17:20:26.848Z
+updated: 2024-05-20T17:20:26.848Z
 tags: 
   - screen-recording
   - ai video
@@ -539,4 +539,5 @@ If you are looking for a screen recorder that is specifically designed to captur
 <li><a href="https://sound-tweaking.techidaily.com/new-best-9-ai-voice-generators-that-will-save-your-day-for-2024/"><u>New Best 9 AI Voice Generators That Will Save Your Day for 2024</u></a></li>
 <li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-xiaomi-redmi-k70-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Xiaomi Redmi K70 | Dr.fone</u></a></li>
 </ul></div>
+
 

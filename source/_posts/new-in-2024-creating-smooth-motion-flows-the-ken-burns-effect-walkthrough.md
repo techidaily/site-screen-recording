@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Creating Smooth Motion Flows  The Ken Burns Effect Walkthrough\""
-date: 2024-05-18T00:34:37.954Z
-updated: 2024-05-19T00:34:37.954Z
+date: 2024-05-19T17:19:44.264Z
+updated: 2024-05-20T17:19:44.264Z
 tags: 
   - screen-recording
   - ai video
@@ -370,4 +370,5 @@ Follow @Max Wales
 <li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-unveiling-the-secrets-audio-extraction-tools-and-methods-for-modern-media-consumption-windows-mac-iosandroid-updated/"><u>Updated In 2024, Unveiling the Secrets Audio Extraction Tools and Methods for Modern Media Consumption (Windows, Mac, iOS/Android - Updated )</u></a></li>
 <li><a href="https://ai-driven-video-production.techidaily.com/updated-best-animated-video-makers-for-android-and-ios-updated-2023/"><u>Updated Best Animated Video Makers for Android and iOS (Updated 2023)</u></a></li>
 </ul></div>
+
 

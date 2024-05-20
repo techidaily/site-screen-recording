@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  How to Reset and Fix OBS Fullscreen Issue\""
-date: 2024-05-18T00:51:25.092Z
-updated: 2024-05-19T00:51:25.092Z
+date: 2024-05-19T17:20:25.158Z
+updated: 2024-05-20T17:20:25.158Z
 tags: 
   - screen-recording
   - ai video
@@ -268,4 +268,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-how-to-create-intro-video-with-filmora/"><u>Updated 2024 Approved How to Create Intro Video with Filmora</u></a></li>
 <li><a href="https://sound-optimizing.techidaily.com/essential-audiophile-gear-top-9-tools-to-boost-your-podcast-and-broadcast-clarity/"><u>Essential Audiophile Gear Top 9 Tools to Boost Your Podcast and Broadcast Clarity</u></a></li>
 </ul></div>
+
 

@@ -381,3 +381,4 @@ Follow @Max Wales
 <li><a href="https://ai-video-tools.techidaily.com/new-top-text-animation-apps-for-mobile-video-editing/"><u>New Top Text Animation Apps for Mobile Video Editing</u></a></li>
 </ul></div>
 
+

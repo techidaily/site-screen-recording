@@ -1,7 +1,7 @@
 ---
 title: "Easy Guide to Using Your Phone as an Alternative Camera for 2024"
-date: 2024-05-18T00:39:48.506Z
-updated: 2024-05-19T00:39:48.506Z
+date: 2024-05-19T17:19:56.722Z
+updated: 2024-05-20T17:19:56.722Z
 tags: 
   - screen-recording
   - ai video
@@ -634,4 +634,5 @@ Follow @Max Wales
 <li><a href="https://android-pokemon-go.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Infinix Smart 8? | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/unlock-your-iphone-7-plus-in-minutes-with-iccid-code-everything-you-need-to-know-by-drfone-ios/"><u>Unlock Your iPhone 7 Plus in Minutes with ICCID Code Everything You Need to Know</u></a></li>
 </ul></div>
+
 

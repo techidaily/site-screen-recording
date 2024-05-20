@@ -1,7 +1,7 @@
 ---
 title: "[New] Live Gaming Snapshot with Fraps Analysis"
-date: 2024-05-18T00:38:42.712Z
-updated: 2024-05-19T00:38:42.712Z
+date: 2024-05-19T17:19:54.139Z
+updated: 2024-05-20T17:19:54.139Z
 tags: 
   - screen-recording
   - ai video
@@ -329,4 +329,5 @@ If you're already using Fraps for benchmarking or simply keeping track of framer
 <li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-cricket-iphone-xs-for-free-by-drfone-ios/"><u>In 2024, How To Unlock Cricket iPhone XS for Free</u></a></li>
 <li><a href="https://audio-editing.techidaily.com/updated-2024-approved-top-5-humorous-tone-adjusters-for-enhanced-call-amusement/"><u>Updated 2024 Approved Top 5 Humorous Tone Adjusters for Enhanced Call Amusement</u></a></li>
 </ul></div>
+
 

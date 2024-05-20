@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Advanced Setup  Setting up an Elapsed Time Display in OBS\""
-date: 2024-05-18T00:52:18.196Z
-updated: 2024-05-19T00:52:18.196Z
+date: 2024-05-19T17:20:27.637Z
+updated: 2024-05-20T17:20:27.637Z
 tags: 
   - screen-recording
   - ai video
@@ -251,4 +251,5 @@ OBS Studio can look intimidating at first. But once you learn the ropes, this de
 <li><a href="https://animation-videos.techidaily.com/new-best-15-2d-animation-software-free-that-worth-to-try/"><u>New Best 15 2D Animation Software Free That Worth to Try</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Google Pixel Fold? | Dr.fone</u></a></li>
 </ul></div>
+
 

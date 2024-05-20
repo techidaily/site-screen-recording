@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Integrating Real-Time Collaboration  Slack & Filmora's Meeting Guide for 2024\""
-date: 2024-05-18T00:49:44.827Z
-updated: 2024-05-19T00:49:44.827Z
+date: 2024-05-19T17:20:21.384Z
+updated: 2024-05-20T17:20:21.384Z
 tags: 
   - screen-recording
   - ai video
@@ -524,4 +524,5 @@ Follow @Shanoon Cox
 <li><a href="https://sound-optimizing.techidaily.com/the-ultimate-guide-to-cutting-edge-music-video-techniques-for-2024/"><u>The Ultimate Guide to Cutting-Edge Music Video Techniques for 2024</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-best-movie-intro-software-create-professional-looking-intros/"><u>Updated In 2024, Best Movie Intro Software Create Professional-Looking Intros</u></a></li>
 </ul></div>
+
 

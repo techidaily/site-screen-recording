@@ -521,3 +521,4 @@ Open Broadcaster Program, also known as OBS, is a free open-source software for 
 <li><a href="https://ai-video-apps.techidaily.com/new-avs-video-editor-is-only-available-on-windows-you-need-to-get-avs-video-editor-alternative-for-mac-for-2024/"><u>New AVS Video Editor Is only Available on Windows, You Need to Get AVS Video Editor Alternative for Mac for 2024</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] DigitalDiary Pro  Rich Windows/Mac Screen Capture for 2024\""
-date: 2024-05-18T00:38:32.664Z
-updated: 2024-05-19T00:38:32.664Z
+date: 2024-05-19T17:19:53.756Z
+updated: 2024-05-20T17:19:53.756Z
 tags: 
   - screen-recording
   - ai video
@@ -1251,4 +1251,5 @@ Follow @Max Wales
 <li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-iphone-13-with-imei-code-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 13 with IMEI Code?</u></a></li>
 <li><a href="https://howto.techidaily.com/9-solutions-to-fix-motorola-edge-40-neo-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Motorola Edge 40 Neo System Crash Issue | Dr.fone</u></a></li>
 </ul></div>
+
 

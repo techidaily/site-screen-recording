@@ -1,7 +1,7 @@
 ---
 title: "[New] Internal Recorder Usage for Capturing Screens on Mate Series & P Series (Mate 10/20; P20/10) for 2024"
-date: 2024-05-18T00:47:47.579Z
-updated: 2024-05-19T00:47:47.579Z
+date: 2024-05-19T17:20:16.534Z
+updated: 2024-05-20T17:20:16.534Z
 tags: 
   - screen-recording
   - ai video
@@ -397,4 +397,5 @@ Follow @Max Wales
 <li><a href="https://iphone-unlock.techidaily.com/disabled-iphone-15-pro-max-how-to-unlock-a-disabled-iphone-15-pro-max-drfone-by-drfone-ios/"><u>Disabled iPhone 15 Pro Max How to Unlock a Disabled iPhone 15 Pro Max? | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Vivo T2 Pro 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 

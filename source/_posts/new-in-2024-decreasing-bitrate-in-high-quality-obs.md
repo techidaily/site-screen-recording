@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Decreasing Bitrate in High-Quality OBS\""
-date: 2024-05-18T00:39:05.870Z
-updated: 2024-05-19T00:39:05.870Z
+date: 2024-05-19T17:19:55.010Z
+updated: 2024-05-20T17:19:55.010Z
 tags: 
   - screen-recording
   - ai video
@@ -261,4 +261,5 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 <li><a href="https://change-location.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Xiaomi Redmi A2+? | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-vivo-v30-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Vivo V30 Phone Screen?</u></a></li>
 </ul></div>
+
 

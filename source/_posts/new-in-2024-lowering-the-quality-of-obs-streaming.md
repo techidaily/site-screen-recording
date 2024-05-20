@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Lowering the Quality of OBS Streaming"
-date: 2024-05-18T00:41:38.809Z
-updated: 2024-05-19T00:41:38.809Z
+date: 2024-05-19T17:20:01.073Z
+updated: 2024-05-20T17:20:01.073Z
 tags: 
   - screen-recording
   - ai video
@@ -267,4 +267,5 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 <li><a href="https://ios-location-track.techidaily.com/how-to-track-whatsapp-messages-on-apple-iphone-15-pro-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>How to Track WhatsApp Messages on Apple iPhone 15 Pro Without Them Knowing? | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-samsung-galaxy-m54-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Samsung Galaxy M54 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

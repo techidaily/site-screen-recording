@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Resolving Missing Sound in OBS"
-date: 2024-05-18T00:46:35.977Z
-updated: 2024-05-19T00:46:35.977Z
+date: 2024-05-19T17:20:12.773Z
+updated: 2024-05-20T17:20:12.773Z
 tags: 
   - screen-recording
   - ai video
@@ -580,4 +580,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Sony Xperia 1 V | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-realme-11x-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Realme 11X 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

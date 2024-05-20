@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Urban Escapades  Top 10 Games Akin to GTA V\""
-date: 2024-05-18T00:54:33.433Z
-updated: 2024-05-19T00:54:33.433Z
+date: 2024-05-19T17:20:32.852Z
+updated: 2024-05-20T17:20:32.852Z
 tags: 
   - screen-recording
   - ai video
@@ -847,4 +847,5 @@ So, this was our list of 10 best games like GTA 5\. We tried our best to keep th
 <li><a href="https://pokemon-go-android.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-honor-90-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Honor 90 | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-factory-reset-honor-80-pro-straight-screen-edition-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Honor 80 Pro Straight Screen Edition in 5 Easy Ways | Dr.fone</u></a></li>
 </ul></div>
+
 

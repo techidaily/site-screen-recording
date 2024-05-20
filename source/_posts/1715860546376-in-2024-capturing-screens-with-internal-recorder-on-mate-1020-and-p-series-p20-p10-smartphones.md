@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Capturing Screens with Internal Recorder on Mate 10/20 & P Series (P20, P10) Smartphones."
-date: 2024-05-18T00:42:51.300Z
-updated: 2024-05-19T00:42:51.300Z
+date: 2024-05-19T17:20:03.621Z
+updated: 2024-05-20T17:20:03.621Z
 tags: 
   - screen-recording
   - ai video
@@ -391,4 +391,5 @@ Follow @Max Wales
 <li><a href="https://ai-video-tools.techidaily.com/1714198135373-new-in-2024-ultimate-aiff-converter-selection-blueprint/"><u>New In 2024, Ultimate Aiff Converter Selection Blueprint</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/apple-video-editing-mastery-essential-software-you-need-for-2024/"><u>Apple Video Editing Mastery Essential Software You Need for 2024</u></a></li>
 </ul></div>
+
 

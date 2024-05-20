@@ -827,3 +827,4 @@ Follow @Richard Bennett
 <li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-vivo-y77t-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Vivo Y77t Without Volume Buttons | Dr.fone</u></a></li>
 </ul></div>
 
+

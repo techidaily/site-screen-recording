@@ -1,7 +1,7 @@
 ---
 title: "\"The Editor's Handbook  Utilizing Strikethrough and Callout Tools for 2024\""
-date: 2024-05-18T00:38:15.695Z
-updated: 2024-05-19T00:38:15.695Z
+date: 2024-05-19T17:19:52.752Z
+updated: 2024-05-20T17:19:52.752Z
 tags: 
   - screen-recording
   - ai video
@@ -550,4 +550,5 @@ Follow @Max Wales
 <li><a href="https://apple-account.techidaily.com/unlock-apple-id-without-phone-number-from-iphone-15-plus-by-drfone-ios/"><u>Unlock Apple ID without Phone Number From iPhone 15 Plus</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/the-complete-guide-to-making-fortnite-montage/"><u>The Complete Guide to Making Fortnite Montage</u></a></li>
 </ul></div>
+
 

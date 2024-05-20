@@ -1,7 +1,7 @@
 ---
 title: "\"Creating Smooth Motion Flows  The Ken Burns Effect Walkthrough\""
-date: 2024-05-18T00:49:00.450Z
-updated: 2024-05-19T00:49:00.450Z
+date: 2024-05-19T17:20:19.344Z
+updated: 2024-05-20T17:20:19.344Z
 tags: 
   - screen-recording
   - ai video
@@ -388,4 +388,5 @@ Follow @Max Wales
 <li><a href="https://review-topics.techidaily.com/how-to-unlock-oppo-a79-5g-by-drfone-android-unlock-android-unlock/"><u>How to unlock Oppo A79 5G</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-nokia-c300-is-unlocked-by-drfone-android/"><u>How To Check if Your Nokia C300 Is Unlocked</u></a></li>
 </ul></div>
+
 

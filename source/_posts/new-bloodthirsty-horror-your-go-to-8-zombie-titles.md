@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Bloodthirsty Horror  Your Go-To 8 Zombie Titles\""
-date: 2024-05-18T00:51:30.955Z
-updated: 2024-05-19T00:51:30.955Z
+date: 2024-05-19T17:20:25.441Z
+updated: 2024-05-20T17:20:25.441Z
 tags: 
   - screen-recording
   - ai video
@@ -336,4 +336,5 @@ Get started today with Filmora's powerful performance, user-friendly interface, 
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-show-wi-fi-password-on-xiaomi-13t-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Xiaomi 13T</u></a></li>
 <li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Samsung Galaxy S23 FE | Dr.fone</u></a></li>
 </ul></div>
+
 

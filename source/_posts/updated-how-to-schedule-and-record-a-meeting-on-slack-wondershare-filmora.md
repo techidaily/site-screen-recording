@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] How to Schedule and Record a Meeting on Slack-Wondershare Filmora\""
-date: 2024-05-18T00:42:59.080Z
-updated: 2024-05-19T00:42:59.080Z
+date: 2024-05-19T17:20:03.888Z
+updated: 2024-05-20T17:20:03.888Z
 tags: 
   - screen-recording
   - ai video
@@ -537,4 +537,5 @@ Follow @Shanoon Cox
 <li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-webm-vs-mp4-10-best-conversion-software-options/"><u>New 2024 Approved WebM vs MP4 10 Best Conversion Software Options</u></a></li>
 <li><a href="https://sound-tweaking.techidaily.com/updated-harmony-helpers-the-premier-sync-edit-software-for-video-rhythms-2023-release/"><u>Updated Harmony Helpers The Premier Sync Edit Software for Video Rhythms, 2023 Release</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "Guide to Skype Call Audio & Video Capture Windows/OS X for 2024"
-date: 2024-05-18T01:00:02.378Z
-updated: 2024-05-19T01:00:02.378Z
+date: 2024-05-19T17:20:45.744Z
+updated: 2024-05-20T17:20:45.744Z
 tags: 
   - screen-recording
   - ai video
@@ -579,4 +579,5 @@ Follow @Max Wales
 <li><a href="https://video-content-creator.techidaily.com/new-in-2024-unleash-your-creativity-best-free-video-editors-for-32-bit-windows/"><u>New In 2024, Unleash Your Creativity Best Free Video Editors for 32-Bit Windows</u></a></li>
 <li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-xiaomi-14-ultra-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Xiaomi 14 Ultra Devices | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Capture the World Through the Lens of Mi 11\""
-date: 2024-05-18T00:34:37.397Z
-updated: 2024-05-19T00:34:37.397Z
+date: 2024-05-19T17:19:44.222Z
+updated: 2024-05-20T17:19:44.222Z
 tags: 
   - screen-recording
   - ai video
@@ -565,4 +565,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://ai-video-editing.techidaily.com/new-how-to-make-a-fantastic-cafe-vlog/"><u>New How to Make A Fantastic Café Vlog</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/new-in-2024-a-beginners-guide-to-creating-custom-linkedin-video-thumbnails-that-convert/"><u>New In 2024, A Beginners Guide to Creating Custom LinkedIn Video Thumbnails That Convert</u></a></li>
 </ul></div>
+
 

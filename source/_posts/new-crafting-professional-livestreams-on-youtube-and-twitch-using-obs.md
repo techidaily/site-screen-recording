@@ -1,7 +1,7 @@
 ---
 title: "[New] Crafting Professional Livestreams on YouTube and Twitch Using OBS"
-date: 2024-05-18T00:58:00.956Z
-updated: 2024-05-19T00:58:00.956Z
+date: 2024-05-19T17:20:40.680Z
+updated: 2024-05-20T17:20:40.680Z
 tags: 
   - screen-recording
   - ai video
@@ -165,4 +165,5 @@ OBS is an open-source [video recorder](https://tools.techidaily.com/wondershare/
 <li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-avi-files-of-infinix-note-30-pro-with-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and AVI files of Infinix Note 30 Pro with Video Repair Utility on Mac?</u></a></li>
 <li><a href="https://video-content-creator.techidaily.com/updated-resize-your-video-in-a-flash-tips-and-tricks-for-2024/"><u>Updated Resize Your Video in a Flash Tips and Tricks for 2024</u></a></li>
 </ul></div>
+
 

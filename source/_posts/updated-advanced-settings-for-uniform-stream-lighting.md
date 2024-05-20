@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Advanced Settings for Uniform Stream Lighting"
-date: 2024-05-18T00:51:46.040Z
-updated: 2024-05-19T00:51:46.040Z
+date: 2024-05-19T17:20:26.292Z
+updated: 2024-05-20T17:20:26.292Z
 tags: 
   - screen-recording
   - ai video
@@ -288,4 +288,5 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 <li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-vivo-y200-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Vivo Y200? Fixed | Dr.fone</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/new-extract-audio-from-video-top-mp4-to-mp3-apps/"><u>New Extract Audio From Video Top MP4 to MP3 Apps</u></a></li>
 </ul></div>
+
 

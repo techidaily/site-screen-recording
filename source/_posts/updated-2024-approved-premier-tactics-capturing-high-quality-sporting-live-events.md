@@ -406,3 +406,4 @@ Video catch can help you create a little sense of the chaos you might feel, espe
 <li><a href="https://ios-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>How to get the dragon scale and evolution-enabled pokemon On Apple iPhone 7? | Dr.fone</u></a></li>
 </ul></div>
 
+

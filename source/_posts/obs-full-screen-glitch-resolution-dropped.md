@@ -267,3 +267,4 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://sound-optimizing.techidaily.com/updated-capturing-sounds-on-the-go-a-guide-to-free-audio-recording-with-audacity/"><u>Updated Capturing Sounds on the Go A Guide to Free Audio Recording with Audacity</u></a></li>
 </ul></div>
 
+

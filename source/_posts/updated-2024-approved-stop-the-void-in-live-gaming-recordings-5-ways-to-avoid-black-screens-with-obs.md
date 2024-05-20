@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Stop the Void in Live Gaming Recordings  5 Ways to Avoid Black Screens with OBS\""
-date: 2024-05-18T00:42:56.591Z
-updated: 2024-05-19T00:42:56.591Z
+date: 2024-05-19T17:20:03.811Z
+updated: 2024-05-20T17:20:03.811Z
 tags: 
   - screen-recording
   - ai video
@@ -248,4 +248,5 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://voice-adjusting.techidaily.com/the-ultimate-list-of-top-tier-digital-volume-enhancers-online-for-2024/"><u>The Ultimate List of Top-Tier Digital Volume Enhancers Online for 2024</u></a></li>
 <li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -506,3 +506,4 @@ Follow @Max Wales
 <li><a href="https://animation-videos.techidaily.com/new-5-ways-you-never-heard-of-for-converting-mp4-to-gif-in-photoshop/"><u>New 5 Ways You Never Heard of for Converting MP4 to GIF in Photoshop</u></a></li>
 </ul></div>
 
+

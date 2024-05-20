@@ -212,3 +212,4 @@ The easiest way to record the screen on your Android device is by using the inbu
 <li><a href="https://easy-unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-oppo-a78-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Oppo A78?</u></a></li>
 </ul></div>
 
+

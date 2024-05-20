@@ -261,3 +261,4 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://video-creation-software.techidaily.com/new-say-goodbye-to-black-bars-amazon-prime-video-aspect-ratio-solutions-for-2024/"><u>New Say Goodbye to Black Bars Amazon Prime Video Aspect Ratio Solutions for 2024</u></a></li>
 </ul></div>
 
+

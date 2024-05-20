@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Uniting OBS and Zoom  A Compreehensive Video Guide\""
-date: 2024-05-18T00:50:25.274Z
-updated: 2024-05-19T00:50:25.274Z
+date: 2024-05-19T17:20:22.882Z
+updated: 2024-05-20T17:20:22.882Z
 tags: 
   - screen-recording
   - ai video
@@ -403,4 +403,5 @@ OBS enables recording into several video formats. But the major reason why you m
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Tecno Phantom V Flip | Dr.fone</u></a></li>
 <li><a href="https://sound-optimizing.techidaily.com/updated-expert-strategies-for-merging-unparalleled-music-into-mp4-cinematics-for-2024/"><u>Updated Expert Strategies for Merging Unparalleled Music Into MP4 Cinematics for 2024</u></a></li>
 </ul></div>
+
 

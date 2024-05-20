@@ -689,3 +689,4 @@ You can record MOV file on Windows as well as Mac when you have the recorder tha
 <li><a href="https://techidaily.com/hard-resetting-an-vivo-v27-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Vivo V27 Device Made Easy | Dr.fone</u></a></li>
 </ul></div>
 
+

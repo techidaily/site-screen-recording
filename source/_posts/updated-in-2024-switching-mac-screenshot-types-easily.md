@@ -440,3 +440,4 @@ Follow @Max Wales
 <li><a href="https://ai-vdieo-software.techidaily.com/add-a-timer-in-minutes-a-quick-fcpx-tutorial/"><u>Add a Timer in Minutes A Quick FCPX Tutorial</u></a></li>
 </ul></div>
 
+

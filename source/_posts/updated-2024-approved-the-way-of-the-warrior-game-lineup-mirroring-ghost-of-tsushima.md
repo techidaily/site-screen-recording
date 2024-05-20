@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  The Way of the Warrior  Game Lineup Mirroring Ghost of Tsushima\""
-date: 2024-05-18T00:53:21.093Z
-updated: 2024-05-19T00:53:21.093Z
+date: 2024-05-19T17:20:29.862Z
+updated: 2024-05-20T17:20:29.862Z
 tags: 
   - screen-recording
   - ai video
@@ -591,4 +591,5 @@ Follow @Ollie Mattison
 <li><a href="https://change-location.techidaily.com/pokemon-go-cooldown-chart-on-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Vivo Y78 5G | Dr.fone</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/clear-the-clutter-a-comprehensive-guide-to-freeing-up-space-on-your-fcpx-mac/"><u>Clear the Clutter A Comprehensive Guide to Freeing Up Space on Your FCPX Mac</u></a></li>
 </ul></div>
+
 

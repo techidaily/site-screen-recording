@@ -263,3 +263,4 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://blog-min.techidaily.com/how-to-play-hevc-h-265-video-on-galaxy-xcover-7-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How to play HEVC H.265 video on Galaxy XCover 7?</u></a></li>
 </ul></div>
 
+

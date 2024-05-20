@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Countdown Configuration for OBS Users  A Compreenas Guide\""
-date: 2024-05-18T00:52:56.508Z
-updated: 2024-05-19T00:52:56.508Z
+date: 2024-05-19T17:20:29.060Z
+updated: 2024-05-20T17:20:29.060Z
 tags: 
   - screen-recording
   - ai video
@@ -284,4 +284,5 @@ OBS Studio can look intimidating at first. But once you learn the ropes, this de
 <li><a href="https://ios-pokemon-go.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>Which Pokémon can Evolve with a Moon Stone For Apple iPhone 13 mini? | Dr.fone</u></a></li>
 <li><a href="https://audio-editing.techidaily.com/updated-2024-approved-achieving-precision-audio-editing-step-by-step-premiere-pro-methods/"><u>Updated 2024 Approved Achieving Precision Audio Editing Step by Step Premiere Pro Methods</u></a></li>
 </ul></div>
+
 

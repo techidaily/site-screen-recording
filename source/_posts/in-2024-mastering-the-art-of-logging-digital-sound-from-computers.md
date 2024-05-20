@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Mastering the Art of Logging Digital Sound From Computers"
-date: 2024-05-18T00:49:20.836Z
-updated: 2024-05-19T00:49:20.836Z
+date: 2024-05-19T17:20:20.200Z
+updated: 2024-05-20T17:20:20.200Z
 tags: 
   - screen-recording
   - ai video
@@ -805,4 +805,5 @@ This article highlights the various methods that can be used to record pc sound 
 <li><a href="https://audio-editing.techidaily.com/updated-2024-approved-expert-techniques-for-audio-track-replacement-in-multimedia-files/"><u>Updated 2024 Approved Expert Techniques for Audio Track Replacement in Multimedia Files</u></a></li>
 <li><a href="https://smart-video-editing.techidaily.com/new-top-free-video-smoothers-for-silky-footage-for-2024/"><u>New Top Free Video Smoothers for Silky Footage for 2024</u></a></li>
 </ul></div>
+
 

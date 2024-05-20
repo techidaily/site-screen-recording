@@ -1,7 +1,7 @@
 ---
 title: "[New] Using Inbuilt Recorders for Screen Capture on Huawei's Mate and P Series Devices"
-date: 2024-05-18T00:38:17.061Z
-updated: 2024-05-19T00:38:17.061Z
+date: 2024-05-19T17:19:52.786Z
+updated: 2024-05-20T17:19:52.786Z
 tags: 
   - screen-recording
   - ai video
@@ -381,4 +381,5 @@ Follow @Max Wales
 <li><a href="https://activate-lock.techidaily.com/full-guide-to-apple-iphone-6-plus-icloud-bypass-by-drfone-ios/"><u>Full guide to Apple iPhone 6 Plus iCloud Bypass</u></a></li>
 <li><a href="https://sound-optimizing.techidaily.com/new-pinpointing-the-acoustic-signature-of-a-clicky-button-for-2024/"><u>New Pinpointing the Acoustic Signature of a Clicky Button for 2024</u></a></li>
 </ul></div>
+
 

@@ -491,3 +491,4 @@ The easiest method for screen capture on Lenovo is to utilize the key combinatio
 <li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-nubia-z50s-pro-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Nubia Z50S Pro | Dr.fone</u></a></li>
 </ul></div>
 
+

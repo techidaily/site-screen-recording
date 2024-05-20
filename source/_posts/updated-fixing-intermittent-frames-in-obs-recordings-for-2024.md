@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Fixing Intermittent Frames in OBS Recordings for 2024"
-date: 2024-05-18T00:53:45.944Z
-updated: 2024-05-19T00:53:45.944Z
+date: 2024-05-19T17:20:31.201Z
+updated: 2024-05-20T17:20:31.201Z
 tags: 
   - screen-recording
   - ai video
@@ -591,4 +591,5 @@ OBS drop frame is probably the most common issue reported by OBS users. Whenever
 <li><a href="https://audio-editing.techidaily.com/in-2024-eliminating-background-rattle-a-detailed-process-to-enhance-clarity-during-audio-capture/"><u>In 2024, Eliminating Background Rattle A Detailed Process to Enhance Clarity During Audio Capture</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-motorola-moto-g23-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Motorola Moto G23 to New Phone | Dr.fone</u></a></li>
 </ul></div>
+
 

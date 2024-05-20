@@ -359,3 +359,4 @@ Follow @Shanoon Cox
 <li><a href="https://ai-editing-video.techidaily.com/what-is-an-eye-zoom-transition-effect-its-a-close-up-video-effect-allowing-viewers-to-transit-to-the-next-clip-from-the-eye/"><u>What Is an Eye Zoom Transition Effect? Its a Close-Up Video Effect Allowing Viewers to Transit to the Next Clip From the Eye</u></a></li>
 </ul></div>
 
+

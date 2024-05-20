@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Expert Tips for Mac Users  Audacity's Audio Recording Features\""
-date: 2024-05-18T00:50:32.041Z
-updated: 2024-05-19T00:50:32.041Z
+date: 2024-05-19T17:20:23.151Z
+updated: 2024-05-20T17:20:23.151Z
 tags: 
   - screen-recording
   - ai video
@@ -264,4 +264,5 @@ If you are looking for a free audio recorder on Mac, Audacity fits in perfectly.
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-show-wi-fi-password-on-realme-12-5g-by-drfone-android/"><u>How to Show Wi-Fi Password on Realme 12 5G</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/new-unleash-your-creativity-best-mobile-video-editing-apps-for-ios-and-android-for-2024/"><u>New Unleash Your Creativity Best Mobile Video Editing Apps for iOS and Android for 2024</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Mastering Skype Meetings  Windows/OS X Record\""
-date: 2024-05-18T00:44:30.015Z
-updated: 2024-05-19T00:44:30.015Z
+date: 2024-05-19T17:20:07.733Z
+updated: 2024-05-20T17:20:07.733Z
 tags: 
   - screen-recording
   - ai video
@@ -598,4 +598,5 @@ Follow @Max Wales
 <li><a href="https://video-creation-software.techidaily.com/new-2024-approved-more-than-you-could-dream-or-imagine-final-cut-pro-x-is-a-powerful-software-one-such-hidden-feature-from-fcpx-is-jump-cuts-and-we-shall-kn/"><u>New 2024 Approved More than You Could Dream or Imagine, Final Cut Pro X Is a Powerful Software. One Such Hidden Feature From FCPX Is Jump Cuts, and We Shall Know More About Final Cut Pro Jump Cuts in This Article</u></a></li>
 <li><a href="https://audio-editing.techidaily.com/updated-in-2024-enhancing-mobile-audio-clarity-ranking-the-best-apps-to-improve-iphone-and-android-sound/"><u>Updated In 2024, Enhancing Mobile Audio Clarity Ranking the Best Apps to Improve iPhone & Android Sound</u></a></li>
 </ul></div>
+
 

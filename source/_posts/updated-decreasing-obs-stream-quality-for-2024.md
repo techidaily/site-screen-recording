@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Decreasing OBS Stream Quality for 2024"
-date: 2024-05-18T00:44:07.902Z
-updated: 2024-05-19T00:44:07.902Z
+date: 2024-05-19T17:20:06.956Z
+updated: 2024-05-20T17:20:06.956Z
 tags: 
   - screen-recording
   - ai video
@@ -269,4 +269,5 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 <li><a href="https://android-unlock.techidaily.com/in-2024-unlock-oppo-a18-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Oppo A18 Phone Password Without Factory Reset Full Guide Here</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-apple-iphone-14-pro-max-without-a-passcode-drfone-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your Apple iPhone 14 Pro Max Without a Passcode | Dr.fone</u></a></li>
 </ul></div>
+
 

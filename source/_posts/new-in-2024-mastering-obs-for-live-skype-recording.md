@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Mastering OBS for Live Skype Recording"
-date: 2024-05-18T00:59:14.429Z
-updated: 2024-05-19T00:59:14.429Z
+date: 2024-05-19T17:20:43.778Z
+updated: 2024-05-20T17:20:43.778Z
 tags: 
   - screen-recording
   - ai video
@@ -343,4 +343,5 @@ So form the above discussion it can be concluded that OBS for screen recording c
 <li><a href="https://sound-optimizing.techidaily.com/updated-what-is-clubhouse-all-about-all-you-need-to-know-about-clubhouse/"><u>Updated What Is Clubhouse All About? All You Need to Know About Clubhouse</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/in-2024-srt-file-creator/"><u>In 2024, Srt File Creator</u></a></li>
 </ul></div>
+
 

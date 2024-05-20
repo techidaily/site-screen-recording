@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Capturing Skype Chats  An OBS Guide\""
-date: 2024-05-18T00:34:32.109Z
-updated: 2024-05-19T00:34:32.109Z
+date: 2024-05-19T17:19:44.000Z
+updated: 2024-05-20T17:19:44.000Z
 tags: 
   - screen-recording
   - ai video
@@ -346,4 +346,5 @@ So form the above discussion it can be concluded that OBS for screen recording c
 <li><a href="https://unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-zte-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your ZTE Phone Now with These Tips</u></a></li>
 <li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-make-quicktime-play-faster-tips-and-tricks-for-speeding-up-videos/"><u>Updated 2024 Approved Make QuickTime Play Faster Tips and Tricks for Speeding Up Videos</u></a></li>
 </ul></div>
+
 

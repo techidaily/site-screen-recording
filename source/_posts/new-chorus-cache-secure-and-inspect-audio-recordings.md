@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Chorus Cache  Secure & Inspect Audio Recordings\""
-date: 2024-05-18T00:45:41.119Z
-updated: 2024-05-19T00:45:41.119Z
+date: 2024-05-19T17:20:10.422Z
+updated: 2024-05-20T17:20:10.422Z
 tags: 
   - screen-recording
   - ai video
@@ -406,4 +406,5 @@ Apple has now disabled the function of capturing internal and desktop sound in a
 <li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Sony Xperia 10 V | Dr.fone</u></a></li>
 <li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-how-to-remove-audio-from-video-on-windows-10-free-and-no-download-ways/"><u>Updated 2024 Approved How to Remove Audio From Video on Windows 10? Free and No-Download Ways</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "The Ken Burns Method in Camtasia 9 Explained Simply"
-date: 2024-05-18T00:37:28.900Z
-updated: 2024-05-19T00:37:28.900Z
+date: 2024-05-19T17:19:50.981Z
+updated: 2024-05-20T17:19:50.981Z
 tags: 
   - screen-recording
   - ai video
@@ -363,4 +363,5 @@ Follow @Max Wales
 <li><a href="https://fix-guide.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
 <li><a href="https://ai-video-tools.techidaily.com/video-editors-with-advanced-ai-powered-reframing-features-for-2024/"><u>Video Editors with Advanced AI-Powered Reframing Features for 2024</u></a></li>
 </ul></div>
+
 

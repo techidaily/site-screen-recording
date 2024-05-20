@@ -628,3 +628,4 @@ Hopefully, you have understood how to record screen with Xbox game bar directly.
 <li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-cooldown-chart-on-nokia-c32-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Nokia C32 | Dr.fone</u></a></li>
 </ul></div>
 
+

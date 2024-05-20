@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Transforming Footage  Your Guide to Ken Burns in Camtasa 9\""
-date: 2024-05-18T00:56:34.453Z
-updated: 2024-05-19T00:56:34.453Z
+date: 2024-05-19T17:20:37.478Z
+updated: 2024-05-20T17:20:37.478Z
 tags: 
   - screen-recording
   - ai video
@@ -341,4 +341,5 @@ Follow @Max Wales
 <li><a href="https://ai-editing-video.techidaily.com/in-2024-5-ways-to-denoise-a-video/"><u>In 2024, 5 Ways to Denoise a Video</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-free-green-screen-magic-top-10-apps-for-android-and-ios-users/"><u>2024 Approved Free Green Screen Magic Top 10 Apps for Android and iOS Users</u></a></li>
 </ul></div>
+
 

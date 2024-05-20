@@ -1,7 +1,7 @@
 ---
 title: "\"DigitalDiary Pro  Rich Windows/Mac Screen Capture\""
-date: 2024-05-18T00:38:10.925Z
-updated: 2024-05-19T00:38:10.925Z
+date: 2024-05-19T17:19:52.521Z
+updated: 2024-05-20T17:19:52.521Z
 tags: 
   - screen-recording
   - ai video
@@ -1282,4 +1282,5 @@ Follow @Max Wales
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-nokia-c02-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Nokia C02 to Apple TV | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Infinix Hot 40i | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -431,3 +431,4 @@ For macOS 10.12 or later
 <li><a href="https://animation-videos.techidaily.com/updated-5-best-adobe-animate-courses-and-classes-beginners-complete-tutorial/"><u>Updated 5 Best Adobe Animate Courses & Classes | Beginners Complete Tutorial</u></a></li>
 </ul></div>
 
+

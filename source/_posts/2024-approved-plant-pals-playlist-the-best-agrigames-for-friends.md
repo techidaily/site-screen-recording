@@ -878,3 +878,4 @@ Follow @Ollie Mattison
 <li><a href="https://smart-video-editing.techidaily.com/new-in-2024-fcpx-visual-storytelling-using-freeze-frames-and-slow-motion-for-impact/"><u>New In 2024, FCPX Visual Storytelling Using Freeze Frames and Slow Motion for Impact</u></a></li>
 </ul></div>
 
+

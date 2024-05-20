@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Compact Guide to Mac's Screen Recording Shortcuts"
-date: 2024-05-18T00:49:02.124Z
-updated: 2024-05-19T00:49:02.124Z
+date: 2024-05-19T17:20:19.411Z
+updated: 2024-05-20T17:20:19.411Z
 tags: 
   - screen-recording
   - ai video
@@ -388,4 +388,5 @@ A screen recorder is an instrument that catches content on your Mac screen and s
 <li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-best-8-free-video-editing-software-reddit/"><u>Updated In 2024, Best 8 Free Video Editing Software Reddit</u></a></li>
 <li><a href="https://change-location.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-vivo-y27s-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Vivo Y27s | Dr.fone</u></a></li>
 </ul></div>
+
 

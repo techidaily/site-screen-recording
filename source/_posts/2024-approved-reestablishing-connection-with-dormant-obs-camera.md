@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Reestablishing Connection with Dormant OBS Camera\""
-date: 2024-05-18T00:54:38.469Z
-updated: 2024-05-19T00:54:38.469Z
+date: 2024-05-19T17:20:33.064Z
+updated: 2024-05-20T17:20:33.064Z
 tags: 
   - screen-recording
   - ai video
@@ -278,4 +278,5 @@ OBS Studio is especially popular in the gaming community since it helps you crea
 <li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-understanding-resolution-a-tutorial-on-pixel-ratio-calculation/"><u>Updated In 2024, Understanding Resolution A Tutorial on Pixel Ratio Calculation</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-music-files-on-lava-yuva-2-by-fonelab-android-recover-music/"><u>Complete guide for recovering music files on Lava Yuva 2</u></a></li>
 </ul></div>
+
 

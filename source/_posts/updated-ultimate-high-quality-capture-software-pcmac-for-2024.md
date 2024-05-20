@@ -408,3 +408,4 @@ In order to record the full screen of your computer, you will need a screen reco
 <li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-tecno-pop-8-drfone-by-drfone-android/"><u>How to Screen Mirroring Tecno Pop 8? | Dr.fone</u></a></li>
 </ul></div>
 
+

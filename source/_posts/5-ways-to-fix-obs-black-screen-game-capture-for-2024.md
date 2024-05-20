@@ -284,3 +284,4 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-it-is-easy-to-separate-the-audio-from-the-video-in-davinci-resolve-but-to-avail-of-this-feature-you-need-to-follow-proper-steps-and-this-artic/"><u>2024 Approved It Is Easy to Separate the Audio From the Video in DaVinci Resolve. But, to Avail of This Feature, You Need to Follow Proper Steps, and This Article Is All About It</u></a></li>
 </ul></div>
 
+

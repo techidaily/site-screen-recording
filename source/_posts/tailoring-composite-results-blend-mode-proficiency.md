@@ -1,7 +1,7 @@
 ---
 title: "\"Tailoring Composite Results  Blend Mode Proficiency\""
-date: 2024-05-18T00:52:38.068Z
-updated: 2024-05-19T00:52:38.068Z
+date: 2024-05-19T17:20:28.431Z
+updated: 2024-05-20T17:20:28.431Z
 tags: 
   - screen-recording
   - ai video
@@ -512,4 +512,5 @@ Follow @Max Wales
 <li><a href="https://sound-tweaking.techidaily.com/2024-approved-perfecting-tone-modulation-keeping-sound-quality-intact-in-audacity/"><u>2024 Approved Perfecting Tone Modulation Keeping Sound Quality Intact in Audacity</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-12-apples-new-iphone-by-drfone-ios/"><u>How to Unlock Apple iPhone 12, Apples New iPhone</u></a></li>
 </ul></div>
+
 

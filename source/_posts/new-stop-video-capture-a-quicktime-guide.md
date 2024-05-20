@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Stop Video Capture  A QuickTime Guide\""
-date: 2024-05-18T00:58:15.639Z
-updated: 2024-05-19T00:58:15.639Z
+date: 2024-05-19T17:20:41.571Z
+updated: 2024-05-20T17:20:41.571Z
 tags: 
   - screen-recording
   - ai video
@@ -432,4 +432,5 @@ QuickTime Player is the ideal application on Mac for playing audio and video. It
 <li><a href="https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-on-iphone-15-pro-by-drfone-ios/"><u>How To Fix Apple ID Verification Code Not Working On iPhone 15 Pro</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/7-ways-to-unlock-a-locked-infinix-hot-30i-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Infinix Hot 30i Phone</u></a></li>
 </ul></div>
+
 

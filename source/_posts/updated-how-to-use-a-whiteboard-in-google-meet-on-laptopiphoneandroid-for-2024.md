@@ -1,7 +1,7 @@
 ---
 title: "[Updated] How to Use a Whiteboard in Google Meet on Laptop/iPhone/Android for 2024"
-date: 2024-05-18T00:53:17.742Z
-updated: 2024-05-19T00:53:17.742Z
+date: 2024-05-19T17:20:29.762Z
+updated: 2024-05-20T17:20:29.762Z
 tags: 
   - screen-recording
   - ai video
@@ -583,4 +583,5 @@ Follow @Richard Bennett
 <li><a href="https://audio-shaping.techidaily.com/updated-ultimate-top-pop-tunes-playlist-for-video-production-for-2024/"><u>Updated Ultimate Top Pop Tunes Playlist for Video Production for 2024</u></a></li>
 <li><a href="https://sound-optimizing.techidaily.com/essential-knowledge-for-compiling-a-top-notch-auditory-archive-on-youtube/"><u>Essential Knowledge for Compiling a Top-Notch Auditory Archive on YouTube</u></a></li>
 </ul></div>
+
 

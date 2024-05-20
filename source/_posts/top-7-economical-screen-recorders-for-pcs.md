@@ -535,3 +535,4 @@ Screen recorders are in great demand and their supply is ample enough, but to ch
 <li><a href="https://ai-video-editing.techidaily.com/want-to-give-a-bold-and-colorful-look-to-your-ad-or-abstract-art-project-this-quick-and-easy-tutorial-teaches-how-to-create-a-risograph-effect-in-photoshop./"><u>Want to Give a Bold and Colorful Look to Your Ad or Abstract Art Project? This Quick and Easy Tutorial Teaches How to Create a Risograph Effect in Photoshop</u></a></li>
 </ul></div>
 
+

@@ -366,3 +366,4 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://ai-video-editing.techidaily.com/the-way-to-quick-and-efficient-editing-keyboard-shortcuts-in-filmora/"><u>The Way to Quick and Efficient Editing | Keyboard Shortcuts in Filmora</u></a></li>
 </ul></div>
 
+

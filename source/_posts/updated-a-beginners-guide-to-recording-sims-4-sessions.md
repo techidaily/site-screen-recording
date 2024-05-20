@@ -492,3 +492,4 @@ If you are an avid player of Sims 4, you should record your gameplay and upload 
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-tecno-spark-10-5g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Tecno Spark 10 5G to New Android? | Dr.fone</u></a></li>
 </ul></div>
 
+

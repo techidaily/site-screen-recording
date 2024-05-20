@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Capturing Screen  MAC Video Recording Guide\""
-date: 2024-05-18T00:51:59.462Z
-updated: 2024-05-19T00:51:59.462Z
+date: 2024-05-19T17:20:26.898Z
+updated: 2024-05-20T17:20:26.898Z
 tags: 
   - screen-recording
   - ai video
@@ -456,4 +456,5 @@ Follow @Liza Brown
 <li><a href="https://ai-vdieo-software.techidaily.com/new-hd-video-101-mastering-pixel-size-and-resolution/"><u>New HD Video 101 Mastering Pixel Size and Resolution</u></a></li>
 <li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Poco X6 Pro? | Dr.fone</u></a></li>
 </ul></div>
+
 

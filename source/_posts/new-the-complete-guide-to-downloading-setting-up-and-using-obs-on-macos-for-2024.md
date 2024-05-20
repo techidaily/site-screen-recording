@@ -1,7 +1,7 @@
 ---
 title: "[New] The Complete Guide to Downloading, Setting up and Using OBS on macOS for 2024"
-date: 2024-05-18T00:38:07.559Z
-updated: 2024-05-19T00:38:07.559Z
+date: 2024-05-19T17:19:52.356Z
+updated: 2024-05-20T17:19:52.356Z
 tags: 
   - screen-recording
   - ai video
@@ -364,4 +364,5 @@ Unlike OBS, which only offers a few recording options, Filmora includes all of t
 <li><a href="https://iphone-unlock.techidaily.com/5-most-effective-methods-to-unlock-apple-iphone-12-pro-max-in-lost-mode-drfone-by-drfone-ios/"><u>5 Most Effective Methods to Unlock Apple iPhone 12 Pro Max in Lost Mode | Dr.fone</u></a></li>
 <li><a href="https://sound-optimizing.techidaily.com/updated-show-audio-waveform-and-add-waveform-animation-in-final-cut-protutorial-for-2024/"><u>Updated Show Audio Waveform and Add Waveform Animation in Final Cut ProTutorial for 2024</u></a></li>
 </ul></div>
+
 

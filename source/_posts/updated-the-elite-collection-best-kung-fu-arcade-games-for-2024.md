@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] The Elite Collection  Best Kung Fu Arcade Games for 2024\""
-date: 2024-05-18T00:33:40.096Z
-updated: 2024-05-19T00:33:40.096Z
+date: 2024-05-19T17:19:41.812Z
+updated: 2024-05-20T17:19:41.812Z
 tags: 
   - screen-recording
   - ai video
@@ -254,4 +254,5 @@ Follow @Richard Bennett
 <li><a href="https://ios-unlock.techidaily.com/is-your-iphone-14-pro-max-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>Is Your iPhone 14 Pro Max in Security Lockout? Proper Ways To Unlock</u></a></li>
 <li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-se-2022-to-the-previous-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone SE (2022) to the Previous iOS Version? | Dr.fone</u></a></li>
 </ul></div>
+
 

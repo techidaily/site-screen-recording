@@ -1,7 +1,7 @@
 ---
 title: "\"Take Full-Page Screen Images\""
-date: 2024-05-18T00:41:59.354Z
-updated: 2024-05-19T00:41:59.354Z
+date: 2024-05-19T17:20:01.776Z
+updated: 2024-05-20T17:20:01.776Z
 tags: 
   - screen-recording
   - ai video
@@ -521,4 +521,5 @@ Follow @Max Wales
 <li><a href="https://ai-video-tools.techidaily.com/in-2024-unlock-fcpx-potential-10-must-have-plugins/"><u>In 2024, Unlock FCPX Potential 10 Must-Have Plugins</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-lava-blaze-curve-5g-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Lava Blaze Curve 5G to Computer for iPhone and Android? | Dr.fone</u></a></li>
 </ul></div>
+
 

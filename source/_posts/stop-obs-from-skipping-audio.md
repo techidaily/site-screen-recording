@@ -1,7 +1,7 @@
 ---
 title: "Stop OBS From Skipping Audio"
-date: 2024-05-18T00:53:53.728Z
-updated: 2024-05-19T00:53:53.728Z
+date: 2024-05-19T17:20:31.493Z
+updated: 2024-05-20T17:20:31.493Z
 tags: 
   - screen-recording
   - ai video
@@ -588,4 +588,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-oppo-a18-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Oppo A18 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-vivo-v27e-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Vivo V27e? | Dr.fone</u></a></li>
 </ul></div>
+
 

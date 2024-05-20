@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Rage Quarters & Swords  Nintendo Switch Fighting Classics\""
-date: 2024-05-18T00:32:34.106Z
-updated: 2024-05-19T00:32:34.106Z
+date: 2024-05-19T17:19:39.342Z
+updated: 2024-05-20T17:19:39.342Z
 tags: 
   - screen-recording
   - ai video
@@ -754,4 +754,5 @@ For macOS 10.12 or later
 <li><a href="https://sound-tweaking.techidaily.com/new-in-2024-from-full-blast-to-quietude-implementing-audio-volume-transitions-in-imovie/"><u>New In 2024, From Full Blast to Quietude Implementing Audio Volume Transitions in iMovie</u></a></li>
 <li><a href="https://sound-tweaking.techidaily.com/in-2024-deciphering-the-prowess-of-magix-samplitude-in-modern-music-production/"><u>In 2024, Deciphering the Prowess of MAGIX Samplitude in Modern Music Production</u></a></li>
 </ul></div>
+
 

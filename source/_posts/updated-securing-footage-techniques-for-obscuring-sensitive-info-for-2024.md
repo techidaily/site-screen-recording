@@ -504,3 +504,4 @@ Follow @Max Wales
 <li><a href="https://smart-video-editing.techidaily.com/in-2024-the-art-of-slow-motion-how-to-create-stunning-videos-on-kapwing/"><u>In 2024, The Art of Slow Motion How to Create Stunning Videos on Kapwing</u></a></li>
 </ul></div>
 
+

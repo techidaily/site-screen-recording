@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Unleash the Power of OBS in Live Gaming Streams"
-date: 2024-05-18T00:34:02.472Z
-updated: 2024-05-19T00:34:02.472Z
+date: 2024-05-19T17:19:42.597Z
+updated: 2024-05-20T17:19:42.597Z
 tags: 
   - screen-recording
   - ai video
@@ -388,4 +388,5 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-samsung-galaxy-a15-4g-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Samsung Galaxy A15 4G | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Sony Xperia 10 V? | Dr.fone</u></a></li>
 </ul></div>
+
 

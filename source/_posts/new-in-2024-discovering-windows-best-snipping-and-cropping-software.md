@@ -533,3 +533,4 @@ For macOS 10.12 or later
 <li><a href="https://unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-xiaomi-redmi-k70-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Xiaomi Redmi K70</u></a></li>
 </ul></div>
 
+

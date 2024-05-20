@@ -1,7 +1,7 @@
 ---
 title: "[New] Overcoming Inaudibility in OBS Captured Audio"
-date: 2024-05-18T00:59:51.912Z
-updated: 2024-05-19T00:59:51.912Z
+date: 2024-05-19T17:20:45.281Z
+updated: 2024-05-20T17:20:45.281Z
 tags: 
   - screen-recording
   - ai video
@@ -573,4 +573,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-guide-to-nokia-c12-pro-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Nokia C12 Pro Pattern Lock Screen Everything You Need to Know</u></a></li>
 <li><a href="https://video-creation-software.techidaily.com/new-2024-approved-optimizing-mobile-screen-design-a-guide-to-vertical-aspect-ratios/"><u>New 2024 Approved Optimizing Mobile Screen Design A Guide to Vertical Aspect Ratios</u></a></li>
 </ul></div>
+
 

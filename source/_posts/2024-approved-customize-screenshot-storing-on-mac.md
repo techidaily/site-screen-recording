@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Customize Screenshot Storing on Mac\""
-date: 2024-05-18T00:45:26.035Z
-updated: 2024-05-19T00:45:26.035Z
+date: 2024-05-19T17:20:09.822Z
+updated: 2024-05-20T17:20:09.822Z
 tags: 
   - screen-recording
   - ai video
@@ -367,4 +367,5 @@ Follow @Max Wales
 <li><a href="https://audio-editing.techidaily.com/comprehensive-manual-for-capturing-sound-with-your-iphone-for-2024/"><u>Comprehensive Manual for Capturing Sound with Your iPhone for 2024</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/new-top-free-video-editing-software-for-windows-10-trimming-made-easy/"><u>New Top Free Video Editing Software for Windows 10 Trimming Made Easy</u></a></li>
 </ul></div>
+
 

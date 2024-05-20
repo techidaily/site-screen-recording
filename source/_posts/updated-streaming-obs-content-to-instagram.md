@@ -398,3 +398,4 @@ If you want to live stream on Instagram from your computer, you can do it easily
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-xiaomi-redmi-note-12-pro-4g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Xiaomi Redmi Note 12 Pro 4G to iPad | Dr.fone</u></a></li>
 </ul></div>
 
+

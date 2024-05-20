@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Great Screen Capture Debate  OBS Studio Versus Fraps\""
-date: 2024-05-18T00:41:04.127Z
-updated: 2024-05-19T00:41:04.127Z
+date: 2024-05-19T17:19:59.445Z
+updated: 2024-05-20T17:19:59.445Z
 tags: 
   - screen-recording
   - ai video
@@ -242,4 +242,5 @@ To sum it up for you, if you have a low configuration computer, you should opt f
 <li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-nokia-g310withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Nokia G310with/without a PC</u></a></li>
 <li><a href="https://smart-video-creator.techidaily.com/2024-approved-cut-to-the-chase-reliable-filmora-promo-codes-here/"><u>2024 Approved Cut to the Chase Reliable Filmora Promo Codes Here</u></a></li>
 </ul></div>
+
 

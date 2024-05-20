@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  PS4 Live Recording Made Simple with OBS Tutorial\""
-date: 2024-05-18T00:39:01.684Z
-updated: 2024-05-19T00:39:01.684Z
+date: 2024-05-19T17:19:54.827Z
+updated: 2024-05-20T17:19:54.827Z
 tags: 
   - screen-recording
   - ai video
@@ -428,4 +428,5 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://techidaily.com/how-to-update-apple-iphone-11-pro-max-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 11 Pro Max to the Latest iOS Version? | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-honor-v-purse-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Honor V Purse | Dr.fone</u></a></li>
 </ul></div>
+
 

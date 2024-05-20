@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Cure for Disconnected Channels in OBS"
-date: 2024-05-18T00:59:37.553Z
-updated: 2024-05-19T00:59:37.553Z
+date: 2024-05-19T17:20:44.710Z
+updated: 2024-05-20T17:20:44.710Z
 tags: 
   - screen-recording
   - ai video
@@ -563,4 +563,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://iphone-unlock.techidaily.com/resolve-your-iphone-xs-max-keeps-asking-for-outlook-password-drfone-by-drfone-ios/"><u>Resolve Your iPhone XS Max Keeps Asking for Outlook Password | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Samsung Galaxy M34 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

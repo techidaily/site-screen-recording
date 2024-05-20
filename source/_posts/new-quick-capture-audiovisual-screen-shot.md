@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Quick Capture  Audiovisual Screen Shot\""
-date: 2024-05-18T00:56:47.958Z
-updated: 2024-05-19T00:56:47.958Z
+date: 2024-05-19T17:20:37.957Z
+updated: 2024-05-20T17:20:37.957Z
 tags: 
   - screen-recording
   - ai video
@@ -487,4 +487,5 @@ If you are a Mac user, QuickTime player screen recording with audio is available
 <li><a href="https://smart-video-editing.techidaily.com/updated-looking-for-virtualdub-alternatives-here-are-the-best-options-for-2024/"><u>Updated Looking for VirtualDub Alternatives? Here Are the Best Options for 2024</u></a></li>
 <li><a href="https://audio-editing.techidaily.com/new-elite-voice-mimicry-suite-windows-and-apple-harmonization/"><u>New Elite Voice Mimicry Suite - Windows & Apple Harmonization</u></a></li>
 </ul></div>
+
 

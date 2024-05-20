@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Syncing Muted Voices with OBS Streams\""
-date: 2024-05-18T00:55:53.706Z
-updated: 2024-05-19T00:55:53.706Z
+date: 2024-05-19T17:20:36.112Z
+updated: 2024-05-20T17:20:36.112Z
 tags: 
   - screen-recording
   - ai video
@@ -565,4 +565,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://sound-optimizing.techidaily.com/the-ultimate-guide-to-mixing-sounds-with-after-effects-for-2024/"><u>The Ultimate Guide to Mixing Sounds with After Effects for 2024</u></a></li>
 <li><a href="https://sound-optimizing.techidaily.com/behind-the-scenes-exploring-modern-technologies-that-auto-synchronize-audio-to-video/"><u>Behind the Scenes Exploring Modern Technologies That Auto-Synchronize Audio to Video</u></a></li>
 </ul></div>
+
 

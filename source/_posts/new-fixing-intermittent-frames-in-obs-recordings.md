@@ -1,7 +1,7 @@
 ---
 title: "[New] Fixing Intermittent Frames in OBS Recordings"
-date: 2024-05-18T00:41:57.136Z
-updated: 2024-05-19T00:41:57.136Z
+date: 2024-05-19T17:20:01.682Z
+updated: 2024-05-20T17:20:01.682Z
 tags: 
   - screen-recording
   - ai video
@@ -565,4 +565,5 @@ OBS drop frame is probably the most common issue reported by OBS users. Whenever
 <li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-integrating-sound-into-imovie-projects-for-complete-novices/"><u>Updated 2024 Approved Integrating Sound Into iMovie Projects For Complete Novices</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-pro-level-color-correction-in-final-cut-pro/"><u>Updated 2024 Approved Pro-Level Color Correction in Final Cut Pro</u></a></li>
 </ul></div>
+
 

@@ -853,3 +853,4 @@ The different online tools for screen recording eliminate the need for installin
 <li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-oppo-a2-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Oppo A2 Without Power Button | Dr.fone</u></a></li>
 </ul></div>
 
+

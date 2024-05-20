@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Camtasia 9  Unlock the Art of Ken Burns Easing\""
-date: 2024-05-18T00:45:57.328Z
-updated: 2024-05-19T00:45:57.328Z
+date: 2024-05-19T17:20:11.324Z
+updated: 2024-05-20T17:20:11.324Z
 tags: 
   - screen-recording
   - ai video
@@ -366,4 +366,5 @@ Follow @Max Wales
 <li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>How to Share Location in Messenger On Apple iPhone 13 Pro Max? | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/learn-how-to-lock-stolen-your-apple-iphone-12-properly-by-drfone-ios/"><u>Learn How To Lock Stolen Your Apple iPhone 12 Properly</u></a></li>
 </ul></div>
+
 

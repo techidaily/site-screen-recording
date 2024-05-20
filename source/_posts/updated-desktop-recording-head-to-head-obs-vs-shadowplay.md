@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Desktop Recording Head-to-Head  OBS Vs. ShadowPlay\""
-date: 2024-05-18T00:42:00.743Z
-updated: 2024-05-19T00:42:00.743Z
+date: 2024-05-19T17:20:01.831Z
+updated: 2024-05-20T17:20:01.831Z
 tags: 
   - screen-recording
   - ai video
@@ -252,4 +252,5 @@ If you want to record high-end games, ShadowPlay is ideal as it does not affect 
 <li><a href="https://sound-tweaking.techidaily.com/new-where-can-i-find-laughing-sound-effect-for-2024/"><u>New Where Can I Find Laughing Sound Effect for 2024</u></a></li>
 <li><a href="https://video-ai-editor.techidaily.com/updated-generate-stunning-audio-visuals-with-these-online-tools/"><u>Updated Generate Stunning Audio Visuals with These Online Tools</u></a></li>
 </ul></div>
+
 

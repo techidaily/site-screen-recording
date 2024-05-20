@@ -1,7 +1,7 @@
 ---
 title: "\"[New] From Casual to Expert  Your Path with OBS Gaming Capture\""
-date: 2024-05-18T00:52:53.169Z
-updated: 2024-05-19T00:52:53.169Z
+date: 2024-05-19T17:20:28.950Z
+updated: 2024-05-20T17:20:28.950Z
 tags: 
   - screen-recording
   - ai video
@@ -388,4 +388,5 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://video-content-creator.techidaily.com/new-in-2024-best-gopro-quik-alternatives-for-desktop-video-editing/"><u>New In 2024, Best GoPro Quik Alternatives for Desktop Video Editing</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/ways-to-find-free-online-slideshow-maker-with-no-watermark/"><u>Ways to Find Free Online Slideshow Maker with No Watermark</u></a></li>
 </ul></div>
+
 

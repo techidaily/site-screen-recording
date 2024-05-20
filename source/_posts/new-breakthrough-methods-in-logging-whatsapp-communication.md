@@ -469,3 +469,4 @@ Hopefully, you have understood how to record WhatsApp video call on your device.
 <li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Apple iPhone 6s Plus | Dr.fone</u></a></li>
 </ul></div>
 
+

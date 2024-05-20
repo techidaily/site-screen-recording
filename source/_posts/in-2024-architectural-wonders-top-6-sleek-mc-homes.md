@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Architectural Wonders  Top 6 Sleek MC Homes\""
-date: 2024-05-18T00:47:38.938Z
-updated: 2024-05-19T00:47:38.938Z
+date: 2024-05-19T17:20:16.263Z
+updated: 2024-05-20T17:20:16.263Z
 tags: 
   - screen-recording
   - ai video
@@ -459,4 +459,5 @@ Follow @Ollie Mattison
 <li><a href="https://ai-editing-video.techidaily.com/in-2024-make-eye-zoom-transition-effect-with-filmora/"><u>In 2024, Make Eye Zoom Transition Effect with Filmora</u></a></li>
 <li><a href="https://techidaily.com/how-to-install-the-latest-ios-beta-version-on-apple-iphone-6-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS Beta Version on Apple iPhone 6 Plus? | Dr.fone</u></a></li>
 </ul></div>
+
 

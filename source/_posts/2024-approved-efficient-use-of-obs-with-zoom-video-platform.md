@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Efficient Use of OBS with Zoom Video Platform\""
-date: 2024-05-18T00:33:25.650Z
-updated: 2024-05-19T00:33:25.650Z
+date: 2024-05-19T17:19:41.333Z
+updated: 2024-05-20T17:19:41.333Z
 tags: 
   - screen-recording
   - ai video
@@ -415,4 +415,5 @@ OBS enables recording into several video formats. But the major reason why you m
 <li><a href="https://ai-video-tools.techidaily.com/updated-trim-and-edit-videos-on-your-computer-top-10-software-for-2024/"><u>Updated Trim and Edit Videos on Your Computer Top 10 Software for 2024</u></a></li>
 <li><a href="https://ai-video-tools.techidaily.com/updated-windows-8-flv-video-editor-convert-trim-and-enhance-your-videos/"><u>Updated Windows 8 FLV Video Editor Convert, Trim, and Enhance Your Videos</u></a></li>
 </ul></div>
+
 

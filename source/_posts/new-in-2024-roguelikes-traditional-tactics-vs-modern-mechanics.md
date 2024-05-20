@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Roguelike's Traditional Tactics Vs. Modern Mechanics"
-date: 2024-05-18T00:49:45.949Z
-updated: 2024-05-19T00:49:45.949Z
+date: 2024-05-19T17:20:21.442Z
+updated: 2024-05-20T17:20:21.442Z
 tags: 
   - screen-recording
   - ai video
@@ -361,4 +361,5 @@ Follow @Ollie Mattison
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-lava-blaze-2-5g-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Lava Blaze 2 5G to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
 <li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-tecno-spark-10-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Tecno Spark 10 5G without Anyone Knowing | Dr.fone</u></a></li>
 </ul></div>
+
 

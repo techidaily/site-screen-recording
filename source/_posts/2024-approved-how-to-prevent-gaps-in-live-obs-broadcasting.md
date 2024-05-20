@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  How To Prevent Gaps In Live OBS Broadcasting\""
-date: 2024-05-18T00:38:38.255Z
-updated: 2024-05-19T00:38:38.255Z
+date: 2024-05-19T17:19:53.994Z
+updated: 2024-05-20T17:19:53.994Z
 tags: 
   - screen-recording
   - ai video
@@ -588,4 +588,5 @@ OBS drop frame is probably the most common issue reported by OBS users. Whenever
 <li><a href="https://pokemon-go-android.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Honor Magic 5 Pro | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-itel-p55-5g-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Itel P55 5G Pattern Lock Screen Everything You Need to Know</u></a></li>
 </ul></div>
+
 

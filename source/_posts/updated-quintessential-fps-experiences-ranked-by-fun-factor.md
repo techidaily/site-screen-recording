@@ -477,3 +477,4 @@ For macOS 10.12 or later
 <li><a href="https://techidaily.com/use-device-manager-to-update-your-hardware-drivers-in-windows-1110-by-drivereasy-guide/"><u>Use Device Manager to update your hardware drivers in Windows 11/10</u></a></li>
 </ul></div>
 
+

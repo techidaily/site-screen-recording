@@ -1,7 +1,7 @@
 ---
 title: "\"Restored  Full Screen in OBS for 2024\""
-date: 2024-05-18T00:40:05.251Z
-updated: 2024-05-19T00:40:05.251Z
+date: 2024-05-19T17:19:57.332Z
+updated: 2024-05-20T17:19:57.332Z
 tags: 
   - screen-recording
   - ai video
@@ -287,4 +287,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://video-ai-editor.techidaily.com/new-from-photo-to-cartoon-the-ultimate-app-roundup/"><u>New From Photo to Cartoon The Ultimate App Roundup</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Tecno Camon 20 Pro 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Screen Blackouts in Recording Tools"
-date: 2024-05-18T00:53:53.171Z
-updated: 2024-05-19T00:53:53.171Z
+date: 2024-05-19T17:20:31.474Z
+updated: 2024-05-20T17:20:31.474Z
 tags: 
   - screen-recording
   - ai video
@@ -287,4 +287,5 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://ai-video-tools.techidaily.com/updated-brighten-up-best-video-editing-tools-for-perfect-lighting-for-2024/"><u>Updated Brighten Up Best Video Editing Tools for Perfect Lighting for 2024</u></a></li>
 <li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-cloud-animation-studio-stop-motion-software-choices-and-best-practices/"><u>Updated 2024 Approved Cloud Animation Studio Stop Motion Software Choices and Best Practices</u></a></li>
 </ul></div>
+
 

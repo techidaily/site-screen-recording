@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Ken Burns Effect Techniques for Camtasia Users"
-date: 2024-05-18T00:45:26.872Z
-updated: 2024-05-19T00:45:26.872Z
+date: 2024-05-19T17:20:09.862Z
+updated: 2024-05-20T17:20:09.862Z
 tags: 
   - screen-recording
   - ai video
@@ -362,4 +362,5 @@ Follow @Max Wales
 <li><a href="https://video-ai-editor.techidaily.com/2024-approved-final-cut-pro-project-backup-a-quick-and-simple-tutorial/"><u>2024 Approved Final Cut Pro Project Backup A Quick and Simple Tutorial</u></a></li>
 <li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-lava-blaze-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Lava Blaze 2 | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "Record Gameplay with OBS Studio for 2024"
-date: 2024-05-18T00:46:45.739Z
-updated: 2024-05-19T00:46:45.739Z
+date: 2024-05-19T17:20:13.129Z
+updated: 2024-05-20T17:20:13.129Z
 tags: 
   - screen-recording
   - ai video
@@ -416,4 +416,5 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-nokia-c210-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Nokia C210? | Dr.fone</u></a></li>
 <li><a href="https://sound-optimizing.techidaily.com/new-the-essential-list-8-leading-sound-recording-applications-for-2024/"><u>New The Essential List 8 Leading Sound Recording Applications for 2024</u></a></li>
 </ul></div>
+
 

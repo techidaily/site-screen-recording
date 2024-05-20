@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Taking Control of a Stopped-Up OBS Capture Device for 2024\""
-date: 2024-05-18T00:40:11.954Z
-updated: 2024-05-19T00:40:11.954Z
+date: 2024-05-19T17:19:57.575Z
+updated: 2024-05-20T17:19:57.575Z
 tags: 
   - screen-recording
   - ai video
@@ -256,4 +256,5 @@ OBS Studio is especially popular in the gaming community since it helps you crea
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-apple-id-verification-code-not-working-on-apple-iphone-xs-by-drfone-ios/"><u>In 2024, How To Fix Apple ID Verification Code Not Working On Apple iPhone XS</u></a></li>
 <li><a href="https://howto.techidaily.com/gmail-not-working-on-xiaomi-redmi-k70e-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Xiaomi Redmi K70E 7 Common Problems & Fixes | Dr.fone</u></a></li>
 </ul></div>
+
 

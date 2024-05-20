@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Timekeeping Tutorial  Setting Up a Timer in OBS Studio\""
-date: 2024-05-18T00:56:49.944Z
-updated: 2024-05-19T00:56:49.944Z
+date: 2024-05-19T17:20:38.019Z
+updated: 2024-05-20T17:20:38.019Z
 tags: 
   - screen-recording
   - ai video
@@ -266,4 +266,5 @@ OBS Studio can look intimidating at first. But once you learn the ropes, this de
 <li><a href="https://audio-editing.techidaily.com/new-finding-your-groove-an-introductory-guide-to-choosing-the-perfect-rap-soundscape-for-2024/"><u>New Finding Your Groove An Introductory Guide to Choosing the Perfect Rap Soundscape for 2024</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Vivo S17 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Uncover the Best 8 Open-Source Video Conferencing Tools of Now\""
-date: 2024-05-18T00:50:08.671Z
-updated: 2024-05-19T00:50:08.671Z
+date: 2024-05-19T17:20:22.285Z
+updated: 2024-05-20T17:20:22.285Z
 tags: 
   - screen-recording
   - ai video
@@ -678,4 +678,5 @@ Follow @Richard Bennett
 <li><a href="https://smart-video-creator.techidaily.com/updated-gopro-video-editing-for-dummies-a-free-and-easy-to-follow-guide/"><u>Updated GoPro Video Editing for Dummies A Free and Easy-to-Follow Guide</u></a></li>
 <li><a href="https://sound-optimizing.techidaily.com/new-cutting-out-cacophony-5-innovative-ways-to-delete-audio-in-streaming-video-content-online-for-2024/"><u>New Cutting Out Cacophony 5 Innovative Ways to Delete Audio in Streaming Video Content Online for 2024</u></a></li>
 </ul></div>
+
 

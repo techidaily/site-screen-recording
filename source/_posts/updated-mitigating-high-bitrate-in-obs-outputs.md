@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Mitigating High-Bitrate in OBS Outputs\""
-date: 2024-05-18T00:42:47.679Z
-updated: 2024-05-19T00:42:47.679Z
+date: 2024-05-19T17:20:03.507Z
+updated: 2024-05-20T17:20:03.507Z
 tags: 
   - screen-recording
   - ai video
@@ -300,4 +300,5 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 <li><a href="https://smart-video-creator.techidaily.com/new-the-definitive-guide-to-choosing-an-android-video-editor/"><u>New The Definitive Guide to Choosing an Android Video Editor</u></a></li>
 <li><a href="https://ai-driven-video-production.techidaily.com/updated-the-10-most-popular-free-video-compressor-apps-for-windows-10-for-2024/"><u>Updated The 10 Most Popular Free Video Compressor Apps for Windows 10 for 2024</u></a></li>
 </ul></div>
+
 

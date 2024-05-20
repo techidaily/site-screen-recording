@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Streamlining Your Live Broadcast  PS4 Recording via OBS Studio\""
-date: 2024-05-18T00:51:21.726Z
-updated: 2024-05-19T00:51:21.726Z
+date: 2024-05-19T17:20:24.995Z
+updated: 2024-05-20T17:20:24.995Z
 tags: 
   - screen-recording
   - ai video
@@ -399,4 +399,5 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://sound-tweaking.techidaily.com/new-in-2024-free-and-easy-techniques-to-cut-out-loud-elements-from-windows-10-videos/"><u>New In 2024, Free and Easy Techniques to Cut Out Loud Elements From Windows 10 Videos</u></a></li>
 <li><a href="https://techidaily.com/use-device-manager-to-identify-missing-your-hardware-drivers-with-windows-device-manager-in-windows-11-and-10-and-7-by-drivereasy-guide/"><u>Use Device Manager to identify missing your hardware drivers with Windows Device Manager in Windows 11 & 10 & 7</u></a></li>
 </ul></div>
+
 

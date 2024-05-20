@@ -279,3 +279,4 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://techidaily.com/use-device-manager-to-identify-malfunctioning-your-drivers-with-windows-device-manager-on-windows-7-by-drivereasy-guide/"><u>Use Device Manager to identify malfunctioning your drivers with Windows Device Manager on Windows 7</u></a></li>
 </ul></div>
 
+

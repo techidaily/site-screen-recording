@@ -1,7 +1,7 @@
 ---
 title: "Simplified Guide to Incorporating Ken Burns Effect in Camtasa"
-date: 2024-05-18T00:41:29.315Z
-updated: 2024-05-19T00:41:29.315Z
+date: 2024-05-19T17:20:00.358Z
+updated: 2024-05-20T17:20:00.358Z
 tags: 
   - screen-recording
   - ai video
@@ -354,4 +354,5 @@ Follow @Max Wales
 <li><a href="https://techidaily.com/will-mov-files-play-on-galaxy-a14-4g-by-aiseesoft-video-converter-play-mov-on-android/"><u>Will MOV files play on Galaxy A14 4G ?</u></a></li>
 <li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On OnePlus 12? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -924,3 +924,4 @@ Follow @Ollie Mattison
 <li><a href="https://video-creation-software.techidaily.com/new-match-merge-and-master-color-correction-in-fcp/"><u>New Match, Merge, and Master Color Correction in FCP</u></a></li>
 </ul></div>
 
+

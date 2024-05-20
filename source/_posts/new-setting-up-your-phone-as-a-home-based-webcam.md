@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Setting Up Your Phone as a Home-Based Webcam\""
-date: 2024-05-18T00:32:47.606Z
-updated: 2024-05-19T00:32:47.606Z
+date: 2024-05-19T17:19:39.875Z
+updated: 2024-05-20T17:19:39.875Z
 tags: 
   - screen-recording
   - ai video
@@ -621,4 +621,5 @@ Follow @Max Wales
 <li><a href="https://video-creation-software.techidaily.com/new-2024-approved-whatsapp-status-creator-best-apps-to-try/"><u>New 2024 Approved WhatsApp Status Creator Best Apps to Try</u></a></li>
 <li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-vivo-v29-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Vivo V29 | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -438,3 +438,4 @@ Apple has now disabled the function of capturing internal and desktop sound in a
 <li><a href="https://smart-video-editing.techidaily.com/new-the-art-of-audio-fading-2-expert-tips-for-final-cut-pro-users/"><u>New The Art of Audio Fading 2 Expert Tips for Final Cut Pro Users</u></a></li>
 </ul></div>
 
+

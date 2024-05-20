@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Shine Through the Game  Fixes for Dark Capture by OBS for 2024\""
-date: 2024-05-18T00:59:16.355Z
-updated: 2024-05-19T00:59:16.355Z
+date: 2024-05-19T17:20:43.881Z
+updated: 2024-05-20T17:20:43.881Z
 tags: 
   - screen-recording
   - ai video
@@ -242,4 +242,5 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://video-content-creator.techidaily.com/new-flip-your-tiktok-videos-a-comprehensive-guide-to-reversing-clips-for-2024/"><u>New Flip Your TikTok Videos A Comprehensive Guide to Reversing Clips for 2024</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-zte-axon-40-lite-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost ZTE Axon 40 Lite Device</u></a></li>
 </ul></div>
+
 

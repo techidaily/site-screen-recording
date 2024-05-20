@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Instantaneous Duo Recording  Cam + Screen\""
-date: 2024-05-18T00:37:56.915Z
-updated: 2024-05-19T00:37:56.915Z
+date: 2024-05-19T17:19:51.966Z
+updated: 2024-05-20T17:19:51.966Z
 tags: 
   - screen-recording
   - ai video
@@ -341,4 +341,5 @@ Follow @Max Wales
 <li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-the-ultimate-video-effects-handbook-tips-and-tricks/"><u>Updated In 2024, The Ultimate Video Effects Handbook Tips and Tricks</u></a></li>
 <li><a href="https://review-topics.techidaily.com/issues-playing-h265-hevc-video-on-moto-g04-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Issues playing H.265 HEVC video on Moto G04</u></a></li>
 </ul></div>
+
 

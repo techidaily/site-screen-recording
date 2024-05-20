@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Capturing Screen Content via Built-In Recorders in the Mate and P Series.\""
-date: 2024-05-18T00:52:02.526Z
-updated: 2024-05-19T00:52:02.526Z
+date: 2024-05-19T17:20:27.034Z
+updated: 2024-05-20T17:20:27.034Z
 tags: 
   - screen-recording
   - ai video
@@ -405,4 +405,5 @@ Follow @Max Wales
 <li><a href="https://change-location.techidaily.com/how-to-deal-with-the-oppo-reno-9a-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Oppo Reno 9A Screen Black But Still Works? | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/undelete-lost-data-from-vivo-t2-5g-by-fonelab-android-recover-data/"><u>Undelete lost data from Vivo T2 5G</u></a></li>
 </ul></div>
+
 

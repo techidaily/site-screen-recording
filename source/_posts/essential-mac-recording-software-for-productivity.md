@@ -1139,3 +1139,4 @@ To record video on Mac, you need a screen recorder. There are free and premium r
 <li><a href="https://ai-editing-video.techidaily.com/dollar-store-diy-hacks-to-use-for-filmmaking-on-a-budget/"><u>Dollar-Store DIY Hacks to Use for Filmmaking on a Budget</u></a></li>
 </ul></div>
 
+

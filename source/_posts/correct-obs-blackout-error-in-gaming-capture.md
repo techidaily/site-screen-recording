@@ -1,7 +1,7 @@
 ---
 title: "Correct OBS Blackout Error in Gaming Capture"
-date: 2024-05-18T00:37:42.606Z
-updated: 2024-05-19T00:37:42.606Z
+date: 2024-05-19T17:19:51.501Z
+updated: 2024-05-20T17:19:51.501Z
 tags: 
   - screen-recording
   - ai video
@@ -249,4 +249,5 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://pokemon-go-android.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Poco M6 Pro 5G | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-oppo-a2-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Oppo A2</u></a></li>
 </ul></div>
+
 

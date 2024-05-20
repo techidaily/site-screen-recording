@@ -1,7 +1,7 @@
 ---
 title: "[New] Minimizing Motion Blur with OBS Adjustments for 2024"
-date: 2024-05-18T00:55:27.374Z
-updated: 2024-05-19T00:55:27.374Z
+date: 2024-05-19T17:20:34.801Z
+updated: 2024-05-20T17:20:34.801Z
 tags: 
   - screen-recording
   - ai video
@@ -276,4 +276,5 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 <li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-factory-unlock-your-telstra-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, How To Factory Unlock Your Telstra iPhone 12 Pro Max</u></a></li>
 <li><a href="https://video-ai-editor.techidaily.com/how-to-rip-audio-from-instagram-reels-and-stories/"><u>How to Rip Audio From Instagram Reels and Stories</u></a></li>
 </ul></div>
+
 

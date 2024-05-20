@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Creative Filmmaking on a Budget  Using Smartphones as Webcams\""
-date: 2024-05-18T00:39:38.204Z
-updated: 2024-05-19T00:39:38.204Z
+date: 2024-05-19T17:19:56.382Z
+updated: 2024-05-20T17:19:56.382Z
 tags: 
   - screen-recording
   - ai video
@@ -627,4 +627,5 @@ Follow @Max Wales
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-motorola-moto-g13-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Motorola Moto G13 Easily & Safely | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-motorola-moto-g84-5g-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Motorola Moto G84 5G to Other Android devices | Dr.fone</u></a></li>
 </ul></div>
+
 

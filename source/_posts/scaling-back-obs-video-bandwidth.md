@@ -1,7 +1,7 @@
 ---
 title: "Scaling Back OBS Video Bandwidth"
-date: 2024-05-18T00:39:14.809Z
-updated: 2024-05-19T00:39:14.809Z
+date: 2024-05-19T17:19:55.344Z
+updated: 2024-05-20T17:19:55.344Z
 tags: 
   - screen-recording
   - ai video
@@ -272,4 +272,5 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 <li><a href="https://bypass-frp.techidaily.com/in-2024-the-updated-method-to-bypass-xiaomi-redmi-13c-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Xiaomi Redmi 13C FRP</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-looking-for-simple-steps-to-customize-the-speed-of-your-video-in-davinci-resolve-find-out-how-you-can-do-that-and-discover-an-easier-a/"><u>Updated 2024 Approved Looking for Simple Steps to Customize the Speed of Your Video in DaVinci Resolve? Find Out How You Can Do that and Discover an Easier Alternative to DaVinci Resolve</u></a></li>
 </ul></div>
+
 

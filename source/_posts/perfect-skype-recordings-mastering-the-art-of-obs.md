@@ -1,7 +1,7 @@
 ---
 title: "\"Perfect Skype Recordings  Mastering the Art of OBS\""
-date: 2024-05-18T00:46:32.910Z
-updated: 2024-05-19T00:46:32.910Z
+date: 2024-05-19T17:20:12.665Z
+updated: 2024-05-20T17:20:12.665Z
 tags: 
   - screen-recording
   - ai video
@@ -364,4 +364,5 @@ So form the above discussion it can be concluded that OBS for screen recording c
 <li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-samsung-galaxy-s24plus-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Samsung Galaxy S24+ to iPhone | Dr.fone</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/updated-2024-approved-best-12-2d-animation-studios-all-should-check-out/"><u>Updated 2024 Approved Best 12 2D Animation Studios All Should Check Out</u></a></li>
 </ul></div>
+
 

@@ -572,3 +572,4 @@ Follow @Ollie Mattison
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-itel-p40-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Itel P40 Phones? | Dr.fone</u></a></li>
 </ul></div>
 
+

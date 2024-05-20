@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Desktop Capture  OBS Vs. ShadowPlay\""
-date: 2024-05-18T00:33:14.045Z
-updated: 2024-05-19T00:33:14.045Z
+date: 2024-05-19T17:19:40.897Z
+updated: 2024-05-20T17:19:40.897Z
 tags: 
   - screen-recording
   - ai video
@@ -223,4 +223,5 @@ If you want to record high-end games, ShadowPlay is ideal as it does not affect 
 <li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-xiaomi-redmi-note-13-proplus-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Xiaomi Redmi Note 13 Pro+ 5G to iPhone | Dr.fone</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/in-2024-unleash-your-creativity-top-4k-video-editing-software/"><u>In 2024, Unleash Your Creativity Top 4K Video Editing Software</u></a></li>
 </ul></div>
+
 

@@ -488,3 +488,4 @@ You can go for Ezvid download as well as Wondershare Filmora download to see for
 <li><a href="https://techidaily.com/how-to-reset-samsung-galaxy-xcover-6-pro-tactical-edition-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Samsung Galaxy XCover 6 Pro Tactical Edition Without the Home Button | Dr.fone</u></a></li>
 </ul></div>
 
+

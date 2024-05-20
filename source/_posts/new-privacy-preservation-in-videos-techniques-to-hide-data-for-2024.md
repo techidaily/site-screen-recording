@@ -521,3 +521,4 @@ Follow @Max Wales
 <li><a href="https://ai-editing-video.techidaily.com/how-to-add-a-lower-third-to-your-video/"><u>How to Add a Lower Third to Your Video</u></a></li>
 </ul></div>
 
+

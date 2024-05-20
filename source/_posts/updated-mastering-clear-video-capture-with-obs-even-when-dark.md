@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Mastering Clear Video Capture with OBS, Even When Dark"
-date: 2024-05-18T00:47:24.184Z
-updated: 2024-05-19T00:47:24.184Z
+date: 2024-05-19T17:20:15.437Z
+updated: 2024-05-20T17:20:15.437Z
 tags: 
   - screen-recording
   - ai video
@@ -274,4 +274,5 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://bypass-frp.techidaily.com/in-2024-a-quick-guide-to-infinix-note-30-vip-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Infinix Note 30 VIP FRP Bypass Instantly</u></a></li>
 <li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-create-stunning-videos-from-images-10-top-online-makers/"><u>Updated In 2024, Create Stunning Videos From Images 10 Top Online Makers</u></a></li>
 </ul></div>
+
 

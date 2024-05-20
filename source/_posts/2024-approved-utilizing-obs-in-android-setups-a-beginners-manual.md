@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Utilizing OBS in Android Setups  A Beginner's Manual\""
-date: 2024-05-18T00:36:37.452Z
-updated: 2024-05-19T00:36:37.452Z
+date: 2024-05-19T17:19:49.055Z
+updated: 2024-05-20T17:19:49.055Z
 tags: 
   - screen-recording
   - ai video
@@ -494,4 +494,5 @@ OBS Studio is a popular application among gamers, professional trainers, and int
 <li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Motorola Moto G14 | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Samsung Galaxy S23+ | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Ultimate Streamlabs OBS Setup and Configuration Manual for 2024"
-date: 2024-05-18T00:50:59.923Z
-updated: 2024-05-19T00:50:59.923Z
+date: 2024-05-19T17:20:24.181Z
+updated: 2024-05-20T17:20:24.181Z
 tags: 
   - screen-recording
   - ai video
@@ -367,4 +367,5 @@ While using Streamlabs, most of the templates available are nothing more than st
 <li><a href="https://ai-video-translation.techidaily.com/in-2024-9-best-french-video-translators-online-and-download-options/"><u>In 2024, 9 Best French Video Translators Online and Download Options</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-make-a-tattoo-disappear-like-a-magic/"><u>In 2024, How to Make A Tattoo Disappear Like A Magic</u></a></li>
 </ul></div>
+
 

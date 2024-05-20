@@ -735,3 +735,4 @@ Depending on the device you are using, you have to follow the specific method on
 <li><a href="https://ai-editing-video.techidaily.com/you-can-splice-video-on-the-iphone-using-various-applications-this-article-will-guide-you-through-the-steps-necessary-to-splice-your-videos/"><u>You Can Splice Video on the iPhone Using Various Applications. This Article Will Guide You Through the Steps Necessary to Splice Your Videos</u></a></li>
 </ul></div>
 
+
