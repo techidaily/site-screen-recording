@@ -1,7 +1,7 @@
 ---
 title: "The Fundamentals of Screen Capture with a Dell Device"
-date: 2024-05-18T01:20:02.856Z
-updated: 2024-05-19T01:20:02.856Z
+date: 2024-06-09T00:36:58.094Z
+updated: 2024-06-10T00:36:58.094Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes The Fundamentals of Screen Capture with a Dell Device"
 excerpt: "This Article Describes The Fundamentals of Screen Capture with a Dell Device"
 keywords: "Fraps Screen Recording,Basic Fraps Use,Capturing Screenshots,Screen Grab Techniques,Easy Fraps Guide,Video Capture with Fraps,Quick Screen Shot Tips"
-thumbnail: https://www.lifewire.com/thmb/xLyhmkxw8rwSLNhzfV0GfYs8tZc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-watch-tiktok-without-the-app-63a4562e4c4b4bd69477425853809a35.jpg
+thumbnail: https://thmb.techidaily.com/3ce7ce4cef66cdb03e7ac7e019dea8d112e1795f84ca632563f78a12990cc533.jpg
 ---
 
 ## The Fundamentals of Screen Capture with a Dell Device

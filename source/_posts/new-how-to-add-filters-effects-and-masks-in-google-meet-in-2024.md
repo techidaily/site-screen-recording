@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Add Filters, Effects, and Masks in Google Meet, In 2024"
-date: 2024-05-19T17:20:24.616Z
-updated: 2024-05-20T17:20:24.616Z
+date: 2024-06-09T00:37:07.532Z
+updated: 2024-06-10T00:37:07.532Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] How to Add Filters, Effects, and Masks in Google Meet, In 2024"
 excerpt: "This Article Describes [New] How to Add Filters, Effects, and Masks in Google Meet, In 2024"
 keywords: "Google Meet Filters Guide,Adding Effects to Meet,Meet Masking Techniques,Google Meet Enhancements,Virtual Backgrounds in Meet,Customize Meet Video,Integrating Filters in Google Meet"
-thumbnail: https://www.lifewire.com/thmb/h4Kr8jE4HLC8U_8A9cGxEf6XqrA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/should-you-buy-a-kindle-5270180-b1c49aad9c1142dc8722cfdb5d02072c.jpg
+thumbnail: https://thmb.techidaily.com/2009bc3e2844a72a35aeb8da54c7e944a8b3e4812872b9ea8cbcc32ac61bea57.jpg
 ---
 
 ## How to Add Filters, Effects, and Masks in Google Meet?

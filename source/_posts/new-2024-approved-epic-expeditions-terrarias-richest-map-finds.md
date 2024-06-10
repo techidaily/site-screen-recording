@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Epic Expeditions  Terraria's Richest Map Finds\""
-date: 2024-05-18T01:01:10.035Z
-updated: 2024-05-19T01:01:10.035Z
+date: 2024-06-09T00:37:05.219Z
+updated: 2024-06-10T00:37:05.219Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] 2024 Approved: Epic Expeditions: Terraria's Richest Map Finds\""
 excerpt: "\"This Article Describes [New] 2024 Approved: Epic Expeditions: Terraria's Richest Map Finds\""
 keywords: "Epic Maps Terrain,Top Treasure Maps,Ultimate Adventure Maps,Richest Terracore Maps,Valuable Terraria Maps,Extreme Map Hunting,Max Map Quests Terra"
-thumbnail: https://www.lifewire.com/thmb/j6BDiuyaUokwtXDLEnyA5LApr9c=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4062264-InCar6-1500-5b803f8ec9e77c0025d3f4de.jpg
+thumbnail: https://thmb.techidaily.com/f6caddae96019a4142339a6d719f3ef49075dd557e8c99c8c7fa75aee528315d.jpg
 ---
 
 ## Epic Expeditions: Terraria's Richest Map Finds

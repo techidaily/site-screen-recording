@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  W11 Easy Capture Tool  Windows 11 Screen Recording\""
-date: 2024-05-19T17:21:50.775Z
-updated: 2024-05-20T17:21:50.775Z
+date: 2024-06-09T00:37:09.784Z
+updated: 2024-06-10T00:37:09.784Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: W11 Easy Capture Tool: Windows 11 Screen Recording\""
 excerpt: "\"This Article Describes 2024 Approved: W11 Easy Capture Tool: Windows 11 Screen Recording\""
 keywords: "W11 ScreenRec,Win11 RecordTool,QuickScreenCapture,Windows11Capture,EasyW11Record,CaptureWindows11,SpeedyWinRecording"
-thumbnail: https://www.lifewire.com/thmb/EPDzjUiegMEW3vQpFQEPlf_7s2U=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1135364530-dec5678c0c2c427ba18ae21452ff6326.jpg
+thumbnail: https://thmb.techidaily.com/8b5881e327b9c1ba2eb90535b5e52b8fb37d29efd85f95b1f8c43ff4375091ae.jpg
 ---
 
 ## W11 Easy Capture Tool: Windows 11 Screen Recording

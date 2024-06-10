@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Top 5 Budget-Friendly Gaming Mice (Under $100)\""
-date: 2024-05-18T01:26:14.380Z
-updated: 2024-05-19T01:26:14.380Z
+date: 2024-06-09T00:37:04.168Z
+updated: 2024-06-10T00:37:04.168Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] In 2024, Top 5 Budget-Friendly Gaming Mice (Under $100)\""
 excerpt: "\"This Article Describes [Updated] In 2024, Top 5 Budget-Friendly Gaming Mice (Under $100)\""
 keywords: "\"Affordable Gaming Mice,Economical Gaming Mouse,Cheap Gaming Mouse Options,Budget-Friendly Mice Games,Low Cost Gaming Peripherals,Mice Under $100,Inexpensive Gaming Mouse\""
-thumbnail: https://www.lifewire.com/thmb/YoFEWWlqY0abEBrjSUdesHbTeyU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dts-play-fi-lifestyle-aaa-5a4c211daad52b00366a3575.jpg
+thumbnail: https://thmb.techidaily.com/cb2689090616a1ba21a99aa6be50929e603a0dc8061abd47262715b07e4d29cd.jpg
 ---
 
 ## Top 5 Budget-Friendly Gaming Mice (Under $100)

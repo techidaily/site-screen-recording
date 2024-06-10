@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  How to Record Teams Video Meeting on Desktop and Mobile\""
-date: 2024-05-18T01:13:13.390Z
-updated: 2024-05-19T01:13:13.390Z
+date: 2024-06-09T00:37:11.249Z
+updated: 2024-06-10T00:37:11.249Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: How to Record Teams Video Meeting on Desktop and Mobile\""
 excerpt: "\"This Article Describes 2024 Approved: How to Record Teams Video Meeting on Desktop and Mobile\""
 keywords: "Desktop Meeting Recording,Mobile Live Streaming,Team Video Conferencing,Desktop Screen Capture,Mobile Media Record,WebMeetings Edit,Remote Collaboration Save"
-thumbnail: https://www.lifewire.com/thmb/U3vDiQ7GsjPng-Yja5bpNwc079s=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-527847020-5b9edc17c9e77c0050ff9045.jpg
+thumbnail: https://thmb.techidaily.com/ed85d5260878e7afe5eab5cc1189d2e4580a5c9f5e7d77e30ca04d5bf449b804.jpg
 ---
 
 ## How to Record Teams Video Meeting on Desktop and Mobile

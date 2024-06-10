@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unlock Window History with Spring ScreenRecorder\""
-date: 2024-05-19T17:21:44.223Z
-updated: 2024-05-20T17:21:44.223Z
+date: 2024-06-09T00:37:12.613Z
+updated: 2024-06-10T00:37:12.613Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Unlock Window History with Spring ScreenRecorder\""
 excerpt: "\"This Article Describes 2024 Approved: Unlock Window History with Spring ScreenRecorder\""
 keywords: "ScreenRecord History Unlock,Spring Recorder Tool,Window ScreenHistory Access,SpringScreen Save Videos,Quick Window Record,History ScreenCapture App,SpringTool Record Windows"
-thumbnail: https://www.lifewire.com/thmb/b7hSKwI9Oajpbwr32n5Vsf7fcds=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/operationcouldnotcomplete-95695abe458d4062a2c2f7e46e656b08.png
+thumbnail: https://thmb.techidaily.com/21ec111232ea695810b8b161c545d6d8dc411e7eef6880dc4b8d8fa008ddde2f.png
 ---
 
 ## Unlock Window History with Spring ScreenRecorder

@@ -1,7 +1,7 @@
 ---
 title: "[New] Steps to Eliminate the OBS Blank Screens in Gaming Setup for 2024"
-date: 2024-05-18T01:02:24.659Z
-updated: 2024-05-19T01:02:24.659Z
+date: 2024-06-09T00:37:10.880Z
+updated: 2024-06-10T00:37:10.880Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] Steps to Eliminate the OBS Blank Screens in Gaming Setup for 2024"
 excerpt: "This Article Describes [New] Steps to Eliminate the OBS Blank Screens in Gaming Setup for 2024"
 keywords: "Banish OBS Blackouts,Eradicate Gaming Screen Issues,Fixing Gaming OBS Bugs,OBS Glitch Removal Steps,Eliminate Null Screens in Games,Clearing Blank OBS Displays,Stop OBS Freezing on PC"
-thumbnail: https://www.lifewire.com/thmb/NJLgSOS-_Qq21qgfdWY713OPYzI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-527803604-ad6f389c89ff4be1b953a3c2cdc64c09.jpg
+thumbnail: https://thmb.techidaily.com/a362218194355c666b0860326aa79761dfe27d2518f12f424f4610cd1ffe517b.jpg
 ---
 
 ## Steps to Eliminate the OBS Blank Screens in Gaming Setup

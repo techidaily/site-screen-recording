@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] The Videographer's Minecraft  6 Proven Ways to Document Gameplay\""
-date: 2024-05-19T17:20:07.825Z
-updated: 2024-05-20T17:20:07.825Z
+date: 2024-06-09T00:36:59.252Z
+updated: 2024-06-10T00:36:59.252Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] The Videographer's Minecraft: 6 Proven Ways to Document Gameplay\""
 excerpt: "\"This Article Describes [Updated] The Videographer's Minecraft: 6 Proven Ways to Document Gameplay\""
 keywords: "Minecraft Doc Tips,Gametime Filming Strategies,Virtual World Video Guide,Gameplay Recording Hacks,Mining Adventure Captures,VRGaming Documentation,Creative Gameplay Screenshots"
-thumbnail: https://www.lifewire.com/thmb/uOuMw8_e1pBrdfuZB3txnHBxmfk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sofya-NomETWcv2Fo-unsplash-be3fc2855a7e477db0273993fd22e822.jpg
+thumbnail: https://thmb.techidaily.com/f8f467b332b89dbb4d8c51eef116fbbce4476e735f93f6027b47c78945bb4e75.jpg
 ---
 
 ## The Videographer's Minecraft: 6 Proven Ways to Document Gameplay

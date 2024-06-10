@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Activating Built-In Recorders on Mate and P Series Phones (Mate 10/20; P20/10).\""
-date: 2024-05-18T01:32:54.559Z
-updated: 2024-05-19T01:32:54.559Z
+date: 2024-06-09T00:37:00.776Z
+updated: 2024-06-10T00:37:00.776Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes In 2024, Activating Built-In Recorders on Mate and P Series Phones (Mate 10/20; P20/10).\""
 excerpt: "\"This Article Describes In 2024, Activating Built-In Recorders on Mate and P Series Phones (Mate 10/20; P20/10).\""
 keywords: "\"Mate Series Recorder Start,Mate Phones Built-In Recording,P Series Phone Recorders Activate,Mate 10/20 Recorder Onboard,P20/10 Series Voice Capture,Phone Built-In Audio Record,Starting Mate Device Sound Capture\""
-thumbnail: https://www.lifewire.com/thmb/XF8XZEIjsJng0yh72ZnUp_8O804=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/young-muslim-woman-using-phone-1137305438-75947aa7fb484506bf9da8c38fc68a03.jpg
+thumbnail: https://thmb.techidaily.com/2453bc5c0249af0de921ee166f14d8e128b375913b07ba9cca730be764e6c410.jpg
 ---
 
 ## Activating Built-In Recorders on Mate and P Series Phones (Mate 10/20; P20/10)

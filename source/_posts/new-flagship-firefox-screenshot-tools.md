@@ -1,7 +1,7 @@
 ---
 title: "[New] Flagship Firefox Screenshot Tools"
-date: 2024-05-18T01:07:32.405Z
-updated: 2024-05-19T01:07:32.405Z
+date: 2024-06-09T00:37:04.844Z
+updated: 2024-06-10T00:37:04.844Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] Flagship Firefox Screenshot Tools"
 excerpt: "This Article Describes [New] Flagship Firefox Screenshot Tools"
 keywords: "FireFox SnapTool,Firefox ScreenshotKit,Firefox ScreenCapture,PrimeFirefoxSnapshot,FieryFirefoxScreenshots,FlagshipFirefoxCapture,MainFlagshipScreenMaker"
-thumbnail: https://www.lifewire.com/thmb/__rERyiFiVgLZNIfMljI1DDoPFE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tropical-beach-wallpaper-beach-backgrounds-587fbb765f9b584db3241860.jpg
+thumbnail: https://thmb.techidaily.com/238e2de8d5663845563adee13d68f244664dc4975f435870883240d8e13b1f76.jpg
 ---
 
 ## Flagship Firefox Screenshot Tools

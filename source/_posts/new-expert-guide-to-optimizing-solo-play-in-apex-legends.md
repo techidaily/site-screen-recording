@@ -1,7 +1,7 @@
 ---
 title: "[New] Expert Guide to Optimizing Solo Play in Apex Legends"
-date: 2024-05-18T01:17:46.691Z
-updated: 2024-05-19T01:17:46.691Z
+date: 2024-06-09T00:36:59.553Z
+updated: 2024-06-10T00:36:59.553Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] Expert Guide to Optimizing Solo Play in Apex Legends"
 excerpt: "This Article Describes [New] Expert Guide to Optimizing Solo Play in Apex Legends"
 keywords: "Apex Solo Play Tips,Apex Gameplay Guide,Apex Optimization Strategies,Solo Apex Legends Advice,Enhancing Solo Gameplay,Apex Strategy Mastery,Optimal Solo Tactics"
-thumbnail: https://www.lifewire.com/thmb/3UFOh7_Yk35mO3BSnykTStwc6K4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tclsclass-0185b3ecd41d454589d2a9984629b919.jpg
+thumbnail: https://thmb.techidaily.com/459b794516e41ca817af82c1c22066d193c455f4891dd7a8e040210befb5bf6c.jpg
 ---
 
 ## Expert Guide to Optimizing Solo Play in Apex Legends

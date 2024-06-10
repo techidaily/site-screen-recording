@@ -1,7 +1,7 @@
 ---
 title: "[New] Vanguard Firefox Recording Enhancements"
-date: 2024-05-19T17:19:42.617Z
-updated: 2024-05-20T17:19:42.617Z
+date: 2024-06-09T00:37:09.893Z
+updated: 2024-06-10T00:37:09.893Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] Vanguard Firefox Recording Enhancements"
 excerpt: "This Article Describes [New] Vanguard Firefox Recording Enhancements"
 keywords: "Vanguard FF Record Quality,Enhanced Firefox Audio,Firefox Improve Recording,FF Upgrade Sound Capture,Vanguard FF Enhance Tracking,Firefox Recording Tech Update,Advanced FF Sound Recording"
-thumbnail: https://www.lifewire.com/thmb/2zy8MTQaG4uUA0T7RXXxi-EpxMA=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ps5controller-0d702b25f7fa47b482999811cfc7af39.jpg
+thumbnail: https://thmb.techidaily.com/36cb4ddf3fc78c71836e11f4a803426f35040ec4e34c37b6c57cca04ad1d4891.jpg
 ---
 
 ## Vanguard Firefox Recording Enhancements

@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Freeze Entire Browser Sheet"
-date: 2024-05-18T01:26:36.748Z
-updated: 2024-05-19T01:26:36.748Z
+date: 2024-06-09T00:37:07.891Z
+updated: 2024-06-10T00:37:07.891Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] In 2024, Freeze Entire Browser Sheet"
 excerpt: "This Article Describes [New] In 2024, Freeze Entire Browser Sheet"
 keywords: "Freeze Browser Page,Browser Sheet Lockdown,Temporary Browser Freeze,Inline Browser Stop,Chrome Tab Freeze,Browser Pause Feature,Frozen WebSheet Trick"
-thumbnail: https://www.lifewire.com/thmb/RZ6a_Dm3h0STkAi4OwMdfZPBurY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DTS-Virtual-X-logo-w-illustration-xxbb-59403d7b3df78c537b1ef6b2.jpg
+thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f2d60ec5b3831dd32989cbba.jpg
 ---
 
 ## Freeze Entire Browser Sheet

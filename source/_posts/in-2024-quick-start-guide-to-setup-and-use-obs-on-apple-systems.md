@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Quick Start Guide to Setup and Use OBS on Apple Systems"
-date: 2024-05-19T17:20:39.087Z
-updated: 2024-05-20T17:20:39.088Z
+date: 2024-06-09T00:37:05.052Z
+updated: 2024-06-10T00:37:05.052Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes In 2024, Quick Start Guide to Setup and Use OBS on Apple Systems"
 excerpt: "This Article Describes In 2024, Quick Start Guide to Setup and Use OBS on Apple Systems"
 keywords: "\"OBS Installation Mac,OBS Setup for Mac Users,Beginning with OBS Mac,Quick OBS Setup Guide,Mac-Friendly OBS Tutorial,Apple Systems OBS Instructions,Start Using OBS on Mac\""
-thumbnail: https://www.lifewire.com/thmb/n7XTjADWmcwt2P_LF7WoPjqi8O4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-538600261-56c643115f9b5879cc3d6bde.jpg
+thumbnail: https://thmb.techidaily.com/5f19d12263b1224bd46b49560f2a184a0c0f8c0d56bb43f9e5c26e9a6768a6cd.jpg
 ---
 
 ## Quick Start Guide to Setup and Use OBS on Apple Systems

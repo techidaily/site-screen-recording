@@ -1,7 +1,7 @@
 ---
 title: "\"Tailoring Composite Results  Blend Mode Proficiency\""
-date: 2024-05-19T17:20:28.431Z
-updated: 2024-05-20T17:20:28.431Z
+date: 2024-06-09T00:37:07.461Z
+updated: 2024-06-10T00:37:07.461Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Tailoring Composite Results: Blend Mode Proficiency\""
 excerpt: "\"This Article Describes Tailoring Composite Results: Blend Mode Proficiency\""
 keywords: "Composite Blending,Fusion Techniques,Blend Mode Mastery,Artistic Merge Methods,Composite Harmony,Blending Expertise,Creative Composition"
-thumbnail: https://www.lifewire.com/thmb/Y6Usxgxc9PdsrK9dH2LfUO8QJRY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-849896688-6d69f22bcf0a4ff092f444abe6e1c19f.jpg
+thumbnail: https://thmb.techidaily.com/298329c51bf36530c944afd2311460eb93803d5bd2abed16461ddf6c80bb2da9.jpg
 ---
 
 ## Tailoring Composite Results: Blend Mode Proficiency

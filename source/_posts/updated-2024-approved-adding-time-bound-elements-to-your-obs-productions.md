@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Adding Time-Bound Elements to Your OBS Productions\""
-date: 2024-05-19T17:20:31.669Z
-updated: 2024-05-20T17:20:31.669Z
+date: 2024-06-09T00:37:01.136Z
+updated: 2024-06-10T00:37:01.136Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] 2024 Approved: Adding Time-Bound Elements to Your OBS Productions\""
 excerpt: "\"This Article Describes [Updated] 2024 Approved: Adding Time-Bound Elements to Your OBS Productions\""
 keywords: "Attend Focus,Clear Meetings,Eradicating Noise,Virtual Clarity,Sharp Engagement,Screening Distractions,Conferences Without Backgrounds"
-thumbnail: https://www.lifewire.com/thmb/tP3PGqv5XalObxjPn5UrSpbUwa0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/preaknessstakes-5c804f1b46e0fb00019b8ee0.jpg
+thumbnail: https://thmb.techidaily.com/4a7e35e05dbbab3383219ac491b7159c730c023be090a3ce22bfc91cc23bb5f7.jpg
 ---
 
 ## Adding Time-Bound Elements to Your OBS Productions

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Top 6 Masterpieces  Designing MC Village Homes\""
-date: 2024-05-18T01:10:56.656Z
-updated: 2024-05-19T01:10:56.656Z
+date: 2024-06-09T00:37:02.789Z
+updated: 2024-06-10T00:37:02.789Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] Top 6 Masterpieces: Designing MC Village Homes\""
 excerpt: "\"This Article Describes [New] Top 6 Masterpieces: Designing MC Village Homes\""
 keywords: "MC Village Home Designs,Top Housing MC Projects,Six Architectural Marvels,Visionary MC Residential,Homes by MC Architects,Excellence in MC Constructions,Masterful MC Home Creations"
-thumbnail: https://www.lifewire.com/thmb/6mx5ubcqWIE245JjiBlgZpvI48I=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Horserace-56ca33a85f9b5879cc4bcc6e.jpg
+thumbnail: https://thmb.techidaily.com/1501cba3c5f4c4b803b623584f546bd1f9723b8ea081222f679c45ec271effc3.jpg
 ---
 
 ## Top 6 Masterpieces: Designing MC Village Homes

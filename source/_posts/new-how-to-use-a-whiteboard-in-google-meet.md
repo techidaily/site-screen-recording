@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Use a Whiteboard in Google Meet"
-date: 2024-05-19T17:20:40.577Z
-updated: 2024-05-20T17:20:40.577Z
+date: 2024-06-09T00:37:08.221Z
+updated: 2024-06-10T00:37:08.221Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] How to Use a Whiteboard in Google Meet"
 excerpt: "This Article Describes [New] How to Use a Whiteboard in Google Meet"
 keywords: "Google Meet Boarding,Using Whiteboards Online,Meeting With Boards,Digital Whiteboard Usage,Learn Board Share Tricks,Screen Sharing Techniques,Interactive Goggle Sessions"
-thumbnail: https://www.lifewire.com/thmb/xgo6tGI-HONOfys81EHMpcUqTKU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-970157966-65f3dd434f3e4dc98e28a635b8cacc87.jpg
+thumbnail: https://thmb.techidaily.com/77006c539bf1ddb2e2b5e84e1f174870218883325d71d7edbcfdaf185bcde8ae.jpg
 ---
 
 ## Navigating Board Usage: A Universal Guide for iOS, Android & Windows Platforms

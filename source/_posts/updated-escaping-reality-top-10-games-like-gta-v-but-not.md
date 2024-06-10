@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Escaping Reality - Top 10 Games Like GTA V (But Not)\""
-date: 2024-05-18T01:04:59.022Z
-updated: 2024-05-19T01:04:59.022Z
+date: 2024-06-09T00:37:05.136Z
+updated: 2024-06-10T00:37:05.136Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] Escaping Reality - Top 10 Games Like GTA V (But Not)\""
 excerpt: "\"This Article Describes [Updated] Escaping Reality - Top 10 Games Like GTA V (But Not)\""
 keywords: "\"GTA Alternatives: Real Life,Non-GTA Game List,Escapist Games Explore,Console Freedom Titles,Virtual Adventure Without GTA,Safe Online Gaming,Nonviolent Game Worlds\""
-thumbnail: https://www.lifewire.com/thmb/ynTHMRKHlmkgnPU-C-PjPaOI_vk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1345967858-4e7ba42433504ee899e05ceb500f3b68.jpg
+thumbnail: https://thmb.techidaily.com/c44b3c2a949ed90a1a74d6b8f5c0458cbf8a943f8d64ce0fc757b91844bd2888.jpg
 ---
 
 ## Escaping Reality - Top 10 Games Like GTA V (But Not)

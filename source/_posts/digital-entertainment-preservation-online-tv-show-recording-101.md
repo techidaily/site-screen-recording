@@ -1,7 +1,7 @@
 ---
 title: "\"Digital Entertainment Preservation  Online TV Show Recording 101\""
-date: 2024-05-19T17:20:05.217Z
-updated: 2024-05-20T17:20:05.217Z
+date: 2024-06-09T00:37:12.489Z
+updated: 2024-06-10T00:37:12.489Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Digital Entertainment Preservation: Online TV Show Recording 101\""
 excerpt: "\"This Article Describes Digital Entertainment Preservation: Online TV Show Recording 101\""
 keywords: "\"Online TV Recording Guide,Save Shows Digitally,Streaming TV Archive Tips,Web TV Preservation Basics,Digital TV Show Capture,E-TV Record Fundamentals,Online Media Storage Guide\""
-thumbnail: https://www.lifewire.com/thmb/hlshSPtDf3zsXAhW4UAOkuNWyQM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-Macys-59e6c3699abed500118af858.jpg
+thumbnail: https://thmb.techidaily.com/a6ef7d238dd7bb214a3984e4799089ad86b5e4b6f433cd32ec9f580258b7206c.jpg
 ---
 
 ## Digital Entertainment Preservation: Online TV Show Recording 101

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Masterclass in Brief Lapses #Top 5\""
-date: 2024-05-18T01:13:38.009Z
-updated: 2024-05-19T01:13:38.009Z
+date: 2024-06-09T00:36:58.520Z
+updated: 2024-06-10T00:36:58.520Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] 2024 Approved: Masterclass in Brief Lapses #Top 5\""
 excerpt: "\"This Article Describes [New] 2024 Approved: Masterclass in Brief Lapses #Top 5\""
 keywords: "Masterclass in Mgmt,Business Game Rev,Top BusGame 2024,ManagReview Insight,Leadership Skillset,Management Strategies,Keybusiness Games"
-thumbnail: https://www.lifewire.com/thmb/tlifSCFQmwjazjTNLenwCtxlliI=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/removerokuchannel-c354faa0f712495384a4d5888017e30c.png
+thumbnail: https://thmb.techidaily.com/f060aa48894ea1b017bf8a4af8da622e4076e35a663f40c627d05eef8a39852a.png
 ---
 
 ## Masterclass in Brief Lapses #Top 5

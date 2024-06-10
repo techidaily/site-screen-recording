@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Premium Top Ten Nintendo Switch Fighter Games (Max 156)"
-date: 2024-05-19T17:19:51.822Z
-updated: 2024-05-20T17:19:51.822Z
+date: 2024-06-09T00:37:05.760Z
+updated: 2024-06-10T00:37:05.760Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] In 2024, Premium Top Ten Nintendo Switch Fighter Games (Max 156)"
 excerpt: "This Article Describes [New] In 2024, Premium Top Ten Nintendo Switch Fighter Games (Max 156)"
 keywords: "\"Nintendo Switch Fighters,Premium Fighting Games,Switch Gaming Top Titles,High-End Game Switch,Elite Switch Fighter Games,Exclusive Switch Series,Ultimate Switch Gamers' Choice\""
-thumbnail: https://www.lifewire.com/thmb/uOuMw8_e1pBrdfuZB3txnHBxmfk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sofya-NomETWcv2Fo-unsplash-be3fc2855a7e477db0273993fd22e822.jpg
+thumbnail: https://thmb.techidaily.com/f8f467b332b89dbb4d8c51eef116fbbce4476e735f93f6027b47c78945bb4e75.jpg
 ---
 
 ## Premium Top Ten Nintendo Switch Fighter Games (Max 156)

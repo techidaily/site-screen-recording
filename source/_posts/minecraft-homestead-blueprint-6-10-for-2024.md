@@ -1,7 +1,7 @@
 ---
 title: "\"Minecraft Homestead Blueprint #6-10 for 2024\""
-date: 2024-05-18T01:05:16.167Z
-updated: 2024-05-19T01:05:16.167Z
+date: 2024-06-09T00:37:05.024Z
+updated: 2024-06-10T00:37:05.024Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Minecraft Homestead Blueprint #6-10 for 2024\""
 excerpt: "\"This Article Describes Minecraft Homestead Blueprint #6-10 for 2024\""
 keywords: "Minecraft Farming Plans,MCV Homestead Scheme,Crafted Game Homesteads,MC Buildings Plan #6,Blueprint for MineCraft Houses,Home in Minecraft #Blueprint,Minecraft Homestead Design"
-thumbnail: https://www.lifewire.com/thmb/RWcl_Joktvj_rmr9ViWUZrsB7e4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/homepod-hero-5a79bc226bf06900378a7e1a.jpg
+thumbnail: https://thmb.techidaily.com/a68c5c5018f608284d7af133f2911830741f898253edd18111f294ce2b839027.jpg
 ---
 
 ## Minecraft Homestead Blueprint #6-10

@@ -1,7 +1,7 @@
 ---
 title: "[New] Capturing Your iPhone/iPad Display Now"
-date: 2024-05-18T01:24:09.301Z
-updated: 2024-05-19T01:24:09.301Z
+date: 2024-06-09T00:37:08.504Z
+updated: 2024-06-10T00:37:08.504Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] Capturing Your iPhone/iPad Display Now"
 excerpt: "This Article Describes [New] Capturing Your iPhone/iPad Display Now"
 keywords: "Capture iPhone Screen,IPhone Screenshot Tutorial,IPad Display Save,IPhone Display Capture,IOS Screen Recording Guide,Quick iPad Image Save,Direct iPhone View Record"
-thumbnail: https://www.lifewire.com/thmb/lKoxPMpdBOHt8yxn5M8d3rrvNWY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iOS-wwdc-7d655ca37a3b43b99fd9dac09bec13c4.jpg
+thumbnail: https://thmb.techidaily.com/d8f58ce885808b79b129b3a2207409d6b0df7e72b7b5c93436a642cc91c8c39d.jpg
 ---
 
 ## Capturing Your iPhone/iPad Display Now

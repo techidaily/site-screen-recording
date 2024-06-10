@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Capture Games Effortlessly with NVIDIA\""
-date: 2024-05-19T17:19:43.412Z
-updated: 2024-05-20T17:19:43.412Z
+date: 2024-06-09T00:37:07.747Z
+updated: 2024-06-10T00:37:07.747Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Capture Games Effortlessly with NVIDIA\""
 excerpt: "\"This Article Describes 2024 Approved: Capture Games Effortlessly with NVIDIA\""
 keywords: "Game Capture NVIDIA Easy,Nvidia Gaming Convenience,Effortless Game Play NVIDIA,NVIDIA Streamlined Gaming,Seamless Games NVIDIA,Quick Game Shots NVIDIA,NVIDIA Easy Gaming Capture"
-thumbnail: https://www.lifewire.com/thmb/XJmgdRFoTR4wOTi2HR5hRG_j3aA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ArtificalIntelligenceChatbotConcept-c0e491e36fae46ef84b670334af5095f.jpg
+thumbnail: https://thmb.techidaily.com/64bcba811dca59ee452fde50283dc6af9516c46b5a87dc01f6fa89f4e4093f9a.jpg
 ---
 
 ## Capture Games Effortlessly with NVIDIA

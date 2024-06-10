@@ -1,7 +1,7 @@
 ---
 title: "\"Basic Building Blocks  Simplest MC Dwellings for Novices for 2024\""
-date: 2024-05-19T17:20:04.538Z
-updated: 2024-05-20T17:20:04.538Z
+date: 2024-06-09T00:37:12.890Z
+updated: 2024-06-10T00:37:12.890Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Basic Building Blocks: Simplest MC Dwellings for Novices for 2024\""
 excerpt: "\"This Article Describes Basic Building Blocks: Simplest MC Dwellings for Novices for 2024\""
 keywords: "\"Basic MC Homes,Simple Mini-Cabins,Novice MC Dwelling,Beginner MC Units,Easy MC Shelter,Fundamental MC Buildings,Introductory MC Structures\""
-thumbnail: https://www.lifewire.com/thmb/hlshSPtDf3zsXAhW4UAOkuNWyQM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-Macys-59e6c3699abed500118af858.jpg
+thumbnail: https://thmb.techidaily.com/a6ef7d238dd7bb214a3984e4799089ad86b5e4b6f433cd32ec9f580258b7206c.jpg
 ---
 
 ## Basic Building Blocks: Simplest MC Dwellings for Novices

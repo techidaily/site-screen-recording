@@ -1,7 +1,7 @@
 ---
 title: "[New] Assessment of VLC Screen Recording"
-date: 2024-05-18T01:06:24.092Z
-updated: 2024-05-19T01:06:24.092Z
+date: 2024-06-09T00:37:06.866Z
+updated: 2024-06-10T00:37:06.866Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] Assessment of VLC Screen Recording"
 excerpt: "This Article Describes [New] Assessment of VLC Screen Recording"
 keywords: "Video Latency Check,Screen Capture Analysis,VLC Record Quality,Visual Content Evaluation,Screen Save Testing,VLC Performance Review,Recording Quality Assessment"
-thumbnail: https://www.lifewire.com/thmb/r5-nbFpZcg3uV6IKilx2-E6xQtA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-185223738-56a691fd5f9b58b7d0e3a1d9.jpg
+thumbnail: https://thmb.techidaily.com/0f399835ae801930fc09d856b55526ca68007b6aa28f7cfc8442056063114a14.jpg
 ---
 
 ## Assessment of VLC Screen Recording

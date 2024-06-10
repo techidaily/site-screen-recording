@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Free Screen Recorders for Windows and Mac\""
-date: 2024-05-18T01:33:56.809Z
-updated: 2024-05-19T01:33:56.809Z
+date: 2024-06-09T00:37:12.670Z
+updated: 2024-06-10T00:37:12.670Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Free Screen Recorders for Windows and Mac\""
 excerpt: "\"This Article Describes 2024 Approved: Free Screen Recorders for Windows and Mac\""
 keywords: "\"Free Windows Screen Recorder,Free Mac Screen Capture,Cost-Free PC Recording Software,Zero Dollar OS X Recorder,Bare Essentials for Windows Screens,Lifesaver: No-Cost Mac Record,Budget-Friendly OS X Recording Tool\""
-thumbnail: https://www.lifewire.com/thmb/KrjxcoVkV9vT3cQ3C-URm7mlpcM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-917461864-7141ebd3ec944ce6a431b8d485cc9cdb.jpg
+thumbnail: https://thmb.techidaily.com/c71f8b11a9475a90b96c899fdeade9228f855c7ed46c02973b8fefdc10e6507c.jpg
 ---
 
 ## Top 15 Free Screen Recorders for Windows and Mac

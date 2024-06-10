@@ -1,7 +1,7 @@
 ---
 title: "\"[New] All-Encompassing Razer Camera Report for 2024\""
-date: 2024-05-19T17:20:10.621Z
-updated: 2024-05-20T17:20:10.621Z
+date: 2024-06-09T00:37:10.855Z
+updated: 2024-06-10T00:37:10.855Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] All-Encompassing Razer Camera Report for 2024\""
 excerpt: "\"This Article Describes [New] All-Encompassing Razer Camera Report for 2024\""
 keywords: "\"Razer Camera Review,All-in-One Razer Photo,Comprehensive Razer Video,Razer Complete Camera Guide,Ultimate Razer Photography,Full Spectrum Razer Capture,Total Razer Imaging Report\""
-thumbnail: https://www.lifewire.com/thmb/Xyb0vuGu9TpKbUdQlZdFVVUv0Bc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/HotelTransylvaniaTransformania-71f0792728254936864ad509c847c73c.jpg
+thumbnail: https://thmb.techidaily.com/900dc848292f751f63b27f646fc76a619bc7384a4aedd9106177497020dbae72.jpg
 ---
 
 ## All-Encompassing Razer Camera Report

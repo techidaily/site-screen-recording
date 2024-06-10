@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Exclusive Mac HD Scribing + Auditory Logging Solution"
-date: 2024-05-18T01:03:26.779Z
-updated: 2024-05-19T01:03:26.779Z
+date: 2024-06-09T00:37:00.644Z
+updated: 2024-06-10T00:37:00.644Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] In 2024, Exclusive Mac HD Scribing + Auditory Logging Solution"
 excerpt: "This Article Describes [New] In 2024, Exclusive Mac HD Scribing + Auditory Logging Solution"
 keywords: "Mac HD Scribe,HD Scribing Mac,Auditory Logging,Mac Audio Log,High Definition Scribe,Scribe + Auditory,Mac HD Recording"
-thumbnail: https://www.lifewire.com/thmb/V0mVc7hXHyanE76GvodfwiaKNvE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-966273172-fbc5e7e0e68a48f69a1a5ddc0d6df827.jpg
+thumbnail: https://thmb.techidaily.com/94266fd2abffa49379e11298094d126f869b761cee72b14ccd455aec2a0df5c4.jpg
 ---
 
 ## Exclusive Mac HD Scribing + Auditory Logging Solution

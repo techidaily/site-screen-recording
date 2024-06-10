@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Effortless Screen Capture in Dota 2 Matches\""
-date: 2024-05-18T01:33:39.945Z
-updated: 2024-05-19T01:33:39.945Z
+date: 2024-06-09T00:37:06.964Z
+updated: 2024-06-10T00:37:06.964Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Effortless Screen Capture in Dota 2 Matches\""
 excerpt: "\"This Article Describes 2024 Approved: Effortless Screen Capture in Dota 2 Matches\""
 keywords: "Easy Dota SC,Quick Capture Dota,Dota SC Tips,Streamlined Dota Screenshots,Effortless Dota Image,Fast Dota Screen Snaps,Simplified Dota Captures"
-thumbnail: https://www.lifewire.com/thmb/Z0ZdjJb5nz4Ek2qcGOTaqnhoZ04=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1164718779-aa87dac78cd44ad7b71e76c27adc7e9a.jpg
+thumbnail: https://thmb.techidaily.com/6504740a985b93f1ab7ddf2a2493507fc4e1a65d7f00706449676a59eeb923d9.jpg
 ---
 
 ## Effortless Screen Capture in Dota 2 Matches

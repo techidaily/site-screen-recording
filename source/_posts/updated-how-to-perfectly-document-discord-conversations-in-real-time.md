@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] How to Perfectly Document Discord Conversations in Real-Time\""
-date: 2024-05-18T01:16:05.990Z
-updated: 2024-05-19T01:16:05.990Z
+date: 2024-06-09T00:37:04.127Z
+updated: 2024-06-10T00:37:04.127Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] How to Perfectly Document Discord Conversations in Real-Time\""
 excerpt: "\"This Article Describes [Updated] How to Perfectly Document Discord Conversations in Real-Time\""
 keywords: "\"DocuConvo Real-Time Tips,Live Discord Transcription Guide,Real-Time Recording Techniques,Capture Discord Chats Instantly,Documenting Discord Effectively,Streamlining Conversation Logs,Immediate Discord Notes\""
-thumbnail: https://www.lifewire.com/thmb/x5hFLtVYVUkR-_nqhbxS_f11j5E=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/netgear-default-password-list-2619154-b581fdcf136848d29e944638cd2ad444.png
+thumbnail: https://thmb.techidaily.com/3b3d53f3a3456319783aa99ca770516fad2e58dbe2bd45f2ec6f3eb305fb3d58.png
 ---
 
 ## How to Perfectly Document Discord Conversations in Real-Time

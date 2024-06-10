@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering Silence  Disabling Participants in GMeet Calls\""
-date: 2024-05-18T01:22:11.228Z
-updated: 2024-05-19T01:22:11.228Z
+date: 2024-06-09T00:37:01.271Z
+updated: 2024-06-10T00:37:01.271Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Mastering Silence: Disabling Participants in GMeet Calls\""
 excerpt: "\"This Article Describes Mastering Silence: Disabling Participants in GMeet Calls\""
 keywords: "Master Silence,Silence In Meetings,Turn Off Talkers,Quiet Meeting Room,Stop Chatter,Mute Participants,Noise Control Call"
-thumbnail: https://www.lifewire.com/thmb/6d3Pk0OpPHgsMtYTh0RE0ehMopY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-758317893-3ab5c26f770448db8b4a58205fb549f1.jpg
+thumbnail: https://thmb.techidaily.com/05c8c6fd73c6fec22a2f538188954b893a706bcf3ee5edf935baeb75dd083d47.jpg
 ---
 
 ## Mastering Silence: Disabling Participants in GMeet Calls

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Craft the Perfect Livestream on YouTube & Twitch with OBS\""
-date: 2024-05-18T01:33:30.282Z
-updated: 2024-05-19T01:33:30.282Z
+date: 2024-06-09T00:36:58.742Z
+updated: 2024-06-10T00:36:58.742Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Craft the Perfect Livestream on YouTube & Twitch with OBS\""
 excerpt: "\"This Article Describes 2024 Approved: Craft the Perfect Livestream on YouTube & Twitch with OBS\""
 keywords: "Stream OBS Live,OBS Streaming Guide,Create Livestreams,Live Broadcasting OBS,Optimal OBS Setup,OBS for Streams,Master YouTube Twitch"
-thumbnail: https://www.lifewire.com/thmb/6e-dHhpfl-OgzUpZXzufYG-qf-Y=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/movie-night-at-home-with-popcorn_t20_yv3PA9-5c815f7fc9e77c0001fd5b49.jpg
+thumbnail: https://thmb.techidaily.com/d021ea19d35ef3673abfe0bc9bdff457eb34791e55514d7bc0ce5bafaca00aee.jpg
 ---
 
 ## Craft the Perfect Livestream on YouTube & Twitch with OBS

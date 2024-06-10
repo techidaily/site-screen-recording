@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Photograph Whole Page Spectacle\""
-date: 2024-05-18T01:24:59.189Z
-updated: 2024-05-19T01:24:59.189Z
+date: 2024-06-09T00:37:10.647Z
+updated: 2024-06-10T00:37:10.647Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] 2024 Approved: Photograph Whole Page Spectacle\""
 excerpt: "\"This Article Describes [New] 2024 Approved: Photograph Whole Page Spectacle\""
 keywords: "\"Full-Page Photography,Page Spectacular Photos,Wholesale Image Capture,Panoramic Photo Magic,Grand Visual Photography,Complete Page Scenes,Wide View Photography\""
-thumbnail: https://www.lifewire.com/thmb/1X3sRGX1kbV-Ydn8ceXfqTlOH6I=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/african-american-woman-opening-packages-of-shoes-on-sofa-580503483-5a735094d8fdd50036b63f8a.jpg
+thumbnail: https://thmb.techidaily.com/9ca2eff6ae26123de716ede19623049b700dbda01116c41da9ae37331ba659b6.jpg
 ---
 
 ## Photograph Whole Page Spectacle

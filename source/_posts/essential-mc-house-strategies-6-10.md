@@ -1,7 +1,7 @@
 ---
 title: "\"Essential MC House Strategies #6-10\""
-date: 2024-05-19T17:20:35.089Z
-updated: 2024-05-20T17:20:35.089Z
+date: 2024-06-09T00:37:02.694Z
+updated: 2024-06-10T00:37:02.694Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Essential MC House Strategies #6-10\""
 excerpt: "\"This Article Describes Essential MC House Strategies #6-10\""
 keywords: "\"MC House Tactics #1-5,HipHop Production Plans #1-5,Rap Beats Mastery #1-5,Lyric Crafting Techniques #1-5,Track Arrangement Secrets #1-5,MC House Guide #1-5,Rhyme Schemes for HipHop #1-5\""
-thumbnail: https://www.lifewire.com/thmb/DHxaJkZu-_13cCciVcRs3Mq0nj4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/012_how-to-make-video-call-on-android-bd93ab594aa648c7977f4c1ecf42c85b.jpg
+thumbnail: https://thmb.techidaily.com/502b1cdc938497dc65859bd4dea7388cbc83b5388aae8627911832c708fd7626.jpg
 ---
 
 ## Essential MC House Strategies #6-10

@@ -1,7 +1,7 @@
 ---
 title: "\"Dashboard Directions  Entering Google Meet (PC/Mobile)\""
-date: 2024-05-18T01:13:28.876Z
-updated: 2024-05-19T01:13:28.876Z
+date: 2024-06-09T00:37:06.128Z
+updated: 2024-06-10T00:37:06.128Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Dashboard Directions: Entering Google Meet (PC/Mobile)\""
 excerpt: "\"This Article Describes Dashboard Directions: Entering Google Meet (PC/Mobile)\""
 keywords: "Google Meet Entry PC,Mobile Google Meet Dash,Google Meet Startup,Microsoft Meet Access,PC Google Video Call,Entering Google Chat,Initiate Google Meet"
-thumbnail: https://www.lifewire.com/thmb/71reoJ08pe9fxU7SLDHBCk0MgVg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-use-remote-access-on-your-samsung-smart-tv-4688935-01-29c7de5dc77e4747a8070d12f0c3d84c.jpg
+thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641c77398dacbaad68cbaf2be6.jpg
 ---
 
 ## Dashboard Directions: Entering Google Meet (PC/Mobile)

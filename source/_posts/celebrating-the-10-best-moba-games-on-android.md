@@ -1,7 +1,7 @@
 ---
 title: "Celebrating the #10 Best MOBA Games on Android"
-date: 2024-05-19T17:22:37.818Z
-updated: 2024-05-20T17:22:37.818Z
+date: 2024-06-09T00:37:05.904Z
+updated: 2024-06-10T00:37:05.904Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Celebrating the #10 Best MOBA Games on Android"
 excerpt: "This Article Describes Celebrating the #10 Best MOBA Games on Android"
 keywords: "Mobile MOBAs Top,MOBAs Best Apps,10 MOBAs Leaders,Ultimate MOBAs Android,Android's Best MOBA Games,Ranked MOBAs on Mobile,Elite MOBAs for Android"
-thumbnail: https://www.lifewire.com/thmb/15bm4Bz9ubVpUvwkdmj9lzc-OUM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsung-un65nu7100fxza-aaa-5b3bf3f1c9e77c00370afe54.jpg
+thumbnail: https://thmb.techidaily.com/2ca46c2a129dc1360b713c04a30f75e3e36c2cb0f971400d44a0a7430d69515d.jpg
 ---
 
 ## Celebrating the #10 Best MOBA Games on Android
