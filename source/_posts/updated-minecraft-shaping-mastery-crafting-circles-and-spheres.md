@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Minecraft Shaping Mastery  Crafting Circles & Spheres\""
-date: 2024-05-18T01:29:24.145Z
-updated: 2024-05-19T01:29:24.145Z
+date: 2024-06-18T00:06:14.778Z
+updated: 2024-06-19T00:06:14.778Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] Minecraft Shaping Mastery: Crafting Circles & Spheres\""
 excerpt: "\"This Article Describes [Updated] Minecraft Shaping Mastery: Crafting Circles & Spheres\""
 keywords: "\"Minecraft Sphere Building,Making Mincraft Circles,Shape In-Game Spheres,Master Circular Blocks,Crafting Mojang Spheres,Learn Mining World Rounds,Build Mojang Sphere Game\""
-thumbnail: https://www.lifewire.com/thmb/Y2dFEkloSSnyILemqVCv7_6sfHI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/twittermute-5bc42bbd46e0fb002679ac08.jpg
+thumbnail: https://thmb.techidaily.com/3fd32f657ca906fd6ed8ec321bcb0a471e050e9fdbe1e0332d4aba568afc6cd5.jpg
 ---
 
 ## Minecraft Shaping Mastery: Crafting Circles & Spheres

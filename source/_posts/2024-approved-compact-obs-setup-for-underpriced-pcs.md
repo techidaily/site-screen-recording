@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Compact OBS Setup for Underpriced PCs\""
-date: 2024-05-19T17:20:19.393Z
-updated: 2024-05-20T17:20:19.393Z
+date: 2024-06-18T00:06:04.925Z
+updated: 2024-06-19T00:06:04.925Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Compact OBS Setup for Underpriced PCs\""
 excerpt: "\"This Article Describes 2024 Approved: Compact OBS Setup for Underpriced PCs\""
 keywords: "\"Compact OBS Gear,Cheap PC OBS,OBS Portable Devices,Affordable OBS Equipment,Low-Cost OBS Setup,Budget-Friendly OBS Accessories,Small-Scale OBS Systems\""
-thumbnail: https://www.lifewire.com/thmb/sujrBq1SN6zkmNgqHTSAbFbTvKk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/18-Hidden-Snapchat-Features-efa75dca521e4cf6bb321dc960276deb.jpg
+thumbnail: https://thmb.techidaily.com/f1294d51d8e0560c6776b360116bd819890055c0bb65c23b15603692f6dffac9.jpg
 ---
 
 ## Compact OBS Setup for Underpriced PCs

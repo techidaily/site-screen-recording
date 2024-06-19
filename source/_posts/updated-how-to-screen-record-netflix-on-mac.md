@@ -1,7 +1,7 @@
 ---
 title: "[Updated] How to Screen Record Netflix on Mac"
-date: 2024-05-18T01:19:20.284Z
-updated: 2024-05-19T01:19:20.284Z
+date: 2024-06-18T00:06:17.228Z
+updated: 2024-06-19T00:06:17.228Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] How to Screen Record Netflix on Mac"
 excerpt: "This Article Describes [Updated] How to Screen Record Netflix on Mac"
 keywords: "ScreenNetflixMacRecording,NetflixMacScreenCapture,StreamNetflixRecordMac,CaptureStreamingOnMac,NetflixScreenRecordMac,MacCaptureNetflixStreams,RecordingNetflixMediaMac"
-thumbnail: https://www.lifewire.com/thmb/bBM9LsJLxfsckFRQQI91FGiTONA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-fix-it-when-reddit-apps-arent-working-f4c8fe50a9ff4c90a28e6a056b427208.jpg
+thumbnail: https://thmb.techidaily.com/e9e9b7ca60047014bff6bb18f8c482a86a228fe45f3ba370acbb24c0cc43ac69.jpg
 ---
 
 ## How to Screen Record Netflix on Mac

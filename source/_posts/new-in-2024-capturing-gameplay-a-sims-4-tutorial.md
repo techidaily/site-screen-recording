@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Capturing Gameplay  A Sims 4 Tutorial\""
-date: 2024-05-18T01:12:36.954Z
-updated: 2024-05-19T01:12:36.955Z
+date: 2024-06-18T00:06:10.273Z
+updated: 2024-06-19T00:06:10.273Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] In 2024, Capturing Gameplay: A Sims 4 Tutorial\""
 excerpt: "\"This Article Describes [New] In 2024, Capturing Gameplay: A Sims 4 Tutorial\""
 keywords: "Sims Tutorial Guide,Gameplay Capture in S4,Create S4 Scenes,Sims 4 Play Techniques,S4 Gaming Tips,Mastering Sims 4,Interactive Sims 4 Gameplay"
-thumbnail: https://www.lifewire.com/thmb/0zAfKCPSLtJGJZ4s7ICQ5FGmSzY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Verified-badge-on-phone-658ecad4f9104dae97a969bfa2f74eb3.jpg
+thumbnail: https://thmb.techidaily.com/bedeaab43df1b8b5afd8fae799c1b0ff2cb5a9adc8ca952932303c5e2c53ba39.jpg
 ---
 
 ## Capturing Gameplay: A Sims 4 Tutorial

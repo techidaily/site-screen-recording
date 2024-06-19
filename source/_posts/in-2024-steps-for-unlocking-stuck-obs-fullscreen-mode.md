@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Steps for Unlocking Stuck OBS Fullscreen Mode"
-date: 2024-05-19T17:19:45.154Z
-updated: 2024-05-20T17:19:45.154Z
+date: 2024-06-18T00:06:13.000Z
+updated: 2024-06-19T00:06:13.000Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes In 2024, Steps for Unlocking Stuck OBS Fullscreen Mode"
 excerpt: "This Article Describes In 2024, Steps for Unlocking Stuck OBS Fullscreen Mode"
 keywords: "OBS Fullscreen Lockout Fix,Fullscreen Unfreeze OBS,Resolve OBS Freezing,Overcoming OBS Screen Lock,Disable OBS Fullscreen Glitch,Realign OBS Fullscreen Mode,Troubleshoot Stuck OBS Display"
-thumbnail: https://www.lifewire.com/thmb/LszZcaAEzHRXWm3K0xWEG-T8gus=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/handstypingonkeyboardCROPPED-6b13200ac0d24ef58817343cc4975ebd.jpg
+thumbnail: https://thmb.techidaily.com/984f643c4b4f7bae0c2654dd17f8e46d49464b1fbd02ad27cef488f7c4915f8e.jpg
 ---
 
 ## Steps for Unlocking Stuck OBS Fullscreen Mode

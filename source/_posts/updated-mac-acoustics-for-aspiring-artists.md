@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Mac Acoustics for Aspiring Artists"
-date: 2024-05-19T17:19:38.775Z
-updated: 2024-05-20T17:19:38.775Z
+date: 2024-06-18T00:06:19.225Z
+updated: 2024-06-19T00:06:19.225Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] Mac Acoustics for Aspiring Artists"
 excerpt: "This Article Describes [Updated] Mac Acoustics for Aspiring Artists"
 keywords: "Mac Audio Tech,Pro Audio Headphones,Studio Acoustic Panels,Musician Mac Accessories,Artist Sound Systems,Mac for Musicians,Creative Audio Equipment"
-thumbnail: https://www.lifewire.com/thmb/qiktAkdIlSu9VsdFjM1R46-msZU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/editing-5c8a53d446e0fb0001336621.png
+thumbnail: https://thmb.techidaily.com/dfd36bdece1f9de4c3b950ac0cec685d6ee5d1281721c2dd1a2340c4240b4f62.png
 ---
 
 ## Mac Acoustics for Aspiring Artists

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Urban to Agrarian Journey  Stardew Titles Traced\""
-date: 2024-05-19T17:20:43.625Z
-updated: 2024-05-20T17:20:43.625Z
+date: 2024-06-18T00:06:09.939Z
+updated: 2024-06-19T00:06:09.939Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Urban to Agrarian Journey: Stardew Titles Traced\""
 excerpt: "\"This Article Describes 2024 Approved: Urban to Agrarian Journey: Stardew Titles Traced\""
 keywords: "Farm Life Quest,Agricultural Shift,Stardew Transition,Agrarian Adventure,Urban to Farmland,Titles of Change,Stardew's Agrarian Journey"
-thumbnail: https://www.lifewire.com/thmb/p0ylhoIohfzUUD_zptkk_cS1LaE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/zenbook-17-fold-oled-72de5601b7334834a2962b7a8c7b4e9b-16fb2ba97f414911a71ffd37c82c541e.png
+thumbnail: https://thmb.techidaily.com/95c7607cc85834758f594e36f86b8274633568f32ba37267dd79e6e802f121e2.png
 ---
 
 ## Urban to Agrarian Journey: Stardew Titles Traced

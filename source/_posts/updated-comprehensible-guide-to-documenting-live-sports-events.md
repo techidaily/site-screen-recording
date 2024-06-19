@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Comprehensible Guide to Documenting Live Sports Events"
-date: 2024-05-18T01:08:03.703Z
-updated: 2024-05-19T01:08:03.703Z
+date: 2024-06-18T00:06:13.768Z
+updated: 2024-06-19T00:06:13.768Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] Comprehensible Guide to Documenting Live Sports Events"
 excerpt: "This Article Describes [Updated] Comprehensible Guide to Documenting Live Sports Events"
 keywords: "\"Sport Event Recording,Live Sports Guidebook,Sports DocuTech,Real-Time Game Script,Streaming Sports Logs,Play-by-Play Documentation,Sports Event Coverage Tips\""
-thumbnail: https://www.lifewire.com/thmb/U4MhHoz9AdQJe4tEoeV-ONBuCas=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sony-ps5-d3975e63d2ff47e6ac4e81768b79801c.jpg
+thumbnail: https://thmb.techidaily.com/0aeedb6f0e08290ddfa4945f77d0426cb986cac7f0c8ef179d1c62c13237705d.jpg
 ---
 
 ## Comprehensible Guide to Documenting Live Sports Events

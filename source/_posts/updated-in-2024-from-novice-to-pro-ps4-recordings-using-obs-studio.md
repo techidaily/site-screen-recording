@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, From Novice to Pro  PS4 Recordings Using OBS Studio\""
-date: 2024-05-19T17:20:20.525Z
-updated: 2024-05-20T17:20:20.525Z
+date: 2024-06-18T00:06:04.838Z
+updated: 2024-06-19T00:06:04.838Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] In 2024, From Novice to Pro: PS4 Recordings Using OBS Studio\""
 excerpt: "\"This Article Describes [Updated] In 2024, From Novice to Pro: PS4 Recordings Using OBS Studio\""
 keywords: "\"PS4 Gaming Recording,OBS Studio for PS4,PS4 Game Capture,Learning OBS Studio,Pro-Gamer Broadcasting,Advanced PS4 Recordings,OBS Studio Tutorials (PS4)\""
-thumbnail: https://www.lifewire.com/thmb/zWxNYaUUEWKWwcCxwdQ9gx8_XCw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-safely-use-airport-charging-stations-4690583-01-6085c56e46b34f84b5f5d2d976e20677.jpg
+thumbnail: https://thmb.techidaily.com/3fbb28fdd30ab5cd77a4baca2551c9d92b27e18215ac7c02404eb389cacb68b2.jpg
 ---
 
 ## From Novice to Pro: PS4 Recordings Using OBS Studio

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Ken Burns Effect Techniques for Camtasia Users"
-date: 2024-05-19T17:20:09.862Z
-updated: 2024-05-20T17:20:09.862Z
+date: 2024-06-18T00:06:15.601Z
+updated: 2024-06-19T00:06:15.601Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes In 2024, Ken Burns Effect Techniques for Camtasia Users"
 excerpt: "This Article Describes In 2024, Ken Burns Effect Techniques for Camtasia Users"
 keywords: "Camtasia KenBurnsTechnique,Camtasia EffectAnimation,BurnsEffectCamEditing,Camtasia MotionGraphics,VideoTransitionsCamtasia,EditingKenBurnsCamtasia,CreativeCameraAnimations"
-thumbnail: https://www.lifewire.com/thmb/tP3PGqv5XalObxjPn5UrSpbUwa0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/preaknessstakes-5c804f1b46e0fb00019b8ee0.jpg
+thumbnail: https://thmb.techidaily.com/4a7e35e05dbbab3383219ac491b7159c730c023be090a3ce22bfc91cc23bb5f7.jpg
 ---
 
 ## Ken Burns Effect Techniques for Camtasia Users
@@ -47,7 +47,7 @@ At this point, all you need to do is drag that particular arrow to the left, so 
 
 In Camtasia 9, you have the option to experiment with zooming and panning or both to create new styles of the Ken Burns effect. You will learn as you experiment and will be able to create some really interesting videos in the process.
 
-## Apply Ken Burns Effect with the Best Alternative to Camtasia 9 - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+## Apply Ken Burns Effect with the Best Alternative to Camtasia 9 - Wondershare Filmora
 
 If you are looking for the best alternative to Camtasia 9 that makes adding the Ken Burns effect and other video editing features much easier, then Wondershare Filmora should be on your list of considerations. Apart from the Ken Burns effect, Filmora is a perfect video editing tool for beginner content creators, YouTubers, and casual editors who don't want access to professional-grade features or want to pay a lot of money to edit their videos.
 
@@ -111,7 +111,7 @@ At this point, all you need to do is drag that particular arrow to the left, so 
 
 In Camtasia 9, you have the option to experiment with zooming and panning or both to create new styles of the Ken Burns effect. You will learn as you experiment and will be able to create some really interesting videos in the process.
 
-## Apply Ken Burns Effect with the Best Alternative to Camtasia 9 - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+## Apply Ken Burns Effect with the Best Alternative to Camtasia 9 - Wondershare Filmora
 
 If you are looking for the best alternative to Camtasia 9 that makes adding the Ken Burns effect and other video editing features much easier, then Wondershare Filmora should be on your list of considerations. Apart from the Ken Burns effect, Filmora is a perfect video editing tool for beginner content creators, YouTubers, and casual editors who don't want access to professional-grade features or want to pay a lot of money to edit their videos.
 
@@ -175,7 +175,7 @@ At this point, all you need to do is drag that particular arrow to the left, so 
 
 In Camtasia 9, you have the option to experiment with zooming and panning or both to create new styles of the Ken Burns effect. You will learn as you experiment and will be able to create some really interesting videos in the process.
 
-## Apply Ken Burns Effect with the Best Alternative to Camtasia 9 - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+## Apply Ken Burns Effect with the Best Alternative to Camtasia 9 - Wondershare Filmora
 
 If you are looking for the best alternative to Camtasia 9 that makes adding the Ken Burns effect and other video editing features much easier, then Wondershare Filmora should be on your list of considerations. Apart from the Ken Burns effect, Filmora is a perfect video editing tool for beginner content creators, YouTubers, and casual editors who don't want access to professional-grade features or want to pay a lot of money to edit their videos.
 
@@ -239,7 +239,7 @@ At this point, all you need to do is drag that particular arrow to the left, so 
 
 In Camtasia 9, you have the option to experiment with zooming and panning or both to create new styles of the Ken Burns effect. You will learn as you experiment and will be able to create some really interesting videos in the process.
 
-## Apply Ken Burns Effect with the Best Alternative to Camtasia 9 - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+## Apply Ken Burns Effect with the Best Alternative to Camtasia 9 - Wondershare Filmora
 
 If you are looking for the best alternative to Camtasia 9 that makes adding the Ken Burns effect and other video editing features much easier, then Wondershare Filmora should be on your list of considerations. Apart from the Ken Burns effect, Filmora is a perfect video editing tool for beginner content creators, YouTubers, and casual editors who don't want access to professional-grade features or want to pay a lot of money to edit their videos.
 

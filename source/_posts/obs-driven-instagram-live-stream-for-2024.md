@@ -1,7 +1,7 @@
 ---
 title: "\"OBS-Driven Instagram Live Stream for 2024\""
-date: 2024-05-18T01:10:10.790Z
-updated: 2024-05-19T01:10:10.790Z
+date: 2024-06-18T00:06:17.426Z
+updated: 2024-06-19T00:06:17.426Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes OBS-Driven Instagram Live Stream for 2024\""
 excerpt: "\"This Article Describes OBS-Driven Instagram Live Stream for 2024\""
 keywords: "\"Live OBS Streaming,Instagram OBS Broadcast,Instagram Live Preview,OBS Video Engagement,Social Media OBS Streams,Interactive Instagram Feed,Real-Time OBS Content\""
-thumbnail: https://www.lifewire.com/thmb/vIq8aJ1XOE0Q97nXhFUuoQCZpKI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/youtube-s-free-streaming-movies-and-tv-shows-1357439-ddbc3cf482e24a539c67009c07310ae1.png
+thumbnail: https://thmb.techidaily.com/be42a9800526c31b5bfdef3ed18cce59bd7b3192524b647f6f87b51df7e044d8.png
 ---
 
 ## OBS-Driven Instagram Live Stream

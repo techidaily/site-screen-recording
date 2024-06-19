@@ -1,7 +1,7 @@
 ---
 title: "5 Ways to Fix OBS Black Screen Game Capture for 2024"
-date: 2024-05-18T01:12:14.307Z
-updated: 2024-05-19T01:12:14.307Z
+date: 2024-06-18T00:06:12.738Z
+updated: 2024-06-19T00:06:12.738Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes 5 Ways to Fix OBS Black Screen Game Capture for 2024"
 excerpt: "This Article Describes 5 Ways to Fix OBS Black Screen Game Capture for 2024"
 keywords: "OBS Blackout Fix,Clear Screen OBS,OBS Game Capture Error,Fixing OBS Output,Stop OBS Blank Screen,Resolve OBS Issue,OBS Video Playback Black"
-thumbnail: https://www.lifewire.com/thmb/aqzoJvuc7HUCTQdUzpa5GXlHCac=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iPad-Mini-Splash-ef002ffe8db643d2a2b4de772ff46790.jpg
+thumbnail: https://thmb.techidaily.com/5a88545795b5ca3ae26e7c947a2bcf90d0830b425a670680d043fc15ab445500.jpg
 ---
 
 ## 5 Ways to Fix OBS Black Screen Game Capture

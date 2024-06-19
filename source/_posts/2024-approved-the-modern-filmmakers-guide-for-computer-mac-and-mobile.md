@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Modern Filmmaker's Guide for Computer, Mac & Mobile\""
-date: 2024-05-19T17:20:18.992Z
-updated: 2024-05-20T17:20:18.992Z
+date: 2024-06-18T00:06:06.280Z
+updated: 2024-06-19T00:06:06.280Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: The Modern Filmmaker's Guide for Computer, Mac & Mobile\""
 excerpt: "\"This Article Describes 2024 Approved: The Modern Filmmaker's Guide for Computer, Mac & Mobile\""
 keywords: "Film Making Tech Basics,Digital Cinema Tools,CineDevices Essentials,MovieMaking Software Guide,Filmmaker Gear Tips,Screenwriting Platforms,Mobile Media Production"
-thumbnail: https://www.lifewire.com/thmb/XTn22vUEhR1g5hO3UkHHYfR8z14=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tesla-bot-f6353f76ae214924916445da1da620ca.png
+thumbnail: https://thmb.techidaily.com/13887af25c31ebc0af7fa01bee84ac625b343ea776763c2dea469f5e646eb4f7.png
 ---
 
 ## The Modern Filmmaker's Guide for Computer, Mac & Mobile

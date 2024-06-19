@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Obs Studio Basics - Full Guide to PS4 Game Recording\""
-date: 2024-05-18T01:16:23.975Z
-updated: 2024-05-19T01:16:23.975Z
+date: 2024-06-18T00:06:17.711Z
+updated: 2024-06-19T00:06:17.711Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes In 2024, Obs Studio Basics - Full Guide to PS4 Game Recording\""
 excerpt: "\"This Article Describes In 2024, Obs Studio Basics - Full Guide to PS4 Game Recording\""
 keywords: "PS4 Gaming Record,Obs Studio Tutorial,Ps4 Game Capture Guide,Basic Obs Studio Use,Video Games PS4 Tracking,Studio Basics Recording,Full Guide to PS4 Saving Games"
-thumbnail: https://www.lifewire.com/thmb/qNtT0Vit1jn8RftUFX6Xcsv5x4o=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/5-best-texting-apps-for-android-tablets-in-2023-a5a6329d6b744167acf0a02f6a413ff2.jpg
+thumbnail: https://thmb.techidaily.com/a1f466c594234ad34f641e87364869a2929ae1aee45db635b3f848c5daefbda2.jpg
 ---
 
 ## Obs Studio Basics - Full Guide to PS4 Game Recording

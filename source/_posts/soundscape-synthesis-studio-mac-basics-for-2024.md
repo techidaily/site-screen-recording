@@ -1,7 +1,7 @@
 ---
 title: "\"Soundscape Synthesis  Studio Mac Basics for 2024\""
-date: 2024-05-18T01:20:19.725Z
-updated: 2024-05-19T01:20:19.725Z
+date: 2024-06-18T00:06:07.525Z
+updated: 2024-06-19T00:06:07.525Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Soundscape Synthesis: Studio Mac Basics for 2024\""
 excerpt: "\"This Article Describes Soundscape Synthesis: Studio Mac Basics for 2024\""
 keywords: "Sound Synthesis Basics,MacStudio Sync,StudioSynth Pro,BasicMac Soundscape,SynthMac Studios,MacSound Fundamentals,AudioMac Basics"
-thumbnail: https://www.lifewire.com/thmb/-JO-0dyylsxj3szzMyduNG-Qvig=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-919006240-ee5ef631cb6f4e4997bce403b8bafa77.jpg
+thumbnail: https://thmb.techidaily.com/84ba87eddab3e368851899b58852311f605514d50db5d45ec6de18d3ab0b6cd6.jpg
 ---
 
 ## Soundscape Synthesis: Studio Mac Basics

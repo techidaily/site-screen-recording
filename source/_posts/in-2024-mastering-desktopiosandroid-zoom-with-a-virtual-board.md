@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Mastering Desktop/iOS/Android Zoom with a Virtual Board"
-date: 2024-05-19T17:20:27.516Z
-updated: 2024-05-20T17:20:27.516Z
+date: 2024-06-18T00:06:12.954Z
+updated: 2024-06-19T00:06:12.954Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes In 2024, Mastering Desktop/iOS/Android Zoom with a Virtual Board"
 excerpt: "This Article Describes In 2024, Mastering Desktop/iOS/Android Zoom with a Virtual Board"
 keywords: "Zoom iOS Tips,Desktop Zoom Guide,Android Zoom Mastery,Virtual Board in Zoom,Zoom Platform Controls,Optimizing Zoom on iPhones/iPads,Adapting to Desktop/Android Zoom"
-thumbnail: https://www.lifewire.com/thmb/d9lJRl6RYaLlK-VFLlHiI4bbn1o=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/the-best-halloween-live-wallpaper-for-2019-4691483-019a40e91504436ca9fc9f1944d89c15.jpg
+thumbnail: https://thmb.techidaily.com/d8d350936386f188a2d4be816539be2eaee7c30695c76166aa925348b0ff1b74.jpg
 ---
 
 ## Mastering Desktop/iOS/Android Zoom with a Virtual Board
@@ -106,7 +106,7 @@ thumbnail: https://www.lifewire.com/thmb/d9lJRl6RYaLlK-VFLlHiI4bbn1o=/400x300/fi
 
 #### Step 2: Access Annotation Tools
 
- Tap the **Edit**  ( **Pencil** ) icon from the bottom-left corner to expand **Zoom annotation tools** , tap your preferred icon to add annotations to the whiteboard, and tap **Stop Share**  once you are done drawing.
+ Tap the **Edit**  (**Pencil**) icon from the bottom-left corner to expand **Zoom annotation tools** , tap your preferred icon to add annotations to the whiteboard, and tap **Stop Share**  once you are done drawing.
 
 **Note:**  Process of doing other things including clearing your annotations or ending the meeting remains the same for both Android and iOS platforms.
 
@@ -225,7 +225,7 @@ Follow @Richard Bennett
 
 #### Step 2: Access Annotation Tools
 
- Tap the **Edit**  ( **Pencil** ) icon from the bottom-left corner to expand **Zoom annotation tools** , tap your preferred icon to add annotations to the whiteboard, and tap **Stop Share**  once you are done drawing.
+ Tap the **Edit**  (**Pencil**) icon from the bottom-left corner to expand **Zoom annotation tools** , tap your preferred icon to add annotations to the whiteboard, and tap **Stop Share**  once you are done drawing.
 
 **Note:**  Process of doing other things including clearing your annotations or ending the meeting remains the same for both Android and iOS platforms.
 
@@ -344,7 +344,7 @@ Follow @Richard Bennett
 
 #### Step 2: Access Annotation Tools
 
- Tap the **Edit**  ( **Pencil** ) icon from the bottom-left corner to expand **Zoom annotation tools** , tap your preferred icon to add annotations to the whiteboard, and tap **Stop Share**  once you are done drawing.
+ Tap the **Edit**  (**Pencil**) icon from the bottom-left corner to expand **Zoom annotation tools** , tap your preferred icon to add annotations to the whiteboard, and tap **Stop Share**  once you are done drawing.
 
 **Note:**  Process of doing other things including clearing your annotations or ending the meeting remains the same for both Android and iOS platforms.
 
@@ -463,7 +463,7 @@ Follow @Richard Bennett
 
 #### Step 2: Access Annotation Tools
 
- Tap the **Edit**  ( **Pencil** ) icon from the bottom-left corner to expand **Zoom annotation tools** , tap your preferred icon to add annotations to the whiteboard, and tap **Stop Share**  once you are done drawing.
+ Tap the **Edit**  (**Pencil**) icon from the bottom-left corner to expand **Zoom annotation tools** , tap your preferred icon to add annotations to the whiteboard, and tap **Stop Share**  once you are done drawing.
 
 **Note:**  Process of doing other things including clearing your annotations or ending the meeting remains the same for both Android and iOS platforms.
 

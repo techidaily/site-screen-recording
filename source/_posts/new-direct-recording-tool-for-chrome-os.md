@@ -1,7 +1,7 @@
 ---
 title: "[New] Direct Recording Tool for Chrome OS"
-date: 2024-05-18T01:15:28.690Z
-updated: 2024-05-19T01:15:28.690Z
+date: 2024-06-18T00:06:13.683Z
+updated: 2024-06-19T00:06:13.683Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] Direct Recording Tool for Chrome OS"
 excerpt: "This Article Describes [New] Direct Recording Tool for Chrome OS"
 keywords: "Chrome OS DRT Keyboard,Chrome PC DRT Input,DRT Chrome OS Device,Direct DRT Chrome Accessory,Chrome OS DRT Solutions,Chrome OS Direct Entry Tool,Chrome OS DRT Interface"
-thumbnail: https://www.lifewire.com/thmb/dpIy1Vb0m2YNL1LlGPZga8opYUc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsungtvhomepage-58f0d708245a4140bb4bbad8ea0cfc26.jpg
+thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e09d897a36274e3de6aadbd39.jpg
 ---
 
 ## Direct Recording Tool for Chrome OS
@@ -93,7 +93,7 @@ Another amazing Google extension for screen recording that is used widely is Nim
 
 Once you are done with the installation settings, now you can click on the Nimbus icon from the top. The Nimbus GUI will show up with a variety of options. Let's stick with screen recording for now. Click on screen recording as shown. A new settings window will appear. You can enable mic, select webcam recording, watermark addition, etc from here. Once you are done with settings click to start recording. Select “entire screen” in the newly popped windows. Finally, click share, and bingo your recording will start. To stop the recording click stop sharing as shown in the figure below.
 
-##### [Filmora Screen Recorder](https://tools.techidaily.com/wondershare/filmora/download/)
+##### Filmora Screen Recorder
 
 Record computer screen and webcam
 

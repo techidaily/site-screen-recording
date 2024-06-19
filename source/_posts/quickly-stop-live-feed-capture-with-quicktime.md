@@ -1,7 +1,7 @@
 ---
 title: "Quickly Stop Live Feed Capture with QuickTime"
-date: 2024-05-18T01:28:15.966Z
-updated: 2024-05-19T01:28:15.966Z
+date: 2024-06-18T00:06:19.679Z
+updated: 2024-06-19T00:06:19.679Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Quickly Stop Live Feed Capture with QuickTime"
 excerpt: "This Article Describes Quickly Stop Live Feed Capture with QuickTime"
 keywords: "QuickStop VideoCapture,QuitLiveFeed QuickTime,TimeFreeze LiveStream,EndVideoLive QuickTime,FastStop Feed Capture,StopLive QuickTime,ImmediateStop Streaming"
-thumbnail: https://www.lifewire.com/thmb/A1hfnW-9b0eVXXkLwD_6ei9mr2I=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AE-lock-572ece975f9b58c34c0a2492.jpg
+thumbnail: https://thmb.techidaily.com/e086106512b2e9d753e081998408f58f33739fa1f0e7070951ebc50a7e45bfdb.jpg
 ---
 
 ## Quickly Stop Live Feed Capture with QuickTime
@@ -21,7 +21,7 @@ QuickTime Player by Apple is the default media player on Mac, and the applicatio
 
 When the application fails to stop recording, it fails to save the recording as well. Therefore, QuickTime Player keeps recording the screen, and this slows down the Mac as it keeps occupying the system resources. In this article, we will illustrate all the possible ways to QuickTime Player stop screen recording. We will also recommend a better alternative to QuickTime for professional-quality screen recording.
 
-##### [Filmora Screen Recorder](https://tools.techidaily.com/wondershare/filmora/download/)
+##### Filmora Screen Recorder
 
 Record computer screen and webcam
 

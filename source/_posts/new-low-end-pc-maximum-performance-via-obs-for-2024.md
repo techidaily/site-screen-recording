@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Low-End Pc - Maximum Performance via OBS for 2024\""
-date: 2024-05-19T17:20:10.753Z
-updated: 2024-05-20T17:20:10.753Z
+date: 2024-06-18T00:06:09.445Z
+updated: 2024-06-19T00:06:09.445Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] Low-End Pc - Maximum Performance via OBS for 2024\""
 excerpt: "\"This Article Describes [New] Low-End Pc - Maximum Performance via OBS for 2024\""
 keywords: "\"Low-PC Peformance,Budget PC Power,Cost-Effective PC Speed,Economical PC Strength,Affordable High-Perf PC,Cheaply Efficient Pc Speeds,Inexpensive Maximum Performance PC\""
-thumbnail: https://www.lifewire.com/thmb/TUGFYGtB5bZInUlxzvTab3CVXdM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsungvoiceassistant-1c59910bc4614b2a8531fc5b7a754e7d.jpg
+thumbnail: https://thmb.techidaily.com/aa75ccceb27df582eb4900ae099d99b1731677ace1a8dcb38cd4f8698fb9bdda.jpg
 ---
 
 ## Low-End Pc - Maximum Performance via OBS

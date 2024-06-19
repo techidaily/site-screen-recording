@@ -1,7 +1,7 @@
 ---
 title: "[New] Virtual Forum Transcription"
-date: 2024-05-19T17:20:39.657Z
-updated: 2024-05-20T17:20:39.657Z
+date: 2024-06-18T00:06:10.245Z
+updated: 2024-06-19T00:06:10.245Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] Virtual Forum Transcription"
 excerpt: "This Article Describes [New] Virtual Forum Transcription"
 keywords: "\"Virtual Forum Speech,Online Discussion Record,Digital Meeting Audio,EForum Live Transcript,Web Chat Summary Text,E-Conference Captioning,Remote Debate Scripts\""
-thumbnail: https://www.lifewire.com/thmb/b7hSKwI9Oajpbwr32n5Vsf7fcds=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/operationcouldnotcomplete-95695abe458d4062a2c2f7e46e656b08.png
+thumbnail: https://thmb.techidaily.com/21ec111232ea695810b8b161c545d6d8dc411e7eef6880dc4b8d8fa008ddde2f.png
 ---
 
 ## Virtual Forum Transcription
@@ -78,7 +78,7 @@ In order to start recording your webinar, you just need to click on the Record b
 
 #### 4. Editing a webinar
 
-![Filmora scrn  ](https://images.wondershare.com/filmora/article-images/filmora-scrn-editing-interface.jpg)
+![Filmora scrn](https://images.wondershare.com/filmora/article-images/filmora-scrn-editing-interface.jpg)
 
 You can stop recording by hitting the F10 key on the keyboard again, and once you complete the recording session, the video file you created will be automatically imported into Filmora Scrn's video editor. Removing the parts of the video you don't want to feature in the final cut of your webinar or adding fade in and fade out effects can be accomplished with only a few clicks. Furthermore, the Filmora Scrn video editor allows you to remove the background noises, alter the playback speed of the video or add multiple layers to your videos.
 
@@ -163,7 +163,7 @@ In order to start recording your webinar, you just need to click on the Record b
 
 #### 4. Editing a webinar
 
-![Filmora scrn  ](https://images.wondershare.com/filmora/article-images/filmora-scrn-editing-interface.jpg)
+![Filmora scrn](https://images.wondershare.com/filmora/article-images/filmora-scrn-editing-interface.jpg)
 
 You can stop recording by hitting the F10 key on the keyboard again, and once you complete the recording session, the video file you created will be automatically imported into Filmora Scrn's video editor. Removing the parts of the video you don't want to feature in the final cut of your webinar or adding fade in and fade out effects can be accomplished with only a few clicks. Furthermore, the Filmora Scrn video editor allows you to remove the background noises, alter the playback speed of the video or add multiple layers to your videos.
 
@@ -248,7 +248,7 @@ In order to start recording your webinar, you just need to click on the Record b
 
 #### 4. Editing a webinar
 
-![Filmora scrn  ](https://images.wondershare.com/filmora/article-images/filmora-scrn-editing-interface.jpg)
+![Filmora scrn](https://images.wondershare.com/filmora/article-images/filmora-scrn-editing-interface.jpg)
 
 You can stop recording by hitting the F10 key on the keyboard again, and once you complete the recording session, the video file you created will be automatically imported into Filmora Scrn's video editor. Removing the parts of the video you don't want to feature in the final cut of your webinar or adding fade in and fade out effects can be accomplished with only a few clicks. Furthermore, the Filmora Scrn video editor allows you to remove the background noises, alter the playback speed of the video or add multiple layers to your videos.
 
@@ -333,7 +333,7 @@ In order to start recording your webinar, you just need to click on the Record b
 
 #### 4. Editing a webinar
 
-![Filmora scrn  ](https://images.wondershare.com/filmora/article-images/filmora-scrn-editing-interface.jpg)
+![Filmora scrn](https://images.wondershare.com/filmora/article-images/filmora-scrn-editing-interface.jpg)
 
 You can stop recording by hitting the F10 key on the keyboard again, and once you complete the recording session, the video file you created will be automatically imported into Filmora Scrn's video editor. Removing the parts of the video you don't want to feature in the final cut of your webinar or adding fade in and fade out effects can be accomplished with only a few clicks. Furthermore, the Filmora Scrn video editor allows you to remove the background noises, alter the playback speed of the video or add multiple layers to your videos.
 
