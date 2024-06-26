@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Advanced Frameworks for Documenting E-Learning Sessions for 2024\""
-date: 2024-05-19T17:19:52.125Z
-updated: 2024-05-20T17:19:52.125Z
+date: 2024-06-25T03:11:11.026Z
+updated: 2024-06-26T03:11:11.026Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] Advanced Frameworks for Documenting E-Learning Sessions for 2024\""
 excerpt: "\"This Article Describes [Updated] Advanced Frameworks for Documenting E-Learning Sessions for 2024\""
 keywords: "\"E-Learning Session Mgmt,DocSys Tech Framework,ELearn Scaffolding Tools,Frameworks for eLearner Logs,Learning Documentation Systems,Digital Education Outliners,Advanced eLearning Schematics\""
-thumbnail: https://www.lifewire.com/thmb/qiktAkdIlSu9VsdFjM1R46-msZU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/editing-5c8a53d446e0fb0001336621.png
+thumbnail: https://thmb.techidaily.com/dfd36bdece1f9de4c3b950ac0cec685d6ee5d1281721c2dd1a2340c4240b4f62.png
 ---
 
 ## Advanced Frameworks for Documenting E-Learning Sessions

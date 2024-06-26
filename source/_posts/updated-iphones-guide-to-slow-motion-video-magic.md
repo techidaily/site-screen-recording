@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] IPhone's Guide to Slow-Motion Video Magic\""
-date: 2024-05-18T01:25:23.039Z
-updated: 2024-05-19T01:25:23.039Z
+date: 2024-06-25T03:11:06.532Z
+updated: 2024-06-26T03:11:06.532Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] IPhone's Guide to Slow-Motion Video Magic\""
 excerpt: "\"This Article Describes [Updated] IPhone's Guide to Slow-Motion Video Magic\""
 keywords: "IPhone Video Basics,Start iPhone Recording,IOS Video Capture Guide,First Steps in iPhone Vids,Quick iPhone Video Tips,Intro to iPhone Vid Tech,Essential iPad Videography"
-thumbnail: https://www.lifewire.com/thmb/mDhxV8MNRpKsVw-MZy5n6Aic8pw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsung-soundbar-dolby-atmos-569f1fdd925e46ab8b3e1f51d95e1e6c.jpg
+thumbnail: https://thmb.techidaily.com/eb0b88fc8ea01a6f57ac593062a230bcd4f411a04c405e68f58f5857acd450ec.jpg
 ---
 
 ## IPhone's Guide to Slow-Motion Video Magic

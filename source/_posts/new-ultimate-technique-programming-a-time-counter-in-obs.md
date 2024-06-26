@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Ultimate Technique  Programming a Time Counter in OBS\""
-date: 2024-05-18T01:26:46.382Z
-updated: 2024-05-19T01:26:46.382Z
+date: 2024-06-25T03:11:03.295Z
+updated: 2024-06-26T03:11:03.295Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] Ultimate Technique: Programming a Time Counter in OBS\""
 excerpt: "\"This Article Describes [New] Ultimate Technique: Programming a Time Counter in OBS\""
 keywords: "MC Record Tips,Minecraft Mastery,Ultimate MCR Tech,MC Game Capture,Pro MC Studio,Minecraft VFX,Audio MC Crafting"
-thumbnail: https://www.lifewire.com/thmb/kSmIkt41HTX2fBvFrYUa0wu300k=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TikTok-vs-YouTube-a42ac0c72a4f4b1d9da8b7ae85b4205e.jpg
+thumbnail: https://thmb.techidaily.com/e9711d2ba9e06d496671fabcb5c03dc2cfd9b4b1eb26d7f5f5a9a68662ceb542.jpg
 ---
 
 ## Ultimate Technique: Programming a Time Counter in OBS
@@ -120,9 +120,7 @@ You can set OBS to start/stop recording automatically. To do that, click Tools >
 
 ## Final Words
 
-OBS Studio can look intimidating at first. But once you learn the ropes, this desktop screen recorder packs a wealth of features to exploit. The **OBS countdown clock** can make your social media videos look more professional and organized. And don’t forget to use [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) to add timer scenes to your video. I hope you enjoyed the read!
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
+OBS Studio can look intimidating at first. But once you learn the ropes, this desktop screen recorder packs a wealth of features to exploit. The **OBS countdown clock** can make your social media videos look more professional and organized. And don’t forget to use [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) to add timer scenes to your video. I hope you enjoyed the read![Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
@@ -185,9 +183,7 @@ You can set OBS to start/stop recording automatically. To do that, click Tools >
 
 ## Final Words
 
-OBS Studio can look intimidating at first. But once you learn the ropes, this desktop screen recorder packs a wealth of features to exploit. The **OBS countdown clock** can make your social media videos look more professional and organized. And don’t forget to use [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) to add timer scenes to your video. I hope you enjoyed the read!
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
+OBS Studio can look intimidating at first. But once you learn the ropes, this desktop screen recorder packs a wealth of features to exploit. The **OBS countdown clock** can make your social media videos look more professional and organized. And don’t forget to use [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) to add timer scenes to your video. I hope you enjoyed the read![Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 

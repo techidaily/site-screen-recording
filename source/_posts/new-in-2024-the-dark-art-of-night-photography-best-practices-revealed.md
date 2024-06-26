@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, The Dark Art of Night Photography  Best Practices Revealed\""
-date: 2024-05-18T01:02:39.832Z
-updated: 2024-05-19T01:02:39.832Z
+date: 2024-06-25T03:11:07.496Z
+updated: 2024-06-26T03:11:07.496Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] In 2024, The Dark Art of Night Photography: Best Practices Revealed\""
 excerpt: "\"This Article Describes [New] In 2024, The Dark Art of Night Photography: Best Practices Revealed\""
 keywords: "Mac Microphone Logger,Ideal Mics Logging,Top Mac Mic Software,Mac Devices Sound Capture,Premium Microphone Recorder,Best Mac Audio Logger,Optimal Mac Mic Solutions"
-thumbnail: https://www.lifewire.com/thmb/lwyffvP10dLE4EinuE3HUVO38bo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1342255561-483b636ee00f40a1b3d91d1969b1aaf6.jpg
+thumbnail: https://thmb.techidaily.com/4286d1d9e7f9f222d6b24d7259e18b93ce578dc75aedffe72b83d7d3b1179de6.jpg
 ---
 
 ## The Dark Art of Night Photography: Best Practices Revealed

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Civics Challenge Club  Leading Political Gaming Series\""
-date: 2024-05-19T17:20:04.889Z
-updated: 2024-05-20T17:20:04.889Z
+date: 2024-06-25T03:11:03.633Z
+updated: 2024-06-26T03:11:03.633Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] 2024 Approved: Civics Challenge Club: Leading Political Gaming Series\""
 excerpt: "\"This Article Describes [Updated] 2024 Approved: Civics Challenge Club: Leading Political Gaming Series\""
 keywords: "\"Civic Challenge Games,Politics Gaming League,Game-Based Civics Education,Political Strategy Play,Gamer's Civics Club,Leadership in Politics Plays,Governance Gaming Series\""
-thumbnail: https://www.lifewire.com/thmb/Gmap6LeMRtADZthm_PJ2lXNY4cM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/copilot-b197f8dd690845d5bf8ebbc082c89c20.jpg
+thumbnail: https://thmb.techidaily.com/e1a2efe9bf1f732226416442fb362e8363cdb8595c634b883b7def7759d3266e.jpg
 ---
 
 ## Civics Challenge Club: Leading Political Gaming Series

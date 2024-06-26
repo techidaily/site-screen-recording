@@ -1,7 +1,7 @@
 ---
 title: "Capture Webcam Snapshots via VLC Media Player"
-date: 2024-05-19T17:22:32.993Z
-updated: 2024-05-20T17:22:32.993Z
+date: 2024-06-25T03:11:05.997Z
+updated: 2024-06-26T03:11:05.997Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Capture Webcam Snapshots via VLC Media Player"
 excerpt: "This Article Describes Capture Webcam Snapshots via VLC Media Player"
 keywords: "VLC Webcam Snap,VLC Photo Capture,Capture Snaps with VLC,VLC Snapshot Tool,VLC Video Screen Grab,Snap VLC Playback,Webcam Capture in VLC"
-thumbnail: https://www.lifewire.com/thmb/8WNeD74C3OD4Hr-lVFvg4bLBeLA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-140173628BetsieVanDerMeer-5927117e5f9b5859509a476c.jpg
+thumbnail: https://thmb.techidaily.com/7ba02d2067d54837e1bd869f645984fb69141a6a34b2694ff1529f9b0220b04e.jpg
 ---
 
 ## Capture Webcam Snapshots via VLC Media Player

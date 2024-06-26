@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Mastering Mobile Warfare  Android's Best MOBAs\""
-date: 2024-05-19T17:20:37.937Z
-updated: 2024-05-20T17:20:37.937Z
+date: 2024-06-25T03:11:03.242Z
+updated: 2024-06-26T03:11:03.242Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] Mastering Mobile Warfare: Android's Best MOBAs\""
 excerpt: "\"This Article Describes [Updated] Mastering Mobile Warfare: Android's Best MOBAs\""
 keywords: "MOBAs on Android,Best Android MOBA,Mastery in MOBA,Android Gaming,Mobile Battle MOBA,Android Strategic MOBA,Top MOBA Apps Android"
-thumbnail: https://www.lifewire.com/thmb/FN7XGTj25e9fUSdywINjYYIsMCI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-545864051-5c29cf6346e0fb0001d25712.jpg
+thumbnail: https://thmb.techidaily.com/92d4d3774b8fd498c6cfb488cbb5cb9a7cceb0aea3bc2d6cdbbe36e4703b4b56.jpg
 ---
 
 ## Mastering Mobile Warfare: Android's Best MOBAs

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] First-Time Furnishings  Minimalist House Plans in MC\""
-date: 2024-05-18T01:01:43.270Z
-updated: 2024-05-19T01:01:43.270Z
+date: 2024-06-25T03:11:07.532Z
+updated: 2024-06-26T03:11:07.532Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] First-Time Furnishings: Minimalist House Plans in MC\""
 excerpt: "\"This Article Describes [Updated] First-Time Furnishings: Minimalist House Plans in MC\""
 keywords: "\"First-Home Designs,Simple MC Houses,Minimalist MC Homes,MC Modern Living,Affordable MC Furnishings,Stylish MC Interiors,Eco-Friendly MC Layouts\""
-thumbnail: https://www.lifewire.com/thmb/eS1YD0LsEQhVuAP3cxZA8t-_eDU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iPad-Pro_creative-sketch_10302018-5be0773ac9e77c0051d5d51c.jpg
+thumbnail: https://thmb.techidaily.com/a74c765fb6818efdc56bfc7805aa17daf214ba70cf5906bbca11c158a428c514.jpg
 ---
 
 ## First-Time Furnishings: Minimalist House Plans in MC

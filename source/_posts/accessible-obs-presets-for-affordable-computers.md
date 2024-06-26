@@ -1,7 +1,7 @@
 ---
 title: "Accessible OBS Presets for Affordable Computers"
-date: 2024-05-18T01:29:04.522Z
-updated: 2024-05-19T01:29:04.522Z
+date: 2024-06-25T03:11:10.902Z
+updated: 2024-06-26T03:11:10.902Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Accessible OBS Presets for Affordable Computers"
 excerpt: "This Article Describes Accessible OBS Presets for Affordable Computers"
 keywords: "\"Accessible OBS,Easy OBS Plugins,Budget-Friendly OBS,Simplified OBS Presets,Low-Cost OBS Enhancements,Affordable OBS Tools,Economical OBS Settings\""
-thumbnail: https://www.lifewire.com/thmb/FWDwuZy1CDGbqb0qwCy_mcmpESI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/best-sports-movies-creed-michael-b-jordan-cbca95120e5243edb7eca00403eaa626.jpg
+thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0be7b320fd391a90a34b6fb91.jpg
 ---
 
 ## Accessible OBS Presets for Affordable Computers

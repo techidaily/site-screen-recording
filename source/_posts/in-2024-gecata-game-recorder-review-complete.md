@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Gecata Game Recorder Review [Complete]"
-date: 2024-05-18T01:02:56.637Z
-updated: 2024-05-19T01:02:56.637Z
+date: 2024-06-25T03:10:59.554Z
+updated: 2024-06-26T03:10:59.554Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes In 2024, Gecata Game Recorder Review [Complete]"
 excerpt: "This Article Describes In 2024, Gecata Game Recorder Review [Complete]"
 keywords: "Gecata Recording Review,Complete Gecata Game,Game Recorder Analysis,Gecata Game Test,Full Gecata Guide,Gecata Capture Tool,Comprehensive Gecata Review"
-thumbnail: https://www.lifewire.com/thmb/h4Kr8jE4HLC8U_8A9cGxEf6XqrA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/should-you-buy-a-kindle-5270180-b1c49aad9c1142dc8722cfdb5d02072c.jpg
+thumbnail: https://thmb.techidaily.com/2009bc3e2844a72a35aeb8da54c7e944a8b3e4812872b9ea8cbcc32ac61bea57.jpg
 ---
 
 ## Gecata Game Recorder Review [Complete]

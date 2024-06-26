@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Capturing the Action  PS4 to Video Using OBS\""
-date: 2024-05-19T17:19:47.581Z
-updated: 2024-05-20T17:19:47.581Z
+date: 2024-06-25T03:11:01.570Z
+updated: 2024-06-26T03:11:01.570Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] Capturing the Action: PS4 to Video Using OBS\""
 excerpt: "\"This Article Describes [New] Capturing the Action: PS4 to Video Using OBS\""
 keywords: "PS4 Videography,OBS Capture,Game Streaming,OBS Live Recording,Console Broadcasting,Action Playback,Video Production PS4"
-thumbnail: https://www.lifewire.com/thmb/9P6TB9sqO-6Yq23O2BOj91c-Cvg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-541365354-5c8ad42246e0fb00014a9687.jpg
+thumbnail: https://thmb.techidaily.com/bfe8f97d519484170998bced830c25ea7c96c9f9fefb2b304db02c765d66484d.jpg
 ---
 
 ## Capturing the Action: PS4 to Video Using OBS

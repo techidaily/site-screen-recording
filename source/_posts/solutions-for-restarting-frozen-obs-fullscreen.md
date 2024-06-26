@@ -1,7 +1,7 @@
 ---
 title: "Solutions for Restarting Frozen OBS Fullscreen"
-date: 2024-05-18T01:04:33.134Z
-updated: 2024-05-19T01:04:33.134Z
+date: 2024-06-25T03:11:01.312Z
+updated: 2024-06-26T03:11:01.312Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Solutions for Restarting Frozen OBS Fullscreen"
 excerpt: "This Article Describes Solutions for Restarting Frozen OBS Fullscreen"
 keywords: "Freezing OBS? Troubleshoot!,Fix OBS Fullscreen Hangup,OBS Reset Guide Quickly,Unfreeze OBS Streaming,Stop OBS Fullscreen Faults,Restart Frozen OBS Smoothly,OBS Thaw Techniques"
-thumbnail: https://www.lifewire.com/thmb/-JO-0dyylsxj3szzMyduNG-Qvig=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-919006240-ee5ef631cb6f4e4997bce403b8bafa77.jpg
+thumbnail: https://thmb.techidaily.com/84ba87eddab3e368851899b58852311f605514d50db5d45ec6de18d3ab0b6cd6.jpg
 ---
 
 ## Solutions for Restarting Frozen OBS Fullscreen
