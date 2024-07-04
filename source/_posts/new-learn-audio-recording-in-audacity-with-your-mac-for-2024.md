@@ -1,7 +1,7 @@
 ---
 title: "[New] Learn Audio Recording in Audacity with Your Mac for 2024"
-date: 2024-05-18T01:15:08.218Z
-updated: 2024-05-19T01:15:08.218Z
+date: 2024-07-03T16:35:10.756Z
+updated: 2024-07-04T16:35:10.756Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] Learn Audio Recording in Audacity with Your Mac for 2024"
 excerpt: "This Article Describes [New] Learn Audio Recording in Audacity with Your Mac for 2024"
 keywords: "Mac Audio Record,Learn Audacity,Digital Sound Editing,Mac Studio Track,Learning Audacity Basics,Mac Recording Tutorial,Capture Audio MacBook,Audacity Mac Sound,Learn Studio Track,Digital Editing Tutorial,Basic Recording Guide,Mac Audio Basics,Learning Beat Mixing,Mac Captures Sounds"
-thumbnail: https://www.lifewire.com/thmb/Wnjr5d8PWtLhZKZOlT7PSsWhqZ8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/YoungAsianmanusinglaptopandreadingnewspaperonplane-59960904685fbe00103478bd.jpg
+thumbnail: https://thmb.techidaily.com/b024a84a41e25a10e99a735d71f0138708aa747c63be7c3be4720f86eba5080f.jpg
 ---
 
 ## Learn Audio Recording in Audacity with Your Mac

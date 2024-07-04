@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Shine Through the Game  Fixes for Dark Capture by OBS for 2024\""
-date: 2024-05-19T17:20:43.881Z
-updated: 2024-05-20T17:20:43.881Z
+date: 2024-07-03T16:35:14.546Z
+updated: 2024-07-04T16:35:14.546Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] Shine Through the Game: Fixes for Dark Capture by OBS for 2024\""
 excerpt: "\"This Article Describes [New] Shine Through the Game: Fixes for Dark Capture by OBS for 2024\""
 keywords: "Dark Capture Fix Guide,OBS Lighting Solutions,Shine Upstream Tips,Brighten OBS Footage,OBS Darkness Overhaul,Enhance Game Views,Remove Obs Capture Darkness"
-thumbnail: https://www.lifewire.com/thmb/SIEabDwKl-JixCOGX637UhqGVC0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/title-b16094ee6f3340328084b9e5cc01426f.jpg
+thumbnail: https://thmb.techidaily.com/d6d8993d1273f8bc00bb7a2e686014c201566f37966420d7b78cb492b551351d.jpg
 ---
 
 ## Shine Through the Game: Fixes for Dark Capture by OBS

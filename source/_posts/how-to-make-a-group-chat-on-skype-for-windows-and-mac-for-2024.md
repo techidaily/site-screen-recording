@@ -1,7 +1,7 @@
 ---
 title: "How to Make a Group Chat on Skype [For Windows and Mac] for 2024"
-date: 2024-05-18T01:27:44.223Z
-updated: 2024-05-19T01:27:44.223Z
+date: 2024-07-03T16:35:07.483Z
+updated: 2024-07-04T16:35:07.483Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes How to Make a Group Chat on Skype [For Windows and Mac] for 2024"
 excerpt: "This Article Describes How to Make a Group Chat on Skype [For Windows and Mac] for 2024"
 keywords: "\"Skype Group Chat Guide,Creating Group Skype,Skype Multi-User Session,Setup Group Conversation Skype,Windows Mac Skype Chat Group,Building Skype Communities,Making Skype Groups Easy\""
-thumbnail: https://www.lifewire.com/thmb/cgUXvRRGmHncjkXVnnc2mDDxd-k=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AnneParkShedloskytvOS-2d4178dd6b7d46a08c34ab8b750fe23e.jpg
+thumbnail: https://thmb.techidaily.com/1a0a225965c2ce4acfd77f7b81b0abb5e4b211b4f6a739d5a50d45eaa5fd443d.jpg
 ---
 
 ## How to Make a Group Chat on Skype [For Windows and Mac]

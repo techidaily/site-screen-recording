@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Integrating OBS Streams with the World's Largest Social Network, FB"
-date: 2024-05-18T01:23:02.110Z
-updated: 2024-05-19T01:23:02.110Z
+date: 2024-07-03T16:35:08.099Z
+updated: 2024-07-04T16:35:08.099Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] In 2024, Integrating OBS Streams with the World's Largest Social Network, FB"
 excerpt: "This Article Describes [Updated] In 2024, Integrating OBS Streams with the World's Largest Social Network, FB"
 keywords: "\"Facebook Live Integration,OBS-FB Sync,Real-Time OBS FB Linking,OBS to Facebook Streaming,Social Network OBS Connect,Video Sharing via OBS and FB,Combining OBS & Facebook\""
-thumbnail: https://www.lifewire.com/thmb/NJLgSOS-_Qq21qgfdWY713OPYzI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-527803604-ad6f389c89ff4be1b953a3c2cdc64c09.jpg
+thumbnail: https://thmb.techidaily.com/a362218194355c666b0860326aa79761dfe27d2518f12f424f4610cd1ffe517b.jpg
 ---
 
 ## Integrating OBS Streams with the World's Largest Social Network, FB

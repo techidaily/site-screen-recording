@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Rescuing a Halted OBS Video Input Stream"
-date: 2024-05-19T17:20:39.346Z
-updated: 2024-05-20T17:20:39.346Z
+date: 2024-07-03T16:35:13.208Z
+updated: 2024-07-04T16:35:13.208Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] In 2024, Rescuing a Halted OBS Video Input Stream"
 excerpt: "This Article Describes [Updated] In 2024, Rescuing a Halted OBS Video Input Stream"
 keywords: "Halted OBS Stream Recovery,OBS Input Stall Solution,OBS Video Interruption Fix,Rescue Halted Stream OBS,Restart OBS Input Queue,OBS Stopped Video Resume,Mitigate OBS Stream Halt"
-thumbnail: https://www.lifewire.com/thmb/DkM9pHd1hq5V02UbKX94h0TfJkQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/duetinslides-fd2c11f1a91a4d7388cc25f2f4719cca.jpg
+thumbnail: https://thmb.techidaily.com/c097990fd37784ce6293a6224fb832fd4d9a7841c40f79ad9e48ab602a74cd56.jpg
 ---
 
 ## Rescuing a Halted OBS Video Input Stream

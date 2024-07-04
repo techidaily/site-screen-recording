@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Skype Call Recording for Windows, OS X Users\""
-date: 2024-05-19T17:19:45.681Z
-updated: 2024-05-20T17:19:45.681Z
+date: 2024-07-03T16:35:09.498Z
+updated: 2024-07-04T16:35:09.498Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Skype Call Recording for Windows, OS X Users\""
 excerpt: "\"This Article Describes 2024 Approved: Skype Call Recording for Windows, OS X Users\""
 keywords: "Skype Record Windows,Skype Mac Calling,Windows Skype Calls,OS X Audio Capture,Skype Video Logging,Windows Skype Recorder,OS X Call Recording"
-thumbnail: https://www.lifewire.com/thmb/JVF5j2ixNkw6YsOsj4P4vtZrB-4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/connect-tv-to-stereo-system-3135127-83ec0f315fa54c1290555169d689ad88.jpg
+thumbnail: https://thmb.techidaily.com/6d6520e192a843298c5f3fb60d79f701e9d849b7c957109090842f5892749c79.jpg
 ---
 
 ## Skype Call Recording for Windows, OS X Users

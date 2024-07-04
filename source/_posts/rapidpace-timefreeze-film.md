@@ -1,7 +1,7 @@
 ---
 title: "RapidPace TimeFreeze Film"
-date: 2024-05-18T01:09:53.662Z
-updated: 2024-05-19T01:09:53.662Z
+date: 2024-07-03T16:35:05.717Z
+updated: 2024-07-04T16:35:05.717Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes RapidPace TimeFreeze Film"
 excerpt: "This Article Describes RapidPace TimeFreeze Film"
 keywords: "Free Prime Play Space,Prime Room Fun Start,Interactive Play Prime,Free Game Prime Room,Prime Play Zone Access,Unlimited Play Area Prime,Free Interactive Gaming"
-thumbnail: https://www.lifewire.com/thmb/orCGFYNFlEan1uKR5h12Vm8mASA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/kids-ipad-580f65635f9b58564cc0fc91-5c5cbb6ac9e77c0001d92aa4.jpg
+thumbnail: https://thmb.techidaily.com/baabb0210a0e9d1dfef8f1a18fa201bad1a8f950b33fad191c1a3f8c1897f172.jpg
 ---
 
 ## RapidPace TimeFreeze Film

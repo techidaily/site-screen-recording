@@ -1,7 +1,7 @@
 ---
 title: "[New] Resolving Missing Sound in OBS for 2024"
-date: 2024-05-19T17:20:08.004Z
-updated: 2024-05-20T17:20:08.004Z
+date: 2024-07-03T16:35:09.021Z
+updated: 2024-07-04T16:35:09.021Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] Resolving Missing Sound in OBS for 2024"
 excerpt: "This Article Describes [New] Resolving Missing Sound in OBS for 2024"
 keywords: "Gaming Screen Record Tips,Quick Gaming Setup,Efficient Game Capture,Simplified Screencasting,Easy Recording Games,Stream Gaming Basics,Fastest Game Screenshot"
-thumbnail: https://www.lifewire.com/thmb/lKoxPMpdBOHt8yxn5M8d3rrvNWY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iOS-wwdc-7d655ca37a3b43b99fd9dac09bec13c4.jpg
+thumbnail: https://thmb.techidaily.com/d8f58ce885808b79b129b3a2207409d6b0df7e72b7b5c93436a642cc91c8c39d.jpg
 ---
 
 ## Resolving Missing Sound in OBS

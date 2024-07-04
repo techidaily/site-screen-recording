@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Mastering Clear Video Capture with OBS, Even When Dark"
-date: 2024-05-18T01:03:03.280Z
-updated: 2024-05-19T01:03:03.280Z
+date: 2024-07-03T16:35:07.517Z
+updated: 2024-07-04T16:35:07.517Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] In 2024, Mastering Clear Video Capture with OBS, Even When Dark"
 excerpt: "This Article Describes [New] In 2024, Mastering Clear Video Capture with OBS, Even When Dark"
 keywords: "\"Video Capture Mastery,OBS Brightening Techniques,Dark Video Clarity,Obs Darkroom Tips,Clear Capture OBS,Noir Video Techniques,OBS Low-Light Optimize\""
-thumbnail: https://www.lifewire.com/thmb/-m_9JJb4F4y8I0dYVcJrZSeVFcs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Unlockedphone_mikkelwilliam_Getty_Eplus-bd0f806b392b4069ab6618d3b520f5b7.jpg
+thumbnail: https://thmb.techidaily.com/7ac9924553405319fc34adce73b50933080c4e0b7ab947e877cf6636c606146d.jpg
 ---
 
 ## Mastering Clear Video Capture with OBS, Even When Dark

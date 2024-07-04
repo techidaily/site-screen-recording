@@ -1,7 +1,7 @@
 ---
 title: "\"Blueprint for Broadcasting  Logging Roblox Games via Your Mac Hardware for 2024\""
-date: 2024-05-19T17:20:12.275Z
-updated: 2024-05-20T17:20:12.275Z
+date: 2024-07-03T16:35:07.131Z
+updated: 2024-07-04T16:35:07.131Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Blueprint for Broadcasting: Logging Roblox Games via Your Mac Hardware for 2024\""
 excerpt: "\"This Article Describes Blueprint for Broadcasting: Logging Roblox Games via Your Mac Hardware for 2024\""
 keywords: "Blueprint Broadcast,Roblox Game Log,Mac Gaming Setup,Roblox Logging Guide,Broadcasting Software,Mac Roblox Tools,Hardware Game Recording"
-thumbnail: https://www.lifewire.com/thmb/emyPhVf3B4VLTCj8T835W3AqyOU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-93420821-0ce0b19097fb47d78dec8dbc039c1260.jpg
+thumbnail: https://thmb.techidaily.com/1e0694b6112d675bbb8f0d747ab36517f01502f4062f523abbe17fcfc5ae5fc7.jpg
 ---
 
 ## Blueprint for Broadcasting: Logging Roblox Games via Your Mac Hardware

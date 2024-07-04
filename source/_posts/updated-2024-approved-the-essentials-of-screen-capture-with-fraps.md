@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  The Essentials of Screen Capture with Fraps\""
-date: 2024-05-19T17:20:44.996Z
-updated: 2024-05-20T17:20:44.996Z
+date: 2024-07-03T16:35:15.918Z
+updated: 2024-07-04T16:35:15.918Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] 2024 Approved: The Essentials of Screen Capture with Fraps\""
 excerpt: "\"This Article Describes [Updated] 2024 Approved: The Essentials of Screen Capture with Fraps\""
 keywords: "Fraps Screen Recording,Basic Fraps Use,Capturing Screenshots,Screen Grab Techniques,Easy Fraps Guide,Video Capture with Fraps,Quick Screen Shot Tips"
-thumbnail: https://www.lifewire.com/thmb/RWcl_Joktvj_rmr9ViWUZrsB7e4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/homepod-hero-5a79bc226bf06900378a7e1a.jpg
+thumbnail: https://thmb.techidaily.com/a68c5c5018f608284d7af133f2911830741f898253edd18111f294ce2b839027.jpg
 ---
 
 ## The Essentials of Screen Capture with Fraps

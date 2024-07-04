@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Odin's Legacy  Destiny of Ragnarök\""
-date: 2024-05-19T17:20:31.566Z
-updated: 2024-05-20T17:20:31.566Z
+date: 2024-07-03T16:35:06.114Z
+updated: 2024-07-04T16:35:06.114Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] Odin's Legacy: Destiny of Ragnarök\""
 excerpt: "\"This Article Describes [Updated] Odin's Legacy: Destiny of Ragnarök\""
 keywords: "Odin's Fate,Ragnarök Prophecy,Mythos Odin,Saga Ragnorok,Asgardian Destiny,Valhalla Legacy,Norse End Times"
-thumbnail: https://www.lifewire.com/thmb/3UFOh7_Yk35mO3BSnykTStwc6K4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tclsclass-0185b3ecd41d454589d2a9984629b919.jpg
+thumbnail: https://thmb.techidaily.com/459b794516e41ca817af82c1c22066d193c455f4891dd7a8e040210befb5bf6c.jpg
 ---
 
 ## Odin's Legacy: Destiny of Ragnarök

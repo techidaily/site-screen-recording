@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Creating an Efficient Framework for PS3 Game Screencasts"
-date: 2024-05-18T01:19:23.038Z
-updated: 2024-05-19T01:19:23.038Z
+date: 2024-07-03T16:35:13.927Z
+updated: 2024-07-04T16:35:13.927Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] Creating an Efficient Framework for PS3 Game Screencasts"
 excerpt: "This Article Describes [Updated] Creating an Efficient Framework for PS3 Game Screencasts"
 keywords: "PS3 Screencast Basics,Screenshots Frameworks,Efficient Gamecasting,PS3 Development Tools,Streamlined Gaming UI,Video Capture Tech for Games,Optimized Screen Recording"
-thumbnail: https://www.lifewire.com/thmb/oKncwoTVFBBV6ytT92nLRJt-PSI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/social-media-text-588a94263df78caebc620f05.jpg
+thumbnail: https://thmb.techidaily.com/53f3a3394ff2579b0b4baf68462fcda182f1a767bab5dec28fa2cd5b42632e26.jpg
 ---
 
 ## Creating an Efficient Framework for PS3 Game Screencasts

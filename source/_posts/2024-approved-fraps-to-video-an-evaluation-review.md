@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Fraps to Video  An Evaluation Review\""
-date: 2024-05-18T01:19:07.038Z
-updated: 2024-05-19T01:19:07.038Z
+date: 2024-07-03T16:35:16.045Z
+updated: 2024-07-04T16:35:16.045Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Fraps to Video: An Evaluation Review\""
 excerpt: "\"This Article Describes 2024 Approved: Fraps to Video: An Evaluation Review\""
 keywords: "Fraps Video Review,Video Capture Eval,Fraps Video Testing,Transforming Frames To Video,Video Conversion Fraps,Frames to Video Analysis,Evaluating Video From Frps"
-thumbnail: https://www.lifewire.com/thmb/qNtT0Vit1jn8RftUFX6Xcsv5x4o=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/5-best-texting-apps-for-android-tablets-in-2023-a5a6329d6b744167acf0a02f6a413ff2.jpg
+thumbnail: https://thmb.techidaily.com/a1f466c594234ad34f641e87364869a2929ae1aee45db635b3f848c5daefbda2.jpg
 ---
 
 ## Fraps to Video: An Evaluation Review

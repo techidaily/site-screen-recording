@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Video Recording Titans  OBS Studio vs Fraps Face-Off\""
-date: 2024-05-18T01:28:38.661Z
-updated: 2024-05-19T01:28:38.661Z
+date: 2024-07-03T16:35:15.980Z
+updated: 2024-07-04T16:35:15.980Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes In 2024, Video Recording Titans: OBS Studio vs Fraps Face-Off\""
 excerpt: "\"This Article Describes In 2024, Video Recording Titans: OBS Studio vs Fraps Face-Off\""
 keywords: "\"OBS Studio Compared,Fraps VS Tech,Best Video Editor,OBS Studio Review,Streaming Software Showdown,Pro Video Recording,Face-Off: OBS vs Fraps\""
-thumbnail: https://www.lifewire.com/thmb/4ql928fMUKkO_EPWrgDkfeEcVtE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/family-hanging-out-watching-videos-online-1166432791-309c6f7ac8cb4cc99875db5a77fd6f35.jpg
+thumbnail: https://thmb.techidaily.com/d208efb0315dc3e80b4d5a8f4b751d30ee62ca28dd2151c249d15e615be6f528.jpg
 ---
 
 ## Video Recording Titans: OBS Studio vs Fraps Face-Off

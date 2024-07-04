@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Undead Uprising  Your Essential Compilation of Zombie Gaming\""
-date: 2024-05-19T17:19:59.139Z
-updated: 2024-05-20T17:19:59.139Z
+date: 2024-07-03T16:35:13.857Z
+updated: 2024-07-04T16:35:13.857Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] In 2024, Undead Uprising: Your Essential Compilation of Zombie Gaming\""
 excerpt: "\"This Article Describes [New] In 2024, Undead Uprising: Your Essential Compilation of Zombie Gaming\""
 keywords: "Zombie Games Guide,Undead Gameplay Tips,Gaming Zombies Handbook,Zombie RPG Strategies,Essential Zombie Games,Zombie Video Games Compilation,Zombie Horror Gaming Collection"
-thumbnail: https://www.lifewire.com/thmb/D7l9wVfRkR02O_cphLk2NQX7Fjw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2018-12-08at3.04.00PM-5c0c23f6c9e77c00018eae4e.png
+thumbnail: https://thmb.techidaily.com/cec958dbb28e58c65e080cad326f07d4e7cdd67a50648dc244def701160f50d9.png
 ---
 
 ## Undead Uprising: Your Essential Compilation of Zombie Gaming

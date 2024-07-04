@@ -1,7 +1,7 @@
 ---
 title: "[New] Movavi Screen Recorder 11"
-date: 2024-05-19T17:20:26.392Z
-updated: 2024-05-20T17:20:26.392Z
+date: 2024-07-03T16:35:04.600Z
+updated: 2024-07-04T16:35:04.600Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] Movavi Screen Recorder 11"
 excerpt: "This Article Describes [New] Movavi Screen Recorder 11"
 keywords: "ScreenRecordingPro,MovaviCaptureTool,VideoScreenRecorder,HighResScreenCapture,EasyRecordVideos,MobileScreenRecorder,DigitalVideoCapture"
-thumbnail: https://www.lifewire.com/thmb/hTKYwh0v7qXo9k56663KdHBIHZ4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-fix-a-critical-process-dies-windows-11-error-952a1ad6325f455aaef36516fb3f7120.jpg
+thumbnail: https://thmb.techidaily.com/94f7e6bb0d500f60edc6e34b363527bd47bbfffa481cdc60b824492075830e06.jpg
 ---
 
 ## Movavi Screen Recorder 11

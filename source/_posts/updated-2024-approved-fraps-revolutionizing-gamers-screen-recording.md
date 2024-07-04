@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Fraps  Revolutionizing Gamer's Screen Recording\""
-date: 2024-05-18T01:08:51.806Z
-updated: 2024-05-19T01:08:51.806Z
+date: 2024-07-03T16:35:15.357Z
+updated: 2024-07-04T16:35:15.357Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] 2024 Approved: Fraps: Revolutionizing Gamer's Screen Recording\""
 excerpt: "\"This Article Describes [Updated] 2024 Approved: Fraps: Revolutionizing Gamer's Screen Recording\""
 keywords: "FrapsScreenCapture,GamerRecordingTool,LiveGameStreaming,RealTimeGamingSnapshots,PerformanceMetricsVisuals,EfficientGameTracking,ActionPlayRecordings"
-thumbnail: https://www.lifewire.com/thmb/P9BLOm818Wmv2RgfhK_jtXxf4Rk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/178665671_HighRes-56a532a83df78cf77286de1b.jpg
+thumbnail: https://thmb.techidaily.com/b5dfde40e2a9ad5275b840b5f0fbb161aac4de7d7745911720b5a34076945390.jpg
 ---
 
 ## Fraps: Revolutionizing Gamer's Screen Recording

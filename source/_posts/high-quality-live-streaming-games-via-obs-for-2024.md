@@ -1,7 +1,7 @@
 ---
 title: "\"High-Quality Live Streaming  Games via OBS for 2024\""
-date: 2024-05-18T01:17:04.551Z
-updated: 2024-05-19T01:17:04.551Z
+date: 2024-07-03T16:35:12.539Z
+updated: 2024-07-04T16:35:12.539Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes High-Quality Live Streaming: Games via OBS for 2024\""
 excerpt: "\"This Article Describes High-Quality Live Streaming: Games via OBS for 2024\""
 keywords: "Game Live Streaming,High Quality Play,OBS Gaming Sync,Premium Stream Video,OBS Live Playback,Optimal Game Broadcast,Ultimate OBS Gamers"
-thumbnail: https://www.lifewire.com/thmb/0ReomQ5wrb7WSffrn0hDnZKzgPU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/5-things-to-consider-before-buying-a-gaming-laptop-5235493-145a8c941b9f46e99d9a90bdee387893.jpg
+thumbnail: https://thmb.techidaily.com/058506d9dfd3499ce050a0189a74f361c7f5cd9f1ab1cb47d3f2f93a3bce610c.jpg
 ---
 
 ## High-Quality Live Streaming: Games via OBS

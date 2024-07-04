@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Windows 10 Capture MiniApp\""
-date: 2024-05-19T17:21:51.926Z
-updated: 2024-05-20T17:21:51.926Z
+date: 2024-07-03T16:35:08.407Z
+updated: 2024-07-04T16:35:08.407Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Windows 10 Capture MiniApp\""
 excerpt: "\"This Article Describes 2024 Approved: Windows 10 Capture MiniApp\""
 keywords: "Windows 10 Recorder,MiniApp Screen Capture,10 PC SnapShot Tool,QuickCapture App,Windows Snapper Minimalist,10MiniCapture Utility,WindowCapture MiniApp"
-thumbnail: https://www.lifewire.com/thmb/eYcaBBIZ1vACwviFbibN_RqgtSY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/man-measuring-tv-size-102761115-getty-5bf8513246e0fb008321de5f.jpg
+thumbnail: https://thmb.techidaily.com/5b0ce9c020094ad31bdc87530c31e032109184ed98794f1ba27d0b681ad3c785.jpg
 ---
 
 ## Windows 10 Capture MiniApp

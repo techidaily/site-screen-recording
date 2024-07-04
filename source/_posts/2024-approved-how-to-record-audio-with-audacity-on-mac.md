@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  How to Record Audio with Audacity on Mac?\""
-date: 2024-05-18T01:34:06.068Z
-updated: 2024-05-19T01:34:06.068Z
+date: 2024-07-03T16:35:05.046Z
+updated: 2024-07-04T16:35:05.046Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: How to Record Audio with Audacity on Mac?\""
 excerpt: "\"This Article Describes 2024 Approved: How to Record Audio with Audacity on Mac?\""
 keywords: "\"Audacity Mac Recording Tips,Mac Audio Capture Using Audacity,Learn Audacity for Mac Audio,Simple Mac Audacity Recordings,Mac Guide: Audacity Recording,Audacity Setup on Mac,Quick Mac Audio with Audacity\""
-thumbnail: https://www.lifewire.com/thmb/fNAEUmZEUUuqZzxr6hV391lXHYg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/the-11-best-whatsapp-tricks-and-tips-in-2020-4782877-fd12628437f34b85ac38f1a9ac95637e.jpg
+thumbnail: https://thmb.techidaily.com/ad574335e648a7deda4261a3d60c02e5050876ad97d3a8d2551786ec91da20e4.jpg
 ---
 
 ## How to Record Audio with Audacity on Mac?

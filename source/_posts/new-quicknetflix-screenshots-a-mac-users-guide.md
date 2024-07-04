@@ -1,7 +1,7 @@
 ---
 title: "\"[New] QuickNetflix Screenshots  A Mac User's Guide\""
-date: 2024-05-19T17:19:48.959Z
-updated: 2024-05-20T17:19:48.959Z
+date: 2024-07-03T16:35:09.383Z
+updated: 2024-07-04T16:35:09.383Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] QuickNetflix Screenshots: A Mac User's Guide\""
 excerpt: "\"This Article Describes [New] QuickNetflix Screenshots: A Mac User's Guide\""
 keywords: "Netflix Screencasts MAc,Mac QuickViewNetflix,Mac StreamingScreens,Netflix MACGuide,QuickMacScreenshots,ViewNetfliXMACHelp,MacNetflixScreenTips"
-thumbnail: https://www.lifewire.com/thmb/mDhxV8MNRpKsVw-MZy5n6Aic8pw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsung-soundbar-dolby-atmos-569f1fdd925e46ab8b3e1f51d95e1e6c.jpg
+thumbnail: https://thmb.techidaily.com/eb0b88fc8ea01a6f57ac593062a230bcd4f411a04c405e68f58f5857acd450ec.jpg
 ---
 
 ## QuickNetflix Screenshots: A Mac User's Guide

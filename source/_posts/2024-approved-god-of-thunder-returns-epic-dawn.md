@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  God of Thunder Returns  Epic Dawn\""
-date: 2024-05-19T17:20:28.944Z
-updated: 2024-05-20T17:20:28.944Z
+date: 2024-07-03T16:35:12.705Z
+updated: 2024-07-04T16:35:12.705Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: God of Thunder Returns: Epic Dawn\""
 excerpt: "\"This Article Describes 2024 Approved: God of Thunder Returns: Epic Dawn\""
 keywords: "GodThunderReturnsEpic,ThunderGodDawnEpic,ReturningThunderGod,EpicThunderDeity,DawnOfThunderGod,ThunderGodNewEpic,GodThunderAwakening"
-thumbnail: https://www.lifewire.com/thmb/IOefl4e_6Yr9ZAczXaVDoLd0G88=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1365158534-d6952b03afff43f7a1c5f0405f31dc92.jpg
+thumbnail: https://thmb.techidaily.com/470729e2db7d552929f896fede9bd2112971e2401fbcd66ce15df928f6be58b2.jpg
 ---
 
 ## God of Thunder Returns: Epic Dawn
