@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Onboard Recorder Use in Huawei Mate and P Series (Mate 10, Mate 20; P20, P10). For 2024"
-date: 2024-05-18T01:21:55.727Z
-updated: 2024-05-19T01:21:55.727Z
+date: 2024-07-17T00:31:33.923Z
+updated: 2024-07-18T00:31:33.923Z
 tags: 
   - screen-recording
   - ai video
@@ -12,13 +12,16 @@ categories:
 description: "This Article Describes [Updated] Onboard Recorder Use in Huawei Mate and P Series (Mate 10, Mate 20; P20, P10). For 2024"
 excerpt: "This Article Describes [Updated] Onboard Recorder Use in Huawei Mate and P Series (Mate 10, Mate 20; P20, P10). For 2024"
 keywords: "Mate Recorder Huawei Specs,P Series Onboard Record,Huawei Mate Device Audio,Mate 20/P20 Recording Features,Onboard Huawei Phone Camera,Huawei Mate 10/P10 Sound Capture,Huawei P Series Video Record"
-thumbnail: https://www.lifewire.com/thmb/tclvUc96-Ait5kPqxaZfBNJHuEo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-choose-your-ideal-phonecase-ca91460721b143b0b0ae61b5baf11b3c.jpg
+thumbnail: https://thmb.techidaily.com/017337439b4f792b0246468061b8e1aa8f8f36d01cdf2619fb3c06685fc0972f.jpg
 ---
 
 ## Onboard Recorder Use in Huawei Mate and P Series (Mate 10, Mate 20; P20, P10)
 
 # How to Record Screen On Huawei Mate 10/P10 Using a Built-in Recorder
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 ##### Max Wales
@@ -27,6 +30,9 @@ thumbnail: https://www.lifewire.com/thmb/tclvUc96-Ait5kPqxaZfBNJHuEo=/400x300/fi
 
 Capturing a screen of Huawei's Mate 10, 20 P20, or [P10](https://tools.techidaily.com/wondershare/filmora/download/) Android devices doesn't require you to be a tech geek. As a matter of fact, creating a screen recording with all of the devices mentioned above takes only a few simple steps, since all of the devices feature a built-in screen recorder that can be activated in several different ways.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
 ### The All-in-One Screen Recorder & Video Editor
@@ -44,12 +50,23 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
-![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg) Secure Download
 
 In case you were looking for a way to record a screen on a Huawei Smartphone, you've come to the right place because in this article we are going to take you through the process of capturing a screen on your Huawei Android phone.
 
 ![Record Screen on Huawei](https://images.wondershare.com/filmora/article-images/record-screen-on-huawei.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Capture Screen on a Huawei Smartphone
 
 With the built-in [screen record](https://tools.techidaily.com/wondershare/filmora/download/) features, you can start or stop recording sessions in three different ways on your Huawei P10/P20 or Mate10 screen. You can both enable the screen recording shortcut in the notification panel, and press the volume up button and the Power button at the same time. Besides, you can record your Huawei screen with knuckling gestures. Let’s check the detailed screen recording steps.
@@ -74,12 +91,18 @@ Huawei P10/P20/Mate 10 allows you to record the phone screen activities with the
 
 Before using the double knuckles to record the screen activities, you need to enable the **Smart screenshot/screen recording** feature first. Find and tap the **Motion Control** option in **Settings**, and then turn on the Smart screenshot/screen recording under **Knuckle gesture**.
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Huawei Smartphone screen recorder](https://images.wondershare.com/filmora/article-images/hauwei-record-screen-knuckle-gesture-setting.jpg)
 
 If you want to record the screen video, just knock the screen with two knuckles twice continuously when your Huawei phone is not sleeping. Read the information on the popped up window and tap **Agree** to start the screen recording. You can stop the screen recording by knocking the screen twice with two knuckles again.
 
 The maximum duration of the screen recording you can make can't exceed the five-minute limit. If you would like to capture longer videos of your screen, you can do so by using free third-party [screen recording apps for Android](https://tools.techidaily.com/wondershare/filmora/download/), such as AZ Recorder. But if you are using the built-in screen recording feature on Huawei smartphone, the recording function of the third-party apps will be disabled.
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Where to Find the Recorded Videos
 
 All screen recordings you create will be displayed in the phone's **Gallery** app. Locate the Screenshots or Screen Recordings folder on the Albums tab and then tap on the Share icon if you would like to post the recording on social media or send it to a friend. Hit the Delete button to remove the recording from your phone. Follow the on-screen instructions to complete either of these two processes.
@@ -102,6 +125,9 @@ Follow @Max Wales
 
 Capturing a screen of Huawei's Mate 10, 20 P20, or [P10](https://tools.techidaily.com/wondershare/filmora/download/) Android devices doesn't require you to be a tech geek. As a matter of fact, creating a screen recording with all of the devices mentioned above takes only a few simple steps, since all of the devices feature a built-in screen recorder that can be activated in several different ways.
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
 ### The All-in-One Screen Recorder & Video Editor
@@ -119,7 +145,97 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
-![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg) Secure Download
+
+In case you were looking for a way to record a screen on a Huawei Smartphone, you've come to the right place because in this article we are going to take you through the process of capturing a screen on your Huawei Android phone.
+
+![Record Screen on Huawei](https://images.wondershare.com/filmora/article-images/record-screen-on-huawei.jpg)
+
+## How to Capture Screen on a Huawei Smartphone
+
+With the built-in [screen record](https://tools.techidaily.com/wondershare/filmora/download/) features, you can start or stop recording sessions in three different ways on your Huawei P10/P20 or Mate10 screen. You can both enable the screen recording shortcut in the notification panel, and press the volume up button and the Power button at the same time. Besides, you can record your Huawei screen with knuckling gestures. Let’s check the detailed screen recording steps.
+
+#### 1. Using Screen Recorder Shortcut Switch to Record Huawei Screen
+
+Pull-down notification panel from the top, find the Screen Recorder shortcut icon, and tap it to enable the screen recording feature. A notification will appear on your screen asking you if you want to enable the phone's screencasting feature. Read the notification and instructions carefully and tap Agree to start the screen recording. To stop recording, just go to the notification panel again, and tap the screen recorder icon again and the screen recording will be stopped.
+
+![Huawei Smartphone screen recorder](https://images.wondershare.com/filmora/article-images/huawei-screen-recorder-shortcut.jpg)
+
+#### 2. Pressing Buttons to Record Huawei Screen
+
+Besides enabling the screen recording feature from the shortcut menu, you can also use buttons to capture your screen on Huawei smartphone quickly. Just hold the Volume Up and Power buttons that are located on the right side of your device to activate the screen recording feature.
+
+Hit the Enable button on the popup window which asking your permission to microphone and storage, and then a new notification will emerge informing you that sound will be recorded as well or that the screen capturing session will stop if you have an incoming call. Simply tap Next and when the new screen appears and tap on Done to start the countdown before the screen recording session.
+
+After the screen recording begins, you will see a red button at the top left corner on your Huawei phone. To stop the recording, you can tap the Stop button or press the Volume up and Power buttons simultaneously again.
+
+#### 3. Using Knuckle gestures to record your Huawei screen
+
+Huawei P10/P20/Mate 10 allows you to record the phone screen activities with the knuckle gestures due to the Knuckle Sense technology.
+
+Before using the double knuckles to record the screen activities, you need to enable the **Smart screenshot/screen recording** feature first. Find and tap the **Motion Control** option in **Settings**, and then turn on the Smart screenshot/screen recording under **Knuckle gesture**.
+
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Huawei Smartphone screen recorder](https://images.wondershare.com/filmora/article-images/hauwei-record-screen-knuckle-gesture-setting.jpg)
+
+If you want to record the screen video, just knock the screen with two knuckles twice continuously when your Huawei phone is not sleeping. Read the information on the popped up window and tap **Agree** to start the screen recording. You can stop the screen recording by knocking the screen twice with two knuckles again.
+
+The maximum duration of the screen recording you can make can't exceed the five-minute limit. If you would like to capture longer videos of your screen, you can do so by using free third-party [screen recording apps for Android](https://tools.techidaily.com/wondershare/filmora/download/), such as AZ Recorder. But if you are using the built-in screen recording feature on Huawei smartphone, the recording function of the third-party apps will be disabled.
+
+## Where to Find the Recorded Videos
+
+All screen recordings you create will be displayed in the phone's **Gallery** app. Locate the Screenshots or Screen Recordings folder on the Albums tab and then tap on the Share icon if you would like to post the recording on social media or send it to a friend. Hit the Delete button to remove the recording from your phone. Follow the on-screen instructions to complete either of these two processes.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Conclusion
+
+Capturing your phone's screen can help you entertain your friends and followers on social media or to share valuable information with your business associates. Huawei's Smartphones enable you to accomplish both of these tasks in just a few simple steps. However, the built-in Screen Recorder on Huawei's Mate 10, 20 P20 or P10 Android devices doesn't allow you to specify the region of the screen you want to capture or select the frame rate, so if you want to gain access to more powerful screen recording tools you should install an app such as AZ Screen Recorder or DU Recorder from the Google Play Store, but you can also record the screen on the computer with some desktop screen recorders. Let's know how you [record your screen on Android](https://tools.techidaily.com/wondershare/filmora/download/) in the comments below.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+Max Wales
+
+Max Wales is a writer and a lover of all things video.
+
+Follow @Max Wales
+
+##### Max Wales
+
+ Mar 27, 2024• Proven solutions
+
+Capturing a screen of Huawei's Mate 10, 20 P20, or [P10](https://tools.techidaily.com/wondershare/filmora/download/) Android devices doesn't require you to be a tech geek. As a matter of fact, creating a screen recording with all of the devices mentioned above takes only a few simple steps, since all of the devices feature a built-in screen recorder that can be activated in several different ways.
+
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
+![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
+
+### The All-in-One Screen Recorder & Video Editor
+
+* Record desktop screen, voiceover, and webcam simultaneously
+* Edit recorded clips quickly with a wide range of professional tools
+* Built-in plentiful templates and effects
+* Export to MP4, MOV, MKV, GIF and multiple formats
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg) Secure Download
 
 In case you were looking for a way to record a screen on a Huawei Smartphone, you've come to the right place because in this article we are going to take you through the process of capturing a screen on your Huawei Android phone.
 
@@ -159,6 +275,9 @@ The maximum duration of the screen recording you can make can't exceed the five-
 
 All screen recordings you create will be displayed in the phone's **Gallery** app. Locate the Screenshots or Screen Recordings folder on the Albums tab and then tap on the Share icon if you would like to post the recording on social media or send it to a friend. Hit the Delete button to remove the recording from your phone. Follow the on-screen instructions to complete either of these two processes.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Conclusion
 
 Capturing your phone's screen can help you entertain your friends and followers on social media or to share valuable information with your business associates. Huawei's Smartphones enable you to accomplish both of these tasks in just a few simple steps. However, the built-in Screen Recorder on Huawei's Mate 10, 20 P20 or P10 Android devices doesn't allow you to specify the region of the screen you want to capture or select the frame rate, so if you want to gain access to more powerful screen recording tools you should install an app such as AZ Screen Recorder or DU Recorder from the Google Play Store, but you can also record the screen on the computer with some desktop screen recorders. Let's know how you [record your screen on Android](https://tools.techidaily.com/wondershare/filmora/download/) in the comments below.
@@ -179,6 +298,9 @@ Capturing a screen of Huawei's Mate 10, 20 P20, or [P10](https://tools.techidail
 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ### The All-in-One Screen Recorder & Video Editor
 
 * Record desktop screen, voiceover, and webcam simultaneously
@@ -194,7 +316,10 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
-![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg) Secure Download
 
 In case you were looking for a way to record a screen on a Huawei Smartphone, you've come to the right place because in this article we are going to take you through the process of capturing a screen on your Huawei Android phone.
 
@@ -234,85 +359,16 @@ The maximum duration of the screen recording you can make can't exceed the five-
 
 All screen recordings you create will be displayed in the phone's **Gallery** app. Locate the Screenshots or Screen Recordings folder on the Albums tab and then tap on the Share icon if you would like to post the recording on social media or send it to a friend. Hit the Delete button to remove the recording from your phone. Follow the on-screen instructions to complete either of these two processes.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Conclusion
 
 Capturing your phone's screen can help you entertain your friends and followers on social media or to share valuable information with your business associates. Huawei's Smartphones enable you to accomplish both of these tasks in just a few simple steps. However, the built-in Screen Recorder on Huawei's Mate 10, 20 P20 or P10 Android devices doesn't allow you to specify the region of the screen you want to capture or select the frame rate, so if you want to gain access to more powerful screen recording tools you should install an app such as AZ Screen Recorder or DU Recorder from the Google Play Store, but you can also record the screen on the computer with some desktop screen recorders. Let's know how you [record your screen on Android](https://tools.techidaily.com/wondershare/filmora/download/) in the comments below.
 
-![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-Max Wales
-
-Max Wales is a writer and a lover of all things video.
-
-Follow @Max Wales
-
-##### Max Wales
-
- Mar 27, 2024• Proven solutions
-
-Capturing a screen of Huawei's Mate 10, 20 P20, or [P10](https://tools.techidaily.com/wondershare/filmora/download/) Android devices doesn't require you to be a tech geek. As a matter of fact, creating a screen recording with all of the devices mentioned above takes only a few simple steps, since all of the devices feature a built-in screen recorder that can be activated in several different ways.
-
-![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
-
-### The All-in-One Screen Recorder & Video Editor
-
-* Record desktop screen, voiceover, and webcam simultaneously
-* Edit recorded clips quickly with a wide range of professional tools
-* Built-in plentiful templates and effects
-* Export to MP4, MOV, MKV, GIF and multiple formats
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
-
-In case you were looking for a way to record a screen on a Huawei Smartphone, you've come to the right place because in this article we are going to take you through the process of capturing a screen on your Huawei Android phone.
-
-![Record Screen on Huawei](https://images.wondershare.com/filmora/article-images/record-screen-on-huawei.jpg)
-
-## How to Capture Screen on a Huawei Smartphone
-
-With the built-in [screen record](https://tools.techidaily.com/wondershare/filmora/download/) features, you can start or stop recording sessions in three different ways on your Huawei P10/P20 or Mate10 screen. You can both enable the screen recording shortcut in the notification panel, and press the volume up button and the Power button at the same time. Besides, you can record your Huawei screen with knuckling gestures. Let’s check the detailed screen recording steps.
-
-#### 1. Using Screen Recorder Shortcut Switch to Record Huawei Screen
-
-Pull-down notification panel from the top, find the Screen Recorder shortcut icon, and tap it to enable the screen recording feature. A notification will appear on your screen asking you if you want to enable the phone's screencasting feature. Read the notification and instructions carefully and tap Agree to start the screen recording. To stop recording, just go to the notification panel again, and tap the screen recorder icon again and the screen recording will be stopped.
-
-![Huawei Smartphone screen recorder](https://images.wondershare.com/filmora/article-images/huawei-screen-recorder-shortcut.jpg)
-
-#### 2. Pressing Buttons to Record Huawei Screen
-
-Besides enabling the screen recording feature from the shortcut menu, you can also use buttons to capture your screen on Huawei smartphone quickly. Just hold the Volume Up and Power buttons that are located on the right side of your device to activate the screen recording feature.
-
-Hit the Enable button on the popup window which asking your permission to microphone and storage, and then a new notification will emerge informing you that sound will be recorded as well or that the screen capturing session will stop if you have an incoming call. Simply tap Next and when the new screen appears and tap on Done to start the countdown before the screen recording session.
-
-After the screen recording begins, you will see a red button at the top left corner on your Huawei phone. To stop the recording, you can tap the Stop button or press the Volume up and Power buttons simultaneously again.
-
-#### 3. Using Knuckle gestures to record your Huawei screen
-
-Huawei P10/P20/Mate 10 allows you to record the phone screen activities with the knuckle gestures due to the Knuckle Sense technology.
-
-Before using the double knuckles to record the screen activities, you need to enable the **Smart screenshot/screen recording** feature first. Find and tap the **Motion Control** option in **Settings**, and then turn on the Smart screenshot/screen recording under **Knuckle gesture**.
-
-![Huawei Smartphone screen recorder](https://images.wondershare.com/filmora/article-images/hauwei-record-screen-knuckle-gesture-setting.jpg)
-
-If you want to record the screen video, just knock the screen with two knuckles twice continuously when your Huawei phone is not sleeping. Read the information on the popped up window and tap **Agree** to start the screen recording. You can stop the screen recording by knocking the screen twice with two knuckles again.
-
-The maximum duration of the screen recording you can make can't exceed the five-minute limit. If you would like to capture longer videos of your screen, you can do so by using free third-party [screen recording apps for Android](https://tools.techidaily.com/wondershare/filmora/download/), such as AZ Recorder. But if you are using the built-in screen recording feature on Huawei smartphone, the recording function of the third-party apps will be disabled.
-
-## Where to Find the Recorded Videos
-
-All screen recordings you create will be displayed in the phone's **Gallery** app. Locate the Screenshots or Screen Recordings folder on the Albums tab and then tap on the Share icon if you would like to post the recording on social media or send it to a friend. Hit the Delete button to remove the recording from your phone. Follow the on-screen instructions to complete either of these two processes.
-
-### Conclusion
-
-Capturing your phone's screen can help you entertain your friends and followers on social media or to share valuable information with your business associates. Huawei's Smartphones enable you to accomplish both of these tasks in just a few simple steps. However, the built-in Screen Recorder on Huawei's Mate 10, 20 P20 or P10 Android devices doesn't allow you to specify the region of the screen you want to capture or select the frame rate, so if you want to gain access to more powerful screen recording tools you should install an app such as AZ Screen Recorder or DU Recorder from the Google Play Store, but you can also record the screen on the computer with some desktop screen recorders. Let's know how you [record your screen on Android](https://tools.techidaily.com/wondershare/filmora/download/) in the comments below.
-
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -346,3 +402,69 @@ Follow @Max Wales
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-dungeons-deep-and-deeper-old-school-and-hybrid-games/"><u>[New] 2024 Approved  Dungeons Deep & Deeper  Old School and Hybrid Games</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-hashtag-wisdom-jumpstart-your-6-figure-youtube-rank/"><u>[New] 2024 Approved  Hashtag Wisdom  Jumpstart Your 6-Figure Youtube Rank</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-mac-enhancement-synchronized-screen-plus-audio-tracking/"><u>[New] 2024 Approved  Mac Enhancement  Synchronized Screen + Audio Tracking</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-pursuit-of-riches-terrarias-quintessential-map-rankings/"><u>[New] 2024 Approved  Pursuit of Riches  Terraria’s Quintessential Map Rankings</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-quick-and-budget-mp3-conversion-from-skype-talks/"><u>[New] 2024 Approved  Quick & Budget MP3 Conversion From Skype Talks</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-archival-artifacts-radeons-revamp/"><u>[New] Archival Artifacts  Radeon's Revamp</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-capturing-mac-screen-images-top-5-techniques/"><u>[New] Capturing Mac Screen Images  Top 5 Techniques</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-concurrent-capture-masterclass-webcam-and-desktop-for-2024/"><u>[New] Concurrent Capture Masterclass  Webcam & Desktop for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-crafting-captivating-cinematic-experiences-in-youtube-videos/"><u>[New] Crafting Captivating Cinematic Experiences in YouTube Videos</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-essential-hd-screenshots-for-mac-limit-156-chars-for-2024/"><u>[New] Essential HD Screenshots for Mac (Limit  156 Chars) for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-gamers-guide-to-flawless-game-recordings/"><u>[New] In 2024, Gamers' Guide to Flawless Game Recordings</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-navigating-google-meet-profile-edit-laptopmobile/"><u>[New] In 2024, Navigating Google Meet Profile Edit (Laptop/Mobile)</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-secrets-unveiled-the-ultimate-guide-to-recording-games/"><u>[New] In 2024, Secrets Unveiled  The Ultimate Guide to Recording Games</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-what-do-podcast-producers-really-make/"><u>[New] In 2024, What Do Podcast Producers Really Make?</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-premier-powerpoint-to-videoland/"><u>[New] Premier PowerPoint to Videoland</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-streamline-recorder-quality-test/"><u>[New] StreamLine Recorder Quality Test</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-essential-8-in-virtual-reality-gaming/"><u>[New] The Essential 8 in Virtual Reality Gaming</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-tiktoks-rise-to-fame-through-twitters-top-10-list-for-2024/"><u>[New] TikTok's Rise to Fame Through Twitter’s Top 10 List for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-understanding-the-difference-in-30-and-60-fps-videography/"><u>[New] Understanding the Difference in 30 and 60 FPS Videography</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-tweetsnapter-the-leading-tool-for-storing-your-gif-delights/"><u>[Updated] 2024 Approved  TweetSnapter  The Leading Tool for Storing Your Gif Delights</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-voice-logging-made-simple-with-ipad-apps/"><u>[Updated] 2024 Approved  Voice Logging Made Simple with iPad Apps</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-beat-blast-updated-technology/"><u>[Updated] Beat Blast  Updated Technology</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-efficient-techniques-to-record-and-store-facebook-calls/"><u>[Updated] In 2024, Efficient Techniques to Record and Store Facebook Calls</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-enhancing-online-presence-obs-and-facebook-synergy/"><u>[Updated] In 2024, Enhancing Online Presence  OBS & Facebook Synergy</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-how-to-use-loilo-game-recorder/"><u>[Updated] In 2024, How to Use LoiLo Game Recorder</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-ipad-screen-recording-made-simple-a-handy-overview/"><u>[Updated] In 2024, IPad Screen Recording Made Simple  A Handy Overview</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-unlocking-slidecast-potential-the-webcam-revolution/"><u>[Updated] In 2024, Unlocking Slidecast Potential  The Webcam Revolution</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-mastering-video-creation-the-ultimate-tutorial-blueprint/"><u>[Updated] Mastering Video Creation  The Ultimate Tutorial Blueprint</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-selecting-the-perfect-screen-recorder-for-educational-purposes/"><u>[Updated] Selecting the Perfect Screen Recorder for Educational Purposes</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-unseen-sonic-scribes-best-kept-mobile-voice-loggers-list/"><u>[Updated] Unseen Sonic Scribes  Best-Kept Mobile Voice Loggers List</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-visual-victory-amd-radeon-evolution-for-2024/"><u>[Updated] Visual Victory  AMD Radeon Evolution for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-crafting-audible-magic-cropping-and-edits-in-canva-videos/"><u>2024 Approved  Crafting Audible Magic  Cropping and Edits in Canva Videos</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-essential-gadgets-for-capturing-zoom-sessions/"><u>2024 Approved  Essential Gadgets for Capturing Zoom Sessions</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-syncsavvy-experts-opinion/"><u>2024 Approved  SyncSavvy Experts Opinion</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-windows-snapshot-simplified-2-methods/"><u>2024 Approved  Windows Snapshot Simplified (2 Methods)</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-motorola-g54-5g-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Motorola G54 5G Phone Using PC | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/a-step-by-step-tutorial-for-speech-transcription-in-word/"><u>A Step-by-Step Tutorial for Speech Transcription in Word</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/accelerating-or-slowing-down-youtube-videos-playback-for-2024/"><u>Accelerating or Slowing Down YouTube Videos Playback for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/androids-elite-mobile-multiplayer-battle-games/"><u>Android's Elite Mobile Multiplayer Battle Games</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/audiocapture-studio-download-test-and-discussion/"><u>AudioCapture Studio  Download, Test & Discussion</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/best-captures-of-macs-visual-display-under-156-characters-for-2024/"><u>Best Captures of Mac's Visual Display (Under 156 Characters) for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/eagle-eye-recorder-insights-software-for-2024/"><u>Eagle Eye Recorder Insights Software for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/elite-arena-showdown-best-of-the-royales/"><u>Elite Arena Showdown  Best of the Royales</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/expertly-crafted-cloud-microphones-for-2024/"><u>Expertly-Crafted Cloud Microphones for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-camera-selection-for-young-shooters-top-picks-24/"><u>In 2024, Camera Selection For Young Shooters - Top Picks '24</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-choosing-between-bandicam-and-camtasia-for-video-capture/"><u>In 2024, Choosing Between Bandicam and Camtasia for Video Capture</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-exploring-screen-capture-bandicam-versus-camtasia/"><u>In 2024, Exploring Screen Capture  Bandicam Versus Camtasia</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-iphone-14-pro-max-passcode-not-working-drfone-by-drfone-ios/"><u>In 2024, How to Fix iPhone 14 Pro Max Passcode not Working? | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-splitting-audio-from-video-in-sony-vegas-step-by-step/"><u>In 2024, Splitting Audio From Video in Sony Vegas Step by Step</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/in-2024-the-secret-to-effortless-music-conversion-why-you-should-read-this/"><u>In 2024, The Secret to Effortless Music Conversion Why You Should Read This</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-ultimate-list-the-7-most-immersive-global-conflict-sims/"><u>In 2024, Ultimate List  The 7 Most Immersive Global Conflict Sims</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-understanding-youtube-shorts-earning-potential/"><u>In 2024, Understanding YouTube Shorts Earning Potential</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/ios-screen-recording-a-no-nonsense-approach/"><u>IOS Screen Recording  A No-Nonsense Approach</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/leading-non-obs-applications-for-streaming/"><u>Leading Non-OBS Applications for Streaming</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Samsung Galaxy A05s | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/mac-audio-tools-for-effective-classroom-capture-for-2024/"><u>Mac Audio Tools for Effective Classroom Capture for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/opening-orchestra-the-ultimate-list-of-harmonious-hubs-for-auditory-appetizers/"><u>Opening Orchestra  The Ultimate List of Harmonious Hubs for Auditory Appetizers</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/premium-windows-video-grabber-for-2024/"><u>Premium Windows Video Grabber for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/pro-free-ending-makers-ranked-1-6-for-2024/"><u>Pro-FREE Ending Makers - Ranked 1-6 for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/superior-3d-tools-for-animated-designers-for-2024/"><u>Superior 3D Tools for Animated Designers for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-art-of-introducing-your-podcast/"><u>The Art of Introducing Your Podcast</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-on-oppo-find-n3-flip-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Oppo Find N3 Flip FRP Bypass</u></a></li>
+</ul></div>

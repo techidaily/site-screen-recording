@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Easy-to-Follow OBS Setup on Thriftier Tech for 2024\""
-date: 2024-05-19T17:20:12.445Z
-updated: 2024-05-20T17:20:12.445Z
+date: 2024-07-16T22:03:33.304Z
+updated: 2024-07-17T22:03:33.304Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] Easy-to-Follow OBS Setup on Thriftier Tech for 2024\""
 excerpt: "\"This Article Describes [Updated] Easy-to-Follow OBS Setup on Thriftier Tech for 2024\""
 keywords: "Easy OBS Setup,Thriftier Tech Guide,Quick OBS Config,Simple OBS Tutorial,OBS for Beginners,TechOBS Setup Steps,Efficient OBS on Thrift"
-thumbnail: https://www.lifewire.com/thmb/ky9dx6TkOY6aQ-Ch6TfW7sMDBu8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/best-free-movies-on-youtube-5114491-12-811d37329347405eab1a368e3018dc54.jpg
+thumbnail: https://thmb.techidaily.com/91d880ab7920ac263b2bbc42f64c84854115542d15d4b0d06e6a3ab502cdbe2d.jpg
 ---
 
 ## Easy-to-Follow OBS Setup on Thriftier Tech
@@ -29,18 +29,30 @@ Since we are concerned about the streaming of video. It is important to know how
 
 First, you will need to launch your OBS software. On the main menu, you have to go to file-> settings. You will see a new window will pop up for settings as shown in the figure below.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![obs video settings go to settings](https://images.wondershare.com/filmora/article-images/obs-video-settings-go-to-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 2: Settings That You Should Keep
 
 Starting with base resolution, it is the video resolution that we are going to send to the people who are going to watch our stream. So for the best one, click on it and choose **1280\*720**.
 
 Output tab, which is the resolution of the video that the people will watch. For fast and lag-free streaming it's best to keep both the output and base resolution the same to avoid any conversion between the resolution by CPU. So click on output resolution and choose **1280\*720** again. If you noticed your computer is still lagging then it's best to change to 480p but below this, it's not recommended.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![obs settings that you should keep](https://images.wondershare.com/filmora/article-images/obs-settings-that-you-should-keep.jpg)
 
 After that, it comes to the filter option. There are multiple filter options in this tab but for a fast and better result, you have to choose the **“bilinear”** filter as shown in the figure below. Finally, when it comes to frame per second you gotta be careful here. The more the fps the more it will put load on your CPU means it will become laggy but it is best to keep it **30 fps**, not more than this and not less than this if you are using a low-end PC or Laptop.
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 3: Output Settings
 
 Once you are done with the general video settings now it's time you should come to the output settings. For that, you will need to choose the output from the main vertical tab as shown in the figure below in 1\. You will see a new window appears with a variety of settings. Now it's time to choose the advanced setting as shown in 2 in the figure to see all settings to be edited.
@@ -83,6 +95,9 @@ For a clear and better audio performance, it's also necessary you keep the optim
 
 The audio settings can be adjusted from two places. Let us discuss the first one. For that, you will need to select the output in the vertical tab and go to audio as shown in the figure below. You will see multiple tracks in these windows. It contains the audio settings for multiple sources. However, if you are using a single it's good to choose 320 in track one. For multiple, there is no need to change the audio track but to keep the same 320\. These are the perfect settings for most cases of the audio settings for your computer.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![obs output audio settings adjust](https://images.wondershare.com/filmora/article-images/obs-output-audio-settings-adjust.jpg)
 
 ### Step 2: Audio Tab Settings
@@ -113,10 +128,16 @@ Finally, the rest of the options should be kept as default since being a streame
 
 Here are the streaming settings that you just need to follow for your streaming videos. The streaming tab consists of settings for the platform you are going to stream your video. Let's begin with step-by-step procedures to follow for the best streaming settings for your low-end PCs or laptops.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ### Step 1: Stream Tab
 
 The streaming tab can be accessed from the main vertical tab. After going to the main “stream” tab you will see a bunch of options.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![obs stream settings tab service 1](https://images.wondershare.com/filmora/article-images/obs-stream-settings-tab-service-1.jpg)
 
 ### Step 2: Streaming Settings
@@ -133,6 +154,9 @@ This option let you choose a server to upload your streaming. It is best to keep
 
 There is a lot of other [screen recording software](https://tools.techidaily.com/wondershare/filmora/download/) on the internet that offers many tools to do the streaming. But the only question that comes to mind that which one you should choose from all of them. A lot of you guys will be already using OBS. Of course, it is the best of all other software for streaming videos to the streaming platforms but still, if someone does not wants to OBS for some reason then he should opt for another amazing alternative application known as Filmora.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![filmra record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -196,3 +220,65 @@ There may be a lot of other software which serve the same purpose but the best o
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-immediate-relief-for-frozen-or-slowed-down-tiktok-on-all-devices/"><u>[New] 2024 Approved  Immediate Relief for Frozen or Slowed Down TikTok on All Devices</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-instagram-insight-triumph-in-transparency-with-3-techniques/"><u>[New] 2024 Approved  Instagram Insight  Triumph in Transparency with 3 Techniques</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-master-the-art-of-iphone-7-screen-capture/"><u>[New] 2024 Approved  Master the Art of iPhone 7 Screen Capture</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-saving-your-desktop-display-with-free-tech-tools/"><u>[New] 2024 Approved  Saving Your Desktop Display with Free Tech Tools</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-the-ultimate-list-of-ios-solutions-to-play-your-favorite-psp-games/"><u>[New] 2024 Approved  The Ultimate List of iOS Solutions to Play Your Favorite PSP Games</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-the-ultimate-route-from-obs-broadcast-to-fb-channels/"><u>[New] 2024 Approved  The Ultimate Route From OBS Broadcast to FB Channels</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-5-steps-to-transform-your-photos-hues-right-away/"><u>[New] 5 Steps to Transform Your Photo's Hues Right Away</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-cushy-comfort-best-idle-pc-games/"><u>[New] Cushy Comfort  Best Idle PC Games</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-from-classic-quests-to-complex-escapades/"><u>[New] From Classic Quests to Complex Escapades</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-from-raw-footage-to-high-quality-mpeg-youtube-conversion-techniques/"><u>[New] From Raw Footage to High-Quality MPEG  YouTube Conversion Techniques</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-curating-soundscapes-a-detailed-look-at-youtube-playlists/"><u>[New] In 2024, Curating Soundscapes  A Detailed Look at YouTube Playlists</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-step-by-step-screen-shotting-for-xbox-enthusiasts/"><u>[New] In 2024, Step-by-Step Screen Shotting for Xbox Enthusiasts</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-iphone-album-arrangement-masterclass-achieving-systematic-order-and-cloud-sync/"><u>[New] IPhone Album Arrangement Masterclass  Achieving Systematic Order & Cloud Sync</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-quick-steps-to-elevate-low-quality-webcam-vids/"><u>[New] Quick Steps to Elevate Low-Quality WebCam Vids</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-simplified-guide-effortless-ipad-screen-recording-techniques/"><u>[New] Simplified Guide  Effortless iPad Screen Recording Techniques</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-top-10-free-android-calls-compared-rankings-for-2024/"><u>[New] Top 10 Free Android Calls  Compared Rankings for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-webcam-mastery-unique-ideas-explored-for-2024/"><u>[New] Webcam Mastery  Unique Ideas Explored for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-win-10-wisdom-key-tips-and-tricks-guide/"><u>[New] Win 10 Wisdom  Key Tips and Tricks Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-ps1-reimagined-the-best-emulators-for-game-revival-on-pc/"><u>[Updated] 2024 Approved  PS1 Reimagined  The Best Emulators for Game Revival on PC</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-tune-tracker-latest-audio-tech/"><u>[Updated] 2024 Approved  Tune Tracker  Latest Audio Tech</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-capturing-moments-top-webcams-for-pcs-in-windows/"><u>[Updated] Capturing Moments  Top Webcams for PCs in Windows</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-eyes-on-the-digital-winners-top-channels-for-2024/"><u>[Updated] Eyes on the Digital Winners  Top Channels for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-high-end-audio-gear-the-top-9-mic-recorders-online-in-23/"><u>[Updated] High-End Audio Gear  The Top 9 Mic Recorders Online in '23</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-how-to-use-video-titles-and-youtube-tags-for-more-views-for-2024/"><u>[Updated] How to Use Video Titles and YouTube Tags for More Views for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-peeking-into-apeaksofts-2023-screen-recording-features/"><u>[Updated] In 2024, Peeking Into Apeaksoft’s 2023 Screen Recording Features</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-ultimate-screen-snaps-for-mac-users-max-156-chars/"><u>[Updated] In 2024, Ultimate Screen Snaps for Mac Users (Max 156 Chars)</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-live-gaming-strategies-for-capturing-moments/"><u>[Updated] Live Gaming  Strategies for Capturing Moments</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-mastering-the-art-of-instagram-video-sharing/"><u>[Updated] Mastering the Art of Instagram Video Sharing</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-quick-and-easy-snapshot-in-zoom-video-call-for-2024/"><u>[Updated] Quick and Easy Snapshot in Zoom Video Call for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-restore-natural-tones-reviving-overexposed-iphone-hdr-videos-in-premiere-pro/"><u>[Updated] Restore Natural Tones  Reviving Overexposed iPhone HDR Videos in Premiere Pro</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-streamlined-techniques-for-rapid-mac-screen-recording-for-2024/"><u>[Updated] Streamlined Techniques for Rapid Mac Screen Recording for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-effortless-offline-access-best-youtube-playlist-downloaders/"><u>2024 Approved  Effortless Offline Access  Best YouTube Playlist Downloaders</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-plant-pals-playlist-the-best-agrigames-for-friends/"><u>2024 Approved  Plant Pals' Playlist  The Best AgriGames for Friends</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/2024-approved-from-basics-to-pro-5-essential-16x9-ratio-calculator-facts/"><u>2024 Approved From Basics to Pro 5 Essential 16X9 Ratio Calculator Facts</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/best-free-video-cutting-tools-for-divx-files-updated-2023/"><u>Best Free Video Cutting Tools for Divx Files (Updated 2023)</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/for-beginners-the-top-8-versatile-cameras-under-400/"><u>For Beginners  The Top 8 Versatile Cameras Under $400</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/frame-by-frame-top-picks-for-home-studios-for-2024/"><u>Frame by Frame  Top Picks for Home Studios for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-do-vivo-s17-screen-sharing-drfone-by-drfone-android/"><u>How To Do Vivo S17 Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-13-mini-by-drfone-ios/"><u>How to Unlock Apple iPhone 13 mini?</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-honor-play-40c-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Honor Play 40C | Dr.fone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/in-2024-do-you-want-to-create-slow-motion-videos-this-article-shows-methods-to-create-slow-mo-videos-without-changing-the-medias-quality/"><u>In 2024, Do You Want to Create Slow-Motion Videos? This Article Shows Methods to Create Slow-Mo Videos without Changing the Medias Quality</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-sony-xperia-10-v-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Sony Xperia 10 V | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-holistic-evaluation-full-screenflow-for-mac-functionality/"><u>In 2024, Holistic Evaluation  Full ScreenFlow for Mac Functionality</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-how-to-record-vr-gameplay/"><u>In 2024, How to Record VR Gameplay</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-mastering-clear-webcam-footage-recording-and-editing-tips/"><u>In 2024, Mastering Clear Webcam Footage  Recording & Editing Tips</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-the-right-path-to-precise-speech-to-text-with-google-app/"><u>In 2024, The Right Path to Precise Speech-to-Text with Google App</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-top-10-ultimate-live-capture-tools/"><u>In 2024, Top 10 Ultimate Live Capture Tools</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-say-goodbye-to-clutter-how-to-convert-dvds-to-digital-files/"><u>New In 2024, Say Goodbye to Clutter How to Convert DVDs to Digital Files</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/real-time-broadcast-logging-made-simple-for-2024/"><u>Real-Time Broadcast Logging Made Simple for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/scaling-up-a-creators-guide-to-major-content-partnerships-for-2024/"><u>Scaling Up  A Creator's Guide to Major Content Partnerships for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/screencast-mastery-guide-essential-tips-unveiled/"><u>Screencast Mastery Guide  Essential Tips Unveiled</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/screening-the-best-selecting-premium-macos-recording-apps/"><u>Screening the Best  Selecting Premium macOS Recording Apps</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/soundsnatch-aural-replay-analysis/"><u>SoundSnatch  Aural Replay Analysis</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/speaker-recorder-evaluation-tips-for-2024/"><u>Speaker Recorder Evaluation Tips for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/store-your-webcam-images-in-vlc-player/"><u>Store Your Webcam Images in VLC Player</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/the-art-of-xbox-playback-tips-for-clear-video/"><u>The Art of Xbox Playback  Tips for Clear Video</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/universal-unlock-pattern-for-samsung-galaxy-a24-by-drfone-android/"><u>Universal Unlock Pattern for Samsung Galaxy A24</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/unlocking-the-secrets-to-overwatch-video-capture/"><u>Unlocking the Secrets to Overwatch Video Capture</u></a></li>
+</ul></div>

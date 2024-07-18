@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] QuickCapture + Voice-Guided Session Maker for 2024\""
-date: 2024-05-18T01:31:08.816Z
-updated: 2024-05-19T01:31:08.816Z
+date: 2024-07-17T01:10:10.987Z
+updated: 2024-07-18T01:10:10.987Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] QuickCapture + Voice-Guided Session Maker for 2024\""
 excerpt: "\"This Article Describes [Updated] QuickCapture + Voice-Guided Session Maker for 2024\""
 keywords: "QuickCapture Pro,VoiceSession Maker,FastPhotoCapture,GuidedPhotography,AudioShooter,SpeedImageTaking,EasyVoiceRecord"
-thumbnail: https://www.lifewire.com/thmb/LszZcaAEzHRXWm3K0xWEG-T8gus=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/handstypingonkeyboardCROPPED-6b13200ac0d24ef58817343cc4975ebd.jpg
+thumbnail: https://thmb.techidaily.com/984f643c4b4f7bae0c2654dd17f8e46d49464b1fbd02ad27cef488f7c4915f8e.jpg
 ---
 
 ## QuickCapture + Voice-Guided Session Maker
@@ -41,6 +41,9 @@ Step 3: Go to Apple menu and open System Preferences.
 
 Step 4: Go to Sound tab and from Sound Output, select SoundFlower(2ch) option. This will make SoundFlower the active output by feeding the audio signal directly to SoundFlower instead of system speakers.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![soundflower](https://images.wondershare.com/filmora/article-images/output-soundflower.jpg)
 
 Step 5: Now, it is time for QuickTime player screen recording with audio. Launch QuickTime and go to File > New Screen Recording option.
@@ -63,10 +66,132 @@ Step 2: Once the video file opens, go to Edit > Trim option. You can also press 
 
 Step 3: You will see a yellow bar at the bottom containing the entire length of the video. In order to trim the video, you have to drag the handles from either side to trim out the unwanted parts. Therefore, after trimming, whatever the length of the video is there inside the yellow bar, the part of the video will remain and the out parts will be trimmed out.
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![start video triming quicktime](https://images.wondershare.com/filmora/article-images/start-video-triming-quicktime.jpg)
 
 Step 4: You can preview the trimmed video by clicking the Play button beside the play icon. Once you are done, click on Trim button.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![trim video in quicktime](https://images.wondershare.com/filmora/article-images/trim-video-quicktime.jpg)
+
+Step 5: If you are satisfied with the trimming work, go to File > Save to save the trimmed video file on your hard drive.
+
+## Part 3\. QuickTime Alternative to Record and Edit Videos
+
+QuickTime screen recording with audio is available for free of cost and you know that free things always come with some drawback. If you are not comfortable with QuickTime screen recording with sound and you are looking for a better alternative, we recommend Wondershare Filmora. Filmora for Mac is a professional [screen recorder and video editor](https://tools.techidaily.com/wondershare/filmora/download/).
+
+You can record the screen with audio in simple steps without any external extension. You can also edit any video starting from trimming and cropping to adding video effects and transitions, you can do all editing works without any complication. Here are the steps to record and edit any video on Filmora.
+
+Step 1: Download and install Wondershare Filmora for Mac.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+Step 2: Launch Filmora and click on New Project.
+
+![freeseer screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
+
+Step 3: Go to Record menu and click on "Record PC Screen".
+
+Step 4: Set the configuration for screen size that you want to record. Make sure Speakers option is turned on which will record system audio automatically. If you want to record your voice, turn on Microphone option.
+
+Step 5: Finally, click on the Record button to start recording the screen.
+
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![start screen recording](https://images.wondershare.com/filmora/article-images/start-recording-screen.jpg)
+
+Step 6: Click on Stop button to stop recording whenever it is done.
+
+Here are the steps to edit any video with Filmora.
+
+Step 1: Launch Filmora and click on New Project.
+
+Step 2: From Import menu, select Import with Instant Cutter Tool.
+
+Step 3: Drag the imported file to your Timeline and you can import multiple videos and drop them on Timeline to rearrange and join them.
+
+![edit video filmora](https://images.wondershare.com/filmora/article-images/edit-recordings-filmora.jpg)
+
+Step 4: If you want to trim the video, place the mouse point at the beginning or ending of the video from where you want to trim. When the trim icon appears, press and hold the mouse button and move forward or backward.
+
+If the useless part is in the middle, you need to split the video using Scissor icon and apply the same method mentioned above to trim out unwanted parts.
+
+Step 5: When you are done editing, click on Export and set all the parameters perfectly to save the video.
+
+## Conclusion
+
+If you are a Mac user, QuickTime player screen recording with audio is available for free of cost for you to record your screen activities. However, you will need to install an external extension for QuickTime player screen recording audio. If you want a better alternative, we recommend Wondershare Filmora where you can record the screen with audio and edit any video in simple steps.
+
+2. [How to Trim Videos in QuickTime Player](#part2)
+
+3. [QuickTime Alternative to Record and Edit Videos](#part3)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
+## Part 1\. Steps to Use QuickTime Record Screen and Audio
+
+If you are going to record a video playing on your Mac, QuickTime is a great choice. You can record your screen perfectly but the only issue is that QuickTime player screen recording audio feature is not available. That does not mean you cannot record screen as well as audio with QuickTime. Here are the steps on QuickTime how to record screen with sound.
+
+Step 1: You will have to install a free extension called SoundFlower so that you can record audio through QuickTime along with recording the screen. Therefore, download [SoundFlower](https://soundflower.en.softonic.com/mac) free extension software. The main job of SoundFlower is to channel the audio playing from one application to another. Install SoundFlower application on your Mac from the downloaded file.
+
+Step 2: Once you have installed SoundFlower on your Mac, restart your computer. This will ensure that there is no issue with QuickTime screen recording with sound.
+
+Step 3: Go to Apple menu and open System Preferences.
+
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![system preferences](https://images.wondershare.com/filmora/article-images/system-preferences.jpg)
+
+Step 4: Go to Sound tab and from Sound Output, select SoundFlower(2ch) option. This will make SoundFlower the active output by feeding the audio signal directly to SoundFlower instead of system speakers.
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![soundflower](https://images.wondershare.com/filmora/article-images/output-soundflower.jpg)
+
+Step 5: Now, it is time for QuickTime player screen recording with audio. Launch QuickTime and go to File > New Screen Recording option.
+
+Step 6: You can start recording anytime you want by pressing the Record button. Make sure that sound source is selected as SoundFlower(2ch) and quality is selected as high. You can record any video that you are playing on the browser as well as record your gameplay with audio.
+
+![quicktime screen recording](https://images.wondershare.com/filmora/article-images/quicktime-start-screen-recording.jpg)
+
+Step 7: Once you are done recording, press the Stop button. You can go to File > Save option to save the recorded video file.
+
+Once your recording is over, you should go to Apple Menu > System Preferences > Sound tab and select Sound Output as Internal Speakers.
+
+## Part 2\. How to Trim Videos in QuickTime Player
+
+You may need to trim out some parts of the video to get rid of the unwanted parts and keep only the important parts. You can do the trim work easily in QuickTime Player and here are the steps to follow.
+
+Step 1: Launch QuickTime Player and go to File > Open File option. Select the video file that you want to trim.
+
+Step 2: Once the video file opens, go to Edit > Trim option. You can also press Command + T on your keyboard.
+
+Step 3: You will see a yellow bar at the bottom containing the entire length of the video. In order to trim the video, you have to drag the handles from either side to trim out the unwanted parts. Therefore, after trimming, whatever the length of the video is there inside the yellow bar, the part of the video will remain and the out parts will be trimmed out.
+
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![start video triming quicktime](https://images.wondershare.com/filmora/article-images/start-video-triming-quicktime.jpg)
+
+Step 4: You can preview the trimmed video by clicking the Play button beside the play icon. Once you are done, click on Trim button.
+
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![trim video in quicktime](https://images.wondershare.com/filmora/article-images/trim-video-quicktime.jpg)
 
 Step 5: If you are satisfied with the trimming work, go to File > Save to save the trimmed video file on your hard drive.
@@ -109,6 +234,9 @@ Step 2: From Import menu, select Import with Instant Cutter Tool.
 
 Step 3: Drag the imported file to your Timeline and you can import multiple videos and drop them on Timeline to rearrange and join them.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![edit video filmora](https://images.wondershare.com/filmora/article-images/edit-recordings-filmora.jpg)
 
 Step 4: If you want to trim the video, place the mouse point at the beginning or ending of the video from where you want to trim. When the trim icon appears, press and hold the mouse button and move forward or backward.
@@ -117,6 +245,137 @@ If the useless part is in the middle, you need to split the video using Scissor 
 
 Step 5: When you are done editing, click on Export and set all the parameters perfectly to save the video.
 
+## Conclusion
+
+If you are a Mac user, QuickTime player screen recording with audio is available for free of cost for you to record your screen activities. However, you will need to install an external extension for QuickTime player screen recording audio. If you want a better alternative, we recommend Wondershare Filmora where you can record the screen with audio and edit any video in simple steps.
+
+2. [How to Trim Videos in QuickTime Player](#part2)
+
+3. [QuickTime Alternative to Record and Edit Videos](#part3)
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Part 1\. Steps to Use QuickTime Record Screen and Audio
+
+If you are going to record a video playing on your Mac, QuickTime is a great choice. You can record your screen perfectly but the only issue is that QuickTime player screen recording audio feature is not available. That does not mean you cannot record screen as well as audio with QuickTime. Here are the steps on QuickTime how to record screen with sound.
+
+Step 1: You will have to install a free extension called SoundFlower so that you can record audio through QuickTime along with recording the screen. Therefore, download [SoundFlower](https://soundflower.en.softonic.com/mac) free extension software. The main job of SoundFlower is to channel the audio playing from one application to another. Install SoundFlower application on your Mac from the downloaded file.
+
+Step 2: Once you have installed SoundFlower on your Mac, restart your computer. This will ensure that there is no issue with QuickTime screen recording with sound.
+
+Step 3: Go to Apple menu and open System Preferences.
+
+![system preferences](https://images.wondershare.com/filmora/article-images/system-preferences.jpg)
+
+Step 4: Go to Sound tab and from Sound Output, select SoundFlower(2ch) option. This will make SoundFlower the active output by feeding the audio signal directly to SoundFlower instead of system speakers.
+
+![soundflower](https://images.wondershare.com/filmora/article-images/output-soundflower.jpg)
+
+Step 5: Now, it is time for QuickTime player screen recording with audio. Launch QuickTime and go to File > New Screen Recording option.
+
+Step 6: You can start recording anytime you want by pressing the Record button. Make sure that sound source is selected as SoundFlower(2ch) and quality is selected as high. You can record any video that you are playing on the browser as well as record your gameplay with audio.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![quicktime screen recording](https://images.wondershare.com/filmora/article-images/quicktime-start-screen-recording.jpg)
+
+Step 7: Once you are done recording, press the Stop button. You can go to File > Save option to save the recorded video file.
+
+Once your recording is over, you should go to Apple Menu > System Preferences > Sound tab and select Sound Output as Internal Speakers.
+
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Part 2\. How to Trim Videos in QuickTime Player
+
+You may need to trim out some parts of the video to get rid of the unwanted parts and keep only the important parts. You can do the trim work easily in QuickTime Player and here are the steps to follow.
+
+Step 1: Launch QuickTime Player and go to File > Open File option. Select the video file that you want to trim.
+
+Step 2: Once the video file opens, go to Edit > Trim option. You can also press Command + T on your keyboard.
+
+Step 3: You will see a yellow bar at the bottom containing the entire length of the video. In order to trim the video, you have to drag the handles from either side to trim out the unwanted parts. Therefore, after trimming, whatever the length of the video is there inside the yellow bar, the part of the video will remain and the out parts will be trimmed out.
+
+![start video triming quicktime](https://images.wondershare.com/filmora/article-images/start-video-triming-quicktime.jpg)
+
+Step 4: You can preview the trimmed video by clicking the Play button beside the play icon. Once you are done, click on Trim button.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![trim video in quicktime](https://images.wondershare.com/filmora/article-images/trim-video-quicktime.jpg)
+
+Step 5: If you are satisfied with the trimming work, go to File > Save to save the trimmed video file on your hard drive.
+
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Part 3\. QuickTime Alternative to Record and Edit Videos
+
+QuickTime screen recording with audio is available for free of cost and you know that free things always come with some drawback. If you are not comfortable with QuickTime screen recording with sound and you are looking for a better alternative, we recommend Wondershare Filmora. Filmora for Mac is a professional [screen recorder and video editor](https://tools.techidaily.com/wondershare/filmora/download/).
+
+You can record the screen with audio in simple steps without any external extension. You can also edit any video starting from trimming and cropping to adding video effects and transitions, you can do all editing works without any complication. Here are the steps to record and edit any video on Filmora.
+
+Step 1: Download and install Wondershare Filmora for Mac.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+Step 2: Launch Filmora and click on New Project.
+
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![freeseer screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
+
+Step 3: Go to Record menu and click on "Record PC Screen".
+
+Step 4: Set the configuration for screen size that you want to record. Make sure Speakers option is turned on which will record system audio automatically. If you want to record your voice, turn on Microphone option.
+
+Step 5: Finally, click on the Record button to start recording the screen.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![start screen recording](https://images.wondershare.com/filmora/article-images/start-recording-screen.jpg)
+
+Step 6: Click on Stop button to stop recording whenever it is done.
+
+Here are the steps to edit any video with Filmora.
+
+Step 1: Launch Filmora and click on New Project.
+
+Step 2: From Import menu, select Import with Instant Cutter Tool.
+
+Step 3: Drag the imported file to your Timeline and you can import multiple videos and drop them on Timeline to rearrange and join them.
+
+![edit video filmora](https://images.wondershare.com/filmora/article-images/edit-recordings-filmora.jpg)
+
+Step 4: If you want to trim the video, place the mouse point at the beginning or ending of the video from where you want to trim. When the trim icon appears, press and hold the mouse button and move forward or backward.
+
+If the useless part is in the middle, you need to split the video using Scissor icon and apply the same method mentioned above to trim out unwanted parts.
+
+Step 5: When you are done editing, click on Export and set all the parameters perfectly to save the video.
+
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 If you are a Mac user, QuickTime player screen recording with audio is available for free of cost for you to record your screen activities. However, you will need to install an external extension for QuickTime player screen recording audio. If you want a better alternative, we recommend Wondershare Filmora where you can record the screen with audio and edit any video in simple steps.
@@ -195,6 +454,9 @@ Step 4: Set the configuration for screen size that you want to record. Make sure
 
 Step 5: Finally, click on the Record button to start recording the screen.
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![start screen recording](https://images.wondershare.com/filmora/article-images/start-recording-screen.jpg)
 
 Step 6: Click on Stop button to stop recording whenever it is done.
@@ -215,202 +477,9 @@ If the useless part is in the middle, you need to split the video using Scissor 
 
 Step 5: When you are done editing, click on Export and set all the parameters perfectly to save the video.
 
-## Conclusion
-
-If you are a Mac user, QuickTime player screen recording with audio is available for free of cost for you to record your screen activities. However, you will need to install an external extension for QuickTime player screen recording audio. If you want a better alternative, we recommend Wondershare Filmora where you can record the screen with audio and edit any video in simple steps.
-
-2. [How to Trim Videos in QuickTime Player](#part2)
-
-3. [QuickTime Alternative to Record and Edit Videos](#part3)
-
-## Part 1\. Steps to Use QuickTime Record Screen and Audio
-
-If you are going to record a video playing on your Mac, QuickTime is a great choice. You can record your screen perfectly but the only issue is that QuickTime player screen recording audio feature is not available. That does not mean you cannot record screen as well as audio with QuickTime. Here are the steps on QuickTime how to record screen with sound.
-
-Step 1: You will have to install a free extension called SoundFlower so that you can record audio through QuickTime along with recording the screen. Therefore, download [SoundFlower](https://soundflower.en.softonic.com/mac) free extension software. The main job of SoundFlower is to channel the audio playing from one application to another. Install SoundFlower application on your Mac from the downloaded file.
-
-Step 2: Once you have installed SoundFlower on your Mac, restart your computer. This will ensure that there is no issue with QuickTime screen recording with sound.
-
-Step 3: Go to Apple menu and open System Preferences.
-
-![system preferences](https://images.wondershare.com/filmora/article-images/system-preferences.jpg)
-
-Step 4: Go to Sound tab and from Sound Output, select SoundFlower(2ch) option. This will make SoundFlower the active output by feeding the audio signal directly to SoundFlower instead of system speakers.
-
-![soundflower](https://images.wondershare.com/filmora/article-images/output-soundflower.jpg)
-
-Step 5: Now, it is time for QuickTime player screen recording with audio. Launch QuickTime and go to File > New Screen Recording option.
-
-Step 6: You can start recording anytime you want by pressing the Record button. Make sure that sound source is selected as SoundFlower(2ch) and quality is selected as high. You can record any video that you are playing on the browser as well as record your gameplay with audio.
-
-![quicktime screen recording](https://images.wondershare.com/filmora/article-images/quicktime-start-screen-recording.jpg)
-
-Step 7: Once you are done recording, press the Stop button. You can go to File > Save option to save the recorded video file.
-
-Once your recording is over, you should go to Apple Menu > System Preferences > Sound tab and select Sound Output as Internal Speakers.
-
-## Part 2\. How to Trim Videos in QuickTime Player
-
-You may need to trim out some parts of the video to get rid of the unwanted parts and keep only the important parts. You can do the trim work easily in QuickTime Player and here are the steps to follow.
-
-Step 1: Launch QuickTime Player and go to File > Open File option. Select the video file that you want to trim.
-
-Step 2: Once the video file opens, go to Edit > Trim option. You can also press Command + T on your keyboard.
-
-Step 3: You will see a yellow bar at the bottom containing the entire length of the video. In order to trim the video, you have to drag the handles from either side to trim out the unwanted parts. Therefore, after trimming, whatever the length of the video is there inside the yellow bar, the part of the video will remain and the out parts will be trimmed out.
-
-![start video triming quicktime](https://images.wondershare.com/filmora/article-images/start-video-triming-quicktime.jpg)
-
-Step 4: You can preview the trimmed video by clicking the Play button beside the play icon. Once you are done, click on Trim button.
-
-![trim video in quicktime](https://images.wondershare.com/filmora/article-images/trim-video-quicktime.jpg)
-
-Step 5: If you are satisfied with the trimming work, go to File > Save to save the trimmed video file on your hard drive.
-
-## Part 3\. QuickTime Alternative to Record and Edit Videos
-
-QuickTime screen recording with audio is available for free of cost and you know that free things always come with some drawback. If you are not comfortable with QuickTime screen recording with sound and you are looking for a better alternative, we recommend Wondershare Filmora. Filmora for Mac is a professional [screen recorder and video editor](https://tools.techidaily.com/wondershare/filmora/download/).
-
-You can record the screen with audio in simple steps without any external extension. You can also edit any video starting from trimming and cropping to adding video effects and transitions, you can do all editing works without any complication. Here are the steps to record and edit any video on Filmora.
-
-Step 1: Download and install Wondershare Filmora for Mac.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-Step 2: Launch Filmora and click on New Project.
-
-![freeseer screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
-
-Step 3: Go to Record menu and click on "Record PC Screen".
-
-Step 4: Set the configuration for screen size that you want to record. Make sure Speakers option is turned on which will record system audio automatically. If you want to record your voice, turn on Microphone option.
-
-Step 5: Finally, click on the Record button to start recording the screen.
-
-![start screen recording](https://images.wondershare.com/filmora/article-images/start-recording-screen.jpg)
-
-Step 6: Click on Stop button to stop recording whenever it is done.
-
-Here are the steps to edit any video with Filmora.
-
-Step 1: Launch Filmora and click on New Project.
-
-Step 2: From Import menu, select Import with Instant Cutter Tool.
-
-Step 3: Drag the imported file to your Timeline and you can import multiple videos and drop them on Timeline to rearrange and join them.
-
-![edit video filmora](https://images.wondershare.com/filmora/article-images/edit-recordings-filmora.jpg)
-
-Step 4: If you want to trim the video, place the mouse point at the beginning or ending of the video from where you want to trim. When the trim icon appears, press and hold the mouse button and move forward or backward.
-
-If the useless part is in the middle, you need to split the video using Scissor icon and apply the same method mentioned above to trim out unwanted parts.
-
-Step 5: When you are done editing, click on Export and set all the parameters perfectly to save the video.
-
-## Conclusion
-
-If you are a Mac user, QuickTime player screen recording with audio is available for free of cost for you to record your screen activities. However, you will need to install an external extension for QuickTime player screen recording audio. If you want a better alternative, we recommend Wondershare Filmora where you can record the screen with audio and edit any video in simple steps.
-
-2. [How to Trim Videos in QuickTime Player](#part2)
-
-3. [QuickTime Alternative to Record and Edit Videos](#part3)
-
-## Part 1\. Steps to Use QuickTime Record Screen and Audio
-
-If you are going to record a video playing on your Mac, QuickTime is a great choice. You can record your screen perfectly but the only issue is that QuickTime player screen recording audio feature is not available. That does not mean you cannot record screen as well as audio with QuickTime. Here are the steps on QuickTime how to record screen with sound.
-
-Step 1: You will have to install a free extension called SoundFlower so that you can record audio through QuickTime along with recording the screen. Therefore, download [SoundFlower](https://soundflower.en.softonic.com/mac) free extension software. The main job of SoundFlower is to channel the audio playing from one application to another. Install SoundFlower application on your Mac from the downloaded file.
-
-Step 2: Once you have installed SoundFlower on your Mac, restart your computer. This will ensure that there is no issue with QuickTime screen recording with sound.
-
-Step 3: Go to Apple menu and open System Preferences.
-
-![system preferences](https://images.wondershare.com/filmora/article-images/system-preferences.jpg)
-
-Step 4: Go to Sound tab and from Sound Output, select SoundFlower(2ch) option. This will make SoundFlower the active output by feeding the audio signal directly to SoundFlower instead of system speakers.
-
-![soundflower](https://images.wondershare.com/filmora/article-images/output-soundflower.jpg)
-
-Step 5: Now, it is time for QuickTime player screen recording with audio. Launch QuickTime and go to File > New Screen Recording option.
-
-Step 6: You can start recording anytime you want by pressing the Record button. Make sure that sound source is selected as SoundFlower(2ch) and quality is selected as high. You can record any video that you are playing on the browser as well as record your gameplay with audio.
-
-![quicktime screen recording](https://images.wondershare.com/filmora/article-images/quicktime-start-screen-recording.jpg)
-
-Step 7: Once you are done recording, press the Stop button. You can go to File > Save option to save the recorded video file.
-
-Once your recording is over, you should go to Apple Menu > System Preferences > Sound tab and select Sound Output as Internal Speakers.
-
-## Part 2\. How to Trim Videos in QuickTime Player
-
-You may need to trim out some parts of the video to get rid of the unwanted parts and keep only the important parts. You can do the trim work easily in QuickTime Player and here are the steps to follow.
-
-Step 1: Launch QuickTime Player and go to File > Open File option. Select the video file that you want to trim.
-
-Step 2: Once the video file opens, go to Edit > Trim option. You can also press Command + T on your keyboard.
-
-Step 3: You will see a yellow bar at the bottom containing the entire length of the video. In order to trim the video, you have to drag the handles from either side to trim out the unwanted parts. Therefore, after trimming, whatever the length of the video is there inside the yellow bar, the part of the video will remain and the out parts will be trimmed out.
-
-![start video triming quicktime](https://images.wondershare.com/filmora/article-images/start-video-triming-quicktime.jpg)
-
-Step 4: You can preview the trimmed video by clicking the Play button beside the play icon. Once you are done, click on Trim button.
-
-![trim video in quicktime](https://images.wondershare.com/filmora/article-images/trim-video-quicktime.jpg)
-
-Step 5: If you are satisfied with the trimming work, go to File > Save to save the trimmed video file on your hard drive.
-
-## Part 3\. QuickTime Alternative to Record and Edit Videos
-
-QuickTime screen recording with audio is available for free of cost and you know that free things always come with some drawback. If you are not comfortable with QuickTime screen recording with sound and you are looking for a better alternative, we recommend Wondershare Filmora. Filmora for Mac is a professional [screen recorder and video editor](https://tools.techidaily.com/wondershare/filmora/download/).
-
-You can record the screen with audio in simple steps without any external extension. You can also edit any video starting from trimming and cropping to adding video effects and transitions, you can do all editing works without any complication. Here are the steps to record and edit any video on Filmora.
-
-Step 1: Download and install Wondershare Filmora for Mac.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-Step 2: Launch Filmora and click on New Project.
-
-![freeseer screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
-
-Step 3: Go to Record menu and click on "Record PC Screen".
-
-Step 4: Set the configuration for screen size that you want to record. Make sure Speakers option is turned on which will record system audio automatically. If you want to record your voice, turn on Microphone option.
-
-Step 5: Finally, click on the Record button to start recording the screen.
-
-![start screen recording](https://images.wondershare.com/filmora/article-images/start-recording-screen.jpg)
-
-Step 6: Click on Stop button to stop recording whenever it is done.
-
-Here are the steps to edit any video with Filmora.
-
-Step 1: Launch Filmora and click on New Project.
-
-Step 2: From Import menu, select Import with Instant Cutter Tool.
-
-Step 3: Drag the imported file to your Timeline and you can import multiple videos and drop them on Timeline to rearrange and join them.
-
-![edit video filmora](https://images.wondershare.com/filmora/article-images/edit-recordings-filmora.jpg)
-
-Step 4: If you want to trim the video, place the mouse point at the beginning or ending of the video from where you want to trim. When the trim icon appears, press and hold the mouse button and move forward or backward.
-
-If the useless part is in the middle, you need to split the video using Scissor icon and apply the same method mentioned above to trim out unwanted parts.
-
-Step 5: When you are done editing, click on Export and set all the parameters perfectly to save the video.
-
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 If you are a Mac user, QuickTime player screen recording with audio is available for free of cost for you to record your screen activities. However, you will need to install an external extension for QuickTime player screen recording audio. If you want a better alternative, we recommend Wondershare Filmora where you can record the screen with audio and edit any video in simple steps.
@@ -440,3 +509,44 @@ If you are a Mac user, QuickTime player screen recording with audio is available
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-dual-output-synchronization/"><u>[New] 2024 Approved  Dual Output Synchronization</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-excellent-video-capture-tools-android-edition-five-picks/"><u>[New] 2024 Approved  Excellent Video Capture Tools  Android Edition - Five Picks</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-nvidia-screen-recorder-record-games-with-ease/"><u>[New] 2024 Approved  NVIDIA Screen Recorder - Record Games with Ease</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-selecting-the-perfect-no-fee-video-communication-tools/"><u>[New] 2024 Approved  Selecting the Perfect No-Fee Video Communication Tools</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-educational-excellence-through-effective-lecture-audio-documentation-mac-for-2024/"><u>[New] Educational Excellence Through Effective Lecture Audio Documentation (Mac) for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-essential-guide-to-premium-cost-free-chat-apps-on-web-for-2024/"><u>[New] Essential Guide to Premium, Cost-Free Chat Apps on Web for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-comparing-cameras-obs-vs-twitch-studio-edition/"><u>[New] In 2024, Comparing Cameras  OBS vs Twitch Studio Edition</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-comprehensive-overview-mastering-the-art-of-screen-capturing-with-aiseesoft/"><u>[New] In 2024, Comprehensive Overview  Mastering the Art of Screen Capturing with Aiseesoft</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-how-to-record-google-meet-on-iphone-and-android/"><u>[New] In 2024, How to Record Google Meet on iPhone and Android?</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-proven-ways-to-capture-and-preserve-your-favorite-discord-sessions/"><u>[New] In 2024, Proven Ways to Capture and Preserve Your Favorite Discord Sessions</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-selecting-your-stream-space-obs-or-twitch/"><u>[New] In 2024, Selecting Your Stream Space  OBS or Twitch</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-professionals-choice-best-drone-gimbals-for-2024/"><u>[New] Professional's Choice  Best Drone Gimbals for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-screen-time-secrets-in-depth-recorder-guide-for-2024/"><u>[New] Screen Time Secrets  In-Depth Recorder Guide for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-twin-screens-archive-capture/"><u>[New] Twin Screens Archive Capture</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-your-go-to-tools-for-screen-recording/"><u>[New] Your Go-To Tools for Screen Recording</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-basic-steps-flip-video-using-vlc-software/"><u>[Updated] 2024 Approved  Basic Steps  Flip Video Using VLC Software</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-capturing-your-macbook-pro-screens-a-step-by-step-tutorial/"><u>[Updated] 2024 Approved  Capturing Your MacBook Pro Screens  A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-cost-efficient-top-screen-recorder-apps-for-chromeos/"><u>[Updated] 2024 Approved  Cost-Efficient Top Screen Recorder Apps for ChromeOS</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-discover-the-leading-video-calling-apps-of-today/"><u>[Updated] 2024 Approved  Discover the Leading Video Calling Apps of Today</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-elevating-your-ppt-experience-tips-for-gmeet-users-laptopstablets/"><u>[Updated] 2024 Approved  Elevating Your PPT Experience  Tips for GMeet Users, Laptops/Tablets</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-frozen-delight-ice-cream-cam-and-comprehensive-tutorial/"><u>[Updated] 2024 Approved  Frozen Delight  Ice Cream Cam & Comprehensive Tutorial</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-best-virtual-racing-for-cyclists-for-2024/"><u>[Updated] Best Virtual Racing for Cyclists for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-expert-advice-on-gaming-capture-with-windows-10-for-2024/"><u>[Updated] Expert Advice on Gaming Capture with Windows 10 for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-screen-to-file-high-quality-professional-record-for-2024/"><u>[Updated] Screen to File  High-Quality Professional Record for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-top-10-mac-video-capture-programs-reviewed/"><u>[Updated] Top 10 Mac Video Capture Programs Reviewed</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-unleashing-potential-in-screen-recording-expertise-in-adobe-captivate/"><u>2024 Approved  Unleashing Potential in Screen Recording  Expertise in Adobe Captivate</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/facebooks-most-impressive-new-additions-decoded/"><u>Facebook's Most Impressive New Additions Decoded</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Xiaomi Redmi Note 12 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-infinix-zero-5g-2023-turbo-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Infinix Zero 5G 2023 Turbo Location by Number | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-watch-hulu-outside-us-on-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-iphone-15-pro-max-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>In 2024, Forgot iPhone 15 Pro Max Backup Password? Heres What to Do | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-join-youtube-mcn-or-not-ultimate-guide/"><u>In 2024, Join YouTube MCN or Not  ULTIMATE Guide</u></a></li>
+<li><a href="https://techidaily.com/is-your-itel-s23plus-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Itel S23+ working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/joining-the-expats-on-fb-here-are-your-guiding-insights/"><u>Joining the Expats on FB? Here Are Your Guiding Insights</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/top-5-time-lapse-screen-recorders-for-2024/"><u>Top 5 Time-Lapse Screen Recorders for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/top-tickles-for-young-game-fans-in-2024/"><u>Top Tickles for Young Game Fans, In 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-top-facebook-mp3-downloader-websites-easy-conversion/"><u>Updated Top Facebook MP3 Downloader Websites Easy Conversion</u></a></li>
+</ul></div>

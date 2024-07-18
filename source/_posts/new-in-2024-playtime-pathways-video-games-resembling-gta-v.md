@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Playtime Pathways  Video Games Resembling GTA V\""
-date: 2024-06-18T00:06:10.484Z
-updated: 2024-06-19T00:06:10.484Z
+date: 2024-07-16T23:51:32.183Z
+updated: 2024-07-17T23:51:32.183Z
 tags: 
   - screen-recording
   - ai video
@@ -37,8 +37,14 @@ The same studio makes both the GTA series and Red Dead, so you can probably gues
 
 • You feel like you have gone back a century.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2.Assassin's Creed Origins
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![assassins-creed-origins-poster](https://images.wondershare.com/filmora/article-images/assassins-creed-origins-poster.jpg)
 
 **Platforms:** PlayStation 4, Xbox One, Microsoft Windows, Google Stadia
@@ -75,6 +81,9 @@ Ubisoft took this criticism to heart when developing Watch Dogs 2, which was cri
 
 • The concept is very similar to GTA V but it is more of a tech genre game.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4.Saints Row: The Third
 
 ![saintsrow-the-third-poster](https://images.wondershare.com/filmora/article-images/saintsrow-the-third-poster.png)
@@ -95,8 +104,14 @@ You play as a group of friends so widely known and loved that you rob a bank dre
 
 • Driving and combat models that are simple.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### 5.Just Cause 4
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![just-cause4-poster](https://images.wondershare.com/filmora/article-images/just-cause4-poster.jpg)
 
 **Platforms:** PC, PS4, Xbox One
@@ -113,6 +128,9 @@ You, the player, have a lot of freedom in Just Cause 4, so you can achieve unpre
 
 • New gadgets can be experimented with on the physics system.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 6.Yakuza 0
 
 ![yakuza0-poster](https://images.wondershare.com/filmora/article-images/yakuza0-poster.jpg)
@@ -171,6 +189,9 @@ Gameplay-wise, The Saboteur and GTA 5 have a lot in common. Both involve running
 
 ### 9.Mafia: Definitive Edition
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![mafia-definite-edition-poster](https://images.wondershare.com/filmora/article-images/mafia-definite-edition-poster.jpg)
 
 **Platforms:** PlayStation 4, Xbox One, Microsoft Windows
@@ -189,6 +210,224 @@ Additionally, Mafia provides a third-person perspective and multiple weapons wit
 
 • The visuals are impressive.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### 10.Grand Theft Auto IV
+
+![gta4-poster](https://images.wondershare.com/filmora/article-images/gta4-poster.jpg)
+
+**Platforms:** Xbox 360, PlayStation 3, Microsoft Windows
+
+In the franchise's history, Grand Theft Auto IV was the first game to have online capabilities. While other Grand Theft Auto games adopted an arcade style of driving, this game focused on realistic driving mechanics. There isn't nearly as much content as in Grand Theft Auto V's online, but there is plenty to enjoy. The intriguing story mode in Grand Theft Auto IV focuses on protagonist Niko Bellic.
+
+**Features:**
+
+• Gameplay footage can now be captured and shared in Video Editor.
+
+• A great story driven by characters.
+
+• Modifications and DLC are promised.
+
+• Independence FM provides custom in-game music.
+
+## **Final Verdict**
+
+So, this was our list of 10 best games like GTA 5\. We tried our best to keep those titles in this list that are closely related to GTA 5 and offers similar gameplay experience. Although the dynamics of these games will be different compared to GTA 5, you will enjoy the gameplay.
+
+**Platforms:** PC, PS4, Xbox One
+
+The same studio makes both the GTA series and Red Dead, so you can probably guess why that one's here. As with its predecessor, Red Dead Redemption 2 has an open world that feels alive, and it never says away from including interesting details. Following an outlaw gang who hopes to pull one last heist before retiring, it is primarily a story of trust and betrayal. The story is not as simple as it seems, and many unexpected twists and turns are revealed. Red Dead Redemption 2 is a great game if you like GTA 5 with a Wild West theme and revolver weapons. Its setting is reminiscent of GTA's belief in player freedom. If you're in the mood for a Grand Theft Auto experience, Red Dead Redemption 2 is well worth your time.
+
+**Features:**
+
+• Visuals and voice acting is incredible.
+
+• Side quests and main missions that will thrill you.
+
+• Many side distractions that are both ludicrous and delightful.
+
+• You feel like you have gone back a century.
+
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### 2.Assassin's Creed Origins
+
+![assassins-creed-origins-poster](https://images.wondershare.com/filmora/article-images/assassins-creed-origins-poster.jpg)
+
+**Platforms:** PlayStation 4, Xbox One, Microsoft Windows, Google Stadia
+
+The Assassin's Creed series has increasingly emphasized open-world gameplay, making it a great choice for GTA 5 fans. You'll find plenty of fun to be had with its vast world that is three times larger than Assassin's Creed: Black Flag. There are dungeons and pyramids to explore so that you won't get bored.
+
+As well as this, it has a great story that offers a refreshing change of pace from the assassin-focused theme of the original series. In some historical accuracy, Aya and Bayek, who collaborate with Cleopatra to become the first assassins, are depicted by Assassin's Creed Origins. Even though Origins does not have a modern theme like GTA 5, it still offers excellent graphics and gameplay that will keep fans entertained.
+
+**Features:**
+
+• Visually stunning and the soundtrack matches it.
+
+• The world has gone mad.
+
+• Combat is outstanding.
+
+• The best part of the Assassin's Creed History.
+
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### 3.Watch Dogs 2
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![watchdogs-2-poster](https://images.wondershare.com/filmora/article-images/watchdogs-2-poster.jpg)
+
+**Platforms**: PC, PS4, Xbox One
+
+Ubisoft took this criticism to heart when developing Watch Dogs 2, which was criticized as a sour-hearted affair. In this regard, Rockstar's new game straddles a much closer line between contemporary Grand Theft Auto games and its own setting for a biting satire. From Grand Theft Auto 5, do you remember the mission "Life Invaders"? It's pretty cool to use bungee-corded pool balls as weapons. This is essentially what Watch Dogs 2 is like, but blown up into an entire game. Despite Watch Dogs 2's parody of Silicon Valley, Rockstar's still packs a punch that Ubisoft's doesn't, but anyone who has ever had to watch an Apple conference or a Facebook ad will laugh no end.
+
+**Features:**
+
+• An entertaining and strong mission design.
+
+• There is a lot to see and do in the San Francisco Bay Area.
+
+• Hack into any electronic device.
+
+• The concept is very similar to GTA V but it is more of a tech genre game.
+
+### 4.Saints Row: The Third
+
+![saintsrow-the-third-poster](https://images.wondershare.com/filmora/article-images/saintsrow-the-third-poster.png)
+
+**Platforms:** PC, Xbox One, Switch, PS3, Xbox 360
+
+Initially, Saints Row was an obvious ripoff of GTA, desperately trying to copy Rockstar's style. In the end, it was a mediocre effort that garnered a cult following for two games but failed to make a lasting impression. Saints Row: The Third, in contrast, took note of how grim and serious games like GTA were becoming, said "f that," and made them ridiculous.
+
+You play as a group of friends so widely known and loved that you rob a bank dressed as novelty costumes of yourselves. Players will face a small-scale zombie apocalypse, make various decisions that matter, and fight with a three-foot-long dildo bat as a melee weapon. Many GTA-like games get stuck in their own self-importance, but Saints Row just stays as silly as possible. Although this is an older game, it has backward compatibility on Xbox One and was ported to Nintendo Switch in 2019, so it is a great excuse to revisit the Saints once again.
+
+**Features:**
+
+• Activities that are absurd and surreal.
+
+• Plot twists that will make your head spin.
+
+• The world has a tremendous amount of depth.
+
+• Driving and combat models that are simple.
+
+### 5.Just Cause 4
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
+![just-cause4-poster](https://images.wondershare.com/filmora/article-images/just-cause4-poster.jpg)
+
+**Platforms:** PC, PS4, Xbox One
+
+You, the player, have a lot of freedom in Just Cause 4, so you can achieve unprecedented levels of chaos. Don't forget your wingsuit. Your grappling hook is ready. Cars that can be surfed as a massive tornado lifts them into the air. Just wait until you see what you can achieve in The Republic of Medici if the ragdoll physics amused you in GTA 5\. In truth, Rockstar's latest offering lacks the storytelling prowess of its signature franchise but instead excels at choreographing carnage on an epic scale.
+
+**Features:**
+
+• The abilities of Rico are immensely powerful.
+
+• The setting is beautiful and varied.
+
+• Extreme weather conditions are the essence of Just Cause.
+
+• New gadgets can be experimented with on the physics system.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
+### 6.Yakuza 0
+
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
+![yakuza0-poster](https://images.wondershare.com/filmora/article-images/yakuza0-poster.jpg)
+
+**Platforms:** PC, PS4
+
+With so many side activities to enjoy outside of the main campaign, Grand Theft Auto has always been praised for the way it brings cities to life. The design philosophy of Yakuza 0 is taken to its logical conclusion. Yakuza 0 joins the likes of Grand Theft Auto 5 with karaoke, pool, arcade games, wrestling, bowling, dancing, gambling, and... I think awkwardly viewing some explicit material in the back of a video store. Those last two can attest that not all side activities are tastefully done, but the sheer number and variety of options are astonishing. Compared to GTA, Yakuza has a much smaller scope, but what it lacks in quantity (quirky, offbeat) it makes up for in quality.
+
+**Features:**
+
+• It's so diverse.
+
+• Funny writing that is snappy and genuinely funny.
+
+• There are some great sidequests.
+
+• The storyline and main characters are good.
+
+### 7.Sleeping Dogs
+
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![sleeping-dogs-poster](https://images.wondershare.com/filmora/article-images/sleeping-dogs-poster.jpg)
+
+**Platforms:** PC, PS4, Xbox One, PS3, Xbox 360
+
+In keeping with its name, Sleeping Dogs was a sleeper hit in 2012\. Combining the action of B-movie stunt movies with the conventions of the open-world crime genre, it becomes a sleeper hit. With its garb of a classic Bruce Lee film, it feels like Grand Theft Auto dressed up as a classic video game. Unfortunately, Sleeping Dogs 2 was canned while still in its early stages of development, making it a rare gem that deserves to be appreciated for what it brought to the table. Sleeping Dogs was re-released in 2014 on the PlayStation 4 and Xbox One, so there's really no excuse to let it remain unpurchased (sorry).
+
+**Features:**
+
+• Fights well drives well and runs well.
+
+• A well-acted and told story.
+
+• The game features fierce melee combat, an alluring atmosphere, and fun gunplay.
+
+• You can find a variety of collectibles and enjoy many other diversions.
+
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### 8.The Saboteur
+
+![the-saboteur-poster](https://images.wondershare.com/filmora/article-images/the-saboteur-poster.jpg)
+
+**Platforms:** Microsoft Windows, iOS, Xbox 360, BlackBerry, PlayStation 3
+
+Taking the open-world game experience and tying it to a WWII setting makes The Saboteur a great game. With multiple realistic historical elements, it is set during the German occupation in France. Sean Devlin, an Irish cab driver who joins the resistance after the German soldiers kill his best friend, is the protagonist of The Saboteur.
+
+Gameplay-wise, The Saboteur and GTA 5 have a lot in common. Both involve running around an open world, stealing cars, causing havoc, and evading the law. Gamers will be entertained for hours with The Saboteur's interesting open-world gameplay and side-quests.
+
+**Features:**
+
+• Action that moves quickly.
+
+• Filter for black and white graphics.
+
+• There is a vast world to discover in this game.
+
+• Excellent sound design and a great story.
+
+### 9.Mafia: Definitive Edition
+
+![mafia-definite-edition-poster](https://images.wondershare.com/filmora/article-images/mafia-definite-edition-poster.jpg)
+
+**Platforms:** PlayStation 4, Xbox One, Microsoft Windows
+
+While Mafia: Definitive Edition lacks the open-world concept as much as fans would have liked, its mafia-themed story makes up for it. Mafia's story is similar to GTA 5's astonishing storytelling ability. Tommy Angelo is a cab driver who becomes involved in the Mafia after an unfortunate event. Fans are kept on edge by Mafia's story as they experience unexpected betrayal and heartbreaking forgiveness.
+
+Additionally, Mafia provides a third-person perspective and multiple weapons within the game, similar to GTA 5\. There are a lot of similarities between the Mafia franchise and GTA 5.
+
+**Features:**
+
+• This is an excellent story.
+
+• The artwork for Lost Heaven is stunning.
+
+• The original story is enhanced by new voice work and facial captures.
+
+• The visuals are impressive.
+
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 10.Grand Theft Auto IV
 
 ![gta4-poster](https://images.wondershare.com/filmora/article-images/gta4-poster.jpg)
@@ -247,6 +486,9 @@ As well as this, it has a great story that offers a refreshing change of pace fr
 
 ### 3.Watch Dogs 2
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![watchdogs-2-poster](https://images.wondershare.com/filmora/article-images/watchdogs-2-poster.jpg)
 
 **Platforms**: PC, PS4, Xbox One
@@ -265,6 +507,9 @@ Ubisoft took this criticism to heart when developing Watch Dogs 2, which was cri
 
 ### 4.Saints Row: The Third
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![saintsrow-the-third-poster](https://images.wondershare.com/filmora/article-images/saintsrow-the-third-poster.png)
 
 **Platforms:** PC, Xbox One, Switch, PS3, Xbox 360
@@ -283,8 +528,14 @@ You play as a group of friends so widely known and loved that you rob a bank dre
 
 • Driving and combat models that are simple.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 5.Just Cause 4
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![just-cause4-poster](https://images.wondershare.com/filmora/article-images/just-cause4-poster.jpg)
 
 **Platforms:** PC, PS4, Xbox One
@@ -301,6 +552,9 @@ You, the player, have a lot of freedom in Just Cause 4, so you can achieve unpre
 
 • New gadgets can be experimented with on the physics system.
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 6.Yakuza 0
 
 ![yakuza0-poster](https://images.wondershare.com/filmora/article-images/yakuza0-poster.jpg)
@@ -321,6 +575,9 @@ With so many side activities to enjoy outside of the main campaign, Grand Theft 
 
 ### 7.Sleeping Dogs
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ![sleeping-dogs-poster](https://images.wondershare.com/filmora/article-images/sleeping-dogs-poster.jpg)
 
 **Platforms:** PC, PS4, Xbox One, PS3, Xbox 360
@@ -357,6 +614,9 @@ Gameplay-wise, The Saboteur and GTA 5 have a lot in common. Both involve running
 
 • Excellent sound design and a great story.
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 9.Mafia: Definitive Edition
 
 ![mafia-definite-edition-poster](https://images.wondershare.com/filmora/article-images/mafia-definite-edition-poster.jpg)
@@ -415,6 +675,9 @@ The same studio makes both the GTA series and Red Dead, so you can probably gues
 
 ### 2.Assassin's Creed Origins
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![assassins-creed-origins-poster](https://images.wondershare.com/filmora/article-images/assassins-creed-origins-poster.jpg)
 
 **Platforms:** PlayStation 4, Xbox One, Microsoft Windows, Google Stadia
@@ -453,6 +716,9 @@ Ubisoft took this criticism to heart when developing Watch Dogs 2, which was cri
 
 ### 4.Saints Row: The Third
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![saintsrow-the-third-poster](https://images.wondershare.com/filmora/article-images/saintsrow-the-third-poster.png)
 
 **Platforms:** PC, Xbox One, Switch, PS3, Xbox 360
@@ -473,6 +739,9 @@ You play as a group of friends so widely known and loved that you rob a bank dre
 
 ### 5.Just Cause 4
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![just-cause4-poster](https://images.wondershare.com/filmora/article-images/just-cause4-poster.jpg)
 
 **Platforms:** PC, PS4, Xbox One
@@ -489,6 +758,9 @@ You, the player, have a lot of freedom in Just Cause 4, so you can achieve unpre
 
 • New gadgets can be experimented with on the physics system.
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 6.Yakuza 0
 
 ![yakuza0-poster](https://images.wondershare.com/filmora/article-images/yakuza0-poster.jpg)
@@ -509,6 +781,9 @@ With so many side activities to enjoy outside of the main campaign, Grand Theft 
 
 ### 7.Sleeping Dogs
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![sleeping-dogs-poster](https://images.wondershare.com/filmora/article-images/sleeping-dogs-poster.jpg)
 
 **Platforms:** PC, PS4, Xbox One, PS3, Xbox 360
@@ -527,6 +802,9 @@ In keeping with its name, Sleeping Dogs was a sleeper hit in 2012\. Combining th
 
 ### 8.The Saboteur
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![the-saboteur-poster](https://images.wondershare.com/filmora/article-images/the-saboteur-poster.jpg)
 
 **Platforms:** Microsoft Windows, iOS, Xbox 360, BlackBerry, PlayStation 3
@@ -547,6 +825,9 @@ Gameplay-wise, The Saboteur and GTA 5 have a lot in common. Both involve running
 
 ### 9.Mafia: Definitive Edition
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![mafia-definite-edition-poster](https://images.wondershare.com/filmora/article-images/mafia-definite-edition-poster.jpg)
 
 **Platforms:** PlayStation 4, Xbox One, Microsoft Windows
@@ -565,194 +846,9 @@ Additionally, Mafia provides a third-person perspective and multiple weapons wit
 
 • The visuals are impressive.
 
-### 10.Grand Theft Auto IV
-
-![gta4-poster](https://images.wondershare.com/filmora/article-images/gta4-poster.jpg)
-
-**Platforms:** Xbox 360, PlayStation 3, Microsoft Windows
-
-In the franchise's history, Grand Theft Auto IV was the first game to have online capabilities. While other Grand Theft Auto games adopted an arcade style of driving, this game focused on realistic driving mechanics. There isn't nearly as much content as in Grand Theft Auto V's online, but there is plenty to enjoy. The intriguing story mode in Grand Theft Auto IV focuses on protagonist Niko Bellic.
-
-**Features:**
-
-• Gameplay footage can now be captured and shared in Video Editor.
-
-• A great story driven by characters.
-
-• Modifications and DLC are promised.
-
-• Independence FM provides custom in-game music.
-
-## **Final Verdict**
-
-So, this was our list of 10 best games like GTA 5\. We tried our best to keep those titles in this list that are closely related to GTA 5 and offers similar gameplay experience. Although the dynamics of these games will be different compared to GTA 5, you will enjoy the gameplay.
-
-**Platforms:** PC, PS4, Xbox One
-
-The same studio makes both the GTA series and Red Dead, so you can probably guess why that one's here. As with its predecessor, Red Dead Redemption 2 has an open world that feels alive, and it never says away from including interesting details. Following an outlaw gang who hopes to pull one last heist before retiring, it is primarily a story of trust and betrayal. The story is not as simple as it seems, and many unexpected twists and turns are revealed. Red Dead Redemption 2 is a great game if you like GTA 5 with a Wild West theme and revolver weapons. Its setting is reminiscent of GTA's belief in player freedom. If you're in the mood for a Grand Theft Auto experience, Red Dead Redemption 2 is well worth your time.
-
-**Features:**
-
-• Visuals and voice acting is incredible.
-
-• Side quests and main missions that will thrill you.
-
-• Many side distractions that are both ludicrous and delightful.
-
-• You feel like you have gone back a century.
-
-### 2.Assassin's Creed Origins
-
-![assassins-creed-origins-poster](https://images.wondershare.com/filmora/article-images/assassins-creed-origins-poster.jpg)
-
-**Platforms:** PlayStation 4, Xbox One, Microsoft Windows, Google Stadia
-
-The Assassin's Creed series has increasingly emphasized open-world gameplay, making it a great choice for GTA 5 fans. You'll find plenty of fun to be had with its vast world that is three times larger than Assassin's Creed: Black Flag. There are dungeons and pyramids to explore so that you won't get bored.
-
-As well as this, it has a great story that offers a refreshing change of pace from the assassin-focused theme of the original series. In some historical accuracy, Aya and Bayek, who collaborate with Cleopatra to become the first assassins, are depicted by Assassin's Creed Origins. Even though Origins does not have a modern theme like GTA 5, it still offers excellent graphics and gameplay that will keep fans entertained.
-
-**Features:**
-
-• Visually stunning and the soundtrack matches it.
-
-• The world has gone mad.
-
-• Combat is outstanding.
-
-• The best part of the Assassin's Creed History.
-
-### 3.Watch Dogs 2
-
-![watchdogs-2-poster](https://images.wondershare.com/filmora/article-images/watchdogs-2-poster.jpg)
-
-**Platforms**: PC, PS4, Xbox One
-
-Ubisoft took this criticism to heart when developing Watch Dogs 2, which was criticized as a sour-hearted affair. In this regard, Rockstar's new game straddles a much closer line between contemporary Grand Theft Auto games and its own setting for a biting satire. From Grand Theft Auto 5, do you remember the mission "Life Invaders"? It's pretty cool to use bungee-corded pool balls as weapons. This is essentially what Watch Dogs 2 is like, but blown up into an entire game. Despite Watch Dogs 2's parody of Silicon Valley, Rockstar's still packs a punch that Ubisoft's doesn't, but anyone who has ever had to watch an Apple conference or a Facebook ad will laugh no end.
-
-**Features:**
-
-• An entertaining and strong mission design.
-
-• There is a lot to see and do in the San Francisco Bay Area.
-
-• Hack into any electronic device.
-
-• The concept is very similar to GTA V but it is more of a tech genre game.
-
-### 4.Saints Row: The Third
-
-![saintsrow-the-third-poster](https://images.wondershare.com/filmora/article-images/saintsrow-the-third-poster.png)
-
-**Platforms:** PC, Xbox One, Switch, PS3, Xbox 360
-
-Initially, Saints Row was an obvious ripoff of GTA, desperately trying to copy Rockstar's style. In the end, it was a mediocre effort that garnered a cult following for two games but failed to make a lasting impression. Saints Row: The Third, in contrast, took note of how grim and serious games like GTA were becoming, said "f that," and made them ridiculous.
-
-You play as a group of friends so widely known and loved that you rob a bank dressed as novelty costumes of yourselves. Players will face a small-scale zombie apocalypse, make various decisions that matter, and fight with a three-foot-long dildo bat as a melee weapon. Many GTA-like games get stuck in their own self-importance, but Saints Row just stays as silly as possible. Although this is an older game, it has backward compatibility on Xbox One and was ported to Nintendo Switch in 2019, so it is a great excuse to revisit the Saints once again.
-
-**Features:**
-
-• Activities that are absurd and surreal.
-
-• Plot twists that will make your head spin.
-
-• The world has a tremendous amount of depth.
-
-• Driving and combat models that are simple.
-
-### 5.Just Cause 4
-
-![just-cause4-poster](https://images.wondershare.com/filmora/article-images/just-cause4-poster.jpg)
-
-**Platforms:** PC, PS4, Xbox One
-
-You, the player, have a lot of freedom in Just Cause 4, so you can achieve unprecedented levels of chaos. Don't forget your wingsuit. Your grappling hook is ready. Cars that can be surfed as a massive tornado lifts them into the air. Just wait until you see what you can achieve in The Republic of Medici if the ragdoll physics amused you in GTA 5\. In truth, Rockstar's latest offering lacks the storytelling prowess of its signature franchise but instead excels at choreographing carnage on an epic scale.
-
-**Features:**
-
-• The abilities of Rico are immensely powerful.
-
-• The setting is beautiful and varied.
-
-• Extreme weather conditions are the essence of Just Cause.
-
-• New gadgets can be experimented with on the physics system.
-
-### 6.Yakuza 0
-
-![yakuza0-poster](https://images.wondershare.com/filmora/article-images/yakuza0-poster.jpg)
-
-**Platforms:** PC, PS4
-
-With so many side activities to enjoy outside of the main campaign, Grand Theft Auto has always been praised for the way it brings cities to life. The design philosophy of Yakuza 0 is taken to its logical conclusion. Yakuza 0 joins the likes of Grand Theft Auto 5 with karaoke, pool, arcade games, wrestling, bowling, dancing, gambling, and... I think awkwardly viewing some explicit material in the back of a video store. Those last two can attest that not all side activities are tastefully done, but the sheer number and variety of options are astonishing. Compared to GTA, Yakuza has a much smaller scope, but what it lacks in quantity (quirky, offbeat) it makes up for in quality.
-
-**Features:**
-
-• It's so diverse.
-
-• Funny writing that is snappy and genuinely funny.
-
-• There are some great sidequests.
-
-• The storyline and main characters are good.
-
-### 7.Sleeping Dogs
-
-![sleeping-dogs-poster](https://images.wondershare.com/filmora/article-images/sleeping-dogs-poster.jpg)
-
-**Platforms:** PC, PS4, Xbox One, PS3, Xbox 360
-
-In keeping with its name, Sleeping Dogs was a sleeper hit in 2012\. Combining the action of B-movie stunt movies with the conventions of the open-world crime genre, it becomes a sleeper hit. With its garb of a classic Bruce Lee film, it feels like Grand Theft Auto dressed up as a classic video game. Unfortunately, Sleeping Dogs 2 was canned while still in its early stages of development, making it a rare gem that deserves to be appreciated for what it brought to the table. Sleeping Dogs was re-released in 2014 on the PlayStation 4 and Xbox One, so there's really no excuse to let it remain unpurchased (sorry).
-
-**Features:**
-
-• Fights well drives well and runs well.
-
-• A well-acted and told story.
-
-• The game features fierce melee combat, an alluring atmosphere, and fun gunplay.
-
-• You can find a variety of collectibles and enjoy many other diversions.
-
-### 8.The Saboteur
-
-![the-saboteur-poster](https://images.wondershare.com/filmora/article-images/the-saboteur-poster.jpg)
-
-**Platforms:** Microsoft Windows, iOS, Xbox 360, BlackBerry, PlayStation 3
-
-Taking the open-world game experience and tying it to a WWII setting makes The Saboteur a great game. With multiple realistic historical elements, it is set during the German occupation in France. Sean Devlin, an Irish cab driver who joins the resistance after the German soldiers kill his best friend, is the protagonist of The Saboteur.
-
-Gameplay-wise, The Saboteur and GTA 5 have a lot in common. Both involve running around an open world, stealing cars, causing havoc, and evading the law. Gamers will be entertained for hours with The Saboteur's interesting open-world gameplay and side-quests.
-
-**Features:**
-
-• Action that moves quickly.
-
-• Filter for black and white graphics.
-
-• There is a vast world to discover in this game.
-
-• Excellent sound design and a great story.
-
-### 9.Mafia: Definitive Edition
-
-![mafia-definite-edition-poster](https://images.wondershare.com/filmora/article-images/mafia-definite-edition-poster.jpg)
-
-**Platforms:** PlayStation 4, Xbox One, Microsoft Windows
-
-While Mafia: Definitive Edition lacks the open-world concept as much as fans would have liked, its mafia-themed story makes up for it. Mafia's story is similar to GTA 5's astonishing storytelling ability. Tommy Angelo is a cab driver who becomes involved in the Mafia after an unfortunate event. Fans are kept on edge by Mafia's story as they experience unexpected betrayal and heartbreaking forgiveness.
-
-Additionally, Mafia provides a third-person perspective and multiple weapons within the game, similar to GTA 5\. There are a lot of similarities between the Mafia franchise and GTA 5.
-
-**Features:**
-
-• This is an excellent story.
-
-• The artwork for Lost Heaven is stunning.
-
-• The original story is enhanced by new voice work and facial captures.
-
-• The visuals are impressive.
-
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 10.Grand Theft Auto IV
 
 ![gta4-poster](https://images.wondershare.com/filmora/article-images/gta4-poster.jpg)
@@ -800,3 +896,43 @@ So, this was our list of 10 best games like GTA 5\. We tried our best to keep th
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-begin-with-vrecorder-seamless-downloads-and-installs/"><u>[New] 2024 Approved  Begin with VRecorder  Seamless Downloads and Installs</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-critical-steps-to-record-and-relive-athletic-sports-competitions/"><u>[New] 2024 Approved  Critical Steps to Record & Relive Athletic Sports Competitions</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-endless-video-recording-program/"><u>[New] 2024 Approved  Endless Video Recording Program</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-expert-advice-the-most-effective-ways-to-capture-your-virtual-sessions/"><u>[New] 2024 Approved  Expert Advice  The Most Effective Ways to Capture Your Virtual Sessions</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-beyond-entertainment-vrs-utility/"><u>[New] Beyond Entertainment  VR's Utility</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-frontiers-unleashed-a-review-of-the-best-7-grand-strategy-games-for-2024/"><u>[New] Frontiers Unleashed  A Review of the Best 7 Grand Strategy Games for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-infinity-refresh-top-5-hdmi-2ranetixx-gaming-screens-ps5-for-2024/"><u>[New] Infinity Refresh  Top 5 HDMI 2Ranetixx Gaming Screens [PS5] for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-sword-and-shield-the-ultimate-10-game-collection-for-2024/"><u>[New] Sword and Shield  The Ultimate 10-Game Collection for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-the-essential-blueprint-crafting-memes-that-perform-on-social-networks/"><u>[New] The Essential Blueprint  Crafting Memes That Perform on Social Networks</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-unparalleled-recorder-software-guide/"><u>[New] Unparalleled Recorder Software Guide</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-adjusting-visuals-in-teams-conversations-at-any-time/"><u>[Updated] 2024 Approved  Adjusting Visuals in Teams Conversations at Any Time</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-effortless-recording-on-mac-unveiling-the-secrets/"><u>[Updated] 2024 Approved  Effortless Recording on Mac  Unveiling the Secrets</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-exploring-screen-capture-with-apowersoft-no-cost-involved/"><u>[Updated] 2024 Approved  Exploring Screen Capture with Apowersoft, No Cost Involved</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-how-to-record-google-meet-for-free/"><u>[Updated] 2024 Approved  How to Record Google Meet for Free?</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-apowersofts-technology-insightfully-analyzed-with-comparisons-for-2024/"><u>[Updated] Apowersoft's Technology Insightfully Analyzed with Comparisons for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-ensuring-seamless-gotomeeting-experience-with-device-recording-for-2024/"><u>[Updated] Ensuring Seamless GoToMeeting Experience with Device Recording for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-excellence-squad-selecting-top-7-fps-games-for-2024/"><u>[Updated] Excellence Squad  Selecting Top 7 FPS Games for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-exclusive-choice-of-cost-free-chat-apps-plus-desktop-viewing-for-2024/"><u>[Updated] Exclusive Choice of Cost-Free Chat Apps + Desktop Viewing for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-elite-software-options-instead-of-obs/"><u>[Updated] In 2024, Elite Software Options Instead of OBS</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-expertise-in-making-screen-captures-on-ios-easier/"><u>[Updated] In 2024, Expertise in Making Screen Captures on iOS Easier</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-ice-cream-recording-tech-deep-dive-analysis/"><u>[Updated] In 2024, Ice Cream Recording Tech Deep Dive Analysis</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-powerpoint-mastery-integrating-external-video-urls-for-2024/"><u>[Updated] PowerPoint Mastery  Integrating External Video URLs for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-speedy-recorder-device-with-guided-soundtrack/"><u>[Updated] Speedy Recorder Device with Guided Soundtrack</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-street-smart-showdown-top-hand-to-hand-video-games/"><u>[Updated] Street Smart Showdown  Top Hand-to-Hand Video Games</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-top-picks-for-instant-recorder-performance/"><u>[Updated] Top Picks for Instant Recorder Performance</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-pulse-of-persuasion-adding-dynamic-text-to-insta-stories/"><u>2024 Approved  Pulse of Persuasion  Adding Dynamic Text to Insta Stories</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-step-by-step-guide-to-phantoms-slow-mo-magic/"><u>2024 Approved  Step by Step Guide to Phantom's Slow Mo Magic</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/2024-approved-uncovering-thrilling-soundtracks-components/"><u>2024 Approved Uncovering Thrilling Soundtracks Components</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/attract-1000-viewers-quickly-on-youtube/"><u>Attract 1,000 Viewers Quickly on YouTube</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/get-creative-a-comprehensive-guide-to-the-best-free-slideshow-patterns/"><u>Get Creative  A Comprehensive Guide to the Best Free Slideshow Patterns</u></a></li>
+<li><a href="https://techidaily.com/how-to-get-out-of-recovery-on-apple-iphone-6s-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery on Apple iPhone 6s? | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-turn-onoff-motion-blur-in-dying-light-2/"><u>How to Turn On/Off Motion Blur in Dying Light 2?</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-using-zooms-snap-to-boost-video-conferences/"><u>In 2024, Using Zoom’s Snap to Boost Video Conferences</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-from-format-to-format-the-12-best-audio-converters-for-a-smooth-transition-for-2024/"><u>New From Format to Format The 12 Best Audio Converters for a Smooth Transition for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-use-blender-green-screen/"><u>New How to Use Blender Green Screen</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/zoom-essentials-for-webinar-novices-an-introductory-walkthrough-for-2024/"><u>Zoom Essentials for Webinar Novices  An Introductory Walkthrough for 2024</u></a></li>
+</ul></div>

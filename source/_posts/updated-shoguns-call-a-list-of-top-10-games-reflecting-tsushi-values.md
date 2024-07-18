@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Shogun's Call  A List of Top 10 Games Reflecting Tsushi Values\""
-date: 2024-05-18T01:17:09.884Z
-updated: 2024-05-19T01:17:09.884Z
+date: 2024-07-17T00:12:05.227Z
+updated: 2024-07-18T00:12:05.227Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] Shogun's Call: A List of Top 10 Games Reflecting Tsushi Values\""
 excerpt: "\"This Article Describes [Updated] Shogun's Call: A List of Top 10 Games Reflecting Tsushi Values\""
 keywords: "\"Shoguns & Values in Gaming,Anime-Inspired Games List,Classic Japanese Strategy Games,Top 10 Tsushi-Aligned Titles,Historical RPGs Reflecting Values,Nippon's Best Warrior Games,Samurai Ethics in Videogames\""
-thumbnail: https://www.lifewire.com/thmb/KQEPD1j8h_qKr2PB3tJ6qZQQ508=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-104626001-5c34f065c9e77c00010b8cd5.jpg
+thumbnail: https://thmb.techidaily.com/ffa6265ad1a6a848473605e7aedcfa3ec46ffbe39326ff49e8d4fafd11fa0e00.jpg
 ---
 
 ## Shogun's Call: A List of Top 10 Games Reflecting Tsushi Values
@@ -37,37 +37,46 @@ Journey of a samurai to stop the Mongol invasion of Japan on its own. There are 
 
 #### 1\. Horizon Zero Dawn
 
-**_Platform:_** [_PlayStation 4_](https://www.playstation.com/en-us/games/horizon-zero-dawn/)_,_ [_PC_](https://store.steampowered.com/app/1151640/Horizon%5FZero%5FDawn%5FComplete%5FEdition/)
+**_Platform:_** [_PlayStation 4_](https://www.playstation.com/en-us/games/horizon-zero-dawn/) _,_ [_PC_](https://store.steampowered.com/app/1151640/Horizon%5FZero%5FDawn%5FComplete%5FEdition/)
 
 **_Price:_** _$19.99_
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![horizon-zero-dawn-poster](https://images.wondershare.com/filmora/article-images/horizon-zero-dawn-poster.jpg)
 
 Horizon Zero Dawn was released before Ghost of Tsushima. It covers the story of a post-apocalyptic. Although it doesn't contain sword to sword battles, it has something amazing to offer its players. This game includes an open world to be explored by the players. You, as a player, have to explore the truth about yourself and find the answers to the questions. This world contains forests, different creatures, and unique weapons to use to reach its destiny. You can use these weapons to kill the mechanical beasts that you encounter in your way. This game provides you with a realistic and beautiful environment.
 
 #### 2\. Sekiro: Shadows Die Twice
 
-**_Platform:_**[_PC_](https://store.steampowered.com/agecheck/app/814380/)_,_ [_PlayStation_](https://store.playstation.com/en-us/product/UP0002-CUSA12047%5F00-SEKIROGAME000001/)_,_ [_Xbox_](https://www.microsoft.com/en-us/p/sekiro-shadows-die-twice---goty-edition/BQD5WRRP2D6Q)
+**_Platform:_**[_PC_](https://store.steampowered.com/agecheck/app/814380/) _,_ [_PlayStation_](https://store.playstation.com/en-us/product/UP0002-CUSA12047%5F00-SEKIROGAME000001/) _,_ [_Xbox_](https://www.microsoft.com/en-us/p/sekiro-shadows-die-twice---goty-edition/BQD5WRRP2D6Q)
 
 **_Price:_** _$31.99 - $59.99_
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![sekiro-shadows-die-twice-poster](https://images.wondershare.com/filmora/article-images/sekiro-shadows-die-twice-poster.jpg)
 
 If you have played the Ghost of Tsushima and like it so much, you will definitely like this game. Sekiro is a bit more complex and difficult Shinobi-themed game as compare to Ghost of Tsushima. Unlike Ghost of Tsushima, this game contains many monsters to fight with and defeat using Katana. There are two ways of killing your foes, fighting them directly in combat or go stealthy to kill them without getting yourself noticed. This game requires you to use strategy and timing to kill the enemies. Without these two things, it won't be easy to eliminate them.
 
 #### 3\. Assassin's Creed Valhalla
 
-**_Platform:_**[_PC_](https://store.ubi.com/us/game/?lang=en%5FUS&pid=5e849c6c5cdf9a21c0b4e731&dwvar%5F5e849c6c5cdf9a21c0b4e731%5FPlatform=pcdl&edition=Standard%20Edition&source=detail)_,_ [_PlayStation_](https://store.playstation.com/en-us/concept/10000237/)_,_ [_Xbox_](https://www.microsoft.com/en-us/p/sekiro-shadows-die-twice---goty-edition/BQD5WRRP2D6Q)
+**_Platform:_**[_PC_](https://store.ubi.com/us/game/?lang=en%5FUS&pid=5e849c6c5cdf9a21c0b4e731&dwvar%5F5e849c6c5cdf9a21c0b4e731%5FPlatform=pcdl&edition=Standard%20Edition&source=detail) _,_ [_PlayStation_](https://store.playstation.com/en-us/concept/10000237/) _,_ [_Xbox_](https://www.microsoft.com/en-us/p/sekiro-shadows-die-twice---goty-edition/BQD5WRRP2D6Q)
 
 **_Price:_** _$59.99_
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ![assassins-creed-valhalla-poster](https://images.wondershare.com/filmora/article-images/assassins-creed-valhalla-poster.jpg)
 
 If you are looking for a game like Ghost of Tsushima, this game is a must-try game. Assassin's Creed Valhalla comes with an astounding and interesting story. Apart from its story, its combat system is way more improved and advanced than all the previous games in this series. Its environment and landscapes are so stunning that the players can never ignore them without going there. Assassin's Creed Valhalla has attracted players worldwide with its beautiful and amazing combat mechanism in its open-world games. It lets you lead your clan to raid against Saxon troops and other foes. With its various enemies, you will never get bored of using the same moves and attacking tactics. You have to develop a new strategy each time you raid a clan or fight your enemies. (PS: Some gamers even said that Ghost of Tsushima is what Valhalla should be like)
 
 #### 4\. Yakuza 0
 
-**_Platform:_**[_PC_](https://store.steampowered.com/app/638970/Yakuza%5F0/)_,_ [_Xbox_](https://www.microsoft.com/en-us/p/yakuza-0/9npp17lhj3mk?activetab=pivot:overviewtab)_,_ [_PlayStation_](https://store.playstation.com/en-us/product/UP0177-CUSA05070%5F00-YAKUZA0AMERICA00/)
+**_Platform:_**[_PC_](https://store.steampowered.com/app/638970/Yakuza%5F0/) _,_ [_Xbox_](https://www.microsoft.com/en-us/p/yakuza-0/9npp17lhj3mk?activetab=pivot:overviewtab) _,_ [_PlayStation_](https://store.playstation.com/en-us/product/UP0177-CUSA05070%5F00-YAKUZA0AMERICA00/)
 
 **_Price:_** _$19.99 - $21.99_
 
@@ -77,7 +86,7 @@ Yakuza is an open-world Single-Player and Multi-Player action-adventure game. Th
 
 #### 5\. For Honor
 
-**_Platform:_**[_PC_](https://store.steampowered.com/app/812140/Assassins%5FCreed%5FOdyssey/)_,_ [_PlayStation_](https://store.playstation.com/en-us/product/UP0001-CUSA09311%5F00-GAME000000000000/)_,_ [_Xbox_](https://www.microsoft.com/en-us/p/sekiro-shadows-die-twice---goty-edition/BQD5WRRP2D6Q)
+**_Platform:_**[_PC_](https://store.steampowered.com/app/812140/Assassins%5FCreed%5FOdyssey/) _,_ [_PlayStation_](https://store.playstation.com/en-us/product/UP0001-CUSA09311%5F00-GAME000000000000/) _,_ [_Xbox_](https://www.microsoft.com/en-us/p/sekiro-shadows-die-twice---goty-edition/BQD5WRRP2D6Q)
 
 **_Price:_** _$43.99 - $59.99_
 
@@ -87,7 +96,7 @@ Since it is released, "For Honor" has become one of the most liked games. They h
 
 #### 6\. Judgment
 
-**_Platform:_**[_PlayStation_](https://store.playstation.com/en-us/product/UP0177-PPSA02739%5F00-JUDGMENTRYUGAENG/)_,_ [_Xbox_](https://www.microsoft.com/en-us/p/judgment/9n1r83ckgzjp?activetab=pivot:overviewtab)
+**_Platform:_**[_PlayStation_](https://store.playstation.com/en-us/product/UP0177-PPSA02739%5F00-JUDGMENTRYUGAENG/) _,_ [_Xbox_](https://www.microsoft.com/en-us/p/judgment/9n1r83ckgzjp?activetab=pivot:overviewtab)
 
 **_Price:_** _$39.99_
 
@@ -97,7 +106,7 @@ Judgment is a single-player action video game. Meet Takayuki Yagami, a private d
 
 #### 7\. The Witcher 3: Wild Hunt
 
-**_Platform:_**[_PlayStation_](https://store.playstation.com/en-us/product/UP4497-CUSA05725%5F00-00000000000GOTY5/)_,_ [_Xbox_](https://www.microsoft.com/en-us/p/the-witcher-3-wild-hunt/br765873cqjd?activetab=pivot:overviewtab),[_PC_](https://store.steampowered.com/app/292030/The%5FWitcher%5F3%5FWild%5FHunt/)_,_ [_Nintendo Switch_](https://www.nintendo.com/games/detail/the-witcher-3-wild-hunt-complete-edition-switch/)
+**_Platform:_**[_PlayStation_](https://store.playstation.com/en-us/product/UP4497-CUSA05725%5F00-00000000000GOTY5/) _,_ [_Xbox_](https://www.microsoft.com/en-us/p/the-witcher-3-wild-hunt/br765873cqjd?activetab=pivot:overviewtab),[_PC_](https://store.steampowered.com/app/292030/The%5FWitcher%5F3%5FWild%5FHunt/) _,_ [_Nintendo Switch_](https://www.nintendo.com/games/detail/the-witcher-3-wild-hunt-complete-edition-switch/)
 
 **_Price:_** _$39.99 - $59.99_
 
@@ -107,7 +116,7 @@ The Witcher is one of the best games like Ghost of Tsushima because of the amazi
 
 #### 8\. Star Wars Jedi: Fallen Order
 
-**_Platform:_**[_PlayStation_](https://store.playstation.com/en-us/product/UP0006-PPSA02198%5F00-RESPAWNSWBIRDDOG/)_,_ [_Xbox_](https://www.microsoft.com/en-us/p/star-wars-jedi-fallen-order/C2CSDTSCBZ0C?activetab=pivot:overviewtab),[_PC_](https://store.steampowered.com/app/1172380/STAR%5FWARS%5FJedi%5FFallen%5FOrder/)
+**_Platform:_**[_PlayStation_](https://store.playstation.com/en-us/product/UP0006-PPSA02198%5F00-RESPAWNSWBIRDDOG/) _,_ [_Xbox_](https://www.microsoft.com/en-us/p/star-wars-jedi-fallen-order/C2CSDTSCBZ0C?activetab=pivot:overviewtab),[_PC_](https://store.steampowered.com/app/1172380/STAR%5FWARS%5FJedi%5FFallen%5FOrder/)
 
 **_Price:_** _$39.99_
 
@@ -117,10 +126,13 @@ Are you ready to face and fight with the huge and powerful galactic Empire? This
 
 #### 9\. Middle-earth: Shadow of War
 
-**_Platform:_**[_PlayStation_](https://www.playstation.com/en-us/games/middle-earth-shadow-of-war/)_,_ [_Xbox_](https://www.microsoft.com/en-US/p/middle-earth-shadow-of-war/9pdv8fkwp3b4?activetab=pivot:overviewtab),[_PC_](https://store.steampowered.com/app/356190/Middleearth%5FShadow%5Fof%5FWar/)
+**_Platform:_**[_PlayStation_](https://www.playstation.com/en-us/games/middle-earth-shadow-of-war/) _,_ [_Xbox_](https://www.microsoft.com/en-US/p/middle-earth-shadow-of-war/9pdv8fkwp3b4?activetab=pivot:overviewtab),[_PC_](https://store.steampowered.com/app/356190/Middleearth%5FShadow%5Fof%5FWar/)
 
 **_Price:_** _$29.99 - $49.99_
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![middle-earth-shadow-of-war-poster](https://images.wondershare.com/filmora/article-images/middle-earth-shadow-of-war-poster.jpg)
 
 This is another astounding game like Ghost of Tsushima. It is a battle-intense game that allows you to use melee combats to protect your people and kingdom. To stop the Sauron's army, you have to use the melee mastery and spiritual connection to use the power against the army. It seems impossible to stop this army at first sight, but when using your full potential and power gathered from spiritual beings, this is not a big deal to defeat them. This game contains a wide range of weapons to use and creatures to fight with. You have to use new strategies and plans to defeat them in the battle, making this game thrilling and adventurous.
@@ -131,6 +143,9 @@ This is another astounding game like Ghost of Tsushima. It is a battle-intense g
 
 **_Price:_** _$19.99_
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![god-of-war-4-poster](https://images.wondershare.com/filmora/article-images/god-of-war-4-poster.jpg)
 
 This game may not show you some of the amazing landscapes of china but it will surely provide you with amazing thrill and adventure. It doesn't contain samurai war but it puts you in an open world that is full of enemies and other characters. The main player, Krato is joined by his son Atreus and helps him defeat the enemies using bow and arrows. Players will unlock the powers of Kratos during his journey. The powers that you will explore during this journey will amaze you. These mythical powers will help you fight and defeat your most powerful enemies.
@@ -165,17 +180,20 @@ Journey of a samurai to stop the Mongol invasion of Japan on its own. There are 
 
 #### 1\. Horizon Zero Dawn
 
-**_Platform:_** [_PlayStation 4_](https://www.playstation.com/en-us/games/horizon-zero-dawn/)_,_ [_PC_](https://store.steampowered.com/app/1151640/Horizon%5FZero%5FDawn%5FComplete%5FEdition/)
+**_Platform:_** [_PlayStation 4_](https://www.playstation.com/en-us/games/horizon-zero-dawn/) _,_ [_PC_](https://store.steampowered.com/app/1151640/Horizon%5FZero%5FDawn%5FComplete%5FEdition/)
 
 **_Price:_** _$19.99_
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![horizon-zero-dawn-poster](https://images.wondershare.com/filmora/article-images/horizon-zero-dawn-poster.jpg)
 
 Horizon Zero Dawn was released before Ghost of Tsushima. It covers the story of a post-apocalyptic. Although it doesn't contain sword to sword battles, it has something amazing to offer its players. This game includes an open world to be explored by the players. You, as a player, have to explore the truth about yourself and find the answers to the questions. This world contains forests, different creatures, and unique weapons to use to reach its destiny. You can use these weapons to kill the mechanical beasts that you encounter in your way. This game provides you with a realistic and beautiful environment.
 
 #### 2\. Sekiro: Shadows Die Twice
 
-**_Platform:_**[_PC_](https://store.steampowered.com/agecheck/app/814380/)_,_ [_PlayStation_](https://store.playstation.com/en-us/product/UP0002-CUSA12047%5F00-SEKIROGAME000001/)_,_ [_Xbox_](https://www.microsoft.com/en-us/p/sekiro-shadows-die-twice---goty-edition/BQD5WRRP2D6Q)
+**_Platform:_**[_PC_](https://store.steampowered.com/agecheck/app/814380/) _,_ [_PlayStation_](https://store.playstation.com/en-us/product/UP0002-CUSA12047%5F00-SEKIROGAME000001/) _,_ [_Xbox_](https://www.microsoft.com/en-us/p/sekiro-shadows-die-twice---goty-edition/BQD5WRRP2D6Q)
 
 **_Price:_** _$31.99 - $59.99_
 
@@ -185,7 +203,7 @@ If you have played the Ghost of Tsushima and like it so much, you will definitel
 
 #### 3\. Assassin's Creed Valhalla
 
-**_Platform:_**[_PC_](https://store.ubi.com/us/game/?lang=en%5FUS&pid=5e849c6c5cdf9a21c0b4e731&dwvar%5F5e849c6c5cdf9a21c0b4e731%5FPlatform=pcdl&edition=Standard%20Edition&source=detail)_,_ [_PlayStation_](https://store.playstation.com/en-us/concept/10000237/)_,_ [_Xbox_](https://www.microsoft.com/en-us/p/sekiro-shadows-die-twice---goty-edition/BQD5WRRP2D6Q)
+**_Platform:_**[_PC_](https://store.ubi.com/us/game/?lang=en%5FUS&pid=5e849c6c5cdf9a21c0b4e731&dwvar%5F5e849c6c5cdf9a21c0b4e731%5FPlatform=pcdl&edition=Standard%20Edition&source=detail) _,_ [_PlayStation_](https://store.playstation.com/en-us/concept/10000237/) _,_ [_Xbox_](https://www.microsoft.com/en-us/p/sekiro-shadows-die-twice---goty-edition/BQD5WRRP2D6Q)
 
 **_Price:_** _$59.99_
 
@@ -195,17 +213,20 @@ If you are looking for a game like Ghost of Tsushima, this game is a must-try ga
 
 #### 4\. Yakuza 0
 
-**_Platform:_**[_PC_](https://store.steampowered.com/app/638970/Yakuza%5F0/)_,_ [_Xbox_](https://www.microsoft.com/en-us/p/yakuza-0/9npp17lhj3mk?activetab=pivot:overviewtab)_,_ [_PlayStation_](https://store.playstation.com/en-us/product/UP0177-CUSA05070%5F00-YAKUZA0AMERICA00/)
+**_Platform:_**[_PC_](https://store.steampowered.com/app/638970/Yakuza%5F0/) _,_ [_Xbox_](https://www.microsoft.com/en-us/p/yakuza-0/9npp17lhj3mk?activetab=pivot:overviewtab) _,_ [_PlayStation_](https://store.playstation.com/en-us/product/UP0177-CUSA05070%5F00-YAKUZA0AMERICA00/)
 
 **_Price:_** _$19.99 - $21.99_
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ![yakuza-0-poster](https://images.wondershare.com/filmora/article-images/yakuza-0-poster.jpg)
 
 Yakuza is an open-world Single-Player and Multi-Player action-adventure game. The story of games is based from 1988 to 1989\. Two characters can be controlled by the player, Kazuma Kiryu and Goro Majima, at specific and predetermined points in time. There are so many things to do in this open-world game. Players can explore the city, start side quests, have street fights, and more. The player can earn points by completing objectives like reaching a certain score and eating food at the restaurants. All these earned points can be used to get special items and upgrades. Money can also be earned by completing tasks or killing people.
 
 #### 5\. For Honor
 
-**_Platform:_**[_PC_](https://store.steampowered.com/app/812140/Assassins%5FCreed%5FOdyssey/)_,_ [_PlayStation_](https://store.playstation.com/en-us/product/UP0001-CUSA09311%5F00-GAME000000000000/)_,_ [_Xbox_](https://www.microsoft.com/en-us/p/sekiro-shadows-die-twice---goty-edition/BQD5WRRP2D6Q)
+**_Platform:_**[_PC_](https://store.steampowered.com/app/812140/Assassins%5FCreed%5FOdyssey/) _,_ [_PlayStation_](https://store.playstation.com/en-us/product/UP0001-CUSA09311%5F00-GAME000000000000/) _,_ [_Xbox_](https://www.microsoft.com/en-us/p/sekiro-shadows-die-twice---goty-edition/BQD5WRRP2D6Q)
 
 **_Price:_** _$43.99 - $59.99_
 
@@ -215,17 +236,20 @@ Since it is released, "For Honor" has become one of the most liked games. They h
 
 #### 6\. Judgment
 
-**_Platform:_**[_PlayStation_](https://store.playstation.com/en-us/product/UP0177-PPSA02739%5F00-JUDGMENTRYUGAENG/)_,_ [_Xbox_](https://www.microsoft.com/en-us/p/judgment/9n1r83ckgzjp?activetab=pivot:overviewtab)
+**_Platform:_**[_PlayStation_](https://store.playstation.com/en-us/product/UP0177-PPSA02739%5F00-JUDGMENTRYUGAENG/) _,_ [_Xbox_](https://www.microsoft.com/en-us/p/judgment/9n1r83ckgzjp?activetab=pivot:overviewtab)
 
 **_Price:_** _$39.99_
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![judgment-poster](https://images.wondershare.com/filmora/article-images/judgment-poster.jpg)
 
 Judgment is a single-player action video game. Meet Takayuki Yagami, a private detective who investigates a murder in Kamurocho. This game contains two fighting styles, which can be changed depending upon your choice, crane-style and tiger-style. Crane-style can be used to fight with groups and tiger-style can be used when fighting with individuals. The player also can run on walls and leapfrog while he is in fighting mode. Over time, Yagami unlocks new skills and fighting styles by earning more and more points. Apart from Fights and Bloodsheds, there is an investigation mode in the game, which allows the player to solve so many cases by looking at the signs and evidence. The player needs to follow the suspects without being seen by them to get to conclusions and solve the case. You are not bound to follow the storyline; you can take a side investigation case as well with the help of the notice board in his office. Will you be a successful detective and solve the cases to drive conclusions?
 
 #### 7\. The Witcher 3: Wild Hunt
 
-**_Platform:_**[_PlayStation_](https://store.playstation.com/en-us/product/UP4497-CUSA05725%5F00-00000000000GOTY5/)_,_ [_Xbox_](https://www.microsoft.com/en-us/p/the-witcher-3-wild-hunt/br765873cqjd?activetab=pivot:overviewtab),[_PC_](https://store.steampowered.com/app/292030/The%5FWitcher%5F3%5FWild%5FHunt/)_,_ [_Nintendo Switch_](https://www.nintendo.com/games/detail/the-witcher-3-wild-hunt-complete-edition-switch/)
+**_Platform:_**[_PlayStation_](https://store.playstation.com/en-us/product/UP4497-CUSA05725%5F00-00000000000GOTY5/) _,_ [_Xbox_](https://www.microsoft.com/en-us/p/the-witcher-3-wild-hunt/br765873cqjd?activetab=pivot:overviewtab),[_PC_](https://store.steampowered.com/app/292030/The%5FWitcher%5F3%5FWild%5FHunt/) _,_ [_Nintendo Switch_](https://www.nintendo.com/games/detail/the-witcher-3-wild-hunt-complete-edition-switch/)
 
 **_Price:_** _$39.99 - $59.99_
 
@@ -235,17 +259,20 @@ The Witcher is one of the best games like Ghost of Tsushima because of the amazi
 
 #### 8\. Star Wars Jedi: Fallen Order
 
-**_Platform:_**[_PlayStation_](https://store.playstation.com/en-us/product/UP0006-PPSA02198%5F00-RESPAWNSWBIRDDOG/)_,_ [_Xbox_](https://www.microsoft.com/en-us/p/star-wars-jedi-fallen-order/C2CSDTSCBZ0C?activetab=pivot:overviewtab),[_PC_](https://store.steampowered.com/app/1172380/STAR%5FWARS%5FJedi%5FFallen%5FOrder/)
+**_Platform:_**[_PlayStation_](https://store.playstation.com/en-us/product/UP0006-PPSA02198%5F00-RESPAWNSWBIRDDOG/) _,_ [_Xbox_](https://www.microsoft.com/en-us/p/star-wars-jedi-fallen-order/C2CSDTSCBZ0C?activetab=pivot:overviewtab),[_PC_](https://store.steampowered.com/app/1172380/STAR%5FWARS%5FJedi%5FFallen%5FOrder/)
 
 **_Price:_** _$39.99_
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![star-wars-jedi-fallen-order-poster](https://images.wondershare.com/filmora/article-images/star-wars-jedi-fallen-order-poster.jpg)
 
 Are you ready to face and fight with the huge and powerful galactic Empire? This is a game like Ghost of Tsushima that puts you in the shoes of a Jedi Padawan, known as Cal Kestis. Just like Ghost of Tsushima, this game is also based on melee combats. On this journey of the universe, you will encounter so many monsters and foes. Protect yourself and kill all those who are against you with the help of your lightsaber. Cal is also given the power of force to use against his enemies to kill them.
 
 #### 9\. Middle-earth: Shadow of War
 
-**_Platform:_**[_PlayStation_](https://www.playstation.com/en-us/games/middle-earth-shadow-of-war/)_,_ [_Xbox_](https://www.microsoft.com/en-US/p/middle-earth-shadow-of-war/9pdv8fkwp3b4?activetab=pivot:overviewtab),[_PC_](https://store.steampowered.com/app/356190/Middleearth%5FShadow%5Fof%5FWar/)
+**_Platform:_**[_PlayStation_](https://www.playstation.com/en-us/games/middle-earth-shadow-of-war/) _,_ [_Xbox_](https://www.microsoft.com/en-US/p/middle-earth-shadow-of-war/9pdv8fkwp3b4?activetab=pivot:overviewtab),[_PC_](https://store.steampowered.com/app/356190/Middleearth%5FShadow%5Fof%5FWar/)
 
 **_Price:_** _$29.99 - $49.99_
 
@@ -259,6 +286,9 @@ This is another astounding game like Ghost of Tsushima. It is a battle-intense g
 
 **_Price:_** _$19.99_
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![god-of-war-4-poster](https://images.wondershare.com/filmora/article-images/god-of-war-4-poster.jpg)
 
 This game may not show you some of the amazing landscapes of china but it will surely provide you with amazing thrill and adventure. It doesn't contain samurai war but it puts you in an open world that is full of enemies and other characters. The main player, Krato is joined by his son Atreus and helps him defeat the enemies using bow and arrows. Players will unlock the powers of Kratos during his journey. The powers that you will explore during this journey will amaze you. These mythical powers will help you fight and defeat your most powerful enemies.
@@ -293,7 +323,7 @@ Journey of a samurai to stop the Mongol invasion of Japan on its own. There are 
 
 #### 1\. Horizon Zero Dawn
 
-**_Platform:_** [_PlayStation 4_](https://www.playstation.com/en-us/games/horizon-zero-dawn/)_,_ [_PC_](https://store.steampowered.com/app/1151640/Horizon%5FZero%5FDawn%5FComplete%5FEdition/)
+**_Platform:_** [_PlayStation 4_](https://www.playstation.com/en-us/games/horizon-zero-dawn/) _,_ [_PC_](https://store.steampowered.com/app/1151640/Horizon%5FZero%5FDawn%5FComplete%5FEdition/)
 
 **_Price:_** _$19.99_
 
@@ -303,17 +333,20 @@ Horizon Zero Dawn was released before Ghost of Tsushima. It covers the story of 
 
 #### 2\. Sekiro: Shadows Die Twice
 
-**_Platform:_**[_PC_](https://store.steampowered.com/agecheck/app/814380/)_,_ [_PlayStation_](https://store.playstation.com/en-us/product/UP0002-CUSA12047%5F00-SEKIROGAME000001/)_,_ [_Xbox_](https://www.microsoft.com/en-us/p/sekiro-shadows-die-twice---goty-edition/BQD5WRRP2D6Q)
+**_Platform:_**[_PC_](https://store.steampowered.com/agecheck/app/814380/) _,_ [_PlayStation_](https://store.playstation.com/en-us/product/UP0002-CUSA12047%5F00-SEKIROGAME000001/) _,_ [_Xbox_](https://www.microsoft.com/en-us/p/sekiro-shadows-die-twice---goty-edition/BQD5WRRP2D6Q)
 
 **_Price:_** _$31.99 - $59.99_
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![sekiro-shadows-die-twice-poster](https://images.wondershare.com/filmora/article-images/sekiro-shadows-die-twice-poster.jpg)
 
 If you have played the Ghost of Tsushima and like it so much, you will definitely like this game. Sekiro is a bit more complex and difficult Shinobi-themed game as compare to Ghost of Tsushima. Unlike Ghost of Tsushima, this game contains many monsters to fight with and defeat using Katana. There are two ways of killing your foes, fighting them directly in combat or go stealthy to kill them without getting yourself noticed. This game requires you to use strategy and timing to kill the enemies. Without these two things, it won't be easy to eliminate them.
 
 #### 3\. Assassin's Creed Valhalla
 
-**_Platform:_**[_PC_](https://store.ubi.com/us/game/?lang=en%5FUS&pid=5e849c6c5cdf9a21c0b4e731&dwvar%5F5e849c6c5cdf9a21c0b4e731%5FPlatform=pcdl&edition=Standard%20Edition&source=detail)_,_ [_PlayStation_](https://store.playstation.com/en-us/concept/10000237/)_,_ [_Xbox_](https://www.microsoft.com/en-us/p/sekiro-shadows-die-twice---goty-edition/BQD5WRRP2D6Q)
+**_Platform:_**[_PC_](https://store.ubi.com/us/game/?lang=en%5FUS&pid=5e849c6c5cdf9a21c0b4e731&dwvar%5F5e849c6c5cdf9a21c0b4e731%5FPlatform=pcdl&edition=Standard%20Edition&source=detail) _,_ [_PlayStation_](https://store.playstation.com/en-us/concept/10000237/) _,_ [_Xbox_](https://www.microsoft.com/en-us/p/sekiro-shadows-die-twice---goty-edition/BQD5WRRP2D6Q)
 
 **_Price:_** _$59.99_
 
@@ -323,7 +356,7 @@ If you are looking for a game like Ghost of Tsushima, this game is a must-try ga
 
 #### 4\. Yakuza 0
 
-**_Platform:_**[_PC_](https://store.steampowered.com/app/638970/Yakuza%5F0/)_,_ [_Xbox_](https://www.microsoft.com/en-us/p/yakuza-0/9npp17lhj3mk?activetab=pivot:overviewtab)_,_ [_PlayStation_](https://store.playstation.com/en-us/product/UP0177-CUSA05070%5F00-YAKUZA0AMERICA00/)
+**_Platform:_**[_PC_](https://store.steampowered.com/app/638970/Yakuza%5F0/) _,_ [_Xbox_](https://www.microsoft.com/en-us/p/yakuza-0/9npp17lhj3mk?activetab=pivot:overviewtab) _,_ [_PlayStation_](https://store.playstation.com/en-us/product/UP0177-CUSA05070%5F00-YAKUZA0AMERICA00/)
 
 **_Price:_** _$19.99 - $21.99_
 
@@ -333,7 +366,7 @@ Yakuza is an open-world Single-Player and Multi-Player action-adventure game. Th
 
 #### 5\. For Honor
 
-**_Platform:_**[_PC_](https://store.steampowered.com/app/812140/Assassins%5FCreed%5FOdyssey/)_,_ [_PlayStation_](https://store.playstation.com/en-us/product/UP0001-CUSA09311%5F00-GAME000000000000/)_,_ [_Xbox_](https://www.microsoft.com/en-us/p/sekiro-shadows-die-twice---goty-edition/BQD5WRRP2D6Q)
+**_Platform:_**[_PC_](https://store.steampowered.com/app/812140/Assassins%5FCreed%5FOdyssey/) _,_ [_PlayStation_](https://store.playstation.com/en-us/product/UP0001-CUSA09311%5F00-GAME000000000000/) _,_ [_Xbox_](https://www.microsoft.com/en-us/p/sekiro-shadows-die-twice---goty-edition/BQD5WRRP2D6Q)
 
 **_Price:_** _$43.99 - $59.99_
 
@@ -343,7 +376,7 @@ Since it is released, "For Honor" has become one of the most liked games. They h
 
 #### 6\. Judgment
 
-**_Platform:_**[_PlayStation_](https://store.playstation.com/en-us/product/UP0177-PPSA02739%5F00-JUDGMENTRYUGAENG/)_,_ [_Xbox_](https://www.microsoft.com/en-us/p/judgment/9n1r83ckgzjp?activetab=pivot:overviewtab)
+**_Platform:_**[_PlayStation_](https://store.playstation.com/en-us/product/UP0177-PPSA02739%5F00-JUDGMENTRYUGAENG/) _,_ [_Xbox_](https://www.microsoft.com/en-us/p/judgment/9n1r83ckgzjp?activetab=pivot:overviewtab)
 
 **_Price:_** _$39.99_
 
@@ -353,17 +386,20 @@ Judgment is a single-player action video game. Meet Takayuki Yagami, a private d
 
 #### 7\. The Witcher 3: Wild Hunt
 
-**_Platform:_**[_PlayStation_](https://store.playstation.com/en-us/product/UP4497-CUSA05725%5F00-00000000000GOTY5/)_,_ [_Xbox_](https://www.microsoft.com/en-us/p/the-witcher-3-wild-hunt/br765873cqjd?activetab=pivot:overviewtab),[_PC_](https://store.steampowered.com/app/292030/The%5FWitcher%5F3%5FWild%5FHunt/)_,_ [_Nintendo Switch_](https://www.nintendo.com/games/detail/the-witcher-3-wild-hunt-complete-edition-switch/)
+**_Platform:_**[_PlayStation_](https://store.playstation.com/en-us/product/UP4497-CUSA05725%5F00-00000000000GOTY5/) _,_ [_Xbox_](https://www.microsoft.com/en-us/p/the-witcher-3-wild-hunt/br765873cqjd?activetab=pivot:overviewtab),[_PC_](https://store.steampowered.com/app/292030/The%5FWitcher%5F3%5FWild%5FHunt/) _,_ [_Nintendo Switch_](https://www.nintendo.com/games/detail/the-witcher-3-wild-hunt-complete-edition-switch/)
 
 **_Price:_** _$39.99 - $59.99_
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![the-witcher-3-wild-hunt-poster](https://images.wondershare.com/filmora/article-images/the-witcher-3-wild-hunt-poster.jpg)
 
 The Witcher is one of the best games like Ghost of Tsushima because of the amazing story and adventure to its players. As Geralt of Rivia, you have an open world and several amazing places to be explored. The Wild Hunt feature of this game lets you play an amazing storyline and kill monsters that cross your way. Apart from the main story, the players are allowed to perform side tasks. If you have watched the Netflix series, The Witcher, you can easily relate this game to it. It almost contains all the same features of that series and can provide you with the same experience.
 
 #### 8\. Star Wars Jedi: Fallen Order
 
-**_Platform:_**[_PlayStation_](https://store.playstation.com/en-us/product/UP0006-PPSA02198%5F00-RESPAWNSWBIRDDOG/)_,_ [_Xbox_](https://www.microsoft.com/en-us/p/star-wars-jedi-fallen-order/C2CSDTSCBZ0C?activetab=pivot:overviewtab),[_PC_](https://store.steampowered.com/app/1172380/STAR%5FWARS%5FJedi%5FFallen%5FOrder/)
+**_Platform:_**[_PlayStation_](https://store.playstation.com/en-us/product/UP0006-PPSA02198%5F00-RESPAWNSWBIRDDOG/) _,_ [_Xbox_](https://www.microsoft.com/en-us/p/star-wars-jedi-fallen-order/C2CSDTSCBZ0C?activetab=pivot:overviewtab),[_PC_](https://store.steampowered.com/app/1172380/STAR%5FWARS%5FJedi%5FFallen%5FOrder/)
 
 **_Price:_** _$39.99_
 
@@ -373,7 +409,7 @@ Are you ready to face and fight with the huge and powerful galactic Empire? This
 
 #### 9\. Middle-earth: Shadow of War
 
-**_Platform:_**[_PlayStation_](https://www.playstation.com/en-us/games/middle-earth-shadow-of-war/)_,_ [_Xbox_](https://www.microsoft.com/en-US/p/middle-earth-shadow-of-war/9pdv8fkwp3b4?activetab=pivot:overviewtab),[_PC_](https://store.steampowered.com/app/356190/Middleearth%5FShadow%5Fof%5FWar/)
+**_Platform:_**[_PlayStation_](https://www.playstation.com/en-us/games/middle-earth-shadow-of-war/) _,_ [_Xbox_](https://www.microsoft.com/en-US/p/middle-earth-shadow-of-war/9pdv8fkwp3b4?activetab=pivot:overviewtab),[_PC_](https://store.steampowered.com/app/356190/Middleearth%5FShadow%5Fof%5FWar/)
 
 **_Price:_** _$29.99 - $49.99_
 
@@ -387,6 +423,9 @@ This is another astounding game like Ghost of Tsushima. It is a battle-intense g
 
 **_Price:_** _$19.99_
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![god-of-war-4-poster](https://images.wondershare.com/filmora/article-images/god-of-war-4-poster.jpg)
 
 This game may not show you some of the amazing landscapes of china but it will surely provide you with amazing thrill and adventure. It doesn't contain samurai war but it puts you in an open world that is full of enemies and other characters. The main player, Krato is joined by his son Atreus and helps him defeat the enemies using bow and arrows. Players will unlock the powers of Kratos during his journey. The powers that you will explore during this journey will amaze you. These mythical powers will help you fight and defeat your most powerful enemies.
@@ -397,6 +436,9 @@ These games like Ghost of Tsushima are unique and different in their own way but
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -421,17 +463,20 @@ Journey of a samurai to stop the Mongol invasion of Japan on its own. There are 
 
 #### 1\. Horizon Zero Dawn
 
-**_Platform:_** [_PlayStation 4_](https://www.playstation.com/en-us/games/horizon-zero-dawn/)_,_ [_PC_](https://store.steampowered.com/app/1151640/Horizon%5FZero%5FDawn%5FComplete%5FEdition/)
+**_Platform:_** [_PlayStation 4_](https://www.playstation.com/en-us/games/horizon-zero-dawn/) _,_ [_PC_](https://store.steampowered.com/app/1151640/Horizon%5FZero%5FDawn%5FComplete%5FEdition/)
 
 **_Price:_** _$19.99_
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![horizon-zero-dawn-poster](https://images.wondershare.com/filmora/article-images/horizon-zero-dawn-poster.jpg)
 
 Horizon Zero Dawn was released before Ghost of Tsushima. It covers the story of a post-apocalyptic. Although it doesn't contain sword to sword battles, it has something amazing to offer its players. This game includes an open world to be explored by the players. You, as a player, have to explore the truth about yourself and find the answers to the questions. This world contains forests, different creatures, and unique weapons to use to reach its destiny. You can use these weapons to kill the mechanical beasts that you encounter in your way. This game provides you with a realistic and beautiful environment.
 
 #### 2\. Sekiro: Shadows Die Twice
 
-**_Platform:_**[_PC_](https://store.steampowered.com/agecheck/app/814380/)_,_ [_PlayStation_](https://store.playstation.com/en-us/product/UP0002-CUSA12047%5F00-SEKIROGAME000001/)_,_ [_Xbox_](https://www.microsoft.com/en-us/p/sekiro-shadows-die-twice---goty-edition/BQD5WRRP2D6Q)
+**_Platform:_**[_PC_](https://store.steampowered.com/agecheck/app/814380/) _,_ [_PlayStation_](https://store.playstation.com/en-us/product/UP0002-CUSA12047%5F00-SEKIROGAME000001/) _,_ [_Xbox_](https://www.microsoft.com/en-us/p/sekiro-shadows-die-twice---goty-edition/BQD5WRRP2D6Q)
 
 **_Price:_** _$31.99 - $59.99_
 
@@ -441,57 +486,72 @@ If you have played the Ghost of Tsushima and like it so much, you will definitel
 
 #### 3\. Assassin's Creed Valhalla
 
-**_Platform:_**[_PC_](https://store.ubi.com/us/game/?lang=en%5FUS&pid=5e849c6c5cdf9a21c0b4e731&dwvar%5F5e849c6c5cdf9a21c0b4e731%5FPlatform=pcdl&edition=Standard%20Edition&source=detail)_,_ [_PlayStation_](https://store.playstation.com/en-us/concept/10000237/)_,_ [_Xbox_](https://www.microsoft.com/en-us/p/sekiro-shadows-die-twice---goty-edition/BQD5WRRP2D6Q)
+**_Platform:_**[_PC_](https://store.ubi.com/us/game/?lang=en%5FUS&pid=5e849c6c5cdf9a21c0b4e731&dwvar%5F5e849c6c5cdf9a21c0b4e731%5FPlatform=pcdl&edition=Standard%20Edition&source=detail) _,_ [_PlayStation_](https://store.playstation.com/en-us/concept/10000237/) _,_ [_Xbox_](https://www.microsoft.com/en-us/p/sekiro-shadows-die-twice---goty-edition/BQD5WRRP2D6Q)
 
 **_Price:_** _$59.99_
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![assassins-creed-valhalla-poster](https://images.wondershare.com/filmora/article-images/assassins-creed-valhalla-poster.jpg)
 
 If you are looking for a game like Ghost of Tsushima, this game is a must-try game. Assassin's Creed Valhalla comes with an astounding and interesting story. Apart from its story, its combat system is way more improved and advanced than all the previous games in this series. Its environment and landscapes are so stunning that the players can never ignore them without going there. Assassin's Creed Valhalla has attracted players worldwide with its beautiful and amazing combat mechanism in its open-world games. It lets you lead your clan to raid against Saxon troops and other foes. With its various enemies, you will never get bored of using the same moves and attacking tactics. You have to develop a new strategy each time you raid a clan or fight your enemies. (PS: Some gamers even said that Ghost of Tsushima is what Valhalla should be like)
 
 #### 4\. Yakuza 0
 
-**_Platform:_**[_PC_](https://store.steampowered.com/app/638970/Yakuza%5F0/)_,_ [_Xbox_](https://www.microsoft.com/en-us/p/yakuza-0/9npp17lhj3mk?activetab=pivot:overviewtab)_,_ [_PlayStation_](https://store.playstation.com/en-us/product/UP0177-CUSA05070%5F00-YAKUZA0AMERICA00/)
+**_Platform:_**[_PC_](https://store.steampowered.com/app/638970/Yakuza%5F0/) _,_ [_Xbox_](https://www.microsoft.com/en-us/p/yakuza-0/9npp17lhj3mk?activetab=pivot:overviewtab) _,_ [_PlayStation_](https://store.playstation.com/en-us/product/UP0177-CUSA05070%5F00-YAKUZA0AMERICA00/)
 
 **_Price:_** _$19.99 - $21.99_
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![yakuza-0-poster](https://images.wondershare.com/filmora/article-images/yakuza-0-poster.jpg)
 
 Yakuza is an open-world Single-Player and Multi-Player action-adventure game. The story of games is based from 1988 to 1989\. Two characters can be controlled by the player, Kazuma Kiryu and Goro Majima, at specific and predetermined points in time. There are so many things to do in this open-world game. Players can explore the city, start side quests, have street fights, and more. The player can earn points by completing objectives like reaching a certain score and eating food at the restaurants. All these earned points can be used to get special items and upgrades. Money can also be earned by completing tasks or killing people.
 
 #### 5\. For Honor
 
-**_Platform:_**[_PC_](https://store.steampowered.com/app/812140/Assassins%5FCreed%5FOdyssey/)_,_ [_PlayStation_](https://store.playstation.com/en-us/product/UP0001-CUSA09311%5F00-GAME000000000000/)_,_ [_Xbox_](https://www.microsoft.com/en-us/p/sekiro-shadows-die-twice---goty-edition/BQD5WRRP2D6Q)
+**_Platform:_**[_PC_](https://store.steampowered.com/app/812140/Assassins%5FCreed%5FOdyssey/) _,_ [_PlayStation_](https://store.playstation.com/en-us/product/UP0001-CUSA09311%5F00-GAME000000000000/) _,_ [_Xbox_](https://www.microsoft.com/en-us/p/sekiro-shadows-die-twice---goty-edition/BQD5WRRP2D6Q)
 
 **_Price:_** _$43.99 - $59.99_
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![for-honor-poster](https://images.wondershare.com/filmora/article-images/for-honor-poster.jpg)
 
 Since it is released, "For Honor" has become one of the most liked games. They have included several different features and warriors to choose from and master over time. It also has a multiplayer mode that allows you to play with your friends and family. You are free to choose from a wide range of clans. If you are inspired by Ghost of Tsushima, then Samurai will naturally attract you. But there are others to choose from, such as Knights, Vikings, and Chinese Wu Lin.
 
 #### 6\. Judgment
 
-**_Platform:_**[_PlayStation_](https://store.playstation.com/en-us/product/UP0177-PPSA02739%5F00-JUDGMENTRYUGAENG/)_,_ [_Xbox_](https://www.microsoft.com/en-us/p/judgment/9n1r83ckgzjp?activetab=pivot:overviewtab)
+**_Platform:_**[_PlayStation_](https://store.playstation.com/en-us/product/UP0177-PPSA02739%5F00-JUDGMENTRYUGAENG/) _,_ [_Xbox_](https://www.microsoft.com/en-us/p/judgment/9n1r83ckgzjp?activetab=pivot:overviewtab)
 
 **_Price:_** _$39.99_
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ![judgment-poster](https://images.wondershare.com/filmora/article-images/judgment-poster.jpg)
 
 Judgment is a single-player action video game. Meet Takayuki Yagami, a private detective who investigates a murder in Kamurocho. This game contains two fighting styles, which can be changed depending upon your choice, crane-style and tiger-style. Crane-style can be used to fight with groups and tiger-style can be used when fighting with individuals. The player also can run on walls and leapfrog while he is in fighting mode. Over time, Yagami unlocks new skills and fighting styles by earning more and more points. Apart from Fights and Bloodsheds, there is an investigation mode in the game, which allows the player to solve so many cases by looking at the signs and evidence. The player needs to follow the suspects without being seen by them to get to conclusions and solve the case. You are not bound to follow the storyline; you can take a side investigation case as well with the help of the notice board in his office. Will you be a successful detective and solve the cases to drive conclusions?
 
 #### 7\. The Witcher 3: Wild Hunt
 
-**_Platform:_**[_PlayStation_](https://store.playstation.com/en-us/product/UP4497-CUSA05725%5F00-00000000000GOTY5/)_,_ [_Xbox_](https://www.microsoft.com/en-us/p/the-witcher-3-wild-hunt/br765873cqjd?activetab=pivot:overviewtab),[_PC_](https://store.steampowered.com/app/292030/The%5FWitcher%5F3%5FWild%5FHunt/)_,_ [_Nintendo Switch_](https://www.nintendo.com/games/detail/the-witcher-3-wild-hunt-complete-edition-switch/)
+**_Platform:_**[_PlayStation_](https://store.playstation.com/en-us/product/UP4497-CUSA05725%5F00-00000000000GOTY5/) _,_ [_Xbox_](https://www.microsoft.com/en-us/p/the-witcher-3-wild-hunt/br765873cqjd?activetab=pivot:overviewtab),[_PC_](https://store.steampowered.com/app/292030/The%5FWitcher%5F3%5FWild%5FHunt/) _,_ [_Nintendo Switch_](https://www.nintendo.com/games/detail/the-witcher-3-wild-hunt-complete-edition-switch/)
 
 **_Price:_** _$39.99 - $59.99_
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![the-witcher-3-wild-hunt-poster](https://images.wondershare.com/filmora/article-images/the-witcher-3-wild-hunt-poster.jpg)
 
 The Witcher is one of the best games like Ghost of Tsushima because of the amazing story and adventure to its players. As Geralt of Rivia, you have an open world and several amazing places to be explored. The Wild Hunt feature of this game lets you play an amazing storyline and kill monsters that cross your way. Apart from the main story, the players are allowed to perform side tasks. If you have watched the Netflix series, The Witcher, you can easily relate this game to it. It almost contains all the same features of that series and can provide you with the same experience.
 
 #### 8\. Star Wars Jedi: Fallen Order
 
-**_Platform:_**[_PlayStation_](https://store.playstation.com/en-us/product/UP0006-PPSA02198%5F00-RESPAWNSWBIRDDOG/)_,_ [_Xbox_](https://www.microsoft.com/en-us/p/star-wars-jedi-fallen-order/C2CSDTSCBZ0C?activetab=pivot:overviewtab),[_PC_](https://store.steampowered.com/app/1172380/STAR%5FWARS%5FJedi%5FFallen%5FOrder/)
+**_Platform:_**[_PlayStation_](https://store.playstation.com/en-us/product/UP0006-PPSA02198%5F00-RESPAWNSWBIRDDOG/) _,_ [_Xbox_](https://www.microsoft.com/en-us/p/star-wars-jedi-fallen-order/C2CSDTSCBZ0C?activetab=pivot:overviewtab),[_PC_](https://store.steampowered.com/app/1172380/STAR%5FWARS%5FJedi%5FFallen%5FOrder/)
 
 **_Price:_** _$39.99_
 
@@ -501,7 +561,7 @@ Are you ready to face and fight with the huge and powerful galactic Empire? This
 
 #### 9\. Middle-earth: Shadow of War
 
-**_Platform:_**[_PlayStation_](https://www.playstation.com/en-us/games/middle-earth-shadow-of-war/)_,_ [_Xbox_](https://www.microsoft.com/en-US/p/middle-earth-shadow-of-war/9pdv8fkwp3b4?activetab=pivot:overviewtab),[_PC_](https://store.steampowered.com/app/356190/Middleearth%5FShadow%5Fof%5FWar/)
+**_Platform:_**[_PlayStation_](https://www.playstation.com/en-us/games/middle-earth-shadow-of-war/) _,_ [_Xbox_](https://www.microsoft.com/en-US/p/middle-earth-shadow-of-war/9pdv8fkwp3b4?activetab=pivot:overviewtab),[_PC_](https://store.steampowered.com/app/356190/Middleearth%5FShadow%5Fof%5FWar/)
 
 **_Price:_** _$29.99 - $49.99_
 
@@ -523,8 +583,14 @@ This game may not show you some of the amazing landscapes of china but it will s
 
 These games like Ghost of Tsushima are unique and different in their own way but all these games revolve around the same combat system. Choose any of these games depending upon your preference and choice. These games will provide you with the same experience and thrill as Ghost of Tsushima. You will not get bored while playing the above games. Choose a game and start the thrill of fighting melee combats and intense battle fights.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -558,3 +624,52 @@ Follow @Ollie Mattison
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-from-basics-to-alternatives-understanding-vidmas-capture-software/"><u>[New] 2024 Approved  From Basics to Alternatives  Understanding Vidma's Capture Software</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-uniting-platforms-efficiently-share-fb-videos-to-whatsapp/"><u>[New] 2024 Approved  Uniting Platforms  Efficiently Share FB Videos to WhatsApp</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-cheapest-webcams-for-compreenasome-recorders-for-2024/"><u>[New] Cheapest Webcams for Compreenasome Recorders for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-choosing-between-obs-and-streamlabs-for-broadcast-excellence-for-2024/"><u>[New] Choosing Between OBS and Streamlabs for Broadcast Excellence for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-crafting-authentic-asian-mini-homes-in-mc/"><u>[New] Crafting Authentic Asian Mini-Homes in MC</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-essential-guide-enabling-a-full-screen-grid-on-zoom-for-2024/"><u>[New] Essential Guide  Enabling a Full-Screen Grid on Zoom for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-grids-that-wow-discover-the-top-apps-for-pics/"><u>[New] Grids That Wow  Discover the Top Apps for Pics</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-quick-quirks-recording-presentations/"><u>[New] In 2024, Quick Quirks  Recording Presentations</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-quickscreenrecorder-easy-captures-anytime/"><u>[New] In 2024, QuickScreenRecorder  Easy Captures, Anytime</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-understanding-ip-rules-for-instasongs/"><u>[New] In 2024, Understanding IP Rules for InstaSongs</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-macbook-webcam-filming-made-simple-for-2024/"><u>[New] MacBook Webcam Filming Made Simple for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-screenrec-made-simple-for-laptop-users/"><u>[New] ScreenRec Made Simple for Laptop Users</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-the-impact-of-multi-view-video-technology-on-home-surveillance/"><u>[New] The Impact of Multi-View Video Technology on Home Surveillance</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-20-greatest-sandbox-experiences-ever-made-for-2024/"><u>[Updated] 20 Greatest Sandbox Experiences Ever Made for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-tuneful-images-the-apple-fusion-method/"><u>[Updated] 2024 Approved  Tuneful Images  The Apple Fusion Method</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-crafting-visual-narratives-with-youtube-studios-editing-suite/"><u>[Updated] Crafting Visual Narratives with YouTube Studio's Editing Suite</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-essential-youtube-tagging-strategies-for-optimal-visibility-for-2024/"><u>[Updated] Essential YouTube Tagging Strategies for Optimal Visibility for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-facebooks-vision-for-video-unpacking-the-short-form-movement-for-2024/"><u>[Updated] Facebook's Vision for Video   Unpacking the Short Form Movement for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-complete-self-guided-tour-to-host-and-participate-in-google-meet/"><u>[Updated] In 2024, Complete Self-Guided Tour to Host & Participate in Google Meet</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-effortless-live-chat-setup-via-whatsapp-browser-on-your-laptop/"><u>[Updated] In 2024, Effortless Live Chat Setup via WhatsApp Browser on Your Laptop</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-expert-insights-on-ps3-gameplay-documentation/"><u>[Updated] In 2024, Expert Insights on PS3 Gameplay Documentation</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-leading-edge-the-top-10-mobile-video-chat-platforms/"><u>[Updated] In 2024, Leading Edge  The Top 10 Mobile Video Chat Platforms</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-push-the-boundaries-of-snapchat-choose-from-these-best-edits/"><u>[Updated] In 2024, Push the Boundaries of Snapchat  Choose From These Best Edits</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-the-definitive-guide-to-valheim-agriculture/"><u>[Updated] The Definitive Guide to Valheim Agriculture</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-the-ultimate-guide-to-skype-sessions-with-obs-streaming/"><u>[Updated] The Ultimate Guide to Skype Sessions with OBS Streaming</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-a-deep-dive-into-apples-m1-processor-power/"><u>2024 Approved  A Deep Dive Into Apple's M1 Processor Power</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-battlefield-bliss-exploring-the-7-best-massive-wars/"><u>2024 Approved  Battlefield Bliss  Exploring the 7 Best Massive Wars</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-capturecrafter-your-ultimate-guide-to-screen-recording/"><u>2024 Approved  CaptureCrafter  Your Ultimate Guide to Screen Recording</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-efficient-lecture-capture-with-macos/"><u>2024 Approved  Efficient Lecture Capture with MacOS</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-stay-incognito-how-to-stream-unnoticed-on-instagram/"><u>2024 Approved  Stay Incognito  How to Stream Unnoticed on Instagram</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/best-windows-movie-makers-top-picks/"><u>Best Windows Movie Makers Top Picks</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/critical-analysis-of-vsdc-highlighting-best-software-for-2024/"><u>Critical Analysis of VSDC, Highlighting Best Software for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/enhancing-visual-presentation-before-and-after-team-calls/"><u>Enhancing Visual Presentation Before & After Team Calls</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exploring-gospel-music-how-to-download-and-modify-your-ringtone-for-2024/"><u>Exploring Gospel Music  How to Download & Modify Your Ringtone for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-realme-gt-neo-5-se-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Realme GT Neo 5 SE Devices | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-fuel-the-spark-essential-themes-for-youtube-success/"><u>In 2024, Fuel the Spark  Essential Themes for YouTube Success</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-preventing-unwanted-filming-in-quicktime/"><u>In 2024, Preventing Unwanted Filming in QuickTime</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-strategic-approaches-to-share-ppt-powerfully-in-google-meet/"><u>In 2024, Strategic Approaches to Share PPT Powerfully in Google Meet</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-streaming-success-how-to-keep-a-record-of-live-tv/"><u>In 2024, Streaming Success  How to Keep a Record of Live TV</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-tech-bites-the-future-of-screen-capture-apps/"><u>In 2024, Tech Bites  The Future of Screen Capture Apps</u></a></li>
+<li><a href="https://windows11.techidaily.com/minimizing-power-drain-addressing-vanguard-ums-overuse-on-pcs/"><u>Minimizing Power Drain: Addressing Vanguard UMS Overuse on PCs</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-revolutionize-your-gameplay-with-these-top-gaming-intro-designers/"><u>New Revolutionize Your Gameplay with These Top Gaming Intro Designers</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/resurrect-the-past-the-ultimate-list-of-top-5-ps1-games-for-pc/"><u>Resurrect the Past  The Ultimate List of Top 5 PS1 Games for PC</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/the-ultimate-guide-to-pc-game-screenshots-for-2024/"><u>The Ultimate Guide to PC Game Screenshots for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/unlock-screen-saving-potential-on-android-devices-for-2024/"><u>Unlock Screen Saving Potential on Android Devices for 2024</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "\"Easy Steps to Activate a Full-Screen Grid on Google Meet for 2024\""
-date: 2024-06-09T00:37:47.568Z
-updated: 2024-06-10T00:37:47.568Z
+date: 2024-07-17T01:32:38.720Z
+updated: 2024-07-18T01:32:38.720Z
 tags: 
   - screen-recording
   - ai video
@@ -19,6 +19,18 @@ thumbnail: https://thmb.techidaily.com/122b9bb2737079496d6a2d69ef766a3b3b8a091bd
 
 # How to See Every Participant in Google Meet?
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -29,6 +41,9 @@ Virtual meetings are becoming increasingly popular among the educational and bus
 
 Previously, only 4 participants could be viewed in the Grid view mode. However, Google Meet has introduced a tiled layout in an update that lets you see 49 participants simultaneously on the screen. The following article will educate you about enabling grid and tiled view in Google Meet and address some other relevant concerns.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: How to Enable Tiled View in Google Meet to See Everyone on Desktop?
 
 The tiled view is one of the preferred layout options in Google Meet. Tiled view in Google Meet expanded the range of visible participants. So, if you have joined a video conference room of many participants, Google Meet tiled layout can help you view all participants simultaneously.
@@ -53,6 +68,9 @@ Use a slider to increase or decrease the number of participants you want to see.
 
 **Note:** The slider can expand the view up to 49 participants.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Google Meet change enable tiled view](https://images.wondershare.com/filmora/article-images/enable-tiled-view-to-view-participants.jpg)
 
 ## Part 2: How to Enable Grid View on Google Meet Mobile Apps?
@@ -65,13 +83,16 @@ Google Meet apps don't support the change layout option. Thus, there are two app
 
 Click on the **three dots** and enable the **desktop site** option from the menu.
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ![Google Meet mobile view all participants](https://images.wondershare.com/filmora/article-images/enable-desktop-site-google-meet-browser-mobile.jpg)
 
 **Step 2: Change layout Enable tiled view to view up to 49 people at the same time**
 
 Click on the **three dots** at the bottom right corner and select **change layout.**
 
-![Google Meet change tiled view ](https://images.wondershare.com/filmora/article-images/change-google-meet-layout-tiled-view.jpg)
+![Google Meet change tiled view](https://images.wondershare.com/filmora/article-images/change-google-meet-layout-tiled-view.jpg)
 
 ### Method 2: Ask someone else to share the screen
 
@@ -89,7 +110,10 @@ Launch Chrome browser and access **chrome.google.com**. Click on **features** an
 
 Tap **add an extension** in the pop-up confirmation message. The installed extension will appear in the extension bar.
 
-![Google Meet view all extension ](https://images.wondershare.com/filmora/article-images/install-google-meet-grid-view-extension.jpg)
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
+![Google Meet view all extension](https://images.wondershare.com/filmora/article-images/install-google-meet-grid-view-extension.jpg)
 
 **Step 2 : Create or join a meeting room in a Google Meet**
 
@@ -101,7 +125,7 @@ Click on the **extension** at the top right of the screen corner and tick the **
 
 **Note:** You can configure the grid view setting and choose to tick any option you prefer. Options include only show participants with video, highlight speakers, etc.
 
-![Google Meet view all extension enable ](https://images.wondershare.com/filmora/article-images/enable-google-meet-grid-view-extension.jpg)
+![Google Meet view all extension enable](https://images.wondershare.com/filmora/article-images/enable-google-meet-grid-view-extension.jpg)
 
 ## Part 4: How to Fix Google Meet Grid View Not Working Issue?
 
@@ -117,13 +141,16 @@ Open Google Chrome and click on the **three dots** at the top right corner. Choo
 
 **Note:** Also, check whether the extension is installed or not. If it is available, try re-installing it. If it is still not visible, update Google chrome.
 
-![Google Meet view all extension enable ](https://images.wondershare.com/filmora/article-images/google-meet-grid-view-extension-developer-mode.jpg)
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Google Meet view all extension enable](https://images.wondershare.com/filmora/article-images/google-meet-grid-view-extension-developer-mode.jpg)
 
 **Step 3 : Check the working in Google Meet**
 
 Click **new meeting** in the Google Meet. **Tap enable grid view** when you want to see all participants in the meeting.
 
-![Google Meet view all extension enable ](https://images.wondershare.com/filmora/article-images/enable-google-meet-grid-view-troubleshooting.jpg)
+![Google Meet view all extension enable](https://images.wondershare.com/filmora/article-images/enable-google-meet-grid-view-troubleshooting.jpg)
 
 ### Frequently Asked Questions About See Everyone on Google Meet
 
@@ -143,6 +170,9 @@ If you think about whether one can record a Google Meet session in Grid view, th
 
 Sometimes, it becomes essential to make all participants visible in the grid. For instance, if you have been asked to invigilate students in an online test, monitoring the activity of all participants becomes your job duty. Like other conferencing apps, Google Meet offers a grid view to see participants in your window. Alongside auto, slide bar, and spotlight, Google Meet facilitates the users with the tiled view. In this article, we have gathered sufficient information on how to enable grid view in Google Meet. Not just on desktop, the article mentions configuring the layout on mobile devices as well.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -159,3 +189,42 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-best-camera-stabilizers-for-youtube/"><u>[New] 2024 Approved  Best Camera Stabilizers for YouTube</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-top-tech-gadgets-for-effortless-virtual-meetings-capture/"><u>[New] 2024 Approved  Top Tech Gadgets for Effortless Virtual Meetings Capture</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-unveiling-best-plugins-for-a-superior-discord-ux/"><u>[New] 2024 Approved  Unveiling Best Plugins for a Superior Discord UX</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-engrossing-12-pc-clicker-games-that-keep-you-hooked/"><u>[New] Engrossing 12 PC Clicker Games That Keep You Hooked</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-flagship-firefox-screenshot-tools/"><u>[New] Flagship Firefox Screenshot Tools</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-updating-your-meet-name-easy-steps-for-pc-and-mobile/"><u>[New] In 2024, Updating Your Meet Name  Easy Steps for PC & Mobile</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/1716069592274-new-in-2024-utilizing-in-device-recording-on-huawei-mate-series-phones-mate-10-mate-20-and-p-series-p20-p10/"><u>[New] In 2024, Utilizing In-Device Recording on Huawei Mate Series Phones (Mate 10, Mate 20) & P Series (P20, P10).</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-the-desktop-route-to-viral-video-success-with-tiktok/"><u>[New] The Desktop Route to Viral Video Success with TikTok</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-expert-picks-top-6-fb-lite-extractors/"><u>[Updated] 2024 Approved  Expert Picks  Top 6 FB Lite Extractors</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-seeking-clarity-complete-accessibility-of-mutual-shared-materials/"><u>[Updated] 2024 Approved  Seeking Clarity  Complete Accessibility of Mutual Shared Materials</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-capture-the-competition-essential-tools-for-gamers-on-pcmac/"><u>[Updated] Capture the Competition  Essential Tools for Gamers on Pc/Mac</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-digital-recorder-hits-the-ultimate-list/"><u>[Updated] Digital Recorder Hits  The Ultimate List</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-the-spoken-word-unveiled-enhancing-expressiveness-on-slides-for-2024/"><u>[Updated] The Spoken Word Unveiled  Enhancing Expressiveness on Slides for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-capturing-android-sounds-without-root-access-guide/"><u>2024 Approved  Capturing Android Sounds Without Root Access [Guide]</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-cutting-edge-speech-to-text-googles-pathway-for-precision/"><u>2024 Approved  Cutting-Edge Speech-to-Text  Google’s Pathway for Precision</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-navigating-through-the-process-of-tiktoks-slow-motion-filming/"><u>2024 Approved  Navigating Through the Process of TikTok's Slow Motion Filming</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/adopting-innovations-mask-and-filter-methods-for-google-meet-for-2024/"><u>Adopting Innovations  Mask & Filter Methods for Google Meet for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/choosing-from-manycams-finding-optimal-options/"><u>Choosing From ManyCams  Finding Optimal Options</u></a></li>
+<li><a href="https://extra-information.techidaily.com/free-and-top-tier-comparing-the-leading-srt-apps/"><u>Free & Top-Tier  Comparing the Leading SRT Apps</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-affordable-desktop-recording-solutions-reviewed/"><u>In 2024, Affordable Desktop Recording Solutions Reviewed</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-how-to-record-overwatch/"><u>In 2024, How to Record Overwatch</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-improving-vimeo-playback-pace/"><u>In 2024, Improving Vimeo Playback Pace</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-lenovos-screen-recording-an-in-depth-user-manual/"><u>In 2024, Lenovo’s Screen Recording – An In-Depth User Manual</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-master-the-art-of-professional-webcam-filming/"><u>In 2024, Master the Art of Professional Webcam Filming</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-mastering-youtube-promotion-26-effective-techniques/"><u>In 2024, Mastering YouTube Promotion  26 Effective Techniques</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/kiddos-best-gaming-delights-top-girls-adventures-for-2024/"><u>Kiddo's Best Gaming Delights - Top Girls' Adventures for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/leading-edge-webcams-the-best-on-windows-10/"><u>Leading Edge Webcams  The Best on Windows 10</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-android-gaming-buttons-and-controllers-unite/"><u>Mastering Android Gaming: Buttons and Controllers Unite</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/navigating-the-process-of-embedding-vimeo-media-in-ppts-for-2024/"><u>Navigating the Process of Embedding Vimeo Media in PPTs for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/perfect-whatsapp-ringtones-for-iphone-and-android-users-for-2024/"><u>Perfect WhatsApp Ringtones for iPhone & Android Users for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/sharestream-downloader-fb-edition/"><u>ShareStream Downloader, FB Edition</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-red-magic-8s-pro-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Red Magic 8S Pro</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/streamline-video-capture-macbook-webcam-tips/"><u>Streamline Video Capture  MacBook Webcam Tips</u></a></li>
+<li><a href="https://techidaily.com/undeleted-lost-videos-from-infinix-hot-30i-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Infinix Hot 30i</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/yearly-review-youtubes-most-immersive-stories/"><u>Yearly Review  YouTube's Most Immersive Stories</u></a></li>
+</ul></div>
