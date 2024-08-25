@@ -1,0 +1,166 @@
+---
+title: "[New] Altering Screenshot File Types on a Macintosh for 2024"
+date: 2024-08-24T01:01:43.979Z
+updated: 2024-08-25T01:01:43.979Z
+tags: 
+  - screen-recording
+  - ai video
+  - ai audio
+categories: 
+  - ai
+  - screen
+description: "This Article Describes [New] Altering Screenshot File Types on a Macintosh for 2024"
+excerpt: "This Article Describes [New] Altering Screenshot File Types on a Macintosh for 2024"
+keywords: "Mac Screenshots Format,Mac Screenshot Conversion,Changing Mac Image Types,Mac Screenshot Editing,Macfile Screenshot Change,Format Macscreenshots,Transform Mac Screenshot Files"
+thumbnail: https://thmb.techidaily.com/485101ae8f555e145174a15eda6071c25617b2b00c96089d339b8e4537366b75.jpg
+---
+
+## Altering Screenshot File Types on a Macintosh
+
+# How to Change Screenshot File Formats on a Mac
+
+![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+##### Max Wales
+
+ Mar 27, 2024• Proven solutions
+
+Taking screenshots on a Mac computer is a straightforward process that requires you to just hold **Command + Shift + 3** or **4** keys. That's it, the file is then saved on your desktop by default, and you can open it in a photo editing software where you can change its file format, crop it or enhance its colors. Mac computers, save screenshots as PNG files, but they also offer support for JPEG, PDF, TIFF, and GIF files, so its users can select the one that best suits their needs.
+
+However, the process of changing the default screenshot file format on a Mac is needlessly complicated, but in this article, we will show you how you can accomplish this task in just a few simple steps.
+
+![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
+
+### The All-in-One Screen Recorder & Video Editor
+
+* Record desktop screen, voiceover, and webcam simultaneously
+* Edit recorded clips quickly with a wide range of professional tools
+* Built-in plentiful templates and effects
+* Export to MP4, MOV, MKV, GIF and multiple formats
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
+
+## Supported Image Formats on Mac
+
+As we already mentioned, Mac computers allow its users to save screenshots in some of the most frequently used picture file formats. The PNG files support lossless data compression, just like GIF files and they are the most commonly used lossless data compression format on the Internet. However, there are a few downsides, including the size of the PNG files that can prompt you to set another file format as the default screenshot file format on your Mac.
+
+Using JPEG file extension will enable you to create images that can be used in Word documents, PowerPoint presentations or shared anywhere on the Internet. PDF or TIFF files should only be used if you want to print the screenshot you've taken, while the GIF file format is used to create short animations or loops and there is absolutely no reason to use it as a default screenshot file format.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
+## Which Screenshot Format Should You Use?
+
+Each image file format Mac computer support is designed for different purposes, which is the reason why you should choose the screenshot graphics format that best fits the context in which the file is going to be used. Converting PNG files to some popular file format is almost always necessary, so if you want to avoid having to go through the file conversion process every time you take a screenshot just to be able to edit it, our advice is to set the JPEG as the default screenshot file format on your Mac.
+
+Besides being smaller in size than PNG files, JPEG files are also handier if you want to annotate the screenshots you're taking. In addition, you'll be able to post your files anywhere on the Internet, because JPEG files are supported by all social media platforms.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
+## How to Change Screenshot Formats?
+
+![ Mac Screenshots formats ](https://images.wondershare.com/filmora/article-images/mac-screenshot-format-changing.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+Once you decide which format you want to use the default screenshot graphics format on your Mac, you should launch the Terminal app. You can access the Terminal from the Utility subfolder that is located in the Application folder.
+
+When the Terminal window appears on the screen you will have to insert the following command:
+
+**defaults write com.apple.screencapture type jpg**
+
+As you can see, the command ends with .jpg, which is, in this case, the default graphics format to which you will be switching to. The command line is the same for all other file formats, and the only difference is the file extension at the end.
+
+Press the Return or Enter button to execute the command and then proceeded to confirm the changes you've made by resetting the UI and entering this command line:
+
+**killall** **SystemUIServer**
+
+Press the Enter key, to complete the process and enjoy taking screenshots in the JPEG file format. This step is necessary for changing all other graphics formats supported by Mac computers, and the command line is always the same.
+
+Here's how you can change the screenshot file format to TIFF, GIF, PDF or PNG. Simply insert the appropriate command line and make sure to restart Mac's UI by entering the **killall SystemUIServer** command after you change the graphics format.
+
+**The Command line for changing the Screenshot format to TIFF:**
+
+_defaults write com.apple.screencapture type TIFF_
+
+**PDF:**
+
+_defaults write com.apple.screencapture type PDF_
+
+**GIF:**
+
+_defaults write com.apple.screencapture type GIF_
+
+**PNG:**
+
+_defaults write com.apple.screencapture type PNG_
+
+You can switch back to capturing screenshots in PNG file format at any moment by simply following the steps we described for all other image file formats supported by the macOS. Leave a comment and let us know which file format you like to use the most as the default screenshot format on your Mac.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+Max Wales
+
+Max Wales is a writer and a lover of all things video.
+
+Follow @Max Wales
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-how-to-capture-and-share-your-games-online/"><u>[New] 2024 Approved  How to Capture and Share Your Games Online</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-a-comprehensive-look-at-stardew-and-ginger-isle/"><u>[New] A Comprehensive Look at Stardew and Ginger Isle</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-battle-for-asgard-the-ragnarok-chronicles/"><u>[New] Battle for Asgard  The Ragnarök Chronicles</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-childhood-chariot-jamboree-fun-for-2024/"><u>[New] Childhood Chariot Jamboree Fun for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-elevate-your-videography-top-tier-vimeo-tools/"><u>[New] Elevate Your Videography  Top-Tier Vimeo Tools</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-get-pcs-audio-capture-tool-x-recorder-for-2024/"><u>[New] Get PC's Audio Capture Tool  X-Recorder for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-improve-productivity-learn-to-record-macs-screen-using-shortcut-keys/"><u>[New] Improve Productivity  Learn to Record Mac's Screen Using Shortcut Keys</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-seamless-integration-of-fb-video-on-tv-screens/"><u>[New] In 2024, Seamless Integration of Fb Video on TV Screens</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-virtual-vanguards-identifying-the-top-7-fps-powerhouses/"><u>[New] In 2024, Virtual Vanguards  Identifying the Top 7 FPS Powerhouses</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-noise-free-ai-transcription-technology/"><u>[New] Noise-Free AI Transcription Technology</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-pro-video-capture-a-comprehensive-fraps-test-for-2024/"><u>[New] Pro Video Capture  A Comprehensive Fraps Test for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-realtime-recording-titans/"><u>[New] RealTime Recording Titans</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-the-performers-playbook-avoiding-common-mistakes-in-ppt-voiceovers-for-2024/"><u>[New] The Performer's Playbook  Avoiding Common Mistakes in PPT Voiceovers for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-uncovering-inexpensive-deals-for-your-gopro-camera/"><u>[Updated] 2024 Approved  Uncovering Inexpensive Deals for Your GoPro Camera</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-cultivating-community-in-stardews-ginger-territory/"><u>[Updated] Cultivating Community in Stardew’s Ginger Territory</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-essential-list-of-top-tier-9-mic-recorder-apps-for-2024/"><u>[Updated] Essential List of Top-Tier 9 Mic Recorder Apps for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-full-review-of-camstudios-screen-capture-features-for-2024/"><u>[Updated] Full Review of CamStudio's Screen Capture Features for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-advanced-techniques-capturing-teams-screen-content/"><u>[Updated] In 2024, Advanced Techniques  Capturing Teams' Screen Content</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-dividing-recordings-top-cam-scrutiny-review/"><u>[Updated] In 2024, Dividing Recordings  Top Cam Scrutiny Review</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-refining-online-discussions-in-google-meet/"><u>[Updated] In 2024, Refining Online Discussions in Google Meet</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-the-complete-laptop-recording-manual-dell-edition/"><u>[Updated] The Complete Laptop Recording Manual  Dell Edition</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-time-saving-strategies-for-gotomeeting-audiovideo-logging/"><u>[Updated] Time-Saving Strategies for GoToMeeting Audio/Video Logging</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-unveiling-anonymous-access-to-instagram-story-content-on-desktopstablets-and-smartphones-no-cost-for-2024/"><u>[Updated] Unveiling  Anonymous Access to Instagram Story Content on Desktops/Tablets & Smartphones (No Cost) for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-premier-video-breakdown-fifa-analysis-graphs/"><u>2024 Approved  Premier Video Breakdown  FIFA Analysis Graphs</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-windows-7-hdmi-audio-issues-a-comprehensive-guide/"><u>Fixing Windows 7 HDMI Audio Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-infinix-smart-7-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Infinix Smart 7 Phone | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/in-2024-cutting-edge-converters-the-premier-5-audio-video-mixers-for-optimal-integration/"><u>In 2024, Cutting-Edge Converters The Premier 5 Audio Video Mixers for Optimal Integration</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-ispoofer-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Xiaomi Civi 3 Disney 100th Anniversary Edition? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-the-art-of-image-lookups-on-facebook-a-comprehensive-guide/"><u>Mastering the Art of Image Lookups on Facebook: A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-systemic-resource-clashes-in-technology/"><u>Resolving Systemic Resource Clashes in Technology</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/retrieve-forgotten-passwords-from-your-mac-with-simple-tricks/"><u>Retrieve Forgotten Passwords From Your Mac with Simple Tricks</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/screenstreamer-breaking-down-the-newest-recorder/"><u>ScreenStreamer  Breaking Down the Newest Recorder</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>
