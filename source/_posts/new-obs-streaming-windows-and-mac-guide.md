@@ -1,7 +1,7 @@
 ---
 title: "[New] OBS Streaming [Windows and Mac Guide]"
-date: 2024-09-02T16:22:50.890Z
-updated: 2024-09-03T16:22:50.890Z
+date: 2024-09-07T04:40:22.488Z
+updated: 2024-09-08T04:40:22.488Z
 tags: 
   - screen-recording
   - ai video
@@ -15,6 +15,18 @@ keywords: "Windows OBS Guide,Mac OBS Streaming,OBS for Windows,OBS on Mac,Stream
 thumbnail: https://thmb.techidaily.com/be42a9800526c31b5bfdef3ed18cce59bd7b3192524b647f6f87b51df7e044d8.png
 ---
 
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## OBS Streaming [Windows and Mac Guide]
 
 OBS, which stands for Open Broadcaster Software, is a free, open-source software package that allows you to record and broadcast what is shown on your computer screen, as well as content from other locations. You may broadcast to services such as YouTube or Twitch, as well as a record in a variety of formats that you can edit afterward or post to video-sharing websites like Vimeo. OBS studio streaming is compatible with the Mac operating system; however, for beginners, the setup is substantially more complicated than it would be on a PC. Open Broadcaster Software (OBS Studio), often known as Open Broadcaster Software, is the go-to tool for anybody who wants to broadcast live. However, because of its sophisticated interface and professional features, only a small number of individuals are familiar with how to use it.
@@ -33,10 +45,22 @@ Record screen and webcam as well
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. How to Stream with OBS on Windows
 
 When you first start using OBS, you may be overwhelmed by the sheer number of options available and the number of settings that are required. In this piece, we'll go over some of those choices, as well as the values that you'll want to put into play. The most important configuration options can be found under the 'Output' tab of the 'Settings' menu. On this page, you can customize the majority of the visual and audio features available.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 1: Install and Launch OBS
 
 Launch OBS Studio and select the "Stream" tab from the "File" menu on the top toolbar. Step 2: Launch OBS Studio and select the "File" menu again. It allows you to select "Twitch" from the dropdown menu of the "Service" option right away.
@@ -44,7 +68,10 @@ Launch OBS Studio and select the "Stream" tab from the "File" menu on the top to
 ![obs](https://images.wondershare.com/filmora/article-images/obs.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<a href="https://25home.pxf.io/c/5597632/2123467/16836" target="_top" id="2123467">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123467" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123467/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Step 2: Setup OBS for Twitch
 
@@ -52,110 +79,30 @@ There is a button that says "Connect Account (recommended)." Log in to your Twit
 
 ![twitch](https://images.wondershare.com/filmora/article-images/twitch.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Step 3: Add Streaming Scenes
 
 You are now in the second step, which is to configure OBS Studio to its optimal streaming settings for live streaming. When you are back in the OBS main interface, tap the "+" icon in the "Source" area, and then select the video source that you want to use for streaming. The best audio quality is essential for any type of live streaming, so setting the bitrate to the highest possible setting will ensure that your viewers hear the best possible sound. Unless you are streaming video rather than music, 160 Kbps is the recommended bitrate on most websites.
 
 ![add streaming scenes](https://images.wondershare.com/filmora/article-images/add-streaming-scenes.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 4: Start Streaming
 
 Select Stream from the drop-down menu and enter the necessary information. Click on "Start Streaming" after selecting the appropriate video source for streaming on Twitch to begin a live broadcast on the platform. The Video tab is where you can change the resolution of the stream as well as the number of frames per second it broadcasts. This is also the location where you will resize the broadcast if you so choose.
 
 ![start streaming](https://images.wondershare.com/filmora/article-images/start-streaming.jpg)
 
-## 2\. How to Stream with OBS on Mac
-
-To get started, visit the official OBS (Open Broadcaster Software) website, which can be accessed by clicking here. Choose Mac OS as your operating system and download the installation. After a few seconds, the OBS installer will download to your computer, which you will then need to install on your computer. After you have downloaded and installed the installer, you should be able to launch OBS Studio without any problems. Your Mac will begin performing some operations and then launch a new finder window, which will display the OBS program as well as the contents of your apps folder. The OBS software will automatically install itself if you simply drag and drop it into the Applications folder. You can now click on your launchpad icon in your toolbar (the icon has lots of little colorful squares within it) and you will see that OBS has been successfully installed and is ready to use!
-
 <!-- affiliate ads begin -->
-
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-### Step 1: Install and Launch OBS on Mac
-
-Select 'Open System Preferences from the drop-down menu. This will take you to the privacy settings page for your account. Take note of the fact that the OBS Studio logo is located on the right-hand side of the screen and has been greyed out. We're going to want to select that option to enable screen-recording functionality. To enable display capture, simply check the tiny box next to OBS. You're now ready to record your screen! If the prompt did not appear for you when you were adding a display capture, go to your system options and select 'Privacy and Security to bring up the same menu option as before.
-
-![install and launch](https://images.wondershare.com/filmora/article-images/install-and-launch.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-### Step 2: Add Scenes on OBS
-
-You will see an option for ‘recording path' on the left-hand side. Select the folder on your Mac where you want to keep all of your OBS recordings by clicking explore and selecting the folder on your computer. We'd recommend using your Mac's default video location as a starting point. In your Sources section, select the + icon to add a new source. This will bring up a drop-down menu, from which you can choose from a variety of different sources. If you want to record your screen, select the Display Capture source from the menu bar.
-
-![add scenes](https://images.wondershare.com/filmora/article-images/add-scenes.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
-### Step 3\. Start a Stream
-
-If you're using OBS to broadcast, it's recommended that you link your account directly with OBS to have the smoothest streaming experience possible. You are effectively connecting into OBS with your streaming account to establish a direct connection between your feed and your software, which is what this means in practical terms.
-
-![start a stream](https://images.wondershare.com/filmora/article-images/start-a-stream.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
-To do so, navigate to the settings menu and select the 'Stream' tab. To connect an account, select your preferred streaming platform from the ‘service' drop-down menu and then click 'Connect Account (recommended). This will launch your internet browser and prompt you to log in with the information associated with your stream account. Once you've finished, you'll be fully connected and ready to stream.
-
-### Step 4: Save Your Streaming Settings
-
-Navigate to your OBS Studio settings, which must be optimized for your network connection and available resources. Save your changes. Scroll down to the Output tab, and make sure the Advanced output mode is selected on the output mode drop-down menu. On the Performance tab, you should be able to see how much stress your CPU and GPU are under. When streaming or recording, don't forget to take into consideration any applications that are already running on your system, such as graphically intensive games.
-
-![save settings](https://images.wondershare.com/filmora/article-images/save-settings.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
-## Conclusion
-
-While the information in this tutorial provides some fundamental concepts, the optimal OBS settings for streaming vary from system to system. The most effective way to figure out what works for you is to experiment with different settings regularly and track the results. The parameters provided in this article should allow you to receive an acceptable quality stream from OBS if you follow the instructions in the article. If, on the other hand, you or your viewers notice stuttering or an unusual frame rate during your live broadcast, you may be losing frames. A 'Dropped Frames' value can be found at the bottom right of the OBS program if you look at the bottom right of the software. If this value is greater than zero percent, your stream will experience difficulties. OBS makes use of the x264 encoding library, which is available as open-source software. Software video encoding is the term used to describe this process.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
-## 1\. How to Stream with OBS on Windows
-
-When you first start using OBS, you may be overwhelmed by the sheer number of options available and the number of settings that are required. In this piece, we'll go over some of those choices, as well as the values that you'll want to put into play. The most important configuration options can be found under the 'Output' tab of the 'Settings' menu. On this page, you can customize the majority of the visual and audio features available.
-
-### Step 1: Install and Launch OBS
-
-Launch OBS Studio and select the "Stream" tab from the "File" menu on the top toolbar. Step 2: Launch OBS Studio and select the "File" menu again. It allows you to select "Twitch" from the dropdown menu of the "Service" option right away.
-
-![obs](https://images.wondershare.com/filmora/article-images/obs.jpg)
-
-### Step 2: Setup OBS for Twitch
-
-There is a button that says "Connect Account (recommended)." Log in to your Twitch account by clicking on the link. Creating a connection between Twitch and OBS is the most straightforward method, but it is also possible to click on the "Use Stream Key" box and enter the stream key provided by Twitch. The Output (Scaled) Resolution is the resolution at which you want your stream to be displayed on your screen. As an example, if you want to broadcast in 720p, you would set the resolution to 1280 x 720\. Similarly, if you want it to be a 1080p broadcast, change the resolution to 1920 x 1080.
-
-![twitch](https://images.wondershare.com/filmora/article-images/twitch.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-### Step 3: Add Streaming Scenes
-
-You are now in the second step, which is to configure OBS Studio to its optimal streaming settings for live streaming. When you are back in the OBS main interface, tap the "+" icon in the "Source" area, and then select the video source that you want to use for streaming. The best audio quality is essential for any type of live streaming, so setting the bitrate to the highest possible setting will ensure that your viewers hear the best possible sound. Unless you are streaming video rather than music, 160 Kbps is the recommended bitrate on most websites.
-
-![add streaming scenes](https://images.wondershare.com/filmora/article-images/add-streaming-scenes.jpg)
-
-### Step 4: Start Streaming
-
-Select Stream from the drop-down menu and enter the necessary information. Click on "Start Streaming" after selecting the appropriate video source for streaming on Twitch to begin a live broadcast on the platform. The Video tab is where you can change the resolution of the stream as well as the number of frames per second it broadcasts. This is also the location where you will resize the broadcast if you so choose.
-
-![start streaming](https://images.wondershare.com/filmora/article-images/start-streaming.jpg)
-
 ## 2\. How to Stream with OBS on Mac
 
 To get started, visit the official OBS (Open Broadcaster Software) website, which can be accessed by clicking here. Choose Mac OS as your operating system and download the installation. After a few seconds, the OBS installer will download to your computer, which you will then need to install on your computer. After you have downloaded and installed the installer, you should be able to launch OBS Studio without any problems. Your Mac will begin performing some operations and then launch a new finder window, which will display the OBS program as well as the contents of your apps folder. The OBS software will automatically install itself if you simply drag and drop it into the Applications folder. You can now click on your launchpad icon in your toolbar (the icon has lots of little colorful squares within it) and you will see that OBS has been successfully installed and is ready to use!
@@ -172,6 +119,18 @@ You will see an option for ‘recording path' on the left-hand side. Select the 
 
 ![add scenes](https://images.wondershare.com/filmora/article-images/add-scenes.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 3\. Start a Stream
 
 If you're using OBS to broadcast, it's recommended that you link your account directly with OBS to have the smoothest streaming experience possible. You are effectively connecting into OBS with your streaming account to establish a direct connection between your feed and your software, which is what this means in practical terms.
@@ -180,9 +139,6 @@ If you're using OBS to broadcast, it's recommended that you link your account di
 
 To do so, navigate to the settings menu and select the 'Stream' tab. To connect an account, select your preferred streaming platform from the ‘service' drop-down menu and then click 'Connect Account (recommended). This will launch your internet browser and prompt you to log in with the information associated with your stream account. Once you've finished, you'll be fully connected and ready to stream.
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Step 4: Save Your Streaming Settings
 
 Navigate to your OBS Studio settings, which must be optimized for your network connection and available resources. Save your changes. Scroll down to the Output tab, and make sure the Advanced output mode is selected on the output mode drop-down menu. On the Performance tab, you should be able to see how much stress your CPU and GPU are under. When streaming or recording, don't forget to take into consideration any applications that are already running on your system, such as graphically intensive games.
@@ -196,12 +152,21 @@ While the information in this tutorial provides some fundamental concepts, the o
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 1\. How to Stream with OBS on Windows
 
 When you first start using OBS, you may be overwhelmed by the sheer number of options available and the number of settings that are required. In this piece, we'll go over some of those choices, as well as the values that you'll want to put into play. The most important configuration options can be found under the 'Output' tab of the 'Settings' menu. On this page, you can customize the majority of the visual and audio features available.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 1: Install and Launch OBS
 
 Launch OBS Studio and select the "Stream" tab from the "File" menu on the top toolbar. Step 2: Launch OBS Studio and select the "File" menu again. It allows you to select "Twitch" from the dropdown menu of the "Service" option right away.
@@ -209,7 +174,10 @@ Launch OBS Studio and select the "Stream" tab from the "File" menu on the top to
 ![obs](https://images.wondershare.com/filmora/article-images/obs.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118310/7443" target="_top" id="2118310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118310" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118310/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Step 2: Setup OBS for Twitch
 
@@ -218,7 +186,22 @@ There is a button that says "Connect Account (recommended)." Log in to your Twit
 ![twitch](https://images.wondershare.com/filmora/article-images/twitch.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Step 3: Add Streaming Scenes
 
@@ -227,7 +210,10 @@ You are now in the second step, which is to configure OBS Studio to its optimal 
 ![add streaming scenes](https://images.wondershare.com/filmora/article-images/add-streaming-scenes.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Step 4: Start Streaming
 
@@ -236,10 +222,16 @@ Select Stream from the drop-down menu and enter the necessary information. Click
 ![start streaming](https://images.wondershare.com/filmora/article-images/start-streaming.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 2\. How to Stream with OBS on Mac
 
@@ -252,10 +244,10 @@ Select 'Open System Preferences from the drop-down menu. This will take you to t
 ![install and launch](https://images.wondershare.com/filmora/article-images/install-and-launch.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Step 2: Add Scenes on OBS
 
@@ -264,7 +256,10 @@ You will see an option for ‘recording path' on the left-hand side. Select the 
 ![add scenes](https://images.wondershare.com/filmora/article-images/add-scenes.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Step 3\. Start a Stream
 
@@ -272,10 +267,19 @@ If you're using OBS to broadcast, it's recommended that you link your account di
 
 ![start a stream](https://images.wondershare.com/filmora/article-images/start-a-stream.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 To do so, navigate to the settings menu and select the 'Stream' tab. To connect an account, select your preferred streaming platform from the ‘service' drop-down menu and then click 'Connect Account (recommended). This will launch your internet browser and prompt you to log in with the information associated with your stream account. Once you've finished, you'll be fully connected and ready to stream.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Step 4: Save Your Streaming Settings
 
@@ -284,7 +288,116 @@ Navigate to your OBS Studio settings, which must be optimized for your network c
 ![save settings](https://images.wondershare.com/filmora/article-images/save-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Conclusion
+
+While the information in this tutorial provides some fundamental concepts, the optimal OBS settings for streaming vary from system to system. The most effective way to figure out what works for you is to experiment with different settings regularly and track the results. The parameters provided in this article should allow you to receive an acceptable quality stream from OBS if you follow the instructions in the article. If, on the other hand, you or your viewers notice stuttering or an unusual frame rate during your live broadcast, you may be losing frames. A 'Dropped Frames' value can be found at the bottom right of the OBS program if you look at the bottom right of the software. If this value is greater than zero percent, your stream will experience difficulties. OBS makes use of the x264 encoding library, which is available as open-source software. Software video encoding is the term used to describe this process.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 1\. How to Stream with OBS on Windows
+
+When you first start using OBS, you may be overwhelmed by the sheer number of options available and the number of settings that are required. In this piece, we'll go over some of those choices, as well as the values that you'll want to put into play. The most important configuration options can be found under the 'Output' tab of the 'Settings' menu. On this page, you can customize the majority of the visual and audio features available.
+
+### Step 1: Install and Launch OBS
+
+Launch OBS Studio and select the "Stream" tab from the "File" menu on the top toolbar. Step 2: Launch OBS Studio and select the "File" menu again. It allows you to select "Twitch" from the dropdown menu of the "Service" option right away.
+
+![obs](https://images.wondershare.com/filmora/article-images/obs.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Step 2: Setup OBS for Twitch
+
+There is a button that says "Connect Account (recommended)." Log in to your Twitch account by clicking on the link. Creating a connection between Twitch and OBS is the most straightforward method, but it is also possible to click on the "Use Stream Key" box and enter the stream key provided by Twitch. The Output (Scaled) Resolution is the resolution at which you want your stream to be displayed on your screen. As an example, if you want to broadcast in 720p, you would set the resolution to 1280 x 720\. Similarly, if you want it to be a 1080p broadcast, change the resolution to 1920 x 1080.
+
+![twitch](https://images.wondershare.com/filmora/article-images/twitch.jpg)
+
+### Step 3: Add Streaming Scenes
+
+You are now in the second step, which is to configure OBS Studio to its optimal streaming settings for live streaming. When you are back in the OBS main interface, tap the "+" icon in the "Source" area, and then select the video source that you want to use for streaming. The best audio quality is essential for any type of live streaming, so setting the bitrate to the highest possible setting will ensure that your viewers hear the best possible sound. Unless you are streaming video rather than music, 160 Kbps is the recommended bitrate on most websites.
+
+![add streaming scenes](https://images.wondershare.com/filmora/article-images/add-streaming-scenes.jpg)
+
+### Step 4: Start Streaming
+
+Select Stream from the drop-down menu and enter the necessary information. Click on "Start Streaming" after selecting the appropriate video source for streaming on Twitch to begin a live broadcast on the platform. The Video tab is where you can change the resolution of the stream as well as the number of frames per second it broadcasts. This is also the location where you will resize the broadcast if you so choose.
+
+![start streaming](https://images.wondershare.com/filmora/article-images/start-streaming.jpg)
+
+## 2\. How to Stream with OBS on Mac
+
+To get started, visit the official OBS (Open Broadcaster Software) website, which can be accessed by clicking here. Choose Mac OS as your operating system and download the installation. After a few seconds, the OBS installer will download to your computer, which you will then need to install on your computer. After you have downloaded and installed the installer, you should be able to launch OBS Studio without any problems. Your Mac will begin performing some operations and then launch a new finder window, which will display the OBS program as well as the contents of your apps folder. The OBS software will automatically install itself if you simply drag and drop it into the Applications folder. You can now click on your launchpad icon in your toolbar (the icon has lots of little colorful squares within it) and you will see that OBS has been successfully installed and is ready to use!
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120865/26400?prodsku=mercury" target="_top" id="2120865">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120865/26400?prodsku=mercury" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Step 1: Install and Launch OBS on Mac
+
+Select 'Open System Preferences from the drop-down menu. This will take you to the privacy settings page for your account. Take note of the fact that the OBS Studio logo is located on the right-hand side of the screen and has been greyed out. We're going to want to select that option to enable screen-recording functionality. To enable display capture, simply check the tiny box next to OBS. You're now ready to record your screen! If the prompt did not appear for you when you were adding a display capture, go to your system options and select 'Privacy and Security to bring up the same menu option as before.
+
+![install and launch](https://images.wondershare.com/filmora/article-images/install-and-launch.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115933/19272" target="_top" id="2115933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115933" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Step 2: Add Scenes on OBS
+
+You will see an option for ‘recording path' on the left-hand side. Select the folder on your Mac where you want to keep all of your OBS recordings by clicking explore and selecting the folder on your computer. We'd recommend using your Mac's default video location as a starting point. In your Sources section, select the + icon to add a new source. This will bring up a drop-down menu, from which you can choose from a variety of different sources. If you want to record your screen, select the Display Capture source from the menu bar.
+
+![add scenes](https://images.wondershare.com/filmora/article-images/add-scenes.jpg)
+
+### Step 3\. Start a Stream
+
+If you're using OBS to broadcast, it's recommended that you link your account directly with OBS to have the smoothest streaming experience possible. You are effectively connecting into OBS with your streaming account to establish a direct connection between your feed and your software, which is what this means in practical terms.
+
+![start a stream](https://images.wondershare.com/filmora/article-images/start-a-stream.jpg)
+
+To do so, navigate to the settings menu and select the 'Stream' tab. To connect an account, select your preferred streaming platform from the ‘service' drop-down menu and then click 'Connect Account (recommended). This will launch your internet browser and prompt you to log in with the information associated with your stream account. Once you've finished, you'll be fully connected and ready to stream.
+
+### Step 4: Save Your Streaming Settings
+
+Navigate to your OBS Studio settings, which must be optimized for your network connection and available resources. Save your changes. Scroll down to the Output tab, and make sure the Advanced output mode is selected on the output mode drop-down menu. On the Performance tab, you should be able to see how much stress your CPU and GPU are under. When streaming or recording, don't forget to take into consideration any applications that are already running on your system, such as graphically intensive games.
+
+![save settings](https://images.wondershare.com/filmora/article-images/save-settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118318/7443" target="_top" id="2118318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118318" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118318/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Conclusion
 
@@ -297,7 +410,10 @@ While the information in this tutorial provides some fundamental concepts, the o
 When you first start using OBS, you may be overwhelmed by the sheer number of options available and the number of settings that are required. In this piece, we'll go over some of those choices, as well as the values that you'll want to put into play. The most important configuration options can be found under the 'Output' tab of the 'Settings' menu. On this page, you can customize the majority of the visual and audio features available.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2115938/19272" target="_top" id="2115938">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115938" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115938/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Step 1: Install and Launch OBS
 
@@ -306,7 +422,10 @@ Launch OBS Studio and select the "Stream" tab from the "File" menu on the top to
 ![obs](https://images.wondershare.com/filmora/article-images/obs.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Step 2: Setup OBS for Twitch
 
@@ -315,7 +434,16 @@ There is a button that says "Connect Account (recommended)." Log in to your Twit
 ![twitch](https://images.wondershare.com/filmora/article-images/twitch.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Step 3: Add Streaming Scenes
 
@@ -324,10 +452,16 @@ You are now in the second step, which is to configure OBS Studio to its optimal 
 ![add streaming scenes](https://images.wondershare.com/filmora/article-images/add-streaming-scenes.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Step 4: Start Streaming
 
@@ -336,15 +470,27 @@ Select Stream from the drop-down menu and enter the necessary information. Click
 ![start streaming](https://images.wondershare.com/filmora/article-images/start-streaming.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 2\. How to Stream with OBS on Mac
 
 To get started, visit the official OBS (Open Broadcaster Software) website, which can be accessed by clicking here. Choose Mac OS as your operating system and download the installation. After a few seconds, the OBS installer will download to your computer, which you will then need to install on your computer. After you have downloaded and installed the installer, you should be able to launch OBS Studio without any problems. Your Mac will begin performing some operations and then launch a new finder window, which will display the OBS program as well as the contents of your apps folder. The OBS software will automatically install itself if you simply drag and drop it into the Applications folder. You can now click on your launchpad icon in your toolbar (the icon has lots of little colorful squares within it) and you will see that OBS has been successfully installed and is ready to use!
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Step 1: Install and Launch OBS on Mac
 
 Select 'Open System Preferences from the drop-down menu. This will take you to the privacy settings page for your account. Take note of the fact that the OBS Studio logo is located on the right-hand side of the screen and has been greyed out. We're going to want to select that option to enable screen-recording functionality. To enable display capture, simply check the tiny box next to OBS. You're now ready to record your screen! If the prompt did not appear for you when you were adding a display capture, go to your system options and select 'Privacy and Security to bring up the same menu option as before.
@@ -358,12 +504,16 @@ You will see an option for ‘recording path' on the left-hand side. Select the 
 ![add scenes](https://images.wondershare.com/filmora/article-images/add-scenes.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503"><img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="" width="1456" height="180"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Step 3\. Start a Stream
 
@@ -372,19 +522,25 @@ If you're using OBS to broadcast, it's recommended that you link your account di
 ![start a stream](https://images.wondershare.com/filmora/article-images/start-a-stream.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 To do so, navigate to the settings menu and select the 'Stream' tab. To connect an account, select your preferred streaming platform from the ‘service' drop-down menu and then click 'Connect Account (recommended). This will launch your internet browser and prompt you to log in with the information associated with your stream account. Once you've finished, you'll be fully connected and ready to stream.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 4: Save Your Streaming Settings
 
 Navigate to your OBS Studio settings, which must be optimized for your network connection and available resources. Save your changes. Scroll down to the Output tab, and make sure the Advanced output mode is selected on the output mode drop-down menu. On the Performance tab, you should be able to see how much stress your CPU and GPU are under. When streaming or recording, don't forget to take into consideration any applications that are already running on your system, such as graphically intensive games.
 
 ![save settings](https://images.wondershare.com/filmora/article-images/save-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 While the information in this tutorial provides some fundamental concepts, the optimal OBS settings for streaming vary from system to system. The most effective way to figure out what works for you is to experiment with different settings regularly and track the results. The parameters provided in this article should allow you to receive an acceptable quality stream from OBS if you follow the instructions in the article. If, on the other hand, you or your viewers notice stuttering or an unusual frame rate during your live broadcast, you may be losing frames. A 'Dropped Frames' value can be found at the bottom right of the OBS program if you look at the bottom right of the software. If this value is greater than zero percent, your stream will experience difficulties. OBS makes use of the x264 encoding library, which is available as open-source software. Software video encoding is the term used to describe this process.
