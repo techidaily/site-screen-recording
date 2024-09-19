@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Journey Through the Maze  Old Vs. Innovative RPGs\""
-date: 2024-09-08T18:01:39.603Z
-updated: 2024-09-13T17:34:17.465Z
+date: 2024-09-15T07:16:42.547Z
+updated: 2024-09-19T00:40:36.802Z
 tags: 
   - screen-recording
   - ai video
@@ -39,25 +39,11 @@ Part 1: What's the Difference Between Roguelikes and Roguelites?
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Rogue: Where it all started
 
 In order to best understand these two game genres, we must first analyze the origin of their namesakes. Way back in 1980, game designers Michael Toy and Glenn Wichman released an ASCII art dungeon crawler called _Rogue_. Inspired by the pen-and-paper RPG _Dungeons & Dragons_, this turn-based adventure game had players explore dungeons in which they fought monsters and gathered items to help them power up their characters. The game's defining mechanic was **permadeath**. This meant that once your character died, it was literally the end. You couldn't create a save nor revive your fallen hero in any way. Starting over meant a completely fresh game with a brand new character. What's more is that starting a new game meant the dungeons were completely different, including enemy placement, room location, and item distribution. Every decision could mean either living and carrying on or dying and starting over, making the choices players made meaningful.
 
 ![michael-toy-glenn-wichman](https://images.wondershare.com/filmora/article-images/michael-toy-glenn-wichman.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What is a Roguelike Game?
 
@@ -76,13 +62,6 @@ Roguelites also have procedurally generated environments in a lot of cases. Ther
 It's roguelites that are also usually a mix of different genres with _Rogue_ style mechanics. From action RPGs to card games, the roguelite genre's offerings are quite expansive. The leniency they give when it comes to permadeath and randomness affords developers more design space in which they can craft unique experiences.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115930/19272" target="_top" id="2115930">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115930" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115930/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## A Clear Distinction
 
@@ -132,24 +111,18 @@ _Dead Cells_ is an exploration-based action platformer (a.k.a. a metroidvania) w
 
 ![deadcells-poster](https://images.wondershare.com/filmora/article-images/deadcells-poster.png)
 
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### Slay the Spire
 
 One of the most highly praised indie games, MegaCrit's _Slay the Spire_ is a shining example of a perfect blend of genres. It's a deckbuilding card game where you must climb the titular Spire while defeating enemies and bosses in turn-based card battles, so you can ultimately slay its heart. Each run consists of 3 Acts, each of which gives you choices of pathways that are procedurally generated. While enemy placement is somewhat controlled at first, it becomes more truly random the higher you climb. What makes StS particularly challenging is that it affords very few options to restore health so guarding your HP is vital. While death does mean you'll have to start all the way from the bottom, you can unlock new cards for each of the game's 4 classes as you level them up. The game also offers a wide variety of options for challenges and seeded custom runs.
 
 ![slay-the-spire](https://images.wondershare.com/filmora/article-images/slay-the-spire.png)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Hades
 
@@ -158,30 +131,23 @@ Nominated for a Game of the Year award, _Hades_ is a beloved title that has conv
 ![deadcells-poster](https://images.wondershare.com/filmora/article-images/mirror-hades.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Bonus:** With thousand of effects, Filmora X help you record your gameplay and edit it into nice montage.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123471/16836" target="_top" id="2123471">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123471" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123471/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -199,20 +165,12 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-cutting-edge-tech-for-screen-capture-an-itop-review/"><u>[New] 2024 Approved Cutting-Edge Tech for Screen Capture An ITop Review</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-minimize-surround-loudness-economical-and-premium-solutions/"><u>[New] 2024 Approved Minimize Surround Loudness - Economical & Premium Solutions</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-top-20-racing-games-for-bicyclists/"><u>[New] 2024 Approved Top 20 Racing Games for Bicyclists</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-easy-steps-for-effective-ez-grabber-implementation/"><u>[Updated] Easy Steps for Effective EZ Grabber Implementation</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-nurturing-nature-on-android-animals-in-a-virtual-world/"><u>[Updated] Nurturing Nature on Android Animals in a Virtual World</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-the-complete-lowdown-on-using-showmores-recorder/"><u>[Updated] The Complete Lowdown on Using ShowMore's Recorder</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-motorola-moto-g-stylus-5g-2023-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Motorola Moto G Stylus 5G (2023) Phone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-open-your-apple-iphone-13-without-a-home-button-by-drfone-ios/"><u>In 2024, How To Open Your Apple iPhone 13 Without a Home Button</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/in-2024-what-software-does-youtube-vloggers-use-and-what-is-the-best-free-video-editing-software-for-vlogger-beginners-in-this-article-youll-find-5-best-vlo/"><u>In 2024, What Software Does YouTube Vloggers Use? And What Is the Best Free Video Editing Software for Vlogger Beginners? In This Article, Youll Find 5 Best Vlog Video Editing Software. You Can Now Choose Th</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/maximize-your-home-internet-range-with-the-best-extenders-of-2024/"><u>Maximize Your Home Internet Range with the Best Extenders of 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/streamlining-lecture-recordings-on-imac/"><u>Streamlining Lecture Recordings on iMac</u></a></li>
-<li><a href="https://some-skills.techidaily.com/synergy-of-social-media-embedding-linktree-in-your-tiktok-bio-for-2024/"><u>Synergy of Social Media Embedding Linktree in Your TikTok Bio for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/technical-savvy-selecting-the-best-capture-tools-for-2024/"><u>Technical Savvy Selecting the Best Capture Tools for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/the-repetitive-nature-of-its-resource-management-and-building-systems-limited-long-term-engagement-without-significant-content-updates-or-game-mechanic-chan491/"><u>The Repetitive Nature of Its Resource Management and Building Systems Limited Long-Term Engagement without Significant Content Updates or Game Mechanic Changes</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-on-tecno-spark-20-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Tecno Spark 20 FRP Bypass</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-elevate-your-recordings-selecting-top-pc-and-mac-apps/"><u>[New] 2024 Approved Elevate Your Recordings Selecting Top PC & Mac Apps</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-how-to-record-edit-and-export-high-quality-webcam-videoseasy-steps/"><u>[Updated] 2024 Approved How to Record, Edit and Export High-Quality Webcam Videos[Easy Steps]</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-survive-and-thrive-top-8-zombie-game-experiences/"><u>[Updated] Survive and Thrive Top 8 Zombie Game Experiences</u></a></li>
+<li><a href="https://fox-http.techidaily.com/laptoppc-video-editing-tools-apart-from-inshot-for-2024/"><u>Laptop/PC Video Editing Tools Apart From Inshot for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/navigating-tiktok-crashes-fix-guide-for-androidios-users-for-2024/"><u>Navigating TikTok Crashes Fix Guide for Android/iOS Users for 2024</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/step-by-step-guide-to-setting-up-the-mad-titan-sports-addon-in-kodi-v203-nexus-edition/"><u>Step-by-Step Guide to Setting Up the Mad Titan Sports Addon in Kodi V.20.3 - Nexus Edition</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-samsung-galaxy-s24-display-shields-ultimate-selection/"><u>Top-Rated Samsung Galaxy S24 Display Shields - Ultimate Selection</u></a></li>
 </ul></div>
 

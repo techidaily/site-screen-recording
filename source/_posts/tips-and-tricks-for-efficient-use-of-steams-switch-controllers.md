@@ -1,7 +1,7 @@
 ---
 title: "Tips & Tricks for Efficient Use of Steam’s Switch Controllers"
-date: 2024-09-11T16:05:24.997Z
-updated: 2024-09-13T19:29:44.345Z
+date: 2024-09-14T21:56:17.068Z
+updated: 2024-09-18T18:01:42.326Z
 tags: 
   - screen-recording
   - ai video
@@ -42,13 +42,6 @@ This article will tell you how to enable your Nintendo Switch Pro controller to 
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Wired Connection for Switch Pro Controllers**
 
 Windows describe it as a DirectInput controller instead of an XInput controller, so getting it to work with PC games can prove tedious. However, thanks to Value-adding full Switch controller support to Steam, you will probably be able to play most of your favorite games.
@@ -77,26 +70,12 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 
 ![switch-pro-controller-add-device](https://images.wondershare.com/filmora/article-images/switch-pro-controller-add-device.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * Click on "Bluetooth" (since Windows 10 needs to be convinced that you want to use Bluetooth).
 * Ensure that the Pro Controller appears on the list of available devices (if it does not, ensure that the indicator lights are flashing back and forth). Pair the controller by clicking it.
 
 ![switch-pro-controller-setting-up](https://images.wondershare.com/filmora/article-images/switch-pro-controller-setting-up.png)
 
 * Once Steam is set up, you can begin using it.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **How To Setup Steam To Use Your Switch Pro Controller On Pc**
 
@@ -114,26 +93,13 @@ When configured through Steam, you should use the Pro Controller with any Steam 
 
 ![switch-pro-controller-steam-set-up2](https://images.wondershare.com/filmora/article-images/switch-pro-controller-steam-set-up2.png)
 
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Enter the Switch Pro Controller overlay from Steam's controller options while running in Big Picture mode. There are several ways to map the inputs on the Pro Controller, but default configurations are usually sufficient for most games. By changing the controller mapping based on the situation, you can fix any problems on the fly.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **What To Do With Non-Steam Games?**
@@ -147,10 +113,16 @@ The main problem here now is how windows will detect your switch pro controller 
 **Solution2:** The second method is to use a software-based XInput Wrapper. There is plenty of software out there that provides this functionality. Just configure your switch pro controller with them, and you can easily use it on non-steam games.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Final Verdict**
@@ -174,18 +146,15 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-youtube-archiving-a-guide-to-moving-to-dailymotion/"><u>[New] 2024 Approved YouTube Archiving A Guide to Moving to Dailymotion</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-assessing-the-dominance-of-splitcam-recording/"><u>[New] In 2024, Assessing the Dominance of SplitCam Recording</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-constructing-youtube-video-content-that-resonates-with-viewers/"><u>[New] In 2024, Constructing YouTube Video Content That Resonates with Viewers</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-prevent-unwanted-video-captures-in-qt-player/"><u>[New] Prevent Unwanted Video Captures in QT Player</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-savetech-reviews-insights-for-2024/"><u>[New] SaveTech Reviews Insights for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-videorecording-mastery-with-screencapture-x/"><u>[Updated] 2024 Approved VideoRecording Mastery with ScreenCapture X</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-streamsavvy-exploring-alternatives-to-dacast/"><u>2024 Approved StreamSavvy Exploring Alternatives to DaCast</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/advanced-recording-software-outshining-fbx-methods/"><u>Advanced Recording Software Outshining FBX Methods</u></a></li>
-<li><a href="https://windows11.techidaily.com/exploring-exceptional-no-cost-creativity-suites-as-the-optimal-substitutes-for-adobe-in-future-artistic-ventures/"><u>Exploring Exceptional No-Cost Creativity Suites as the Optimal Substitutes for Adobe in Future Artistic Ventures</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-iphone-xr-and-ipad-securely-drfone-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on iPhone XR and iPad Securely | Dr.fone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/premier-mobile-platforms-the-best-selection-of-android-emulators-for-playstation-2/"><u>Premier Mobile Platforms The Best Selection of Android Emulators for PlayStation 2</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/pudding-patrol-tutorial-how-to-guide-to-screen-capture-software-for-2024/"><u>Pudding Patrol Tutorial How-To Guide to Screen Capture Software for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/the-finest-12-tycoons-your-pathway-to-gaming-enthusiasm-for-2024/"><u>The Finest 12 Tycoons Your Pathway to Gaming Enthusiasm for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-logitech-cam-enhancement-techniques-for-detailed-edits/"><u>[New] 2024 Approved Logitech Cam Enhancement - Techniques for Detailed Edits</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-ultimate-guide-to-pcs-and-macs-best-recorders/"><u>[New] Ultimate Guide to PC's and Mac's Best Recorders</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-zoom-panel-essentials-for-novices/"><u>[New] Zoom Panel Essentials for Novices</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-how-to-safeguard-your-feed-remove-followers/"><u>[Updated] 2024 Approved How to Safeguard Your Feed Remove Followers</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-essential-tips-for-documenting-real-time-youtube-broadcasts/"><u>[Updated] Essential Tips for Documenting Real-Time YouTube Broadcasts</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-optimal-sony-ps3-reproduction-tools-ranked-pc-for-2024/"><u>[Updated] Optimal Sony PS3 Reproduction Tools Ranked (PC) for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-top-10-escape-houses-challenges-for-intellects/"><u>In 2024, Top 10 Escape Houses Challenges for Intellects</u></a></li>
+<li><a href="https://win-premium.techidaily.com/kostenlos-konvertieren-von-cr2-in-jpeg-mit-hilfe-der-webseite-movavi-einfach-und-effektiv/"><u>Kostenlos Konvertieren Von CR2 in JPEG Mit Hilfe Der Webseite Movavi - Einfach Und Effektiv</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ultimate-gimbal-picks-for-dslr-quality-videos/"><u>Ultimate Gimbal Picks for DSLR-Quality Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/winxdvd-suite-official-version-features-dvd-ripping-intelligent-video-enhancement-and-multi-platform-conversion/"><u>WinXDVD Suite Official Version: Features DVD Ripping, Intelligent Video Enhancement & Multi-Platform Conversion</u></a></li>
 </ul></div>
 

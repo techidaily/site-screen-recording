@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Personalize Save Location for Captured Mac Screen for 2024"
-date: 2024-09-09T17:48:51.279Z
-updated: 2024-09-13T18:38:54.509Z
+date: 2024-09-12T01:49:32.284Z
+updated: 2024-09-19T08:10:15.350Z
 tags: 
   - screen-recording
   - ai video
@@ -31,13 +31,6 @@ Here's how you can change the location where the screenshots you take using the 
 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123478/16836" target="_top" id="2123478">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123478" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123478/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### The All-in-One Screen Recorder & Video Editor
 
 * Record desktop screen, voiceover, and webcam simultaneously
@@ -55,31 +48,11 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 1: How to Save Screenshots to a Specific Folder on Mac
 
 Changing the folder where you store your screenshots is not an irreversible process, which means that you can reset the destination where the files are saved to Desktop at any point. Do not delete the new folder, because your Mac may not be able to take screenshots, afterward. The process described below is the only way you can delete a folder or add a new destination for your screenshots, and failing to comply with it may cause your Mac to malfunction.
 
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Create a new folder on the desired location on your hard drive, and then launch Terminal, by typing Terminal in the Search Box and clicking on its icon. Once the app is open, you should insert the following command into the Terminal window:
 
@@ -88,13 +61,6 @@ Create a new folder on the desired location on your hard drive, and then launch 
 Then enter a space at the end after 'location'.
 
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal-settings.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 The next step is to add the new location at which screenshots will be saved and you can do this by simply dragging the folder you created into Terminal and adding it at the end of the command you just entered. A path is created and the command line should now contain the folder's unique location and it should look like this:
 
@@ -105,19 +71,6 @@ To execute the command you have to press Enter. After Terminal finishes running 
 **killall SystemUIServer**
 
 Hit Enter once more to confirm the changes and run the new command. Close Terminal app by clicking on the Terminal menu and selecting the Quick Terminal option. The default location where the screenshots are saved on your Mac is now changed and every time you take a screenshot using the Command + Shift + 3 shortcut the file will be saved at the new location. If for whatever reason you want to make the Desktop once again the destination where the screenshots on your computer will be saved here's how you can do it.
-
-<!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2: How to Change the Screenshot Save Location Back to Desktop
 
@@ -130,13 +83,6 @@ Make sure that your username is properly written, and then press Enter to run th
 Don't forget that deleting the folder you use as a default location for storing screenshots should only be done using the process we just described in the Terminal application, since all other methods may cause unnecessary trouble.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Max Wales
 
@@ -153,19 +99,28 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-comprehensive-strategies-for-overwatch-gaming-saves/"><u>[New] 2024 Approved Comprehensive Strategies for Overwatch Gaming Saves</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-enhance-your-conference-experience-with-webcam-recordings/"><u>[New] 2024 Approved Enhance Your Conference Experience with Webcam Recordings</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-masterclass-in-virality-cutting-edge-strategies-for-instagram-films/"><u>[New] 2024 Approved Masterclass in Virality Cutting-Edge Strategies for Instagram Films</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-5-reddit-marketing-tips-that-will-turn-beginners-into-experts/"><u>[New] 5 Reddit Marketing Tips that Will Turn Beginners Into Experts</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-innovative-ways-to-record-and-tweak-videos-using-the-adobe-connect-platform/"><u>[New] In 2024, Innovative Ways to Record & Tweak Videos Using the Adobe Connect Platform</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-diving-deep-into-the-world-of-professional-voice-overs-for-videos/"><u>[Updated] In 2024, Diving Deep Into the World of Professional Voice Overs for Videos</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-exclusive-look-at-zooms-prime-transcription-software-choices/"><u>[Updated] In 2024, Exclusive Look at Zoom's Prime Transcription Software Choices</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-ingenious-webcam-use-cases-at-home/"><u>[Updated] Ingenious Webcam Use Cases at Home</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/downloading-samfw-frp-tool-30-for-lenovo-thinkphone-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Lenovo ThinkPhone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expert-tips-for-ios-downloading-podcasts-on-iphone-for-2024/"><u>Expert Tips for iOS Downloading Podcasts on iPhone for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Motorola Moto G23 | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/priorities-for-a-smooth-ai-conversation-experience/"><u>Priorities for a Smooth AI Conversation Experience</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/removing-unneeded-podcast-advice-from-spotify/"><u>Removing Unneeded Podcast Advice From Spotify</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/top-gopro-film-editing-applications/"><u>Top GoPro Film-Editing Applications</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-effortless-integration-posting-twitter-vids-on-instagram-profile/"><u>[New] 2024 Approved Effortless Integration Posting Twitter Vids on Instagram Profile</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-file-sharing-solutions-beyond-sharex/"><u>[New] 2024 Approved File Sharing Solutions Beyond ShareX</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-analyzing-the-best-for-gaming-screens/"><u>[New] Analyzing the Best for Gaming Screens</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-optimizing-screen-captures-expert-techniques-for-hp-laptops-for-2024/"><u>[New] Optimizing Screen Captures Expert Techniques for HP Laptops for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-digital-dynamo-women-the-fastest-growing-female-channel-owners/"><u>[Updated] 2024 Approved Digital Dynamo Women The Fastest-Growing Female Channel Owners</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-elite-hd-visuals-selecting-top-quality-recorders/"><u>[Updated] 2024 Approved Elite HD Visuals Selecting Top Quality Recorders</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-cutting-edge-techniques-for-excellent-powerpoint-recordings/"><u>[Updated] Cutting-Edge Techniques for Excellent PowerPoint Recordings</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-mac-users-guide-the-full-spectrum-of-screenflow-pro-for-2024/"><u>[Updated] Mac Users Guide The Full Spectrum of ScreenFlow Pro for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-navigating-the-world-of-pc-screencasters-with-ease/"><u>[Updated] Navigating the World of PC Screencasters with Ease</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-tech-savvy-tips-for-lenovo-display-capture-for-2024/"><u>[Updated] Tech-Savvy Tips for Lenovo Display Capture for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-choosing-between-obs-studio-and-bandicam-for-screen-capture/"><u>In 2024, Choosing Between OBS Studio and Bandicam for Screen Capture</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-xiaomi-redmi-12-5g-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Xiaomi Redmi 12 5G Device</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/perfecting-iphone-photography-mastery-of-macro-and-close-up-details/"><u>Perfecting iPhone Photography Mastery of Macro and Close-Up Details</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedying-absent-d3dx939dll-on-windows-11/"><u>Remedying Absent D3DX9_39.dll on Windows 11</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1725290037247-winxvideo-ai-gpu/"><u>기하학으로 향상된 Winxvideo AI: 모든 영화, 음악 파일 매트릭스를 GPU의 가속움 만에 전환</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

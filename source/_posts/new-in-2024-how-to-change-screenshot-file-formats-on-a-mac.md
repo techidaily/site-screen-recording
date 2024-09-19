@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, How to Change Screenshot File Formats on a Mac"
-date: 2024-09-09T18:30:21.212Z
-updated: 2024-09-13T16:44:46.155Z
+date: 2024-09-15T17:42:29.829Z
+updated: 2024-09-19T03:12:27.224Z
 tags: 
   - screen-recording
   - ai video
@@ -48,32 +48,11 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115919/19272" target="_top" id="2115919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115919" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Supported Image Formats on Mac
 
 As we already mentioned, Mac computers allow its users to save screenshots in some of the most frequently used picture file formats. The PNG files support lossless data compression, just like GIF files and they are the most commonly used lossless data compression format on the Internet. However, there are a few downsides, including the size of the PNG files that can prompt you to set another file format as the default screenshot file format on your Mac.
 
 Using JPEG file extension will enable you to create images that can be used in Word documents, PowerPoint presentations or shared anywhere on the Internet. PDF or TIFF files should only be used if you want to print the screenshot you've taken, while the GIF file format is used to create short animations or loops and there is absolutely no reason to use it as a default screenshot file format.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Which Screenshot Format Should You Use?
 
@@ -82,22 +61,15 @@ Each image file format Mac computer support is designed for different purposes, 
 Besides being smaller in size than PNG files, JPEG files are also handier if you want to annotate the screenshots you're taking. In addition, you'll be able to post your files anywhere on the Internet, because JPEG files are supported by all social media platforms.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Change Screenshot Formats?
 
 ![ Mac Screenshots formats ](https://images.wondershare.com/filmora/article-images/mac-screenshot-format-changing.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120863/26400?prodsku=Mercury" target="_top" id="2120863">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120863/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Once you decide which format you want to use the default screenshot graphics format on your Mac, you should launch the Terminal app. You can access the Terminal from the Utility subfolder that is located in the Application folder.
 
@@ -136,10 +108,10 @@ You can switch back to capturing screenshots in PNG file format at any moment by
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -157,21 +129,18 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-top-12-tycoons-where-every-move-counts-toward-victory/"><u>[New] In 2024, Top 12 Tycoons - Where Every Move Counts Toward Victory</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-virtual-venue-verdict-navigating-between-obs-and-twitch-streaming/"><u>[New] In 2024, Virtual Venue Verdict Navigating Between OBS & Twitch Streaming</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-proven-ways-to-archive-your-whatsapp-chat-history-efficiently-for-2024/"><u>[New] Proven Ways to Archive Your WhatsApp Chat History Efficiently for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-superior-nintendo-switch-hd-recording-for-2024/"><u>[New] Superior Nintendo Switch HD Recording for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-symphony-space-recordings-downloads-for-study/"><u>[New] Symphony Space Recordings, Downloads for Study</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-leveraging-vocal-charisma-to-enrich-ppt-storytelling/"><u>[Updated] 2024 Approved Leveraging Vocal Charisma to Enrich PPT Storytelling</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-essential-quicktime-lapse-maker-5-for-2024/"><u>[Updated] Essential Quicktime-Lapse Maker #5 for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-fixes-for-disabled-obs-fullscreen-mode-for-2024/"><u>[Updated] Fixes for Disabled OBS Fullscreen Mode for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-from-beginner-to-pro-transforming-windows-videos-with-minimal-tools/"><u>[Updated] From Beginner to Pro Transforming Windows Videos with Minimal Tools</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-unleashing-funimate-on-android-step-by-step-apk-tutorial/"><u>[Updated] Unleashing Funimate on Android - Step-by-Step APK Tutorial</u></a></li>
-<li><a href="https://program-issues.techidaily.com/essential-solutions-handling-continuous-pc-freezes-during-fuser-use/"><u>Essential Solutions: Handling Continuous PC Freezes During Fuser Use</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-xiaomi-redmi-note-12t-pro-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Xiaomi Redmi Note 12T Pro Face Lock?</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-harmonizing-words-and-images-the-essence-of-ppt-voiceovers/"><u>In 2024, Harmonizing Words & Images The Essence of PPT Voiceovers</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-windows-error-403-in-roblox/"><u>Navigating Windows Error 403 in Roblox</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/step-by-step-guide-enhancing-your-pc-with-a-new-graphics-card/"><u>Step-by-Step Guide: Enhancing Your PC with a New Graphics Card</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/the-ultimate-guide-to-thriving-in-google-meet-chats/"><u>The Ultimate Guide to Thriving in Google Meet Chats</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-maximize-ps5-space-premier-top-10-hdds/"><u>[New] Maximize PS5 Space Premier Top 10 HDDs</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-explore-the-top-5-snipping-utilities-for-chrome-os-users/"><u>[Updated] In 2024, Explore The Top 5 Snipping Utilities For Chrome OS Users</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-step-by-step-guide-to-iphone-screen-capturing/"><u>[Updated] In 2024, Step-by-Step Guide to Iphone Screen Capturing</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-master-list-of-premium-9-multi-platform-video-communication-apps/"><u>[Updated] Master List of Premium 9 Multi-Platform Video Communication Apps</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/assemble-your-own-google-vr-viewing-device-for-2024/"><u>Assemble Your Own Google VR Viewing Device for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/dynamic-scripting-for-videos-for-2024/"><u>Dynamic Scripting for Videos for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/identifying-which-colleagues-saw-my-file-monitoring-google-docs-views/"><u>Identifying Which Colleagues Saw My File? Monitoring Google Docs Views</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Vivo Y28 5G | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/mastering-acer-aspire-drivers-compatibility-updating-and-downloading-in-a-window-based-system/"><u>Mastering Acer Aspire Drivers Compatibility: Updating & Downloading in a Window-Based System</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/record-android-internal-sound-4-non-root-methods/"><u>Record Android Internal Sound 4 Non-Root Methods</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/simplestrecorder-user-friendly-screen-capture/"><u>SimplestRecorder User-Friendly Screen Capture</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-from-vivo-y100t-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Vivo Y100t FRP Bypass</u></a></li>
 </ul></div>
 
