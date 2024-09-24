@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Personalize Save Location for Captured Mac Screen for 2024"
-date: 2024-09-12T01:49:32.284Z
-updated: 2024-09-19T08:10:15.350Z
+date: 2024-09-19T21:09:28.253Z
+updated: 2024-09-23T19:18:05.388Z
 tags: 
   - screen-recording
   - ai video
@@ -48,11 +48,31 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 1: How to Save Screenshots to a Specific Folder on Mac
 
 Changing the folder where you store your screenshots is not an irreversible process, which means that you can reset the destination where the files are saved to Desktop at any point. Do not delete the new folder, because your Mac may not be able to take screenshots, afterward. The process described below is the only way you can delete a folder or add a new destination for your screenshots, and failing to comply with it may cause your Mac to malfunction.
 
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Create a new folder on the desired location on your hard drive, and then launch Terminal, by typing Terminal in the Search Box and clicking on its icon. Once the app is open, you should insert the following command into the Terminal window:
 
@@ -61,6 +81,13 @@ Create a new folder on the desired location on your hard drive, and then launch 
 Then enter a space at the end after 'location'.
 
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal-settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 The next step is to add the new location at which screenshots will be saved and you can do this by simply dragging the folder you created into Terminal and adding it at the end of the command you just entered. A path is created and the command line should now contain the folder's unique location and it should look like this:
 
@@ -71,6 +98,13 @@ To execute the command you have to press Enter. After Terminal finishes running 
 **killall SystemUIServer**
 
 Hit Enter once more to confirm the changes and run the new command. Close Terminal app by clicking on the Terminal menu and selecting the Quick Terminal option. The default location where the screenshots are saved on your Mac is now changed and every time you take a screenshot using the Command + Shift + 3 shortcut the file will be saved at the new location. If for whatever reason you want to make the Desktop once again the destination where the screenshots on your computer will be saved here's how you can do it.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2: How to Change the Screenshot Save Location Back to Desktop
 
@@ -99,28 +133,18 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-effortless-integration-posting-twitter-vids-on-instagram-profile/"><u>[New] 2024 Approved Effortless Integration Posting Twitter Vids on Instagram Profile</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-file-sharing-solutions-beyond-sharex/"><u>[New] 2024 Approved File Sharing Solutions Beyond ShareX</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-analyzing-the-best-for-gaming-screens/"><u>[New] Analyzing the Best for Gaming Screens</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-optimizing-screen-captures-expert-techniques-for-hp-laptops-for-2024/"><u>[New] Optimizing Screen Captures Expert Techniques for HP Laptops for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-digital-dynamo-women-the-fastest-growing-female-channel-owners/"><u>[Updated] 2024 Approved Digital Dynamo Women The Fastest-Growing Female Channel Owners</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-elite-hd-visuals-selecting-top-quality-recorders/"><u>[Updated] 2024 Approved Elite HD Visuals Selecting Top Quality Recorders</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-cutting-edge-techniques-for-excellent-powerpoint-recordings/"><u>[Updated] Cutting-Edge Techniques for Excellent PowerPoint Recordings</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-mac-users-guide-the-full-spectrum-of-screenflow-pro-for-2024/"><u>[Updated] Mac Users Guide The Full Spectrum of ScreenFlow Pro for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-navigating-the-world-of-pc-screencasters-with-ease/"><u>[Updated] Navigating the World of PC Screencasters with Ease</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-tech-savvy-tips-for-lenovo-display-capture-for-2024/"><u>[Updated] Tech-Savvy Tips for Lenovo Display Capture for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-choosing-between-obs-studio-and-bandicam-for-screen-capture/"><u>In 2024, Choosing Between OBS Studio and Bandicam for Screen Capture</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-xiaomi-redmi-12-5g-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Xiaomi Redmi 12 5G Device</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/perfecting-iphone-photography-mastery-of-macro-and-close-up-details/"><u>Perfecting iPhone Photography Mastery of Macro and Close-Up Details</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/remedying-absent-d3dx939dll-on-windows-11/"><u>Remedying Absent D3DX9_39.dll on Windows 11</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1725290037247-winxvideo-ai-gpu/"><u>기하학으로 향상된 Winxvideo AI: 모든 영화, 음악 파일 매트릭스를 GPU의 가속움 만에 전환</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-how-android-enables-seamless-screen-capturing/"><u>[New] 2024 Approved How Android Enables Seamless Screen Capturing</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-guide-audio-free-video-recording-methods/"><u>[New] Guide Audio-Free Video Recording Methods</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-prime-steps-for-capturing-phone-operations/"><u>[New] Prime Steps for Capturing Phone Operations</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-top-screen-recorders-for-live-broadcasts-on-youtube/"><u>[New] Top Screen Recorders for Live Broadcasts on YouTube</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-uniting-your-network-with-cross-platform-skype-chat-groups-a-how-to-guide/"><u>[New] Uniting Your Network with Cross-Platform Skype Chat Groups A How-To Guide</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-optimal-video-saver-best-chromebook-recorder/"><u>[Updated] 2024 Approved Optimal Video Saver Best Chromebook Recorder</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-perfecting-your-phones-capability-for-youtube-thumbnail-creation/"><u>[Updated] 2024 Approved Perfecting Your Phone's Capability for YouTube Thumbnail Creation</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-ignite-your-networking-join-the-1k-club-on-instagram-regularly/"><u>[Updated] Ignite Your Networking Join the 1K Club on Instagram Regularly</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-discovering-the-secrets-to-targeted-youtubes-likes-and-views/"><u>[Updated] In 2024, Discovering the Secrets to Targeted YouTubes Likes and Views</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-skyrocketing-performance-boosting-ram-in-minecraft/"><u>[Updated] Skyrocketing Performance Boosting RAM in Minecraft</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-xiaomi-redmi-12-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Xiaomi Redmi 12 | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-iphone-7-device-from-icloud-by-drfone-ios/"><u>In 2024, How to Remove iPhone 7 Device from iCloud</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-the-market-critical-considerations-for-buying-a-smart-tv/"><u>Navigating the Market: Critical Considerations for Buying a Smart TV</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

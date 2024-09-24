@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Tips on Troubleshooting Frozen OBS Fullscreen Problem\""
-date: 2024-09-14T08:12:13.654Z
-updated: 2024-09-19T05:15:07.733Z
+date: 2024-09-21T17:30:51.042Z
+updated: 2024-09-23T22:42:14.876Z
 tags: 
   - screen-recording
   - ai video
@@ -39,6 +39,13 @@ Step 4: Change CPU Usage Present from Veryfast to Ultrafast so that OBS uses les
 
 Step 5: Click on Apply and Ok button.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Way 2\. Shut Down The Game Bar Recording
 
 There are certain gaming features available in Windows 10 that cause rendering issue for OBS studio. If game mode is on, all the GPU resources are used in the active game and hence, OBS suffers in performance. Similarly, if Game Bar recording is on, it interferes with OBS Studio full screen recording and leads to OBS studio not recording full screen game. You need to turn off Game Bar recording by taking the following steps.
@@ -52,6 +59,13 @@ Step 3: Go to Xbox Game Bar tab on the left side.
 4: Turn it off so that it does not record your gameplay.
 
 ![windows settings xbox game bar](https://images.wondershare.com/filmora/article-images/windows-settings-xbox-game-bar.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Way 3\. Empower the Compatibility Mode
 
@@ -79,13 +93,6 @@ Step 7: Click on Apply and OK button.
 
 Relaunch OBS Studio and check if the problem is solved.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Way 4\. Turn Your Gameplay to Windowed Mode
 
 When OBS Studio not recording full screen game, you have to move to Windowed Mode momentarily to ensure OBS Studio is actually capturing the gameplay or not. After capturing your gameplay in Windowed mode, you can switch to Full Screen Mode and check if the problem is solved. This helps as the default settings get reset and any issue with the settings causing the problem gets resolved. Here are the steps to follow.
@@ -97,6 +104,13 @@ Step 2: Open OBS Studio and from Sources, click on “+” icon and select Displ
 Step 3: Right-click on Display Capture and click on Windowed Projector option.
 
 ![turn your gameplay to windows mode](https://images.wondershare.com/filmora/article-images/turn-your-gameplay-to-windows-mode.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 4: Click on Start Recording and move to your Windowed game screen. After recording for a few seconds, click on Stop Recording. Check if the recording has been successful.
 
@@ -112,23 +126,9 @@ Step 2: From the list of installed applications, find OBS Studio and click on Un
 
 ![re install obs uninstall](https://images.wondershare.com/filmora/article-images/re-install-obs-uninstall.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 3: Once OBS Studio is successfully uninstalled, open your web browser and visit “obsproject.com”.
 
 ![install and launch](https://images.wondershare.com/filmora/article-images/install-and-launch.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 4: Download and install OBS Studio as per your operating system. Give all the necessary permissions during installation.
 
@@ -151,10 +151,10 @@ Step 1: Download and install Wondershare Filmora. Launch Filmora and click on PC
 ![pc screen](https://images.wondershare.com/filmora/article-images/pc-screen.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 2: Select the recording screen size as full screen.
@@ -182,21 +182,22 @@ Step 2: Select the recording screen size as full screen.
 ![set audio](https://images.wondershare.com/filmora/article-images/set-audio.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 3: Click on Record button when you are ready. You will get a few buffer seconds to switch to your application or game in full screen mode. Thereafter, Filmora will start recording in the background.
 
 Step 4: When you are done, click on Stop button or press the Hotkey you have set to start and stop recording. You can edit the video and click on Export to save it on your hard drive.
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -210,6 +211,13 @@ Step 1: Download and install Wondershare Filmora. Launch Filmora and click on PC
 
 ![pc screen](https://images.wondershare.com/filmora/article-images/pc-screen.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 2: Select the recording screen size as full screen.
 
 ![set audio](https://images.wondershare.com/filmora/article-images/set-audio.jpg)
@@ -217,6 +225,13 @@ Step 2: Select the recording screen size as full screen.
 Step 3: Click on Record button when you are ready. You will get a few buffer seconds to switch to your application or game in full screen mode. Thereafter, Filmora will start recording in the background.
 
 Step 4: When you are done, click on Stop button or press the Hotkey you have set to start and stop recording. You can edit the video and click on Export to save it on your hard drive.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -266,16 +281,19 @@ OBS full screen not working is a common issue that many users have reported on v
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-assessment-of-vlc-screen-recording-for-2024/"><u>[New] Assessment of VLC Screen Recording for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-comparing-the-leading-tunefab-screen-recorders/"><u>[New] In 2024, Comparing the Leading Tunefab Screen Recorders</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-smart-pick-android-apps-for-large-video-meetings-for-2024/"><u>[New] Smart Pick Android Apps for Large Video Meetings for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-screen-grab-pros-comprehensive-analysis/"><u>[Updated] 2024 Approved Screen Grab Pros Comprehensive Analysis</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-unlocking-pc-capabilities-how-to-record-tv-on-windows/"><u>[Updated] Unlocking PC Capabilities How to Record TV on Windows</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-mastering-speed-easy-steps-to-create-top-notch-slow-motion-on-android/"><u>2024 Approved Mastering Speed Easy Steps to Create Top-Notch Slow Motion on Android</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/a-guide-oneplus-open-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide OnePlus Open Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/expert-advice-on-resolving-the-screen-blackout-glitch-in-persona-5-strikers-a-step-by-step-guide/"><u>Expert Advice on Resolving the 'Screen Blackout' Glitch in Persona 5 Strikers: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-does-transfer-learning-empower-ai-an-intuitive-approach/"><u>How Does Transfer Learning Empower AI? An Intuitive Approach</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-get-the-apple-id-verification-code-from-apple-iphone-13-pro-max-in-the-best-ways-by-drfone-ios/"><u>In 2024, How To Get the Apple ID Verification Code From Apple iPhone 13 Pro Max in the Best Ways</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-unresponsive-spotify-on-windows-11/"><u>Troubleshooting Unresponsive Spotify on Windows 11</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-capturing-the-action-ps4-to-video-using-obs/"><u>[New] Capturing the Action PS4 to Video Using OBS</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-woven-wisdom-expertise-in-loom-recordings/"><u>[New] In 2024, Woven Wisdom Expertise in Loom Recordings</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-expert-tips-for-flipping-video-courses-on-instagram/"><u>[Updated] In 2024, Expert Tips for Flipping Video Courses on Instagram</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-depth-look-at-gecata-capture-tool-for-2024/"><u>[Updated] In-Depth Look at Gecata Capture Tool for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-unlocking-revenue-harnessing-video-ad-dollars-on-youtube-for-2024/"><u>[Updated] Unlocking Revenue Harnessing Video Ad Dollars on YouTube for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-decoding-unlisted-videos-a-deep-dive-into-youtube-secrecy/"><u>2024 Approved Decoding Unlisted Videos A Deep Dive Into YouTube Secrecy</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/2024s-best-budget-friendly-phone-plans/"><u>2024'S Best Budget-Friendly Phone Plans</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Sony Xperia 5 V | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/explore-fb-moments-privately/"><u>Explore FB Moments Privately</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-facebook-lives-demystified-the-best-ways-to-record-a-stream/"><u>In 2024, Facebook Lives Demystified The Best Ways to Record a Stream</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-transformative-image-processing-auto-smart-hdr-3-and-4-insights/"><u>In 2024, Transformative Image Processing Auto, Smart HDR 3 & 4 Insights</u></a></li>
+<li><a href="https://extra-support.techidaily.com/ipads-artistic-haven-top-8-sketch-innovators-for-2024/"><u>IPad's Artistic Haven Top 8 Sketch Innovators for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/macbook-webcam-filming-made-simple/"><u>MacBook Webcam Filming Made Simple</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-the-10-best-mp3-to-text-file-transcription-aids-at-zero-cost-accommodating-with-expressslide-pro-integration/"><u>New The 10 Best MP3 to Text File Transcription Aids at Zero Cost - Accommodating with ExpressSlide Pro Integration</u></a></li>
 </ul></div>
 

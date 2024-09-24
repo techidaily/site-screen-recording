@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Journey Through the Maze  Old Vs. Innovative RPGs\""
-date: 2024-09-15T07:16:42.547Z
-updated: 2024-09-19T00:40:36.802Z
+date: 2024-09-19T18:12:16.537Z
+updated: 2024-09-23T16:31:26.889Z
 tags: 
   - screen-recording
   - ai video
@@ -51,11 +51,32 @@ As the name implies, a roguelike - or roguelike - is a game that shares the same
 
 ![rogue-poster](https://images.wondershare.com/filmora/article-images/rogue-poster.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What is a Roguelite Game?
 
 Roguelites - or rogue-lites - in essence, employ a lighter approach to implementing _Rogue_'s key characteristics. For the most part, roguelites still have permadeath. If you die, then you have to start over. However, the **key difference** is that roguelites allow you to carry over some form of progress from one playthrough to the next. Depending on the game, the way progress is carried over varies. Some games allow you to unlock additional items that can drop in a given run. Others open up access to new areas or provide you with abilities that enable you to traverse towards new locations and expand your area of exploration.
 
 ![unlock-hades](https://images.wondershare.com/filmora/article-images/unlock-hades.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Roguelites also have procedurally generated environments in a lot of cases. There are titles that have completely random level layouts and enemy placements. Others draw from a pre-defined set of layouts that are mixed and matched. Some titles may simply randomize more minute elements such as item placement and the locations of points of interest. Another way roguelites differ in the way they handle procedural generation is through seeded runs. A seed is essentially a run with pre-determined parameters, including enemy types and placements, level layout, and item availability. Seeding is also used to generate special challenge runs as well as enable custom modes. Whatever the case, roguelites have a tendency to reign in the chaos of fully procedurally generated game content.
 
@@ -81,6 +102,13 @@ If you've been meaning to dive into either or both of these genres, we've got a 
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Roguelike Games
 
 For this list, we're using the "true" definition of roguelike, meaning games that are almost exactly like _Rogue_.
@@ -98,6 +126,19 @@ Straying a bit from _Rogue's_ high fantasy setting, _Caves of Qud_ mixes some sc
 Recognized as one of the best roguelikes of all time, _Dungeon Crawl Stone Soup_ is one of the true innovators of its space. Taking all of the core defining elements of _Rogue_, including its hyper retro art style, _DCSS_ makes a concerted effort towards being more accessible. For starters, it offers a more user-friendly interface that brings all important information to the forefront. The developers also wanted to make its gameplay far easier to understand so that any person can pick it up and play without needing any convoluted prior knowledge of how the game works.
 
 ![dungeon-crawl-stone-soup](https://images.wondershare.com/filmora/article-images/dungeon-crawl-stone-soup.png)
+
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -117,38 +158,17 @@ One of the most highly praised indie games, MegaCrit's _Slay the Spire_ is a shi
 
 ![slay-the-spire](https://images.wondershare.com/filmora/article-images/slay-the-spire.png)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### Hades
 
 Nominated for a Game of the Year award, _Hades_ is a beloved title that has converted many gamers to the roguelite genre. Your aim in the game, as the son of Hades, is to escape the Ancient Greek hell and ascend to the top of Olympus with the rest of the pantheon. The gameplay is fast-paced action hack-and-slash but it's in a top-down perspective which makes it feel a lot closer to _Rogue_ than other games in the genre. It also has a lot of elements that are randomized, including the location of helpful shops. Your build will also feel wildly different between runs as even the Gods that appear to power you up are random as well as the abilities they offer you to choose from.
 
 ![deadcells-poster](https://images.wondershare.com/filmora/article-images/mirror-hades.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Bonus:** With thousand of effects, Filmora X help you record your gameplay and edit it into nice montage.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -165,12 +185,14 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-elevate-your-recordings-selecting-top-pc-and-mac-apps/"><u>[New] 2024 Approved Elevate Your Recordings Selecting Top PC & Mac Apps</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-how-to-record-edit-and-export-high-quality-webcam-videoseasy-steps/"><u>[Updated] 2024 Approved How to Record, Edit and Export High-Quality Webcam Videos[Easy Steps]</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-survive-and-thrive-top-8-zombie-game-experiences/"><u>[Updated] Survive and Thrive Top 8 Zombie Game Experiences</u></a></li>
-<li><a href="https://fox-http.techidaily.com/laptoppc-video-editing-tools-apart-from-inshot-for-2024/"><u>Laptop/PC Video Editing Tools Apart From Inshot for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/navigating-tiktok-crashes-fix-guide-for-androidios-users-for-2024/"><u>Navigating TikTok Crashes Fix Guide for Android/iOS Users for 2024</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/step-by-step-guide-to-setting-up-the-mad-titan-sports-addon-in-kodi-v203-nexus-edition/"><u>Step-by-Step Guide to Setting Up the Mad Titan Sports Addon in Kodi V.20.3 - Nexus Edition</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-rated-samsung-galaxy-s24-display-shields-ultimate-selection/"><u>Top-Rated Samsung Galaxy S24 Display Shields - Ultimate Selection</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-from-novice-to-geometric-master-crafting-perfect-circular-and-spherical-objects/"><u>[New] In 2024, From Novice to Geometric Master Crafting Perfect Circular & Spherical Objects</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-swiftclick-retrorecall-video/"><u>[New] In 2024, SwiftClick RetroRecall Video</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-top-10-tips-for-excellent-xbox-game-playbacks-for-2024/"><u>[New] Top 10 Tips for Excellent Xbox Game Playbacks for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-inexpensive-quality-camera-solutions/"><u>[Updated] Inexpensive Quality Camera Solutions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-installation-your-guide-to-free-acer-wireless-networking-drivers/"><u>Effortless Installation: Your Guide to Free Acer Wireless Networking Drivers</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-your-lava-yuva-2-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Lava Yuva 2 Lock Screen Password</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-stop-time-in-its-tracks-how-to-freeze-frames-in-your-favorite-video-editor/"><u>New 2024 Approved Stop Time in Its Tracks How to Freeze Frames in Your Favorite Video Editor</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/stepping-up-your-gaming-stream-with-steam-capture/"><u>Stepping Up Your Gaming Stream with Steam Capture</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/tips-and-tricks-for-efficient-use-of-steams-switch-controllers/"><u>Tips & Tricks for Efficient Use of Steam’s Switch Controllers</u></a></li>
 </ul></div>
 

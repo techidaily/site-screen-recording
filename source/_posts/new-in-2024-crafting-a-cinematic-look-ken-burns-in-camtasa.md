@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Crafting a Cinematic Look  Ken Burns in Camtasa\""
-date: 2024-09-16T17:34:55.459Z
-updated: 2024-09-19T00:09:21.673Z
+date: 2024-09-19T16:47:15.093Z
+updated: 2024-09-23T16:42:17.210Z
 tags: 
   - screen-recording
   - ai video
@@ -47,6 +47,13 @@ At this point, all you need to do is drag that particular arrow to the left, so 
 
 In Camtasia 9, you have the option to experiment with zooming and panning or both to create new styles of the Ken Burns effect. You will learn as you experiment and will be able to create some really interesting videos in the process.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Apply Ken Burns Effect with the Best Alternative to Camtasia 9 - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
 
 If you are looking for the best alternative to Camtasia 9 that makes adding the Ken Burns effect and other video editing features much easier, then Wondershare Filmora should be on your list of considerations. Apart from the Ken Burns effect, Filmora is a perfect video editing tool for beginner content creators, YouTubers, and casual editors who don't want access to professional-grade features or want to pay a lot of money to edit their videos.
@@ -54,6 +61,19 @@ If you are looking for the best alternative to Camtasia 9 that makes adding the 
 That's not to say that Filmora only offers basic features as it has a wide range of options available to video editors including green screen, motion tracking, transitions, audio recording, a diverse variety of presets, and a lot more. Both amateur video creators and hobbyists can get a lot out of the Wondershare Filmora editing tool.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Step 1\. Import Your Images/Still Photos
 
@@ -79,6 +99,13 @@ Remember that this tool isn’t just a single trick pony, and you can use Wonder
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
@@ -94,21 +121,21 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-ultimate-guide-exploring-master-recorders-features/"><u>[New] In 2024, Ultimate Guide Exploring Master Recorder's Features</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-soundsnatcher-recorder-software-overview-for-2024/"><u>[New] SoundSnatcher Recorder Software Overview for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-professional-windows-10-capture-tool/"><u>[Updated] 2024 Approved Professional Windows 10 Capture Tool</u></a></li>
-<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-realme-gt-3-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Realme GT 3 | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/mastering-adobe-cloud-essential-storage-insights-and-top-alternatives/"><u>Mastering Adobe Cloud Essential Storage Insights & Top Alternatives</u></a></li>
-<li><a href="https://driver-install.techidaily.com/maximize-graphics-new-driver-update-for-gtx-970-on-w11/"><u>Maximize Graphics: New Driver Update for GTX 970 on W11</u></a></li>
-<li><a href="https://extra-information.techidaily.com/purifypicture-premium-bg-eraser-and-editor/"><u>PurifyPicture Premium BG Eraser & Editor</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/step-by-step-guide-to-hulu-screen-capture-for-various-operating-systems-for-2024/"><u>Step-by-Step Guide to Hulu Screen Capture for Various Operating Systems for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-step-by-step-how-to-conduct-real-time-calls-via-whatsapp-on-pc/"><u>[New] 2024 Approved Step by Step How to Conduct Real-Time Calls via WhatsApp on PC</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-the-ultimate-guide-to-zoom-screen-recorders/"><u>[New] 2024 Approved The Ultimate Guide to Zoom Screen Recorders</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-tiny-turbines-car-shindig/"><u>[New] 2024 Approved Tiny Turbines' Car Shindig</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-capture-every-detail-on-mac-free/"><u>[New] Capture Every Detail on Mac - Free</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-evaluating-the-latest-in-camcorders-and-live-streaming-tech/"><u>[New] In 2024, Evaluating the Latest in Camcorders and Live Streaming Tech</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-maximizing-impact-partnering-with-influencers-on-youtube/"><u>[New] Maximizing Impact Partnering with Influencers on YouTube</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-smart-choice-selecting-the-top-5-webcams-for-clear-audio/"><u>[New] Smart Choice Selecting the Top 5 Webcams for Clear Audio</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-aesir-rebellion-skies-of-valhalla/"><u>[Updated] 2024 Approved Aesir Rebellion Skies of Valhalla</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-complete-breakdown-hero4-black-functionality/"><u>[Updated] Complete Breakdown Hero4 Black Functionality</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-harmonic-start-spots-music-gold-for-podcast-kicks/"><u>[Updated] Harmonic Start Spots Music Gold for Podcast Kicks</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-discovering-the-forgotten-chronicles-a-guide-to-past-facebook-stories-on-tech-devices/"><u>[Updated] In 2024, Discovering The Forgotten Chronicles A Guide to Past Facebook Stories on Tech Devices</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-obs-vs-modern-broadcasting-tools-a-comparison-for-2024/"><u>[Updated] OBS Vs. Modern Broadcasting Tools A Comparison for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/essential-rules-for-freelancers-leveraging-chatgpt/"><u>Essential Rules for Freelancers Leveraging ChatGPT</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamlining-drivers-in-windows-xp-via-hands-on-approach/"><u>Streamlining Drivers in Windows XP via Hands-On Approach</u></a></li>
+<li><a href="https://article-helps.techidaily.com/the-ultimate-compilation-of-html5s-best-video-tools-for-2024/"><u>The Ultimate Compilation of HTML5's Best Video Tools for 2024</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-photos-from-infinix-hot-40i-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Infinix Hot 40i.</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

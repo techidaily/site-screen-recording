@@ -1,7 +1,7 @@
 ---
 title: "Simple Steps to Modify Screen Capture on macOS for 2024"
-date: 2024-09-12T08:23:56.577Z
-updated: 2024-09-18T21:33:47.710Z
+date: 2024-09-16T19:18:48.024Z
+updated: 2024-09-23T22:52:09.677Z
 tags: 
   - screen-recording
   - ai video
@@ -48,6 +48,13 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Supported Image Formats on Mac
 
 As we already mentioned, Mac computers allow its users to save screenshots in some of the most frequently used picture file formats. The PNG files support lossless data compression, just like GIF files and they are the most commonly used lossless data compression format on the Internet. However, there are a few downsides, including the size of the PNG files that can prompt you to set another file format as the default screenshot file format on your Mac.
@@ -61,15 +68,22 @@ Each image file format Mac computer support is designed for different purposes, 
 Besides being smaller in size than PNG files, JPEG files are also handier if you want to annotate the screenshots you're taking. In addition, you'll be able to post your files anywhere on the Internet, because JPEG files are supported by all social media platforms.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Change Screenshot Formats?
 
 ![ Mac Screenshots formats ](https://images.wondershare.com/filmora/article-images/mac-screenshot-format-changing.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Once you decide which format you want to use the default screenshot graphics format on your Mac, you should launch the Terminal app. You can access the Terminal from the Utility subfolder that is located in the Application folder.
 
@@ -108,10 +122,10 @@ You can switch back to capturing screenshots in PNG file format at any moment by
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -129,13 +143,18 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-cutting-edge-strategies-for-iptv-capture-success/"><u>[New] 2024 Approved Cutting-Edge Strategies for IPTV Capture Success</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-ultimate-guide-exploring-master-recorders-features/"><u>[New] Ultimate Guide Exploring Master Recorder's Features</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-razer-kiyo-webcam-full-breakdown/"><u>[Updated] Razer Kiyo Webcam Full Breakdown</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-teleport-your-gps-location-on-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Meizu 21 Pro? | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-vivo-y27-4g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Vivo Y27 4G</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/no-more-crashes-optimizing-microsoft-flight-simulator-2nx-for-a-seamless-experience-on-your-computer/"><u>No More Crashes: Optimizing Microsoft Flight Simulator 2nX for a Seamless Experience on Your Computer</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-create-engaging-videos-with-these-10-free-whiteboard-animation-tools/"><u>Updated In 2024, Create Engaging Videos with These 10 Free Whiteboard Animation Tools</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/your-guide-to-hardware-mastery-discover-top-picks-at-toms-tech-destination/"><u>Your Guide to Hardware Mastery - Discover Top Picks at Tom's Tech Destination</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-ethical-practices-for-accumulating-over-a-million-video-engagements/"><u>[New] 2024 Approved Ethical Practices for Accumulating Over A Million Video Engagements</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-rapidpace-timefreeze-film/"><u>[New] 2024 Approved RapidPace TimeFreeze Film</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-starlight-strategies-dos-and-donts-for-perfect-nightscape-portraits-for-2024/"><u>[New] Starlight Strategies Do's & Don'ts for Perfect Nightscape Portraits for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-top-picks-and-tips-for-thriving-in-valheim/"><u>[New] Top Picks & Tips for Thriving in Valheim</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-win-10s-best-recording-software-10-picks-for-2024/"><u>[New] Win 10'S Best Recording Software - 10 Picks for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-precision-recording-a-stepwise-plan-for-pc-ios-macbooks/"><u>[Updated] In 2024, Precision Recording A Stepwise Plan for PC, iOS, MacBooks</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-streamlining-your-instagram-storytelling-with-size-tweaks-for-2024/"><u>[Updated] Streamlining Your Instagram Storytelling with Size Tweaks for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/digital-diary-the-art-of-screen-recording-on-macbook-air-for-2024/"><u>Digital Diary The Art of Screen Recording on MacBook Air for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-samsung-galaxy-s23-fe-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Samsung Galaxy S23 FE to Another | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-nokia-c22-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Nokia C22 FRP Locks</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastery-levels-of-quantum-hdr-applications/"><u>In 2024, Mastery Levels of Quantum HDR Applications</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/the-artisans-guide-to-zen-like-zoom-backgrounds/"><u>The Artisan's Guide to Zen-Like Zoom Backgrounds</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-deceptive-gaming-promos-essentials-explored/"><u>Unveiling Deceptive Gaming Promos: Essentials Explored</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Tips & Tricks for Efficient Use of Steam’s Switch Controllers"
-date: 2024-09-14T21:56:17.068Z
-updated: 2024-09-18T18:01:42.326Z
+date: 2024-09-18T18:36:01.598Z
+updated: 2024-09-23T22:30:11.167Z
 tags: 
   - screen-recording
   - ai video
@@ -66,9 +66,23 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 
 ![switch-pro-controller-bluetooth-connection](https://images.wondershare.com/filmora/article-images/switch-pro-controller-bluetooth-connection.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * To add a Bluetooth device, click "Add Bluetooth Device."
 
 ![switch-pro-controller-add-device](https://images.wondershare.com/filmora/article-images/switch-pro-controller-add-device.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * Click on "Bluetooth" (since Windows 10 needs to be convinced that you want to use Bluetooth).
 * Ensure that the Pro Controller appears on the list of available devices (if it does not, ensure that the indicator lights are flashing back and forth). Pair the controller by clicking it.
@@ -80,6 +94,13 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 ## **How To Setup Steam To Use Your Switch Pro Controller On Pc**
 
 ![switch-pro-controller-steam-set-up](https://images.wondershare.com/filmora/article-images/switch-pro-controller-steam-set-up.png)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 The Best Way to make sure your Pro Controller works properly with your PC game is to use Steam's Big Picture mode, which uses a comfortable lean-back system to allow you to navigate.
 
@@ -96,10 +117,10 @@ When configured through Steam, you should use the Pro Controller with any Steam 
 Enter the Switch Pro Controller overlay from Steam's controller options while running in Big Picture mode. There are several ways to map the inputs on the Pro Controller, but default configurations are usually sufficient for most games. By changing the controller mapping based on the situation, you can fix any problems on the fly.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **What To Do With Non-Steam Games?**
@@ -111,19 +132,6 @@ The main problem here now is how windows will detect your switch pro controller 
 **Solution1:** The first solution is to use an external Bluetooth adapter that is specifically designed for different types of gamepads. You will find plenty of them out there for switch pro controllers.
 
 **Solution2:** The second method is to use a software-based XInput Wrapper. There is plenty of software out there that provides this functionality. Just configure your switch pro controller with them, and you can easily use it on non-steam games.
-
-<!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Final Verdict**
 
@@ -146,15 +154,22 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-logitech-cam-enhancement-techniques-for-detailed-edits/"><u>[New] 2024 Approved Logitech Cam Enhancement - Techniques for Detailed Edits</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-ultimate-guide-to-pcs-and-macs-best-recorders/"><u>[New] Ultimate Guide to PC's and Mac's Best Recorders</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-zoom-panel-essentials-for-novices/"><u>[New] Zoom Panel Essentials for Novices</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-how-to-safeguard-your-feed-remove-followers/"><u>[Updated] 2024 Approved How to Safeguard Your Feed Remove Followers</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-essential-tips-for-documenting-real-time-youtube-broadcasts/"><u>[Updated] Essential Tips for Documenting Real-Time YouTube Broadcasts</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-optimal-sony-ps3-reproduction-tools-ranked-pc-for-2024/"><u>[Updated] Optimal Sony PS3 Reproduction Tools Ranked (PC) for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-top-10-escape-houses-challenges-for-intellects/"><u>In 2024, Top 10 Escape Houses Challenges for Intellects</u></a></li>
-<li><a href="https://win-premium.techidaily.com/kostenlos-konvertieren-von-cr2-in-jpeg-mit-hilfe-der-webseite-movavi-einfach-und-effektiv/"><u>Kostenlos Konvertieren Von CR2 in JPEG Mit Hilfe Der Webseite Movavi - Einfach Und Effektiv</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/ultimate-gimbal-picks-for-dslr-quality-videos/"><u>Ultimate Gimbal Picks for DSLR-Quality Videos</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/winxdvd-suite-official-version-features-dvd-ripping-intelligent-video-enhancement-and-multi-platform-conversion/"><u>WinXDVD Suite Official Version: Features DVD Ripping, Intelligent Video Enhancement & Multi-Platform Conversion</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-elevate-your-online-experience-with-the-best-screen-recorders-ranked/"><u>[New] 2024 Approved Elevate Your Online Experience with the Best Screen Recorders Ranked</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-essential-tips-for-using-switch-pro-controller-with-steam/"><u>[New] In 2024, Essential Tips for Using Switch Pro Controller with Steam</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-neo-theater-narratives-virtual-realms-for-2024/"><u>[New] Neo-Theater Narratives Virtual Realms for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-studio-strategies-for-video-impact-and-growth/"><u>[Updated] 2024 Approved Studio Strategies for Video Impact and Growth</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-erase-unwanted-boards-from-old-youtube-videos-for-clearer-viewing/"><u>[Updated] In 2024, Erase Unwanted Boards From Old YouTube Videos for Clearer Viewing</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-live-screen-record-on-chrome-pcs/"><u>[Updated] Live Screen Record on Chrome PCs</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/advanced-slidecasting-powerpoint-and-webcam-perfection/"><u>Advanced Slidecasting PowerPoint & Webcam Perfection</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/discover-easy-mp4-file-capture-methods/"><u>Discover Easy MP4 File Capture Methods</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-achieving-seamless-background-blurs-in-video-calls/"><u>In 2024, Achieving Seamless Background Blurs in Video Calls</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-chill-vibes-top-idle-pc-experiences/"><u>In 2024, Chill Vibes Top Idle PC Experiences</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-cinematic-capture-top-picks-from-video-experts/"><u>In 2024, Cinematic Capture Top Picks From Video Experts</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-se-2022-without-passcode-by-drfone-ios/"><u>In 2024, How to Unlock iPhone SE (2022) Without Passcode?</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-webinar-playback-recordings/"><u>In 2024, Webinar Playback Recordings</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/in-depth-look-at-the-lenovo-ideapad-robust-design-meets-simple-performance/"><u>In-Depth Look at the Lenovo Ideapad: Robust Design Meets Simple Performance</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/optimal-zooctorial-design-arrays/"><u>Optimal Zooctorial Design Arrays</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-finding-out-if-microsoft-teams-is-experiencing-issues/"><u>Troubleshooting: Finding Out If Microsoft Teams Is Experiencing Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-10-wont-update-discover-the-steps-to-resolve-update-freezing-issues/"><u>Windows 10 Won’t Update? Discover the Steps to Resolve Update Freezing Issues</u></a></li>
 </ul></div>
 

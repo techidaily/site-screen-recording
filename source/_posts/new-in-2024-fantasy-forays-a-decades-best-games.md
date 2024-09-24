@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Fantasy Forays  A Decade’s Best Games\""
-date: 2024-09-15T00:46:54.618Z
-updated: 2024-09-18T21:20:18.502Z
+date: 2024-09-21T21:40:53.119Z
+updated: 2024-09-23T22:24:21.995Z
 tags: 
   - screen-recording
   - ai video
@@ -84,13 +84,6 @@ Only a couple of minutes to complete each run, this roguelike takes us on an adv
 
 ![downwell](https://images.wondershare.com/filmora/article-images/downwell.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Don't let its retro look fool you. This 2015 title is fast and intense, with a good amount of power-ups that boost your survivability. It is immediately enjoyable with its fast-paced downward action, but gaining mastery of its combat is no simple feat. Downwell is one of the best roguelikes out there, despite its intense difficulty. Its concise levels, satisfying combo system, and creative boss are among the roguelikes' best features.
 
 ## **3\. [Dungeon Crawl Stone Soup](https://crawl.develz.org/)**
@@ -102,13 +95,6 @@ Don't let its retro look fool you. This 2015 title is fast and intense, with a g
 The successor to the 1997's roguelike Liney's Dungeon Crawl, Dungeon Crawl Stone Soup is another best roguelike game. Although there is a considerable saturation in the roguelike titles these days, we had to include this classic title in the best roguelike games list because it deserves a spot.
 
 ![dungeon-crawl-stone-soup](https://images.wondershare.com/filmora/article-images/dungeon-crawl-stone-soup.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Each item, class, spell, and trait in this community-developed game has hundreds of hidden interactions that just heighten your enjoyment every time you play. Each floor increases the game's difficulty, and as you go deeper, it becomes harder to decide whether to fight or flee.
 
@@ -134,16 +120,16 @@ This is the second title developed and published by Subset Games. Their first ti
 
 ![into-the-breach](https://images.wondershare.com/filmora/article-images/into-the-breach.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 There's only one way to hold off their attack, and that is to enlist some giant mechs. But you'll have to agonize over every decision if you intend to keep your team intact. The more you progress through the game's islands, the more advanced equipment you'll find, so you can turn the tide of war and save humankind.
 
 This is one of the most accessible strategy games out there, and its straightforward combat won't offend novices, but you should expect something more challenging, though rewarding, from Into the Breach.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **6\. [Slay the Spire](https://store.steampowered.com/app/646570/Slay%5Fthe%5FSpire/)**
 
@@ -155,7 +141,27 @@ It foregoes combat mechanics solely in favor of strategy and premonition in a de
 
 ![slay-the-spire](https://images.wondershare.com/filmora/article-images/slay-the-spire.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 The game, released in 2017, has gained massive audience recognition thanks to its 10/10 Steam rating and over 60,00 reviews despite its simplistic art and simplistic interface. It is considered the best deck-builder roguelike in the market, so if you haven't tried it already, you miss out a lot.
+
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **7\. [Crypt of the Necrodancer](https://store.steampowered.com/app/247080/Crypt%5Fof%5Fthe%5FNecroDancer/)**
 
@@ -178,10 +184,16 @@ Dead Cells is a 2D and Souls-inspired roguelike game. You revolve around procedu
 ![deadcells-poster](https://images.wondershare.com/filmora/article-images/deadcells-poster.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Various upgrades can be carried over between runs, generating a constant sense of progression. Because of this, starting a new run after a particularly messy boss fight doesn't sting quite as much as many other roguelike games might be. There are many different weapon types and perks to unlock in Dead Cells, making it more replayable and keeps it from being monotonous.
@@ -198,6 +210,13 @@ An indie roguelike developed by Super Meat Boy creator Edmund McMillen, The Bind
 
 In addition to some captivating gameplay, the game contains some compelling storytelling, with Biblical references providing a nice hint of lore. Although decisions are essential in roguelikes, you may also need to be quick with your reaction times with some bullet hell-style bosses.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **10\. [Otherworld Legends](https://play.google.com/store/apps/details?id=com.chillyroom.zhmr.gp&hl=en&gl=US)**
 
 **_Platforms:_** _Android, iOS_
@@ -209,10 +228,16 @@ Otherworld Legends is a mystery roguelite where you explore a mysterious and dan
 ![the-other-world-legends](https://images.wondershare.com/filmora/article-images/the-other-world-legends.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 As you journey through various dungeon rooms in this game, you defeat all enemies you encounter. This is similar to the binding of Isaac series of games and Elemental Dungeon. Some relics are also found or bought from time to time. These items give you powerful advantages in combat, which can be the difference between victory and defeat.
@@ -225,7 +250,27 @@ The Otherworld Legends game is incredibly entertaining to play with beautiful gr
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -242,16 +287,22 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-banishing-the-darkness-tips-for-a-bright-screen-on-obs/"><u>[New] 2024 Approved Banishing the Darkness Tips for a Bright Screen on OBS</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-gaming-revolution-with-vegaspro-2019/"><u>[New] 2024 Approved Gaming Revolution with VegasPro 2019</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-examining-performance-of-dji-raptor-eyewear/"><u>[New] Examining Performance of DJI Raptor Eyewear</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-ultimate-guide-to-app-reviews-by-az-capture-for-2024/"><u>[New] Ultimate Guide to App Reviews by AZ Capture for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-unveil-the-magic-of-media-rotation-using-vlc-players-features/"><u>[Updated] In 2024, Unveil the Magic of Media Rotation Using VLC Player's Features</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-streamline-your-meetings-with-these-tools/"><u>[Updated] Streamline Your Meetings with These Tools</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-blending-beats-into-bits-the-sound-savvy-image/"><u>2024 Approved Blending Beats Into Bits The Sound-Savvy Image</u></a></li>
-<li><a href="https://win-blog.techidaily.com/express-improvements-eliminating-hitches-for-seamless-gaming-in-assassins-creed-valhalla/"><u>Express Improvements: Eliminating Hitches for Seamless Gaming in Assassin's Creed: Valhalla</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-s-top-picks-movie-trailer-editors-for-mac-and-windows/"><u>New S Top Picks Movie Trailer Editors for Mac and Windows</u></a></li>
-<li><a href="https://win-able.techidaily.com/roblox-launch-problems-resolved-how-to-get-past-the-endless-loader-screen/"><u>Roblox Launch Problems Resolved: How to Get Past the Endless Loader Screen</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/warzone-and-gpu-issues-on-windows-11-troubleshooting-steps-to-solve-them/"><u>Warzone and GPU Issues on Windows 11: Troubleshooting Steps to Solve Them</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-all-you-need-to-know-about-instagram-video-limits/"><u>[New] 2024 Approved All You Need to Know About Instagram Video Limits</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-capture-the-moment-no-cost-cross-platform-screen-recorders-for-pcmac/"><u>[New] 2024 Approved Capture the Moment - No-Cost, Cross-Platform Screen Recorders for PC/Mac</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-switch-gaming-elevated-by-top-capture-cards/"><u>[New] 2024 Approved Switch Gaming Elevated by Top Capture Cards</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/nhance-youtubes-conversations-with-emojis-for-2024/"><u>[New] Enhance Youtubes' Conversations with Emojis for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-briskbounce-momentmirror-tape/"><u>[New] In 2024, BriskBounce MomentMirror Tape</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-mastering-internet-media-our-picks-for-top-browser-recording-tools/"><u>[New] Mastering Internet Media Our Picks for Top Browser Recording Tools</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-mastering-webinar-recording-techniques/"><u>[Updated] 2024 Approved Mastering Webinar Recording Techniques</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-high-end-photo-overlays-for-creative-texting/"><u>[Updated] In 2024, High-End Photo Overlays for Creative Texting</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-mastering-screencasts-a-step-by-step-manual/"><u>[Updated] In 2024, Mastering Screencasts A Step-by-Step Manual</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-no-cost-game-recorders-the-essential-selection-list/"><u>[Updated] No-Cost Game Recorders The Essential Selection List</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-live-stream-magic-setting-up-logitech-cam-for-videos/"><u>2024 Approved Live-Stream Magic Setting Up Logitech Cam for Videos</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-xs-max-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone XS Max without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-oppo-a18-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Oppo A18 to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-xiaomi-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Xiaomi Devices</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-lenovo-quick-guide-effortless-screenshots/"><u>In 2024, Lenovo Quick Guide Effortless Screenshots</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/rumors-of-the-next-pixel-wrist-device-estimated-price-tag-release-forecast-and-speculative-hardware-reviewed/"><u>Rumors of the Next Pixel Wrist Device – Estimated Price Tag, Release Forecast, and Speculative Hardware Reviewed</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723013624860-unveiling-tricks-how-to-get-steam-vr-recognized-on-your-pc-a-step-by-step-guide/"><u>Unveiling Tricks: How To Get Steam VR Recognized on Your PC - A Step-by-Step Guide!</u></a></li>
 </ul></div>
 

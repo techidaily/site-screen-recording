@@ -1,7 +1,7 @@
 ---
 title: "[New] Bilateral Screen Tracking"
-date: 2024-09-13T23:54:18.106Z
-updated: 2024-09-18T18:48:31.201Z
+date: 2024-09-22T16:21:52.748Z
+updated: 2024-09-23T16:41:54.258Z
 tags: 
   - screen-recording
   - ai video
@@ -54,6 +54,13 @@ The first step towards setting up a screencasting session with multiple displays
 
 Head over to the Start Menu, and open the Control Panel. Select the 'Adjust Screen Resolution' option in the Appearance and Personalization menu, and then click on the Multiple Displays drop-down menu. Pick the 'Extend These Displays' option from the list and proceed to save the changes by clicking on the OK button.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Recording Multiple Monitors With [OBS Studio](https://tools.techidaily.com/wondershare/filmora/download/)
 
 Widely accepted as one of the best open-source broadcasting and screen recording software ever created, OBS Studio also enables its users to record multiple screens simultaneously. The plug-in for the OBS called Simple Scene Switcher that detects on which monitor the mouse cursor is and that automatically switches between two monitors as you drag a mouse is a great option if you don't want to record multiple displays at the same time. The plug-in lets you switch between windows without disrupting the flow of the video, which makes it particularly useful for LoL players and in numerous other situations. Here's how you can record multiple monitors with OBS.
@@ -71,10 +78,10 @@ Sum up the two values of the wider sides of the screens and insert the value you
 Save the changes you've made, and then drag the screens to arrange them. You can start recording multiple monitors with OBS Studio by clicking on the Start Recording button.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Capturing Multiple Monitor Displays with Camtasia
@@ -102,13 +109,20 @@ In case that you want to record your secondary monitor, we recommend you to try 
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -126,19 +140,24 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-democracy-dynamics-leading-electoral-simulators/"><u>[New] 2024 Approved Democracy Dynamics Leading Electoral Simulators</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-professional-techniques-for-streaming-and-recording-league-of-legends/"><u>[New] 2024 Approved Professional Techniques for Streaming and Recording League of Legends</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-elevate-your-recordings-mastering-zooms-features-for-audio-quality-for-2024/"><u>[New] Elevate Your Recordings Mastering Zoom's Features for Audio Quality for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-how-to-use-the-background-eraser-tool-in-photoshop-detailed-guide/"><u>[New] How To Use The Background Eraser Tool In Photoshop Detailed Guide</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-enjoy-high-quality-pc-audio-recording-install-x-recorder/"><u>[New] In 2024, Enjoy High-Quality PC Audio Recording - Install X-Recorder</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-battlefield-brilliance-the-exclusive-selection-of-top-7-total-war-chronicles/"><u>[Updated] 2024 Approved Battlefield Brilliance The Exclusive Selection of Top 7 Total War Chronicles</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-groundbreenas-choosing-first-time-gamers-editing-apps/"><u>[Updated] 2024 Approved Groundbreenas Choosing First-Time Gamers' Editing Apps</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-the-comprehensive-guide-to-precision-screen-capture/"><u>[Updated] In 2024, The Comprehensive Guide to Precision Screen Capture</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/compile-and-connect-videos-on-youtv-for-2024/"><u>Compile and Connect Videos on YouTV for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/efficient-conversion-techniques-from-docx-to-pdf-on-windows-11/"><u>Efficient Conversion Techniques From Docx to PDF on Windows 11</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-vivo-s17frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Vivo S17FRP Lock</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/incarceration-to-insightfulness-ranking-funniest-jailmates-on-social-media/"><u>Incarceration to Insightfulness Ranking Funniest Jailmates on Social Media</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-mastering-sound-integrating-audio-with-visuals-in-film-production/"><u>New In 2024, Mastering Sound Integrating Audio with Visuals in Film Production</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/unhindered-routine-changing-video-direction-with-vlc-for-2024/"><u>Unhindered Routine Changing Video Direction with VLC for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-creating-impressive-video-tracks-with-a-newbie-mac-user/"><u>[New] 2024 Approved Creating Impressive Video Tracks with a Newbie Mac User</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-how-to-do-screen-recording-on-iphone-easily/"><u>[New] In 2024, How to Do Screen Recording on Iphone Easily?</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-swiftrecordingtool-with-narrator-functionality/"><u>[New] In 2024, SwiftRecordingTool with Narrator Functionality</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-most-listened-to-hits-on-spotify/"><u>[New] Most Listened to Hits on Spotify</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-optimal-videography-minimizing-sound-interference-effectively-for-2024/"><u>[New] Optimal Videography Minimizing Sound Interference Effectively for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-essential-shortcuts-for-efficient-mac-screen-recording/"><u>[Updated] Essential Shortcuts for Efficient Mac Screen Recording</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-firefoxs-best-screen-cast-add-ons/"><u>[Updated] In 2024, Firefox's Best Screen Cast Add-Ons</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-the-aerial-editors-handbook-mastering-the-art-of-drone-video-editing/"><u>[Updated] In 2024, The Aerial Editor's Handbook Mastering the Art of Drone Video Editing</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-enhancing-gameplay-with-switch-pro-a-compreran-guide-for-steam-gamers/"><u>2024 Approved Enhancing Gameplay with Switch Pro A Compreran Guide for Steam Gamers</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-overwatch-on-screen-recording-made-easy/"><u>2024 Approved Overwatch On-Screen Recording Made Easy</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-the-quest-for-codec-perfection-is-av1-surpassing-vp9/"><u>2024 Approved The Quest for Codec Perfection Is AV1 Surpassing VP9?</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/achieving-professionalism-with-zoom-filter-applications-for-2024/"><u>Achieving Professionalism with Zoom Filter Applications for 2024</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/cookiebot-enhanced-user-experience-the-key-to-successful-web-traffic/"><u>Cookiebot-Enhanced User Experience: The Key to Successful Web Traffic</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/elite-videographers-choice-ideal-grabber-software-for-2024/"><u>Elite Videographer's Choice Ideal Grabber Software for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/guide-to-modifying-driver-files-for-usb-serial-bridge-devices/"><u>Guide to Modifying Driver Files for USB Serial Bridge Devices</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-tecno-phantom-v-fold-pin-by-drfone-android-unlock-android-unlock/"><u>How to remove Tecno Phantom V Fold PIN</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Vivo Y27 5G? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-10-techniques-optimal-live-cricket-broadcasting/"><u>In 2024, Top 10 Techniques Optimal Live Cricket Broadcasting</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-depth-recmaster-screen-capture-analysis-for-2024/"><u>In-Depth Recmaster Screen Capture Analysis for 2024</u></a></li>
 </ul></div>
 

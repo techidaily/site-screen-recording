@@ -1,7 +1,7 @@
 ---
 title: "Saving a Look at Your Window for 2024"
-date: 2024-09-17T05:21:45.263Z
-updated: 2024-09-19T01:28:44.713Z
+date: 2024-09-19T20:06:01.283Z
+updated: 2024-09-23T23:49:55.054Z
 tags: 
   - screen-recording
   - ai video
@@ -48,6 +48,13 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 1: Using the Screen Sketch App to Take Screenshots on Windows 10
 
 The latest Windows update brings the Screen Sketch app, that was previously available with the Windows Ink utility. PC owners that have the build 17661 of Windows 10 installed on their computers can use the app to create screenshots, draw on screen or crop the screenshots they produce with Screen Sketch. The app also lets you share the images from the clipboard and it replaces all other methods of making screenshots on Windows 10's 17661 build. Here's how you can create screenshots with this app.
@@ -74,6 +81,13 @@ You can add annotations to the screenshots, by clicking on the bullet point pen,
 
 ![ Windows Screen Sketch](https://images.wondershare.com/filmora/article-images/windows-screen-sketch-editing-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### Step 3. Saving and Exporting Screenshots
 
 Click on the Save icon, in the app's toolbar ribbon, and select the destination where the file will be stored. You can also copy the screenshot to the clipboard, by clicking on the icon located next to the Save option.
@@ -92,6 +106,13 @@ Select the 'Yes, this is a game' option if a dialogue box pops-up on the screen 
 
 ![ Windows Game Bar Screenshot](https://images.wondershare.com/filmora/article-images/xbox-game-bar-screenshot.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 3: Using the Snipping Tool to Take Flexible Screenshots
 
 This popular app for taking screenshots has been bundled with all versions of the Windows OS since Windows Vista has been released in 2006, which means that PC owners who have Windows 7,8 or 10 installed on their device can use it to take screenshots. For nearly a decade The Snipping Tool has offered the same set of tools, but recently the Delay option that allows you to select how long the software should wait before taking the screenshot was added to the list of the app's features.
@@ -99,10 +120,10 @@ This popular app for taking screenshots has been bundled with all versions of th
 ![ Windows snipping tool ](https://images.wondershare.com/filmora/article-images/snipping-tool-screenshot.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 However, this option is only available on the Windows 10 version of the app, and it is a great improvement since it enables you to include mouse cursor and drop-down menus in your screenshots.
@@ -121,6 +142,13 @@ Once you've taken the screenshot you can use the Pen and Highlighter features to
 
 The app lets you Save the screenshot in PNG, JPEG, GIF or MHTML file formats and it also lets you email the pictures to your friends and colleagues. You can choose the folder where the file will be saved, and if you are not happy with the result you can click on the New icon to take another screenshot.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 4: Using the Share Charm to Take Screenshots on Windows 8.1
 
 Charms were first introduced on Windows 8, but trying to snap a screenshot with the Share Charm on this version of the OS won't produce any results since the screenshot option is only available on the Windows 8.1\. You can access the Charms Bar that offers Search, Share, Start, Devices and Settings charms by either pressing the Windows+C keys or by moving the mouse cursor down from the upper right corner of the screen.
@@ -133,23 +161,9 @@ Hold the Window + C keys or use the mouse to access the Charms Bar and then clic
 
 ![ Windows 8 Screenshot tool ](https://images.wondershare.com/filmora/article-images/windows8-screenshot-share-charm.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Find the moment in the video you'd like to capture, and then select the Screenshot option from the Video app's menu. The screenshot will be automatically created, and afterward, you should open the Mail application if want to send it. Enter the email address and click on the Send button to complete the process.
 
 The Share Charm offers a quick and easy way to take screenshots, but it lacks the tools for editing the images you create. However, it still provides powerful sharing options that enable you to send screenshots and other media files without having to invest too much time.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 5: Take a Quick Screenshots with Print Screen
 
@@ -185,6 +199,13 @@ Leave a comment and let us know what is your favorite method of taking screensho
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
@@ -200,17 +221,25 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-elevate-your-storytelling-with-strategic-video-callouts/"><u>[New] Elevate Your Storytelling with Strategic Video Callouts</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-buy-youtube-views-everything-you-need-to-know-for-2024/"><u>[New] How to Buy YouTube Views - Everything You Need To Know for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-slicephoto-inspection/"><u>[New] In 2024, SlicePhoto Inspection</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-comprehensive-guide-to-exceptional-mobile-screen-capture-with-mobizen/"><u>[Updated] Comprehensive Guide to Exceptional Mobile Screen Capture with Mobizen</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-evaluating-frame-rates-the-decision-on-30-vs-60hz-for-2024/"><u>[Updated] Evaluating Frame Rates The Decision on 30 Vs. 60Hz for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-everything-to-know-about-apple-id-password-requirements-for-iphone-12-mini-by-drfone-ios/"><u>In 2024, Everything To Know About Apple ID Password Requirements For iPhone 12 mini</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-xiaomi-14-pro-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Xiaomi 14 Pro? Fixed | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-vivo-y36i-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Vivo Y36i? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Oppo Reno 10 5G? | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/maintaining-quality-while-minimizing-the-size-of-your-mkv-files-a-step-by-step-guide/"><u>Maintaining Quality While Minimizing the Size of Your MKV Files - A Step-by-Step Guide</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/quick-start-guide-to-recording-remote-meetings-with-ease-windows-mac/"><u>Quick-Start Guide to Recording Remote Meetings with Ease (Windows, Mac)</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-empower-yourself-learning-the-ins-and-outs-of-io-screen-recorder-for-2024/"><u>[New] Empower Yourself Learning the Ins and Outs of IO Screen Recorder for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-is-your-facebook-video-more-engaging-in-a-vertical-format-in-2024/"><u>[New] Is Your Facebook Video More Engaging in a Vertical Format, In 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-the-ultimate-guide-to-evaluating-and-enhancing-your-instream-ads-on-facebook/"><u>[New] The Ultimate Guide to Evaluating & Enhancing Your Instream Ads on Facebook</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-transforming-movs-to-mp4mkv-on-pc/"><u>[New] Transforming MOVs to MP4/MKV on PC</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-beyondsharex-evaluating-the-best-options/"><u>[Updated] 2024 Approved BeyondShareX - Evaluating the Best Options</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-dominate-the-scene-the-best-hashtag-tactics-for-youtube-gamers-for-2024/"><u>[Updated] Dominate the Scene The Best Hashtag Tactics for YouTube Gamers for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-effortless-shuffle-of-your-youtube-playlists/"><u>[Updated] Effortless Shuffle of Your YouTube Playlists</u></a></li>
+<li><a href="https://video-capture.techidaily.com/1716068792123-updated-in-2024-best-5-chrome-os-clipping-utilities-ranked/"><u>[Updated] In 2024, Best 5 Chrome OS Clipping Utilities, Ranked!</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-capturing-your-screenplay-free-software-insights/"><u>[Updated] In 2024, Capturing Your Screenplay Free Software Insights</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-enhancing-minecraft-through-optimal-ram-assignment/"><u>[Updated] In 2024, Enhancing Minecraft Through Optimal RAM Assignment</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-how-to-fade-in-and-fade-out-video-clips/"><u>[Updated] In 2024, How to Fade-In and Fade-Out Video Clips</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-preventing-frames-gaps-for-flawless-video-captures/"><u>[Updated] In 2024, Preventing Frames Gaps for Flawless Video Captures</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-zdsoft-capture-master-overview-and-evaluation/"><u>[Updated] In 2024, ZDSoft Capture Master Overview & Evaluation</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-mastering-teams-personalized-call-banners-for-2024/"><u>[Updated] Mastering Teams' Personalized Call Banners for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-razers-kiyo-webcam-complete-overview-for-2024/"><u>[Updated] Razer's Kiyo Webcam - Complete Overview for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-professional-window-capturer-version-11/"><u>2024 Approved Professional Window Capturer - Version 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/corsair-keyboard-issues-fixes-for-non-responsive-led-lights/"><u>Corsair Keyboard Issues: Fixes for Non-Responsive LED Lights</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-google-frp-on-c67-5g-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass Google FRP on C67 5G</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-honor-play-8t-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Honor Play 8T Pattern Lock Screen</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/top-strategies-in-drone-filmmaking/"><u>Top Strategies in Drone Filmmaking</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Steps to Eliminate the OBS Blank Screens in Gaming Setup"
-date: 2024-09-17T06:24:04.086Z
-updated: 2024-09-19T02:36:38.875Z
+date: 2024-09-20T17:39:58.753Z
+updated: 2024-09-23T22:24:48.081Z
 tags: 
   - screen-recording
   - ai video
@@ -33,6 +33,13 @@ Without administrator access, chances are that several aspects of OBS Studio wil
 
 ![run obs](https://images.wondershare.com/filmora/article-images/run-obs.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Switch OBS’s GPU
 
 In case OBS game capture black screen takes place as this software fails to get GPU it requires to capture the game, you could attempt to change GPU options for the OBS Studio to enable it to perform properly in games to capture screen.
@@ -59,14 +66,14 @@ Some customers also complained that OBS black screen game capture difficulties s
 
 ![compatibility mode](https://images.wondershare.com/filmora/article-images/compatibility-mode.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 3.** Hit Apply and OK to take effect. On the compatibility mode, OBS game capture will not appear on a blank screen when you record the game.
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4\. Disable Game Mode
 
@@ -79,6 +86,13 @@ As such, if you have enabled the Game Mode and Game Bar on Windows 10, attempt t
 **Step 2**. Under Game Mode, turn off the Use Game Mode. Under Game Bar, turn off the option – Record game clips, screenshots, and broadcast using the Game bar.
 
 ![game mode](https://images.wondershare.com/filmora/article-images/game-mode.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 3:** Launch your game and attempt OBS Studio to capture the action. For many customers, happily, the OBS game capture dark screen problem has been addressed.
 
@@ -96,6 +110,13 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### ****Step 1 Download and Install Filmora**
 
 You may click one of the "Download" options above to receive the installer according to your system OS. Then, open the installer and follow the instructions for installing the utility on your computer. Once done, launch the program, select the "Video Recorder," and pick your chosen mode if you record in full-screen or region mode at the leftmost area of the recording toolbar.
@@ -109,10 +130,10 @@ Next, you may also pick the audio method from system sound, microphone, or both 
 ![start recording gameplay](https://images.wondershare.com/filmora/guide/recording-04.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### ****Step 3 Complete the Recording Process**
@@ -148,10 +169,10 @@ Once done, press the "Stop" button at the leftmost portion of the floating toolb
 ![complete the recording process](https://images.wondershare.com/filmora/article-images/complete-the-recording-process.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -181,10 +202,10 @@ Once done, press the "Stop" button at the leftmost portion of the floating toolb
 ![complete the recording process](https://images.wondershare.com/filmora/article-images/complete-the-recording-process.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -201,18 +222,18 @@ You may click one of the "Download" options above to receive the installer accor
 
 ![filmora record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### ****Step 2 Start Recording Gameplay**
 
 Next, you may also pick the audio method from system sound, microphone, or both in the center of the tool. Then, click the record button in the right section of the tool to start screen recording. A floating toolbar will emerge, displaying you the important recording buttons like pause, resume, pent, stop, and more.
 
 ![start recording gameplay](https://images.wondershare.com/filmora/guide/recording-04.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### ****Step 3 Complete the Recording Process**
 
@@ -248,15 +269,22 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-the-8-most-advanced-open-video-call-systems-for-the-workplace/"><u>[New] In 2024, The 8 Most Advanced Open Video Call Systems for the Workplace</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-perfecting-motion-capture-a-guide-to-gopro-time-lapse-photos/"><u>[New] Perfecting Motion Capture A Guide to GoPro Time Lapse Photos</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ioneering-the-past-selecting-top-historical-educational-yts/"><u>[New] Pioneering the Past Selecting Top Historical Educational YTs</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-razers-kiyo-webcam-complete-overview-for-2024/"><u>[New] Razer's Kiyo Webcam - Complete Overview for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-swiftrecorder-plus-soundtrack-guided-screen-recording/"><u>[Updated] In 2024, SwiftRecorder Plus - Soundtrack Guided Screen Recording</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-the-future-awaits-equipping-yourself-for-metaverse-life-top-7/"><u>[Updated] In 2024, The Future Awaits Equipping Yourself for Metaverse Life (Top 7)</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-invite-and-guest-at-tiktok-lives-easily/"><u>[Updated] Invite and Guest at TikTok Lives Easily</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-sightcast-peer-review-system/"><u>[Updated] SightCast Peer Review System</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-ultimate-selection-top-hdr-camera-picks/"><u>In 2024, Ultimate Selection Top HDR Camera Picks</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-guide-to-realme-gt-5-pro-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Realme GT 5 Pro Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-seamless-integration-of-switch-pro-into-steam-games/"><u>[New] 2024 Approved Seamless Integration of Switch Pro Into Steam Games</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-mastering-obs-and-zoom-integration-tips/"><u>[Updated] 2024 Approved Mastering OBS & Zoom Integration Tips</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-the-ultimate-guide-to-xbox-live-streaming/"><u>[Updated] 2024 Approved The Ultimate Guide to Xbox Live Streaming</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-ultimate-guide-7-high-ranking-audio-transformation-apps/"><u>[Updated] 2024 Approved Ultimate Guide 7 High-Ranking Audio Transformation Apps</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-essential-gb-games-selecting-pc-emulators-to-simulate-gba-perfectly/"><u>[Updated] Essential GB Games Selecting PC Emulators to Simulate GBA Perfectly</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-expert-picks-screen-recording-software-for-academic-success/"><u>[Updated] Expert Picks Screen Recording Software for Academic Success</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-how-to-use-screenrec-for-2024/"><u>[Updated] How to Use ScreenRec for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-perfect-wave-linker-the-podcastists-choice/"><u>[Updated] Perfect Wave Linker The Podcastist's Choice</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-freewinrecorder-straightforward-pc-screens/"><u>2024 Approved FreeWinRecorder Straightforward PC Screens</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-itel-p40plus-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Itel P40+ | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/conversion-video-libre-de-charge-transformez-votre-fichier-m4v-en-format-mov-en-une-seule-touche-services-web-facile-dacces/"><u>Conversion Vidéo Libre De Charge: Transformez Votre Fichier M4V en Format MOV en Une Seule Touche - Services Web Facile D'Accès</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-se-2022-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone SE (2022) without Losing Any Data? | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-expert-techniques-for-removing-audio-disturbances/"><u>In 2024, Expert Techniques for Removing Audio Disturbances</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-asus-rog-phone-7-ultimate-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Asus ROG Phone 7 Ultimate Phones with/without a PC</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-xiaomi-redmi-k70-pro-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Xiaomi Redmi K70 Pro for Parents | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/perspective-analysis-why-owning-an-ipad-makes-sense-economically/"><u>Perspective Analysis: Why Owning an iPad Makes Sense Economically</u></a></li>
+<li><a href="https://howto.techidaily.com/play-store-stuck-on-downloading-of-vivo-t2-pro-5g-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Vivo T2 Pro 5G? 7 Ways to Resolve | Dr.fone</u></a></li>
 </ul></div>
 
