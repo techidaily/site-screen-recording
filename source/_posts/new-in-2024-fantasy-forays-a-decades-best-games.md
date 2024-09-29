@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Fantasy Forays  A Decade’s Best Games\""
-date: 2024-09-21T21:40:53.119Z
-updated: 2024-09-23T22:24:21.995Z
+date: 2024-09-23T17:44:53.877Z
+updated: 2024-09-29T17:07:32.530Z
 tags: 
   - screen-recording
   - ai video
@@ -74,6 +74,13 @@ It's one thing to defeat each dungeon's horrifying inhabitants in turn-based com
 
 Your tactical instincts will be put to the test when it comes to teamwork and resource allocation. This is undoubtedly one of the best roguelikes to be found.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2.[Downwell](https://store.steampowered.com/app/360740/Downwell/)**
 
 **_Platforms:_** _PS4, Switch, PC, iOS, Android_
@@ -83,6 +90,13 @@ Your tactical instincts will be put to the test when it comes to teamwork and re
 Only a couple of minutes to complete each run, this roguelike takes us on an adventure on the inside. As you dive deeper into an endless well filled with dangerous creatures, you are only protected by a pair of deadly gumboots that kill enemies, slowing down your fall for a moment.
 
 ![downwell](https://images.wondershare.com/filmora/article-images/downwell.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Don't let its retro look fool you. This 2015 title is fast and intense, with a good amount of power-ups that boost your survivability. It is immediately enjoyable with its fast-paced downward action, but gaining mastery of its combat is no simple feat. Downwell is one of the best roguelikes out there, despite its intense difficulty. Its concise levels, satisfying combo system, and creative boss are among the roguelikes' best features.
 
@@ -110,6 +124,13 @@ Hades is a masterpiece when it comes to dungeon crawling and roguelike games. Yo
 
 Many blessings have been given to you by the gods of Olympus, but your quest is not an easy one. A game like this will enthrall you and entice you to keep playing until you get some better stuff for your characters. After each failure, you are resurrected in your own house, the House of Hades, where your friends and family await your following conversation. It is one of the best roguelike titles out there.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. [Into the Breach](https://store.steampowered.com/app/590380/Into%5Fthe%5FBreach/)**
 
 **_Platforms:_** _Switch, PC_
@@ -120,16 +141,16 @@ This is the second title developed and published by Subset Games. Their first ti
 
 ![into-the-breach](https://images.wondershare.com/filmora/article-images/into-the-breach.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 There's only one way to hold off their attack, and that is to enlist some giant mechs. But you'll have to agonize over every decision if you intend to keep your team intact. The more you progress through the game's islands, the more advanced equipment you'll find, so you can turn the tide of war and save humankind.
 
 This is one of the most accessible strategy games out there, and its straightforward combat won't offend novices, but you should expect something more challenging, though rewarding, from Into the Breach.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **6\. [Slay the Spire](https://store.steampowered.com/app/646570/Slay%5Fthe%5FSpire/)**
 
@@ -142,26 +163,19 @@ It foregoes combat mechanics solely in favor of strategy and premonition in a de
 ![slay-the-spire](https://images.wondershare.com/filmora/article-images/slay-the-spire.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 The game, released in 2017, has gained massive audience recognition thanks to its 10/10 Steam rating and over 60,00 reviews despite its simplistic art and simplistic interface. It is considered the best deck-builder roguelike in the market, so if you haven't tried it already, you miss out a lot.
-
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **7\. [Crypt of the Necrodancer](https://store.steampowered.com/app/247080/Crypt%5Fof%5Fthe%5FNecroDancer/)**
 
@@ -173,6 +187,13 @@ This rhythm-based roguelike game hits a sweet spot combining two niche genres. T
 
 This game deviates from roguelike conventions, forcing players to arrive at snappy judgments quickly. While quick decision-making and foresight are required in the genre, the escalating rhythm forces players to maintain a higher tempo to maintain a strong combo, and all you know is, you can't lose the combo. If you haven't tried this game yet, then it's worth your time and money.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **8\. [Dead Cells](https://store.steampowered.com/app/588650/Dead%5FCells/)**
 
 **_Platforms:_** _Platforms: PS4, Xbox One, Switch, PC, iOS, Android_
@@ -182,19 +203,6 @@ This game deviates from roguelike conventions, forcing players to arrive at snap
 Dead Cells is a 2D and Souls-inspired roguelike game. You revolve around procedurally generated dungeon exploration in search of blueprints for better gear. The dungeon hosts a multitude of tough-as-nails enemies, which make finding these schematics no easy task.
 
 ![deadcells-poster](https://images.wondershare.com/filmora/article-images/deadcells-poster.png)
-
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Various upgrades can be carried over between runs, generating a constant sense of progression. Because of this, starting a new run after a particularly messy boss fight doesn't sting quite as much as many other roguelike games might be. There are many different weapon types and perks to unlock in Dead Cells, making it more replayable and keeps it from being monotonous.
 
@@ -211,10 +219,10 @@ An indie roguelike developed by Super Meat Boy creator Edmund McMillen, The Bind
 In addition to some captivating gameplay, the game contains some compelling storytelling, with Biblical references providing a nice hint of lore. Although decisions are essential in roguelikes, you may also need to be quick with your reaction times with some bullet hell-style bosses.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **10\. [Otherworld Legends](https://play.google.com/store/apps/details?id=com.chillyroom.zhmr.gp&hl=en&gl=US)**
@@ -227,19 +235,6 @@ Otherworld Legends is a mystery roguelite where you explore a mysterious and dan
 
 ![the-other-world-legends](https://images.wondershare.com/filmora/article-images/the-other-world-legends.png)
 
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 As you journey through various dungeon rooms in this game, you defeat all enemies you encounter. This is similar to the binding of Isaac series of games and Elemental Dungeon. Some relics are also found or bought from time to time. These items give you powerful advantages in combat, which can be the difference between victory and defeat.
 
 The main character of this game is Quan Huying, but there are several other characters you can choose from. You need to buy additional characters, though. They differ in cost, and some are $1.99 while others can be upwards of $2.99\. It's not expensive for me, but that doesn't mean it's necessarily ideal.
@@ -251,26 +246,13 @@ The Otherworld Legends game is incredibly entertaining to play with beautiful gr
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -285,5 +267,20 @@ Follow @Richard Bennett
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-essential-mac-tools-for-screen-capture-discovering-the-top-5-for-2024/"><u>[New] Essential Mac Tools for Screen Capture, Discovering the Top 5 for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-essential-methods-for-saving-discord-livestreams-on-video/"><u>[New] In 2024, Essential Methods for Saving Discord Livestreams on Video</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-top-8-techniques-for-capturing-pc-audio-and-mic-sounds/"><u>[New] Top 8 Techniques for Capturing PC Audio & Mic Sounds</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-a-journey-from-prose-to-picture-play/"><u>[Updated] A Journey From Prose to Picture Play</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-how-to-recover-my-eyes-only-pictures-on-snapchat-for-2024/"><u>[Updated] How To Recover My Eyes Only Pictures On Snapchat for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-top-10-engaging-screen-free-mobile-games-for-android-users/"><u>[Updated] In 2024, Top 10 Engaging Screen-Free Mobile Games for Android Users</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/5-solutions-for-realme-c67-5g-unlock-without-password-by-drfone-android/"><u>5 Solutions For Realme C67 5G Unlock Without Password</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/discover-5-best-webcams-featuring-crystal-clear-mics-for-2024/"><u>Discover 5 Best Webcams Featuring Crystal Clear Mics for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-motorola-moto-e13-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Motorola Moto E13 to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Infinix Smart 8 HD | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-capturing-victories-effective-strategies-with-w11/"><u>In 2024, Capturing Victories Effective Strategies with W11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-streamlined-techniques-for-transforming-vids-on-pinterest-to-mp3s/"><u>In 2024, Streamlined Techniques for Transforming Vids on Pinterest to MP3s</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-3-sites-to-find-free-motorola-unlock-codes-to-unlock-your-motorola-phone-by-drfone-android/"><u>In 2024, Top 3 Sites to Find Free Motorola Unlock Codes to Unlock Your Motorola Phone</u></a></li>
+</ul></div>
 

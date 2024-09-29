@@ -1,7 +1,7 @@
 ---
 title: "[New] Change Saving Spot for Mac's Photos for 2024"
-date: 2024-09-21T23:16:22.879Z
-updated: 2024-09-23T16:25:34.206Z
+date: 2024-09-28T17:21:43.983Z
+updated: 2024-09-29T16:44:13.558Z
 tags: 
   - screen-recording
   - ai video
@@ -49,10 +49,10 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 1: How to Save Screenshots to a Specific Folder on Mac
@@ -60,6 +60,13 @@ For macOS 10.12 or later
 Changing the folder where you store your screenshots is not an irreversible process, which means that you can reset the destination where the files are saved to Desktop at any point. Do not delete the new folder, because your Mac may not be able to take screenshots, afterward. The process described below is the only way you can delete a folder or add a new destination for your screenshots, and failing to comply with it may cause your Mac to malfunction.
 
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Create a new folder on the desired location on your hard drive, and then launch Terminal, by typing Terminal in the Search Box and clicking on its icon. Once the app is open, you should insert the following command into the Terminal window:
 
@@ -70,10 +77,10 @@ Then enter a space at the end after 'location'.
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 The next step is to add the new location at which screenshots will be saved and you can do this by simply dragging the folder you created into Terminal and adding it at the end of the command you just entered. A path is created and the command line should now contain the folder's unique location and it should look like this:
@@ -85,13 +92,6 @@ To execute the command you have to press Enter. After Terminal finishes running 
 **killall SystemUIServer**
 
 Hit Enter once more to confirm the changes and run the new command. Close Terminal app by clicking on the Terminal menu and selecting the Quick Terminal option. The default location where the screenshots are saved on your Mac is now changed and every time you take a screenshot using the Command + Shift + 3 shortcut the file will be saved at the new location. If for whatever reason you want to make the Desktop once again the destination where the screenshots on your computer will be saved here's how you can do it.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2: How to Change the Screenshot Save Location Back to Desktop
 
@@ -106,10 +106,10 @@ Don't forget that deleting the folder you use as a default location for storing 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -125,5 +125,24 @@ Follow @Max Wales
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-elevate-your-pc-best-8-video-capture-tools-for-windows-10/"><u>[New] 2024 Approved Elevate Your PC Best 8 Video Capture Tools for Windows 10</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-sundae-screening-comprehensive-tutorial-on-frozen-camera-app/"><u>[New] In 2024, Sundae Screening Comprehensive Tutorial on Frozen Camera App</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-starting-off-with-zoom-meetings-your-first-steps-guide/"><u>[Updated] 2024 Approved Starting Off with Zoom Meetings Your First Steps Guide</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-bi-panel-screen-transcription/"><u>[Updated] In 2024, Bi-Panel Screen Transcription</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-mastering-gamified-views-selecting-the-best-webcams-for-players-for-2024/"><u>[Updated] Mastering Gamified Views Selecting the Best Webcams for Players for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-top-3-ipad-speech-capture-methods/"><u>2024 Approved Top 3 iPad Speech Capture Methods</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/accurate-and-automatic-video-recording-on-diverse-computing-systems/"><u>Accurate and Automatic Video Recording on Diverse Computing Systems</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-honor-play-8t-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Honor Play 8T Activity | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-how-to-harness-the-power-of-puzzles-for-your-instagram-presence/"><u>In 2024, How to Harness the Power of Puzzles for Your Instagram Presence</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-mastering-steams-switch-pro-controllers/"><u>In 2024, Mastering Steam's Switch Pro Controllers</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-the-quick-zoomers-guide-to-clearer-instagram-narratives/"><u>In 2024, The Quick-Zoomer's Guide to Clearer Instagram Narratives</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-the-ultimate-selection-top-10-vimeo-download-tools-unveiled/"><u>In 2024, The Ultimate Selection Top 10 Vimeo Download Tools Unveiled</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Motorola Moto G04 | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-ultimate-list-10-relaxing-game-hits/"><u>In 2024, Ultimate List 10 Relaxing Game Hits</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/pasos-faciles-y-claros-para-conversion-avi-a-mkv-tu-guia-exhaustiva-completa/"><u>Pasos Fáciles Y Claros Para Conversión Avi a Mkv: Tu Guía Exhaustiva Completa</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/ultimate-guide-to-top-9-online-microphone-recorder-choices/"><u>Ultimate Guide to Top 9 Online Microphone Recorder Choices</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-slow-motion-videos-are-taking-over-social-media-and-becoming-a-new-trend-read-this-article-if-you-want-to-learn-how-to-slow-down-video/"><u>Updated 2024 Approved Slow Motion Videos Are Taking over Social Media and Becoming a New Trend. Read This Article if You Want to Learn How to Slow Down Video in After Effects</u></a></li>
+</ul></div>
 

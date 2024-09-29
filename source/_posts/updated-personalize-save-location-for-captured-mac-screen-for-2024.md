@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Personalize Save Location for Captured Mac Screen for 2024"
-date: 2024-09-19T21:09:28.253Z
-updated: 2024-09-23T19:18:05.388Z
+date: 2024-09-28T16:49:53.571Z
+updated: 2024-09-29T16:50:25.944Z
 tags: 
   - screen-recording
   - ai video
@@ -49,10 +49,10 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 1: How to Save Screenshots to a Specific Folder on Mac
@@ -60,19 +60,6 @@ For macOS 10.12 or later
 Changing the folder where you store your screenshots is not an irreversible process, which means that you can reset the destination where the files are saved to Desktop at any point. Do not delete the new folder, because your Mac may not be able to take screenshots, afterward. The process described below is the only way you can delete a folder or add a new destination for your screenshots, and failing to comply with it may cause your Mac to malfunction.
 
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Create a new folder on the desired location on your hard drive, and then launch Terminal, by typing Terminal in the Search Box and clicking on its icon. Once the app is open, you should insert the following command into the Terminal window:
 
@@ -83,10 +70,10 @@ Then enter a space at the end after 'location'.
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 The next step is to add the new location at which screenshots will be saved and you can do this by simply dragging the folder you created into Terminal and adding it at the end of the command you just entered. A path is created and the command line should now contain the folder's unique location and it should look like this:
@@ -100,10 +87,10 @@ To execute the command you have to press Enter. After Terminal finishes running 
 Hit Enter once more to confirm the changes and run the new command. Close Terminal app by clicking on the Terminal menu and selecting the Quick Terminal option. The default location where the screenshots are saved on your Mac is now changed and every time you take a screenshot using the Command + Shift + 3 shortcut the file will be saved at the new location. If for whatever reason you want to make the Desktop once again the destination where the screenshots on your computer will be saved here's how you can do it.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: How to Change the Screenshot Save Location Back to Desktop
@@ -118,6 +105,13 @@ Don't forget that deleting the folder you use as a default location for storing 
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
@@ -131,5 +125,22 @@ Follow @Max Wales
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-perfect-pair-5-sleek-webcams-with-built-in-microphones/"><u>[New] 2024 Approved Perfect Pair 5 Sleek Webcams with Built-In Microphones</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-dynamic-background-adaptation-in-microsoft-teams-beforeafter-calls/"><u>[New] Dynamic Background Adaptation in Microsoft Teams Before/After Calls</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-expert-insights-on-incorporating-hashtags-for-game-streams-for-2024/"><u>[New] Expert Insights on Incorporating Hashtags for Game Streams for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-expert-recommended-screen-capturing-apps-for-mac/"><u>[New] Expert-Recommended Screen Capturing Apps for Mac</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-nextgen-recording-movavis-new-tech-showcase-for-2024/"><u>[New] NextGen Recording Movavi's New Tech Showcase for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-streamlabs-versus-obs-a-compreran-analysis-for-broadcasters-for-2024/"><u>[New] Streamlabs Versus OBS A Compreran Analysis for Broadcasters for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-bridging-the-media-gap-coordinating-vids-on-twitter-and-tumblr/"><u>[Updated] 2024 Approved Bridging the Media Gap Coordinating Vids on Twitter & Tumblr</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-earning-expertise-short-video-revenue-boosting/"><u>[Updated] Earning Expertise Short Video Revenue Boosting</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-reviving-the-reluctant-connection-of-your-obs-capture-device-for-2024/"><u>[Updated] Reviving the Reluctant Connection of Your OBS Capture Device for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-insiders-approach-to-maximizing-youtube-video-revenue-for-2024/"><u>[Updated] The Insider's Approach to Maximizing YouTube Video Revenue for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/expert-techniques-for-perfect-green-screen-cinematography/"><u>Expert Techniques for Perfect Green-Screen Cinematography</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-android/"><u>How to Screen Mirroring Xiaomi Redmi Note 13 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-coolest-minecraft-mansion-projects-revealed/"><u>In 2024, Coolest Minecraft Mansion Projects Revealed</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/streaming-made-easy-getting-apple-tv-services-on-your-amazon-firestick/"><u>Streaming Made Easy: Getting Apple TV Services on Your Amazon Firestick</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-vn-video-editor-pro-apk-a-comprehensive-review-of-its-features/"><u>Updated 2024 Approved VN Video Editor Pro Apk A Comprehensive Review of Its Features</u></a></li>
+</ul></div>
 
