@@ -1,7 +1,7 @@
 ---
 title: "[New] Change Saving Spot for Mac's Photos for 2024"
-date: 2024-09-28T17:21:43.983Z
-updated: 2024-09-29T16:44:13.558Z
+date: 2024-09-30T17:54:33.440Z
+updated: 2024-10-04T21:45:53.177Z
 tags: 
   - screen-recording
   - ai video
@@ -49,10 +49,16 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 1: How to Save Screenshots to a Specific Folder on Mac
@@ -62,10 +68,10 @@ Changing the folder where you store your screenshots is not an irreversible proc
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Create a new folder on the desired location on your hard drive, and then launch Terminal, by typing Terminal in the Search Box and clicking on its icon. Once the app is open, you should insert the following command into the Terminal window:
@@ -76,13 +82,6 @@ Then enter a space at the end after 'location'.
 
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 The next step is to add the new location at which screenshots will be saved and you can do this by simply dragging the folder you created into Terminal and adding it at the end of the command you just entered. A path is created and the command line should now contain the folder's unique location and it should look like this:
 
 **defaults write com.apple.screencapture location /Users/username/Screenshots**
@@ -92,6 +91,13 @@ To execute the command you have to press Enter. After Terminal finishes running 
 **killall SystemUIServer**
 
 Hit Enter once more to confirm the changes and run the new command. Close Terminal app by clicking on the Terminal menu and selecting the Quick Terminal option. The default location where the screenshots are saved on your Mac is now changed and every time you take a screenshot using the Command + Shift + 3 shortcut the file will be saved at the new location. If for whatever reason you want to make the Desktop once again the destination where the screenshots on your computer will be saved here's how you can do it.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2: How to Change the Screenshot Save Location Back to Desktop
 
@@ -106,10 +112,10 @@ Don't forget that deleting the folder you use as a default location for storing 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -127,22 +133,17 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-elevate-your-pc-best-8-video-capture-tools-for-windows-10/"><u>[New] 2024 Approved Elevate Your PC Best 8 Video Capture Tools for Windows 10</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-sundae-screening-comprehensive-tutorial-on-frozen-camera-app/"><u>[New] In 2024, Sundae Screening Comprehensive Tutorial on Frozen Camera App</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-starting-off-with-zoom-meetings-your-first-steps-guide/"><u>[Updated] 2024 Approved Starting Off with Zoom Meetings Your First Steps Guide</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-bi-panel-screen-transcription/"><u>[Updated] In 2024, Bi-Panel Screen Transcription</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-mastering-gamified-views-selecting-the-best-webcams-for-players-for-2024/"><u>[Updated] Mastering Gamified Views Selecting the Best Webcams for Players for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-top-3-ipad-speech-capture-methods/"><u>2024 Approved Top 3 iPad Speech Capture Methods</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/accurate-and-automatic-video-recording-on-diverse-computing-systems/"><u>Accurate and Automatic Video Recording on Diverse Computing Systems</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-honor-play-8t-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Honor Play 8T Activity | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-how-to-harness-the-power-of-puzzles-for-your-instagram-presence/"><u>In 2024, How to Harness the Power of Puzzles for Your Instagram Presence</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-mastering-steams-switch-pro-controllers/"><u>In 2024, Mastering Steam's Switch Pro Controllers</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-the-quick-zoomers-guide-to-clearer-instagram-narratives/"><u>In 2024, The Quick-Zoomer's Guide to Clearer Instagram Narratives</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-the-ultimate-selection-top-10-vimeo-download-tools-unveiled/"><u>In 2024, The Ultimate Selection Top 10 Vimeo Download Tools Unveiled</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Motorola Moto G04 | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-ultimate-list-10-relaxing-game-hits/"><u>In 2024, Ultimate List 10 Relaxing Game Hits</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/pasos-faciles-y-claros-para-conversion-avi-a-mkv-tu-guia-exhaustiva-completa/"><u>Pasos Fáciles Y Claros Para Conversión Avi a Mkv: Tu Guía Exhaustiva Completa</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/ultimate-guide-to-top-9-online-microphone-recorder-choices/"><u>Ultimate Guide to Top 9 Online Microphone Recorder Choices</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-slow-motion-videos-are-taking-over-social-media-and-becoming-a-new-trend-read-this-article-if-you-want-to-learn-how-to-slow-down-video/"><u>Updated 2024 Approved Slow Motion Videos Are Taking over Social Media and Becoming a New Trend. Read This Article if You Want to Learn How to Slow Down Video in After Effects</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-best-free-no-invasive-android-video-recorders/"><u>[New] Best Free, No-Invasive Android Video Recorders</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-enchanting-viewers-the-art-of-crafting-engaging-youtube-description-templates/"><u>[Updated] Enchanting Viewers The Art of Crafting Engaging YouTube Description Templates</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-hit-parade-the-top-10-songs-on-spotify/"><u>[Updated] In 2024, Hit Parade The Top 10 Songs on Spotify</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-quicksnap-win10-recording-master-for-2024/"><u>[Updated] QuickSnap Win10 Recording Master for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-blueprint-for-buzz-elevating-your-profile-on-fb/"><u>2024 Approved Blueprint for Buzz Elevating Your Profile on FB</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/breakthrough-tactics-for-efficient-home-podcasting/"><u>Breakthrough Tactics for Efficient Home Podcasting</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/come-comprimere-i-file-mp4-mantenendo-lottimo-livello-di-qualita-una-guida-essenziale-alla-compressione-effettiva-e-allottimizzazione-dei-video/"><u>Come Comprimere I File MP4 Mantenendo L'ottimo Livello Di Qualità: Una Guida Essenziale Alla Compressione Effettiva E All'ottimizzazione Dei Video</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/comparative-study-of-vlc-and-alternatives/"><u>Comparative Study of VLC & Alternatives</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-essential-asmr-creators-to-follow/"><u>In 2024, Essential ASMR Creators to Follow</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/m1-innovation-elevating-smoothness-in-every-editors-toolkit/"><u>M1 Innovation Elevating Smoothness in Every Editor's Toolkit</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/the-essential-2023-techniques-for-ios-screen-recording/"><u>The Essential 2023 Techniques for iOS Screen Recording</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-memes-a-comprehensive-guide-what-are-they-and-how-did-they-evolve/"><u>Understanding Memes: A Comprehensive Guide – What Are They and How Did They Evolve?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Crafting a Cinematic Look  Ken Burns in Camtasa\""
-date: 2024-09-24T17:57:18.796Z
-updated: 2024-09-29T17:07:04.632Z
+date: 2024-09-30T17:19:06.496Z
+updated: 2024-10-04T18:14:17.836Z
 tags: 
   - screen-recording
   - ai video
@@ -48,10 +48,10 @@ At this point, all you need to do is drag that particular arrow to the left, so 
 In Camtasia 9, you have the option to experiment with zooming and panning or both to create new styles of the Ken Burns effect. You will learn as you experiment and will be able to create some really interesting videos in the process.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Apply Ken Burns Effect with the Best Alternative to Camtasia 9 - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -63,10 +63,10 @@ That's not to say that Filmora only offers basic features as it has a wide range
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Step 1\. Import Your Images/Still Photos
@@ -94,10 +94,10 @@ Remember that this tool isn’t just a single trick pony, and you can use Wonder
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -115,22 +115,14 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-amplify-views-on-tiktok-with-these-standout-username-concepts/"><u>[New] Amplify Views on TikTok with These Standout Username Concepts</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-get-superior-visuals-from-youtube-downloading-thumbnails-free/"><u>[New] Get Superior Visuals From YouTube - Downloading Thumbnails Free!</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-active-screen-capture-pro-does-it-reign-supreme/"><u>[New] In 2024, Active Screen Capture Pro Does It Reign Supreme?</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-classic-console-charisma-best-ps1-emulation-tools-reviewed/"><u>[New] In 2024, Classic Console Charisma - Best PS1 Emulation Tools Reviewed</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-economical-pc-monitoring-devices/"><u>[New] In 2024, Economical PC Monitoring Devices</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-nexus-of-delight-kid-focused-gaming-guide-for-2024/"><u>[New] Nexus of Delight Kid-Focused Gaming Guide for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-accelerated-learning-for-effective-nvidia-screener-use/"><u>[Updated] 2024 Approved Accelerated Learning for Effective NVIDIA Screener Use</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-optimal-strategy-for-integrating-linktree-in-tiktok-profiles/"><u>[Updated] 2024 Approved Optimal Strategy for Integrating Linktree in TikTok Profiles</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-tomorrows-scrutiny-innovative-perspectives-for-2024/"><u>[Updated] Tomorrow’s Scrutiny Innovative Perspectives for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-beyond-facetime-transformative-webcam-uses/"><u>2024 Approved Beyond FaceTime Transformative Webcam Uses</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-capture-in-action-detailed-analysis-of-apowersoft-on-pcs/"><u>2024 Approved Capture in Action Detailed Analysis of Apowersoft on PCs</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-poco-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Poco</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/contrasting-bert-with-gpt-insights-on-the-revolutionary-nlp-model/"><u>Contrasting BERT with GPT: Insights on the Revolutionary NLP Model</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/get-libdvdcss2-dll-file-for-windows-pc-download-guide-windows-11-10-8-and-7/"><u>Get LibDVDCSS2 DLL File for Windows PC - Download Guide (Windows 11, 10, 8 & 7)</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-nokia-c12-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Nokia C12 | Dr.fone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-gameboy-advance-mastered-android-emulator-selection/"><u>In 2024, GameBoy Advance Mastered Android Emulator Selection</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-virtual-venue-verdict-which-streamer-prevails/"><u>In 2024, Virtual Venue Verdict Which Streamer Prevails?</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-high-impact-imaging-our-favorite-7-4k-cameras/"><u>[New] 2024 Approved High-Impact Imaging Our Favorite 7 4K Cameras</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-cinematiccapture-easy-screen-recorder-for-win11-pcs-for-2024/"><u>[New] CinematicCapture Easy Screen Recorder for Win11 PCs for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-the-ultimate-guide-to-macs-image-file-transformation/"><u>[New] In 2024, The Ultimate Guide to Mac's Image File Transformation</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-tech-vanguard-apoyser-vs-other-top-screen-capture-tools/"><u>[Updated] Tech Vanguard Apoyser vs Other Top Screen Capture Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/discover-quick-and-efficient-ways-to-access-windows-11-sounds/"><u>Discover Quick and Efficient Ways to Access Windows 11 Sounds</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/movavi-professionelle-kostenlose-konvertierung-von-mpe-in-avi-fuhren-sie-ihre-aufgaben-einfach-und-effizient-aus/"><u>Movavi: Professionelle Kostenlose Konvertierung Von MPE in Avi - Führen Sie Ihre Aufgaben Einfach Und Effizient Aus!</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-gt-5-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on GT 5 without backup.</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/unwind-in-a-world-of-top-stress-busters-for-2024/"><u>Unwind in a World of Top Stress Busters for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/waiting-ends-with-launch-the-windows-release-of-goodnotes-on-the-ipad-is-here/"><u>Waiting Ends with Launch: The Windows Release of GoodNotes on the iPad Is Here!</u></a></li>
 </ul></div>
 

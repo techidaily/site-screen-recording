@@ -1,7 +1,7 @@
 ---
 title: "[New] Bilateral Screen Tracking"
-date: 2024-09-22T16:21:52.748Z
-updated: 2024-09-23T16:41:54.258Z
+date: 2024-10-02T02:41:13.206Z
+updated: 2024-10-04T21:25:50.254Z
 tags: 
   - screen-recording
   - ai video
@@ -48,18 +48,18 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Record Multiple Monitors
 
 The first step towards setting up a screencasting session with multiple displays is to make sure that the monitors are properly connected to your laptop or desktop computer. Each external monitor will display identical images when turned on, but in order to move software windows between the two screens, you'll have to enable the 'Extend These Displays' option. The actual steps you'll need to take may vary, depending on the computer and the OS you are using, and we are going to show you how to extend displays on Windows 8 or later.
 
 Head over to the Start Menu, and open the Control Panel. Select the 'Adjust Screen Resolution' option in the Appearance and Personalization menu, and then click on the Multiple Displays drop-down menu. Pick the 'Extend These Displays' option from the list and proceed to save the changes by clicking on the OK button.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Recording Multiple Monitors With [OBS Studio](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -78,10 +78,10 @@ Sum up the two values of the wider sides of the screens and insert the value you
 Save the changes you've made, and then drag the screens to arrange them. You can start recording multiple monitors with OBS Studio by clicking on the Start Recording button.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Capturing Multiple Monitor Displays with Camtasia
@@ -110,19 +110,19 @@ In case that you want to record your secondary monitor, we recommend you to try 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -138,5 +138,22 @@ Follow @Max Wales
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-essential-guide-to-screen-capture-windows/"><u>[New] In 2024, Essential Guide to Screen Capture Windows</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-smooth-sailing-in-transforming-ppt-slides-into-videos/"><u>[New] In 2024, Smooth Sailing in Transforming PPT Slides Into Videos</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-the-essentialists-approach-saving-your-screen-on-an-hp-notebook/"><u>[New] In 2024, The Essentialist's Approach Saving Your Screen on an HP Notebook</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-the-pros-playbook-blurring-the-boundary-between-work-and-home-spaces/"><u>[New] In 2024, The Pro's Playbook Blurring the Boundary Between Work and Home Spaces</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-your-guide-to-genuine-selfies-on-instagrams-canvas/"><u>[New] In 2024, Your Guide to Genuine Selfies on Instagram's Canvas</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-minimca-mastery-starting-point-for-mc-habitats/"><u>[Updated] 2024 Approved MiniMCA Mastery Starting Point for MC Habitats</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-videosnapper-quickly-download-twitter-content-on-iphone/"><u>[Updated] 2024 Approved VideoSnapper Quickly Download Twitter Content on iPhone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-exclusive-insiders-take-on-best-3d-blu-ray-players/"><u>[Updated] In 2024, Exclusive Insider's Take on Best 3D Blu-Ray Players</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-your-essential-list-of-the-finest-ios-ps2-emulators/"><u>2024 Approved Your Essential List of the Finest iOS PS2 Emulators</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-realme-11x-5g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Realme 11X 5G</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/effective-solutions-for-the-our-data-centers-could-not-find-a-response-error-in-halo-infinite/"><u>Effective Solutions for the Our Data Centers Could Not Find a Response Error in Halo Infinite</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-14-plus-to-mac-drfone-by-drfone-ios/"><u>How to Mirror Apple iPhone 14 Plus to Mac? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-from-the-shooting-range-to-streaming-real-time-dslr-and-pcmac-connection/"><u>In 2024, From the Shooting Range to Streaming Real-Time DSLR & PC/Mac Connection</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-retro-to-modern-radeon-transition/"><u>In 2024, Retro to Modern Radeon Transition</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-thorough-evaluation-hero4-black-innovations/"><u>In 2024, Thorough Evaluation Hero4 Black Innovations</u></a></li>
+</ul></div>
 

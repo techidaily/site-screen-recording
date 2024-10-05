@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Capturing Your iPhone/iPad Display Now"
-date: 2024-09-07T04:45:22.221Z
-updated: 2024-09-08T04:45:22.221Z
+date: 2024-09-30T16:03:52.292Z
+updated: 2024-10-05T00:54:53.355Z
 tags: 
   - screen-recording
   - ai video
@@ -15,30 +15,12 @@ keywords: "Capture iPhone Screen,IPhone Screenshot Tutorial,IPad Display Save,IP
 thumbnail: https://thmb.techidaily.com/ffa6265ad1a6a848473605e7aedcfa3ec46ffbe39326ff49e8d4fafd11fa0e00.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Capturing Your iPhone/iPad Display Now
 
 # How to Record iPhone/iPad’s Screen
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115947/19272" target="_top" id="2115947">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115947" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Shanoon Cox
 
  Mar 27, 2024• Proven solutions
@@ -66,22 +48,10 @@ So, in this article, we will show you how to record your iPhone/iPad screen whet
 
 ![ios screen recording ](https://images.wondershare.com/filmora/article-images/ios-screen-recording.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 1. Tap the screen recording icon that looks like a solid circle enclosed in another circle. And you will see the start recording option and a microphone button. If you want to record the microphone audio, then tap it to turn on the microphone. Then, tap on Start Recording to start.
 
 ![ ios screen recording ](https://images.wondershare.com/filmora/article-images/ios-screen-recording-start.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 1. The video recording will start after a 3-second delay and the recording button will turn red. A notification will also appear on the top indicating recording time.
 2. After you are done recording, open the control center again and tap on the screen recorder button again. Alternatively, you can also tap on the red notification on the top of your screen and tap Stop at the prompt.
 
@@ -93,6 +63,13 @@ That's the steps of how to record your iPhone screen in iOS 11 and later version
 
 If your iOS device is running a previous version older than iOS 11, and you do not want to update, then you can record your iPhone screen with some best screen recorders for iOS, or record with QuickTime. In the following section, we will show you how to do it.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: Use [QuickTime](https://support.apple.com/quicktime) to Record Screens of iPhone/iPad (Version Before iOS 11)
 
 People need to download and install a third-party iPhone/iPad screen recorder after jailbreaking the device and going through a complicated installation process. iOS is always risky to jailbreak your device as if you don’t do it carefully your device will get broken. It means your device will stop functioning and you will need to go to Apple care for getting it fixed. Jailbreaking also voids your warranty. So rather than going through these risks, people preferred using QuickTime to record their Phone/iPad’s screen.
@@ -103,6 +80,13 @@ With QuickTime media player you could record your iPhone/iPad’s Screen. For re
 
 ![quicktime](https://images.wondershare.com/filmora/quicktime%20logo.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2\. Launch QuickTime on your Mac available in the application folder.
 
 3\. Click on the File menu on the QuickTime menu bar and choose New Movie Recording.
@@ -110,11 +94,12 @@ With QuickTime media player you could record your iPhone/iPad’s Screen. For re
 ![quicktime](https://images.wondershare.com/filmora/quicktime%20new%20moive.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115919/19272" target="_top" id="2115919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115919" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4\. A video recording screen will open. Now slide the cursor over that window to make the record and volume button visible.
 
 5\. Click on the arrow next to the red record button to show the camera and microphone recording options. Choose your device from the list of devices and you will be able to see your device screen in the QuickTime window.
@@ -122,6 +107,13 @@ With QuickTime media player you could record your iPhone/iPad’s Screen. For re
 6\. Click on the red record button when you want to start recording.
 
 ![quicktime screen recorder](https://images.wondershare.com/filmora/quicktime%20iphone.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 7\. To stop the recording of the screen of your iOS device, click on the Stop button at the video recorder window.
 
@@ -135,12 +127,6 @@ iPhone/iPad screen recorder is a very useful tool when you want to record tutori
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 Shanoon Cox
@@ -149,11 +135,26 @@ Shanoon Cox is a writer and a lover of all things video.
 
 Follow @Shanoon Cox
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/updated-elite-5-digital-media-screenshots-for-2024/"><u>[Updated] Elite 5 Digital Media Screenshots for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-mastering-the-art-of-high-quality-video-production-in-obs/"><u>[Updated] In 2024, Mastering the Art of High-Quality Video Production in OBS</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-secrets-of-smooth-transfer-mcc-files-uploaded-on-vimeo-for-2024/"><u>[Updated] Secrets of Smooth Transfer MCC Files Uploaded on Vimeo for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-transformative-editing-mastering-blend-mode-applications/"><u>[Updated] Transformative Editing Mastering Blend Mode Applications</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-ultimate-choice-elite-desktop-pcs-for-2024/"><u>[Updated] Ultimate Choice Elite Desktop PCs for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/44cm44og44os44ot6auy6kej5yop5bqm44kz44oz44og44oz44oe6kiy5oa25lplusd5oyb5oml6acg44oe44k544k44o844kv44op44k544cn/"><u>「テレビ高解像度コンテンツ記憶保持手順マスタークラス」</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-how-to-see-every-participant-in-google-meet/"><u>2024 Approved How to See Every Participant in Google Meet?</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-initiating-an-entrepreneurial-journey-with-just-a-click-on-mobile-devices/"><u>2024 Approved Initiating an Entrepreneurial Journey with Just a Click on Mobile Devices</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-ultimate-list-of-gratis-online-fax-providers/"><u>Discover the Ultimate List of Gratis Online Fax Providers</u></a></li>
+<li><a href="https://media-tips.techidaily.com/free-conversion-guide-transform-your-avchd-videos-without-hitch/"><u>Free Conversion Guide: Transform Your AVCHD Videos Without Hitch</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Infinix Smart 8 Pro? | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/resolve-absent-watch-screen-button/"><u>Resolve Absent Watch Screen Button</u></a></li>
+</ul></div>
+

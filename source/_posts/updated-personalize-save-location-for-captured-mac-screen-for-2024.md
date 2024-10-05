@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Personalize Save Location for Captured Mac Screen for 2024"
-date: 2024-09-28T16:49:53.571Z
-updated: 2024-09-29T16:50:25.944Z
+date: 2024-10-02T23:15:25.260Z
+updated: 2024-10-05T02:00:18.993Z
 tags: 
   - screen-recording
   - ai video
@@ -49,10 +49,10 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 1: How to Save Screenshots to a Specific Folder on Mac
@@ -70,10 +70,10 @@ Then enter a space at the end after 'location'.
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 The next step is to add the new location at which screenshots will be saved and you can do this by simply dragging the folder you created into Terminal and adding it at the end of the command you just entered. A path is created and the command line should now contain the folder's unique location and it should look like this:
@@ -87,10 +87,10 @@ To execute the command you have to press Enter. After Terminal finishes running 
 Hit Enter once more to confirm the changes and run the new command. Close Terminal app by clicking on the Terminal menu and selecting the Quick Terminal option. The default location where the screenshots are saved on your Mac is now changed and every time you take a screenshot using the Command + Shift + 3 shortcut the file will be saved at the new location. If for whatever reason you want to make the Desktop once again the destination where the screenshots on your computer will be saved here's how you can do it.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: How to Change the Screenshot Save Location Back to Desktop
@@ -106,10 +106,10 @@ Don't forget that deleting the folder you use as a default location for storing 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -127,20 +127,16 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-perfect-pair-5-sleek-webcams-with-built-in-microphones/"><u>[New] 2024 Approved Perfect Pair 5 Sleek Webcams with Built-In Microphones</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-dynamic-background-adaptation-in-microsoft-teams-beforeafter-calls/"><u>[New] Dynamic Background Adaptation in Microsoft Teams Before/After Calls</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-expert-insights-on-incorporating-hashtags-for-game-streams-for-2024/"><u>[New] Expert Insights on Incorporating Hashtags for Game Streams for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-expert-recommended-screen-capturing-apps-for-mac/"><u>[New] Expert-Recommended Screen Capturing Apps for Mac</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-nextgen-recording-movavis-new-tech-showcase-for-2024/"><u>[New] NextGen Recording Movavi's New Tech Showcase for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-streamlabs-versus-obs-a-compreran-analysis-for-broadcasters-for-2024/"><u>[New] Streamlabs Versus OBS A Compreran Analysis for Broadcasters for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-bridging-the-media-gap-coordinating-vids-on-twitter-and-tumblr/"><u>[Updated] 2024 Approved Bridging the Media Gap Coordinating Vids on Twitter & Tumblr</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-earning-expertise-short-video-revenue-boosting/"><u>[Updated] Earning Expertise Short Video Revenue Boosting</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-reviving-the-reluctant-connection-of-your-obs-capture-device-for-2024/"><u>[Updated] Reviving the Reluctant Connection of Your OBS Capture Device for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-the-insiders-approach-to-maximizing-youtube-video-revenue-for-2024/"><u>[Updated] The Insider's Approach to Maximizing YouTube Video Revenue for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/expert-techniques-for-perfect-green-screen-cinematography/"><u>Expert Techniques for Perfect Green-Screen Cinematography</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-android/"><u>How to Screen Mirroring Xiaomi Redmi Note 13 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-coolest-minecraft-mansion-projects-revealed/"><u>In 2024, Coolest Minecraft Mansion Projects Revealed</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/streaming-made-easy-getting-apple-tv-services-on-your-amazon-firestick/"><u>Streaming Made Easy: Getting Apple TV Services on Your Amazon Firestick</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-vn-video-editor-pro-apk-a-comprehensive-review-of-its-features/"><u>Updated 2024 Approved VN Video Editor Pro Apk A Comprehensive Review of Its Features</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-essential-list-the-finest-no-cost-games-capture-software-2024/"><u>[New] Essential List The Finest No-Cost Games' Capture Software 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-master-guide-to-online-video-calls-free-edition-best/"><u>[New] Master Guide to Online Video Calls Free Edition Best</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-purerecorder-capturing-life-in-games-without-cost/"><u>[New] PureRecorder Capturing Life in Games Without Cost</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-the-best-beginnings-choosing-valheims-prime-plants/"><u>[Updated] The Best Beginnings Choosing Valheim's Prime Plants</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-the-benefits-of-upgrading-to-a-youtube-premium-account/"><u>2024 Approved The Benefits of Upgrading to a YouTube Premium Account</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/comprehensive-capture-and-review-with-az/"><u>Comprehensive Capture & Review with AZ</u></a></li>
+<li><a href="https://blog-min.techidaily.com/convertisseurs-mp4-superieurs-guide-pour-transformer-vos-fichiers-video-mp4/"><u>Convertisseurs MP4 Supérieurs: Guide Pour Transformer Vos Fichiers Video MP4</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-the-newest-graphics-drivers-for-nvidias-rtx-2080-supports-win10-win78-systems/"><u>Download the Newest Graphics Drivers for NVIDIA's RTX 2080 – Supports Win10, Win7/8 Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-your-mpow-mic-issues-in-windows/"><u>Fixing Your MPOW Mic Issues in Windows</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-tecno-pop-8-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Tecno Pop 8 Phone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-simplified-pubg-voice-alteration-guide/"><u>In 2024, Simplified PUBG Voice Alteration Guide</u></a></li>
 </ul></div>
 
