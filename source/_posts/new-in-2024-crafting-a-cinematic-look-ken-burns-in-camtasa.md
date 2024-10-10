@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Crafting a Cinematic Look  Ken Burns in Camtasa\""
-date: 2024-09-30T17:19:06.496Z
-updated: 2024-10-04T18:14:17.836Z
+date: 2024-10-03T05:47:34.625Z
+updated: 2024-10-10T04:36:08.800Z
 tags: 
   - screen-recording
   - ai video
@@ -48,10 +48,16 @@ At this point, all you need to do is drag that particular arrow to the left, so 
 In Camtasia 9, you have the option to experiment with zooming and panning or both to create new styles of the Ken Burns effect. You will learn as you experiment and will be able to create some really interesting videos in the process.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Apply Ken Burns Effect with the Best Alternative to Camtasia 9 - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -63,10 +69,10 @@ That's not to say that Filmora only offers basic features as it has a wide range
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Step 1\. Import Your Images/Still Photos
@@ -94,10 +100,10 @@ Remember that this tool isn’t just a single trick pony, and you can use Wonder
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -115,14 +121,20 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-high-impact-imaging-our-favorite-7-4k-cameras/"><u>[New] 2024 Approved High-Impact Imaging Our Favorite 7 4K Cameras</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-cinematiccapture-easy-screen-recorder-for-win11-pcs-for-2024/"><u>[New] CinematicCapture Easy Screen Recorder for Win11 PCs for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-the-ultimate-guide-to-macs-image-file-transformation/"><u>[New] In 2024, The Ultimate Guide to Mac's Image File Transformation</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-tech-vanguard-apoyser-vs-other-top-screen-capture-tools/"><u>[Updated] Tech Vanguard Apoyser vs Other Top Screen Capture Tools</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/discover-quick-and-efficient-ways-to-access-windows-11-sounds/"><u>Discover Quick and Efficient Ways to Access Windows 11 Sounds</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/movavi-professionelle-kostenlose-konvertierung-von-mpe-in-avi-fuhren-sie-ihre-aufgaben-einfach-und-effizient-aus/"><u>Movavi: Professionelle Kostenlose Konvertierung Von MPE in Avi - Führen Sie Ihre Aufgaben Einfach Und Effizient Aus!</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-gt-5-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on GT 5 without backup.</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/unwind-in-a-world-of-top-stress-busters-for-2024/"><u>Unwind in a World of Top Stress Busters for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/waiting-ends-with-launch-the-windows-release-of-goodnotes-on-the-ipad-is-here/"><u>Waiting Ends with Launch: The Windows Release of GoodNotes on the iPad Is Here!</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-ultimate-capture-assistant-az-audits-and-alternatives/"><u>[New] 2024 Approved Ultimate Capture Assistant - AZ Audits & Alternatives</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-direct-slideshow-content-into-video-realm/"><u>[New] Direct Slideshow Content Into Video Realm</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-text-and-title-effect-types-in-after-effects/"><u>[New] Text and Title Effect Types in After Effects</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-enhancing-communication-strategies-for-effective-call-logging/"><u>[Updated] 2024 Approved Enhancing Communication Strategies for Effective Call Logging</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-mastering-gaming-nostalgia-discovering-the-most-acclaimed-gb-console-emulators-on-pc/"><u>[Updated] 2024 Approved Mastering Gaming Nostalgia Discovering The Most Acclaimed GB Console Emulators on PC</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-adapting-your-tech-skills-for-facetime-call-logging/"><u>[Updated] In 2024, Adapting Your Tech Skills for FaceTime Call Logging</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-peering-into-pixels-with-polaroids-camplus-action-device/"><u>[Updated] Peering Into Pixels with Polaroid's Cam+ Action Device</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-elevate-your-presentations-with-professional-screencasts/"><u>2024 Approved Elevate Your Presentations with Professional Screencasts</u></a></li>
+<li><a href="https://techtrends.techidaily.com/best-protected-email-solutions-to-keep-your-inbox-safe/"><u>Best Protected Email Solutions to Keep Your Inbox Safe</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/cost-efficient-pc-video-harvesters/"><u>Cost-Efficient PC Video Harvesters</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-vivo-y27-4g-lock-screen-password-by-drfone-android/"><u>How To Change Vivo Y27 4G Lock Screen Password?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-asus-rog-phone-8-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Asus ROG Phone 8 Phone? | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-essential-mac-apps-the-leading-alternatives-to-bandicam/"><u>In 2024, Essential Mac Apps The Leading Alternatives to Bandicam</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-unlocked-apple-iphone-12-pro-by-drfone-ios/"><u>In 2024, Everything You Need To Know About Unlocked Apple iPhone 12 Pro</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-10-must-play-games-for-your-steam-deck/"><u>Top 10 Must-Play Games for Your Steam Deck</u></a></li>
 </ul></div>
 

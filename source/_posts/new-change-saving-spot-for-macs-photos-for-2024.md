@@ -1,7 +1,7 @@
 ---
 title: "[New] Change Saving Spot for Mac's Photos for 2024"
-date: 2024-09-30T17:54:33.440Z
-updated: 2024-10-04T21:45:53.177Z
+date: 2024-10-06T20:06:59.981Z
+updated: 2024-10-10T05:08:45.136Z
 tags: 
   - screen-recording
   - ai video
@@ -49,16 +49,10 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 1: How to Save Screenshots to a Specific Folder on Mac
@@ -68,10 +62,10 @@ Changing the folder where you store your screenshots is not an irreversible proc
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Create a new folder on the desired location on your hard drive, and then launch Terminal, by typing Terminal in the Search Box and clicking on its icon. Once the app is open, you should insert the following command into the Terminal window:
@@ -93,10 +87,10 @@ To execute the command you have to press Enter. After Terminal finishes running 
 Hit Enter once more to confirm the changes and run the new command. Close Terminal app by clicking on the Terminal menu and selecting the Quick Terminal option. The default location where the screenshots are saved on your Mac is now changed and every time you take a screenshot using the Command + Shift + 3 shortcut the file will be saved at the new location. If for whatever reason you want to make the Desktop once again the destination where the screenshots on your computer will be saved here's how you can do it.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: How to Change the Screenshot Save Location Back to Desktop
@@ -112,10 +106,10 @@ Don't forget that deleting the folder you use as a default location for storing 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -133,17 +127,16 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-best-free-no-invasive-android-video-recorders/"><u>[New] Best Free, No-Invasive Android Video Recorders</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-enchanting-viewers-the-art-of-crafting-engaging-youtube-description-templates/"><u>[Updated] Enchanting Viewers The Art of Crafting Engaging YouTube Description Templates</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-hit-parade-the-top-10-songs-on-spotify/"><u>[Updated] In 2024, Hit Parade The Top 10 Songs on Spotify</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-quicksnap-win10-recording-master-for-2024/"><u>[Updated] QuickSnap Win10 Recording Master for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-blueprint-for-buzz-elevating-your-profile-on-fb/"><u>2024 Approved Blueprint for Buzz Elevating Your Profile on FB</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/breakthrough-tactics-for-efficient-home-podcasting/"><u>Breakthrough Tactics for Efficient Home Podcasting</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/come-comprimere-i-file-mp4-mantenendo-lottimo-livello-di-qualita-una-guida-essenziale-alla-compressione-effettiva-e-allottimizzazione-dei-video/"><u>Come Comprimere I File MP4 Mantenendo L'ottimo Livello Di Qualità: Una Guida Essenziale Alla Compressione Effettiva E All'ottimizzazione Dei Video</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/comparative-study-of-vlc-and-alternatives/"><u>Comparative Study of VLC & Alternatives</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-essential-asmr-creators-to-follow/"><u>In 2024, Essential ASMR Creators to Follow</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/m1-innovation-elevating-smoothness-in-every-editors-toolkit/"><u>M1 Innovation Elevating Smoothness in Every Editor's Toolkit</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/the-essential-2023-techniques-for-ios-screen-recording/"><u>The Essential 2023 Techniques for iOS Screen Recording</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/understanding-memes-a-comprehensive-guide-what-are-they-and-how-did-they-evolve/"><u>Understanding Memes: A Comprehensive Guide – What Are They and How Did They Evolve?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-the-great-screen-capture-debate-obs-studio-versus-fraps/"><u>[New] 2024 Approved The Great Screen Capture Debate OBS Studio Versus Fraps</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-starting-from-scratch-stardews-ginger-island-guide/"><u>[New] In 2024, Starting From Scratch Stardew's Ginger Island Guide</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-pair-monitor-logging-process-for-2024/"><u>[New] Pair Monitor Logging Process for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/mooth-transition-techniques-for-youtube-to-dailymotion-upload-for-2024/"><u>[New] Smooth Transition Techniques for YouTube to Dailymotion Upload for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-step-by-step-iphone-camera-adjustment-guide/"><u>[Updated] 2024 Approved Step-by-Step iPhone Camera Adjustment Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726030193011-iso/"><u>「ISO形式」ファイル切り分けに最適な２つの手段</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/discover-the-best-free-mp4-editor-software-for-202macoswindows-top-picks-for-your-videos/"><u>Discover the Best FREE MP4 Editor Software for 202([MacOS/Windows]) - Top Picks for Your Videos</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-mac-centric-review-the-complete-guide-to-screenflow-v4/"><u>In 2024, Mac-Centric Review The Complete Guide to ScreenFlow V4</u></a></li>
+<li><a href="https://change-location.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-vivo-y100-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Vivo Y100? | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/webcam-integration-for-flawless-gameplay-logs-for-2024/"><u>Webcam Integration for Flawless Gameplay Logs for 2024</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>Why does the pokemon go battle league not available On Apple iPhone XS Max | Dr.fone</u></a></li>
 </ul></div>
 
