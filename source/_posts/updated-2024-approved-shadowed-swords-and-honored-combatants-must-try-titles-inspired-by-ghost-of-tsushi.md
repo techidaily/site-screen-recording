@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Shadowed Swords & Honored Combatants  Must-Try Titles Inspired by Ghost of Tsushi\""
-date: 2024-08-28T20:56:39.733Z
-updated: 2024-08-29T20:56:39.733Z
+date: 2024-10-12T16:31:13.943Z
+updated: 2024-10-16T18:19:44.849Z
 tags: 
   - screen-recording
   - ai video
@@ -149,15 +149,36 @@ Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-captivate-viewers-strategies-for-viral-video-success/"><u>[New] In 2024, Captivate Viewers Strategies for Viral Video Success</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-capturing-quality-should-you-choose-30-or-60-fps/"><u>2024 Approved Capturing Quality Should You Choose 30 or 60 FPS?</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-perfecting-live-display-images-with-ease/"><u>2024 Approved Perfecting Live Display Images with Ease</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-savvy-screenshot-tactics-for-netflix-on-mac-a-complete-guide-of-six-ways/"><u>2024 Approved Savvy Screenshot Tactics for Netflix on Mac - A Complete Guide of Six Ways</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-the-screencast-guide-to-flawless-presentations-and-demos/"><u>2024 Approved The Screencast Guide to Flawless Presentations and Demos</u></a></li>
+<li><a href="https://extra-information.techidaily.com/5-best-no-cost-video-enhancement-platforms/"><u>5 Best No-Cost Video Enhancement Platforms</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/crop-companions-best-farming-games-to-gather-with-buddies/"><u>Crop Companions Best Farming Games to Gather with Buddies</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/discover-top-emulated-psp-classics-on-ios/"><u>Discover Top Emulated PSP Classics on iOS</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/effortless-methods-for-reducing-mp3-file-size-on-desktops-and-smartphones/"><u>Effortless Methods for Reducing MP3 File Size on Desktops & Smartphones</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/expose-11-essential-trackpad-gestures-every-pro-user-should-utilize-in-depth-guide-by-zdnet/"><u>Expose 11 Essential Trackpad Gestures Every Pro User Should Utilize - In-Depth Guide by ZDNet</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-essential-list-11-streamers-go-to-audio-devices/"><u>In 2024, Essential List 11 Streamers' Go-To Audio Devices</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Realme GT Neo 5 SE? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-step-by-step-guide-to-optimize-your-instagram-posts-using-hashtags/"><u>In 2024, Step-by-Step Guide to Optimize Your Instagram Posts Using Hashtags</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/preserving-msda80dll-does-it-benefit-or-hinder-your-pcs-performance/"><u>Preserving MSDA80DLL: Does It Benefit or Hinder Your PC's Performance?</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-update-your-drivers-in-windows-11-and-10-and-7-by-drivereasy-guide/"><u>Use Device Manager to update your drivers in Windows 11 & 10 & 7</u></a></li>
+</ul></div>
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+

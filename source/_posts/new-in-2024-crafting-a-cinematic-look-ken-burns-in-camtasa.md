@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Crafting a Cinematic Look  Ken Burns in Camtasa\""
-date: 2024-10-03T05:47:34.625Z
-updated: 2024-10-10T04:36:08.800Z
+date: 2024-10-15T17:12:23.705Z
+updated: 2024-10-16T17:13:37.092Z
 tags: 
   - screen-recording
   - ai video
@@ -48,16 +48,16 @@ At this point, all you need to do is drag that particular arrow to the left, so 
 In Camtasia 9, you have the option to experiment with zooming and panning or both to create new styles of the Ken Burns effect. You will learn as you experiment and will be able to create some really interesting videos in the process.
 
 <!-- affiliate ads begin -->
-<span id="1938141">
+<span id="1993645">
 					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Apply Ken Burns Effect with the Best Alternative to Camtasia 9 - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -69,10 +69,10 @@ That's not to say that Filmora only offers basic features as it has a wide range
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Step 1\. Import Your Images/Still Photos
@@ -100,10 +100,16 @@ Remember that this tool isn’t just a single trick pony, and you can use Wonder
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -121,20 +127,18 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-ultimate-capture-assistant-az-audits-and-alternatives/"><u>[New] 2024 Approved Ultimate Capture Assistant - AZ Audits & Alternatives</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-direct-slideshow-content-into-video-realm/"><u>[New] Direct Slideshow Content Into Video Realm</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-text-and-title-effect-types-in-after-effects/"><u>[New] Text and Title Effect Types in After Effects</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-enhancing-communication-strategies-for-effective-call-logging/"><u>[Updated] 2024 Approved Enhancing Communication Strategies for Effective Call Logging</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-mastering-gaming-nostalgia-discovering-the-most-acclaimed-gb-console-emulators-on-pc/"><u>[Updated] 2024 Approved Mastering Gaming Nostalgia Discovering The Most Acclaimed GB Console Emulators on PC</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-adapting-your-tech-skills-for-facetime-call-logging/"><u>[Updated] In 2024, Adapting Your Tech Skills for FaceTime Call Logging</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-peering-into-pixels-with-polaroids-camplus-action-device/"><u>[Updated] Peering Into Pixels with Polaroid's Cam+ Action Device</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-elevate-your-presentations-with-professional-screencasts/"><u>2024 Approved Elevate Your Presentations with Professional Screencasts</u></a></li>
-<li><a href="https://techtrends.techidaily.com/best-protected-email-solutions-to-keep-your-inbox-safe/"><u>Best Protected Email Solutions to Keep Your Inbox Safe</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/cost-efficient-pc-video-harvesters/"><u>Cost-Efficient PC Video Harvesters</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-change-vivo-y27-4g-lock-screen-password-by-drfone-android/"><u>How To Change Vivo Y27 4G Lock Screen Password?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-asus-rog-phone-8-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Asus ROG Phone 8 Phone? | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-essential-mac-apps-the-leading-alternatives-to-bandicam/"><u>In 2024, Essential Mac Apps The Leading Alternatives to Bandicam</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-unlocked-apple-iphone-12-pro-by-drfone-ios/"><u>In 2024, Everything You Need To Know About Unlocked Apple iPhone 12 Pro</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-10-must-play-games-for-your-steam-deck/"><u>Top 10 Must-Play Games for Your Steam Deck</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-enhancing-insta-videos-3-simple-border-techniques-for-2024/"><u>[New] Enhancing Insta Videos 3 Simple Border Techniques for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-seedling-selections-a-farmers-best-game-gems-for-2024/"><u>[New] Seedling Selections A Farmer's Best Game Gems for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-no-rush-realms-top-12-serene-titles/"><u>[Updated] 2024 Approved No-Rush Realms Top 12 Serene Titles</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-educations-new-dimension-with-vr/"><u>[Updated] Education's New Dimension with VR</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-expert-picks-ideal-software-for-screenshots-and-recordings/"><u>2024 Approved Expert Picks Ideal Software for Screenshots & Recordings</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-premier-10-battle-royale-challenges/"><u>2024 Approved Premier 10 Battle Royale Challenges</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-which-recording-tool-excels-more-bandicam-vs-camtasia/"><u>2024 Approved Which Recording Tool Excels More? - Bandicam Vs. Camtasia</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/bestiary-of-top-ps2-emulators-running-on-iphones/"><u>Bestiary of Top PS2 Emulators Running on iPhones</u></a></li>
+<li><a href="https://windows11.techidaily.com/disable-windows-11s-covert-surveillance/"><u>Disable Windows 11'S Covert Surveillance</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/elevating-videogame-recording-the-steam-methodology/"><u>Elevating Videogame Recording The Steam Methodology</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-oneplus-nord-3-5g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How OnePlus Nord 3 5G Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-rogues-peak-top-ten-titles-reviewed/"><u>In 2024, Rogue's Peak Top Ten Titles Reviewed</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-streamline-your-youtube-thumbnail-process/"><u>In 2024, Streamline Your YouTube Thumbnail Process</u></a></li>
 </ul></div>
 
