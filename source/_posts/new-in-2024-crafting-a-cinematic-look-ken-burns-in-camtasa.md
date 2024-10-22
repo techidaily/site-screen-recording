@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Crafting a Cinematic Look  Ken Burns in Camtasa\""
-date: 2024-10-15T17:12:23.705Z
-updated: 2024-10-16T17:13:37.092Z
+date: 2024-10-17T12:05:27.045Z
+updated: 2024-10-22T04:45:54.651Z
 tags: 
   - screen-recording
   - ai video
@@ -48,16 +48,10 @@ At this point, all you need to do is drag that particular arrow to the left, so 
 In Camtasia 9, you have the option to experiment with zooming and panning or both to create new styles of the Ken Burns effect. You will learn as you experiment and will be able to create some really interesting videos in the process.
 
 <!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Apply Ken Burns Effect with the Best Alternative to Camtasia 9 - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -69,10 +63,10 @@ That's not to say that Filmora only offers basic features as it has a wide range
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Step 1\. Import Your Images/Still Photos
@@ -100,16 +94,10 @@ Remember that this tool isn’t just a single trick pony, and you can use Wonder
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -127,18 +115,24 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-enhancing-insta-videos-3-simple-border-techniques-for-2024/"><u>[New] Enhancing Insta Videos 3 Simple Border Techniques for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-seedling-selections-a-farmers-best-game-gems-for-2024/"><u>[New] Seedling Selections A Farmer's Best Game Gems for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-no-rush-realms-top-12-serene-titles/"><u>[Updated] 2024 Approved No-Rush Realms Top 12 Serene Titles</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-educations-new-dimension-with-vr/"><u>[Updated] Education's New Dimension with VR</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-expert-picks-ideal-software-for-screenshots-and-recordings/"><u>2024 Approved Expert Picks Ideal Software for Screenshots & Recordings</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-premier-10-battle-royale-challenges/"><u>2024 Approved Premier 10 Battle Royale Challenges</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-which-recording-tool-excels-more-bandicam-vs-camtasia/"><u>2024 Approved Which Recording Tool Excels More? - Bandicam Vs. Camtasia</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/bestiary-of-top-ps2-emulators-running-on-iphones/"><u>Bestiary of Top PS2 Emulators Running on iPhones</u></a></li>
-<li><a href="https://windows11.techidaily.com/disable-windows-11s-covert-surveillance/"><u>Disable Windows 11'S Covert Surveillance</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/elevating-videogame-recording-the-steam-methodology/"><u>Elevating Videogame Recording The Steam Methodology</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-oneplus-nord-3-5g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How OnePlus Nord 3 5G Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-rogues-peak-top-ten-titles-reviewed/"><u>In 2024, Rogue's Peak Top Ten Titles Reviewed</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-streamline-your-youtube-thumbnail-process/"><u>In 2024, Streamline Your YouTube Thumbnail Process</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-voice-capture-made-easy-the-ultimate-ipad-guide/"><u>[New] 2024 Approved Voice Capture Made Easy The Ultimate iPad Guide</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-sizzling-social-hot-food-trends-on-tiktok-for-2024/"><u>[New] Sizzling Social Hot Food Trends on TikTok for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-pixicapture-studio-winos-series/"><u>[Updated] 2024 Approved PixiCapture Studio WinOS Series</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-ultimate-guide-top-7-superior-wet-proof-camcorders/"><u>[Updated] 2024 Approved Ultimate Guide Top 7 Superior Wet-Proof Camcorders</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-visionary-video-setups-a-filmmakers-guide-to-brilliance/"><u>[Updated] 2024 Approved Visionary Video Setups A Filmmaker's Guide to Brilliance</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-beat-the-curve-top-facebook-ad-strategies/"><u>[Updated] Beat the Curve Top Facebook Ad Strategies</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-flashclip-quick-checkup-review-for-2024/"><u>[Updated] FlashClip Quick Checkup Review for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-samurai-spirit-explored-in-top-10-gaming-worlds/"><u>[Updated] In 2024, Samurai Spirit, Explored in Top 10 Gaming Worlds</u></a></li>
+<li><a href="https://win-premium.techidaily.com/1-ultimate-guide-installing-zedge-ringtones-on-your-iphone-effortlessly/"><u>1. Ultimate Guide: Installing Zedge Ringtones on Your iPhone Effortlessly</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/become-a-croatian-connoisseur-heres-your-list-of-7-key-benefits/"><u>Become a Croatian Connoisseur – Here's Your List Of 7 Key Benefits</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/creating-interactive-digital-flipbooks-with-flipbuilder-a-step-by-step-guide/"><u>Creating Interactive Digital Flipbooks with FlipBuilder: A Step-by-Step Guide</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/game-on-log-it-galaxy-phone-playthroughs/"><u>Game on, Log It! Galaxy Phone Playthroughs</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/growth-galore-farming-game-classics-revisited-for-2024/"><u>Growth Galore Farming Game Classics Revisited for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-realme-narzo-60x-5g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Realme Narzo 60x 5G to iPad | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-iphone-7-perfect-screen-recording-setup/"><u>In 2024, IPhone 7 Perfect Screen Recording Setup</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-remedy-for-audio-pause-in-obs-streams/"><u>In 2024, Remedy for Audio Pause in OBS Streams</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/leading-digital-image-grabbers/"><u>Leading Digital Image Grabbers</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/straightforward-video-recorders-for-win10/"><u>Straightforward Video Recorders for Win10</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/windows-stellar-standard-file-wiping-tool-with-automated-schedule-settings/"><u>Windows Stellar Standard File Wiping Tool with Automated Schedule Settings</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Leveraging OBS  Establishing an Efficient Countdown Clock\""
-date: 2024-10-13T18:17:12.596Z
-updated: 2024-10-16T16:50:35.762Z
+date: 2024-10-17T23:05:13.827Z
+updated: 2024-10-22T07:59:35.859Z
 tags: 
   - screen-recording
   - ai video
@@ -44,26 +44,26 @@ Step1 Fire up OBS Studio and select a recording scene on which you want to apply
 ![obs countdown timer add a text source](https://images.wondershare.com/filmora/article-images/2022/11/obs-countdown-timer-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step2 Now you’ll see a pop-up window to customize how the timer will look. For example, click the Select font button to customize the font settings for the countdown timer. You can also customize things like opacity, gradient, background color, alignment, and more.
 
 ![obs countdown timer customize timer details](https://images.wondershare.com/filmora/article-images/2022/11/obs-countdown-timer-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step3 Next, click the Tools tab and then tap Scripts. Then, select the countdown.lua file and customize the countdown descriptions on the pop-up window. You can change the countdown duration and the final text after the countdown. Don’t also forget to select Timer as the Text Source. The OBS countdown timer will immediately start counting.
 
 ![obs countdown timer add the timer file](https://images.wondershare.com/filmora/article-images/2022/11/obs-countdown-timer-4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Pro Tip: How To Utilize an Overlay To Level Up Your Countdown Timer
 
@@ -90,16 +90,10 @@ Tap Import Media to upload a video from local or external drives. Filmora suppor
 ![obs countdown timer add video](https://images.wondershare.com/filmora/article-images/2022/11/obs-countdown-timer-6.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##### Step3 Add countdown timer effects to the video
@@ -125,13 +119,6 @@ After adding the perfect countdown timer overlay, preview the video to see how i
 
 As you’ve seen before, adding a countdown timer in OBS is super simple. But unfortunately, you can’t add multiple timers in the same video. For this reason, use Filmora to add multiple countdown scenes to your OBS video before uploading online.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. How do I add a Countup timer to Streamlabs OBS?
 
 Streamlabs OBS is an open-source program that allows you to distribute live videos on Facebook Live, YouTube Live, and Twitch. To add a countdown timer ins Streamlabs OBS, select the scene to add the timer and add a “Text” source. Then, label the new source before clicking Add Source.
@@ -145,6 +132,13 @@ Next, install [My Stream Timer](https://apps.microsoft.com/store/detail/my-strea
 Meanwhile, minimize the My Stream Timer window and tap the name of the countdown timer source on Streamlabs OBS. Then, check the “Read from file” box and paste the text file into the field provided. Now click the Browse button and open the countup.text file. You’ll see a timer automatically launch on Streamlabs.
 
 ![obs countdown timer launch the streamlabs timer](https://images.wondershare.com/filmora/article-images/2022/11/obs-countdown-timer-11.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 However, you may notice that the countdown timer looks a bit blurry. To fix that, maximize the font size. You can also retouch the font style and family to give the timer a better look and feel. That’s it!
 
@@ -174,6 +168,13 @@ Tap Import Media to upload a video from local or external drives. Filmora suppor
 
 ![obs countdown timer add video](https://images.wondershare.com/filmora/article-images/2022/11/obs-countdown-timer-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step3 Add countdown timer effects to the video
 
 ![obs countdown timer add a timer effect](https://images.wondershare.com/filmora/article-images/2022/11/obs-countdown-timer-7.jpg)
@@ -189,32 +190,33 @@ Click the Effects button and search “countdown timer.” You’ll see multiple
 
 ![obs countdown timer customize the timer settings](https://images.wondershare.com/filmora/article-images/2022/11/obs-countdown-timer-8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 After adding the perfect countdown timer overlay, preview the video to see how it plays and adjust the positioning, text color, opacity, and more. Finally, click Export to save your video as MP4, MOV, AV1, AVI, and other formats. You can also export the countdown video directly to Vimeo or YouTube.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Hot FAQs About the OBS Countdown Timer
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. How do I add multiple timers to OBS?
 
 As you’ve seen before, adding a countdown timer in OBS is super simple. But unfortunately, you can’t add multiple timers in the same video. For this reason, use Filmora to add multiple countdown scenes to your OBS video before uploading online.
 
 <!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. How do I add a Countup timer to Streamlabs OBS?
@@ -227,13 +229,6 @@ Next, install [My Stream Timer](https://apps.microsoft.com/store/detail/my-strea
 
 ![obs countdown timer copy the text path](https://images.wondershare.com/filmora/article-images/2022/11/obs-countdown-timer-10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Meanwhile, minimize the My Stream Timer window and tap the name of the countdown timer source on Streamlabs OBS. Then, check the “Read from file” box and paste the text file into the field provided. Now click the Browse button and open the countup.text file. You’ll see a timer automatically launch on Streamlabs.
 
 ![obs countdown timer launch the streamlabs timer](https://images.wondershare.com/filmora/article-images/2022/11/obs-countdown-timer-11.jpg)
@@ -243,13 +238,6 @@ However, you may notice that the countdown timer looks a bit blurry. To fix that
 ### 3\. How do I set a timer to start recording on OBS?
 
 You can set OBS to start/stop recording automatically. To do that, click Tools > Output Timer and set a duration for how long you want to capture the video. You can select a start/stop time for live streaming and local recordings.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Final Words
 
@@ -283,24 +271,22 @@ OBS Studio can look intimidating at first. But once you learn the ropes, this de
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-comprehensive-razer-camera-study/"><u>[New] 2024 Approved Comprehensive Razer Camera Study</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-how-to-perfectly-capture-audio-remotely/"><u>[New] How to Perfectly Capture Audio Remotely</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-download-verbatim-excerpt/"><u>[New] In 2024, Download Verbatim Excerpt</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-the-key-to-stellar-zoom-calls-smart-use-of-filters/"><u>[New] In 2024, The Key to Stellar Zoom Calls Smart Use of Filters</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-optimizing-audio-and-video-quality-during-zoom-recordings/"><u>[New] Optimizing Audio & Video Quality During Zoom Recordings</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-ultimate-durecorder-handbook-insights-and-evaluation/"><u>[New] Ultimate DuRecorder Handbook Insights & Evaluation</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-beyond-sharex-exploring-superior-tools/"><u>[Updated] Beyond-ShareX Exploring Superior Tools</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-capture-your-music-5-pro-tips-for-streaming-sound-online-for-2024/"><u>[Updated] Capture Your Music 5 Pro Tips for Streaming Sound Online for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-history-in-action-top-7-engaging-civilization-wars-for-2024/"><u>[Updated] History in Action Top 7 Engaging Civilization Wars for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-clearshot-suite-high-quality-windows/"><u>[Updated] In 2024, ClearShot Suite - High-Quality Windows</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-the-pinnacle-of-propagation-valheim-seeds-unveiled/"><u>[Updated] In 2024, The Pinnacle of Propagation Valheim Seeds Unveiled</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-x-mix-master-pro-for-computer-users-for-2024/"><u>[Updated] X-Mix Master Pro for Computer Users for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/4-ways-to-unlock-apple-iphone-15-pro-max-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>4 Ways to Unlock Apple iPhone 15 Pro Max to Use USB Accessories Without Passcode</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-new-legal-landscape-with-gpt/"><u>Exploring New Legal Landscape with GPT</u></a></li>
-<li><a href="https://win-answers.techidaily.com/football-manager-2022-no-longer-crashing-on-windows-success-stories-and-fixes/"><u>Football Manager 2022 No Longer Crashing on Windows: Success Stories & Fixes</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-sony-xperia-10-v-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Sony Xperia 10 V?</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/trouble-free-techniques-to-address-failed-audio-playback-errors/"><u>Trouble-Free Techniques to Address Failed Audio Playback Errors</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/unveiling-the-top-10-live-streaming-hubs/"><u>Unveiling the Top 10 Live Streaming Hubs</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/upgrade-to-high-quality-video-streaming-on-facebook/"><u>Upgrade to High-Quality Video Streaming on Facebook</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-skype-call-recording-tips-ensuring-clarity-across-platforms/"><u>[New] 2024 Approved Skype Call Recording Tips - Ensuring Clarity Across Platforms</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-free-chromebook-screen-recording-tools-ranked/"><u>[New] In 2024, FREE Chromebook Screen Recording Tools Ranked</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-mastering-minecraft-geometries-circular-and-spherical-designs-for-2024/"><u>[New] Mastering Minecraft Geometries Circular & Spherical Designs for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-skype-recording-procedures-streamlined-techniques-for-windows-and-os-x/"><u>[New] Skype Recording Procedures - Streamlined Techniques for Windows & OS X</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-the-ultimate-guide-to-swift-and-smooth-ipad-recordings/"><u>[New] The Ultimate Guide to Swift and Smooth iPad Recordings</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-delving-into-premium-free-lut-world-a-meticulous-rundown/"><u>[Updated] Delving Into Premium-Free LUT World A Meticulous Rundown</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-making-youtube-videos-come-alive-your-ultimate-guide-to-animated-gifs/"><u>[Updated] In 2024, Making YouTube Videos Come Alive Your Ultimate Guide To Animated GIFs</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-access-premium-imagery-no-copyright-restrictions/"><u>2024 Approved Access Premium Imagery, No Copyright Restrictions</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-beginning-a-blogging-journey-profit-from-your-passion/"><u>2024 Approved Beginning a Blogging Journey Profit From Your Passion</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-explore-top-10-best-photo-layering-and-editing-apps-iosandroid/"><u>2024 Approved Explore Top 10 Best Photo Layering & Editing Apps iOS/Android</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-profit-strategies-for-snapchat-users/"><u>2024 Approved Profit Strategies for Snapchat Users</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-swift-moments-visual-and-auditory-sniped/"><u>2024 Approved Swift Moments Visual & Auditory Sniped</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/get-your-windows-11-video-audio-codecs-installed-in-no-time/"><u>Get Your Windows 11 Video, Audio Codecs Installed in No Time!</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-6-best-video-grabbers-for-mac/"><u>In 2024, 6 Best Video Grabbers for Mac</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-logitech-g633-microphone-troubleshooting-tips/"><u>Revive Your Logitech G633 Microphone: Troubleshooting Tips</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/swift-systems-for-securing-presentations-for-2024/"><u>Swift Systems for Securing Presentations for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-honor-play-40c-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Honor Play 40C for Streaming | Dr.fone</u></a></li>
 </ul></div>
 

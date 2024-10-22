@@ -1,7 +1,7 @@
 ---
 title: Unboxing the Efficient APC Back-UPS BE600M1 Review - Built-In USB Charger for Added Convenience
-date: 2024-10-10T17:14:06.084Z
-updated: 2024-10-16T18:20:06.731Z
+date: 2024-10-15T08:49:29.604Z
+updated: 2024-10-22T09:04:46.098Z
 categories:
   - BestProducts
 description: This Article Describes Unboxing the Efficient APC Back-UPS BE600M1 Review - Built-In USB Charger for Added Convenience
@@ -38,19 +38,6 @@ Lifewire / Yoona Wagener
 [View On Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Famazon-halo-activity-and-sleep-tracker-medium-7-onyx%2F6445215.p)
 
 4.2
-
-<!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Amazon Halo
 
@@ -92,14 +79,14 @@ Lifewire / Yoona Wagener
 
 ![Amazon Halo](https://www.lifewire.com/thmb/QHImxX0EsYwunnnS2aNtTX9j80s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Halo_03-66da73beea854cd39f6c35c06975ef4e.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Lifewire / Yoona Wagener
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Comfort: Streamlined but not immune to typical fit issues
 
@@ -110,13 +97,6 @@ Lifewire / Yoona Wagener
  While the easy-adjusting Velcro strap is a welcome departure from the typical notch-and-clasp closure on most fitness trackers, adjusting the fit or removing the device wasn’t as smooth as I’d expected it to be.
 
  As for water resistance, I didn’t test the 50-meter swimproof rating of the Halo in a pool, but I did shower with the device for three days. Despite the band’s moisture-wicking band material, it remained damp far longer than was comfortable and compared to a fast-drying silicone band. If you’re an avid swimmer or prefer not to remove your wearable while showering, the sport band option will most likely be the more desirable option.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Performance: Constantly monitoring movement, not performance
 
@@ -136,13 +116,6 @@ Lifewire / Yoona Wagener
 
  The body fat scan is based on pictures uploaded to the app—and based on prompts from the app. While it felt invasive and isn’t a feature I’d seek out in a fitness tracker, it worked without issue. Amazon reports that this technology is twice as accurate as smart scales. For the right user who feels comfortable with this kind of data compilation, this feature also offers visualizations of how different body fat percentages would look on your frame and stores your scans for a look at trends over time. All voice data and images used for the body scan are deletable from the app, though you can also choose to back up body data in the[cloud](https://www.lifewire.com/what-is-cloud-computing-817770) , which Amazon assures is private and well secured.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Software: An essential and user-friendly mobile app
 
  Without a visual display to interact with, the accompanying Halo mobile app is absolutely essential to the user experience. It delivers helpful explanations and guidance that most users want. Compatible with[iOS](https://www.lifewire.com/what-is-ios-1994355) and[Android](https://www.lifewire.com/what-is-google-android-1616887) phones, the Halo app makes everything from the initial setup to body scanning and voice tracking straightforward. Sleep data is backed up by explanations as is the activity point tracking system. Automatically tracked workout data is also easily accessible and so is the option to manually upload workout activities (there are 38 to choose from, including an all-encompassing Other category).
@@ -154,10 +127,10 @@ Lifewire / Yoona Wagener
  The app makes everything from the initial setup to body scanning and voice tracking straightforward.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Battery: Enough juice to last nearly a week
@@ -174,6 +147,13 @@ Lifewire / Yoona Wagener
 
  Retailing for just about $100, the Amazon Halo band certainly won’t break the bank for budget-minded shoppers. While the lack of display could be a deterrent, the solid mobile app provides convenient access to the detailed sleep, automatic activity tracking, and specialized tone of voice and body fat analysis the Halo provides.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Amazon Halo vs. WHOOP Strap 3
 
  The WHOOP Strap 3 is another screen-less fitness tracker with a minimalist bent but a bigger buy-in and emphasis on performance. Unlike the Halo, the WHOOP Strap requires a WHOOP membership, which, at the lowest end, costs $30 monthly for a 6-month membership or $180 total (band included). The Halo band comes with a free six-month subscription to Halo app services, then a $3.99 monthly charge, so it’s considerably cheaper—especially since WHOOP recommends replacing their fabric strap every six months as well.
@@ -186,11 +166,31 @@ Lifewire / Yoona Wagener
 
  The Amazon Halo isn’t for everyone with its lack of display and additional layers of data tracking to capture tone of voice and body fat percentage. But for the user that wants a little less hardware but more forward-thinking fitness/health tracking, this unique wearable offers a different approach to increasing activity and wellness awareness on a daily basis.
 
+<!-- affiliate ads begin -->
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Similar Products We've Reviewed
 
 * [Apple Watch Series 5](https://www.lifewire.com/apple-watch-series-6-review-5087552)
 * [Fitbit Sense](https://www.lifewire.com/fitbit-sense-review-5085832)
 * [Ticwatch Pro](https://www.lifewire.com/ticwatch-pro-4g-review-4797547)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -223,20 +223,19 @@ Lifewire / Yoona Wagener
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-androids-dreamland-discover-top-15-immersive-gameplay/"><u>[New] In 2024, Android's Dreamland Discover Top 15 Immersive Gameplay</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-screen-capture-showdown-is-obs-better-than-fraps-in-2024/"><u>[New] Screen Capture Showdown Is OBS Better Than Fraps, In 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-best-online-deals-on-webcam-protection-kits/"><u>[Updated] 2024 Approved Best Online Deals on Webcam Protection Kits</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-effortless-group-chats-joining-zoom-on-your-android/"><u>[Updated] 2024 Approved Effortless Group Chats Joining Zoom on Your Android</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-exploring-object-oriented-programming-for-complex-applications/"><u>[Updated] 2024 Approved Exploring Object-Oriented Programming for Complex Applications</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-tips-for-perfecting-sound-tracks-start-with-auditions-fade-in/"><u>[Updated] 2024 Approved Tips for Perfecting Sound Tracks Start with Audition's Fade-In</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-doubled-surface-capture-method-for-2024/"><u>[Updated] Doubled Surface Capture Method for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/1726030113092-3/"><u>最適な動画フレームレート変更ツールを見つける:パーソナルビデオのために3つのベストプラクティス</u></a></li>
-<li><a href="https://windows11.techidaily.com/best-practices-choosing-the-right-win-video-codec/"><u>Best Practices: Choosing the Right Win Video Codec</u></a></li>
-<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-infinix-hot-40-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Infinix Hot 40 | Dr.fone</u></a></li>
-<li><a href="https://win-great.techidaily.com/literary-or-pop-culture-references-milo-from-thomas-the-tank-engine-loki-hermione-simba-gatsby-elsa/"><u>Literary or Pop Culture References: Milo (From Thomas the Tank Engine), Loki, Hermione, Simba, Gatsby, Elsa</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-the-art-of-gaming-consoles-on-your-mac/"><u>Mastering the Art of Gaming Consoles on Your Mac</u></a></li>
-<li><a href="https://extra-information.techidaily.com/swift-navigation-for-iphone-zooming-features/"><u>Swift Navigation for iPhone Zooming Features</u></a></li>
-<li><a href="https://driver-download.techidaily.com/top-ranking-microsoft-audio-software-download-the-right-drivers-for-windows-setup/"><u>Top-Ranking Microsoft Audio Software: Download the Right Drivers for Windows Setup</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/transforming-scripted-words-into-powerful-video-soundtracks/"><u>Transforming Scripted Words Into Powerful Video Soundtracks</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-fb-messenger-call-history-management-made-easy-for-2024/"><u>[New] FB Messenger Call History Management Made Easy for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-inject-photos-with-rotational-blur-effects-in-photosoph/"><u>[New] Inject Photos with Rotational Blur Effects in PHOTOSOPH</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-the-definitive-list-of-economical-teleconference-platforms-for-2024/"><u>[New] The Definitive List of Economical Teleconference Platforms for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-highfidelity-capture-tool-win-10/"><u>[Updated] HighFidelity Capture Tool Win 10</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-how-to-change-your-voice-in-free-fire-game-free-solution-included/"><u>[Updated] How to Change Your Voice in Free Fire Game? [Free Solution Included]</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-depth-tutorial-for-immaculate-3d-shapes-perfect-circles-spheres/"><u>[Updated] In-Depth Tutorial for Immaculate 3D Shapes Perfect Circles, Spheres</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-unveiling-the-new-apeaksoft-screenscape-capture/"><u>[Updated] Unveiling the New Apeaksoft Screenscape Capture</u></a></li>
+<li><a href="https://techidaily.com/explore-the-future-of-document-management-with-abbyy-join-us-at-pegaworld-inspire-2023-event/"><u>Explore the Future of Document Management with ABBYY - Join Us at PegaWorld Inspire 2023 Event</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/freenoweb-recorder-app-evaluation-insights/"><u>FreenoWeb Recorder App Evaluation Insights</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Oppo F25 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Vivo Y100 5G | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-your-step-by-step-pathway-to-recording-exceptional-tiktok-videos/"><u>In 2024, Your Step-by-Step Pathway to Recording Exceptional TikTok Videos</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/transforming-spontaneitous-tunes-into-structured-youtube-playlists/"><u>Transforming Spontaneitous Tunes Into Structured YouTube Playlists</u></a></li>
+<li><a href="https://facebook.techidaily.com/unseen-likes-how-to-keep-facebook-reactions-private/"><u>Unseen Likes: How to Keep Facebook Reactions Private</u></a></li>
 </ul></div>
 

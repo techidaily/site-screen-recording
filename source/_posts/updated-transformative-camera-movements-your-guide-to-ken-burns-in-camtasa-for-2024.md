@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Transformative Camera Movements  Your Guide to Ken Burns in Camtasa for 2024\""
-date: 2024-08-28T20:53:48.844Z
-updated: 2024-08-29T20:53:48.844Z
+date: 2024-10-19T21:40:19.451Z
+updated: 2024-10-22T01:39:12.548Z
 tags: 
   - screen-recording
   - ai video
@@ -47,6 +47,13 @@ At this point, all you need to do is drag that particular arrow to the left, so 
 
 In Camtasia 9, you have the option to experiment with zooming and panning or both to create new styles of the Ken Burns effect. You will learn as you experiment and will be able to create some really interesting videos in the process.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Apply Ken Burns Effect with the Best Alternative to Camtasia 9 - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
 
 If you are looking for the best alternative to Camtasia 9 that makes adding the Ken Burns effect and other video editing features much easier, then Wondershare Filmora should be on your list of considerations. Apart from the Ken Burns effect, Filmora is a perfect video editing tool for beginner content creators, YouTubers, and casual editors who don't want access to professional-grade features or want to pay a lot of money to edit their videos.
@@ -54,6 +61,13 @@ If you are looking for the best alternative to Camtasia 9 that makes adding the 
 That's not to say that Filmora only offers basic features as it has a wide range of options available to video editors including green screen, motion tracking, transitions, audio recording, a diverse variety of presets, and a lot more. Both amateur video creators and hobbyists can get a lot out of the Wondershare Filmora editing tool.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Step 1\. Import Your Images/Still Photos
 
@@ -79,13 +93,18 @@ Remember that this tool isn’t just a single trick pony, and you can use Wonder
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -93,6 +112,27 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-from-live-to-recorded-using-obs-for-games/"><u>[New] From Live to Recorded Using OBS for Games</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-fundamental-furnishings-in-mc-the-basics-of-homesteading/"><u>[New] In 2024, Fundamental Furnishings in MC The Basics of Homesteading</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-ppt-visualization-leveraging-webcam-tech-for-2024/"><u>[New] PPT Visualization Leveraging Webcam Tech for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-secrets-to-successful-mov-file-recording-in-windows-10-for-2024/"><u>[New] Secrets to Successful MOV File Recording in Windows 10 for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-ultimate-gaming-lineup-bike-titles/"><u>[Updated] 2024 Approved Ultimate Gaming Lineup Bike Titles</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-advanced-6-apps-to-translate-film-content/"><u>[Updated] Advanced 6 Apps to Translate Film Content</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-enhancing-content-creation-10-must-have-ig-editing-software/"><u>[Updated] Enhancing Content Creation 10 Must-Have IG Editing Software</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-exploring-8-top-tier-free-video-communication-tools-for-enterprises/"><u>[Updated] Exploring 8 Top-Tier Free Video Communication Tools for Enterprises</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-pros-playbook-mastering-gameplay-logging-in-windows-10/"><u>[Updated] In 2024, Pro's Playbook Mastering Gameplay Logging in Windows 10</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-uninterrupted-adventures-top-10-best-offline-ios-titles-for-2024/"><u>[Updated] Uninterrupted Adventures Top 10 Best Offline iOS Titles for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-unveiling-the-secrets-of-discord-spoilers/"><u>[Updated] Unveiling the Secrets of Discord Spoilers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/essential-techniques-to-avert-windows-11-photos-crashes/"><u>Essential Techniques to Avert Windows 11 Photos Crashes</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-make-it-pop-how-to-add-eye-catching-effects-to-your-videos-for-2024/"><u>New Make It Pop How to Add Eye-Catching Effects to Your Videos for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-lenovos-mouse-pad-problems-on-windows-a-step-by-step-fix-for-11-8-and-7/"><u>Solving Lenovo's Mouse Pad Problems on Windows: A Step-by-Step Fix for 11, 8 & 7</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/steps-to-prevent-youtube-channels-mobile-and-desktop-methods/"><u>Steps to Prevent Youtube Channels Mobile and Desktop Methods</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/the-ultimate-playbook-seamless-hulu-saving-on-winmacmobile-for-2024/"><u>The Ultimate Playbook Seamless Hulu Saving on Win/Mac/Mobile for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/understanding-anonymity-options-in-social-networks/"><u>Understanding Anonymity Options in Social Networks</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/vivavideo-unpacked-a-comprehensive-overview/"><u>VivaVideo Unpacked A Comprehensive Overview</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/avi-to-m4v/"><u>무료 AVI to M4V 크리티오그라피의 방법 – 모바비 대상</u></a></li>
+</ul></div>
+

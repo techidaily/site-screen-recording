@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Journey Through the Maze  Old Vs. Innovative RPGs\""
-date: 2024-10-12T17:36:12.628Z
-updated: 2024-10-16T16:02:57.585Z
+date: 2024-10-16T03:53:18.617Z
+updated: 2024-10-22T01:23:23.096Z
 tags: 
   - screen-recording
   - ai video
@@ -57,13 +57,6 @@ Roguelites - or rogue-lites - in essence, employ a lighter approach to implement
 
 ![unlock-hades](https://images.wondershare.com/filmora/article-images/unlock-hades.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Roguelites also have procedurally generated environments in a lot of cases. There are titles that have completely random level layouts and enemy placements. Others draw from a pre-defined set of layouts that are mixed and matched. Some titles may simply randomize more minute elements such as item placement and the locations of points of interest. Another way roguelites differ in the way they handle procedural generation is through seeded runs. A seed is essentially a run with pre-determined parameters, including enemy types and placements, level layout, and item availability. Seeding is also used to generate special challenge runs as well as enable custom modes. Whatever the case, roguelites have a tendency to reign in the chaos of fully procedurally generated game content.
 
 It's roguelites that are also usually a mix of different genres with _Rogue_ style mechanics. From action RPGs to card games, the roguelite genre's offerings are quite expansive. The leniency they give when it comes to permadeath and randomness affords developers more design space in which they can craft unique experiences.
@@ -89,16 +82,10 @@ If you've been meaning to dive into either or both of these genres, we've got a 
 ---
 
 <!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Roguelike Games
@@ -119,13 +106,26 @@ Recognized as one of the best roguelikes of all time, _Dungeon Crawl Stone Soup_
 
 ![dungeon-crawl-stone-soup](https://images.wondershare.com/filmora/article-images/dungeon-crawl-stone-soup.png)
 
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Roguelite Games
@@ -145,10 +145,16 @@ One of the most highly praised indie games, MegaCrit's _Slay the Spire_ is a shi
 ![slay-the-spire](https://images.wondershare.com/filmora/article-images/slay-the-spire.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Hades
@@ -164,16 +170,10 @@ Nominated for a Game of the Year award, _Hades_ is a beloved title that has conv
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -191,24 +191,19 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-deciphering-how-to-spot-your-video-enthusiasts/"><u>2024 Approved Deciphering How to Spot Your Video Enthusiasts</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-recordingrevolution-the-free-game-videography-wave-of-24/"><u>2024 Approved RecordingRevolution The Free Game Videography Wave of '24</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-setting-up-pip-mode-in-the-youtube-app-for-ios-devices/"><u>2024 Approved Setting up PIP Mode in the YouTube App for iOS Devices</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-soaring-past-competitors-mastering-drone-racing-and-best-fpv-drones/"><u>2024 Approved Soaring Past Competitors Mastering Drone Racing and Best FPV Drones</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-top-notch-chromebook-snapshot-tool/"><u>2024 Approved Top-Notch Chromebook Snapshot Tool</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/affordable-hardware-achieve-peak-via-obs-tuning/"><u>Affordable Hardware - Achieve Peak via OBS Tuning</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/apowersoft-masterclass-top-pc-screen-recorder-analysis-for-2024/"><u>Apowersoft Masterclass Top PC Screen Recorder Analysis for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/elevate-collaborative-workflow-enhancing-zoom-use-in-gmail-mail/"><u>Elevate Collaborative Workflow Enhancing Zoom Use in Gmail Mail</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/elevate-your-photography-game-choose-the-best-selfie-stick-with-these-6-insights/"><u>Elevate Your Photography Game: Choose the Best Selfie Stick with These 6 Insights</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-insight-on-brother-hl-l2460dw-perfect-fit/"><u>Expert Insight on Brother HL-L2460DW: Perfect Fit</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-vivo-v30-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Vivo V30 Pro | Dr.fone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-become-a-pro-at-mac-audio-recording-using-audacity-today/"><u>In 2024, Become a Pro at Mac Audio Recording Using Audacity Today</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-best-fun-car-games-for-kids/"><u>In 2024, Best Fun Car Games for Kids</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-honor-100-pro-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Honor 100 Pro</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-the-road-to-flawless-screen-recording-with-recmeister/"><u>In 2024, The Road to Flawless Screen Recording with Recmeister</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-the-ultimate-farming-revamp-7-14-mod-comparison-guide/"><u>In 2024, The Ultimate Farming Revamp #7-14 Mod Comparison Guide</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-unlocking-facebook-integration-sharing-youtube-vids-with-ease/"><u>In 2024, Unlocking Facebook Integration Sharing YouTube Vids with Ease</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/keeping-secrets-on-screen-tips-for-private-content-reduction/"><u>Keeping Secrets on Screen Tips for Private Content Reduction</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/tured-approach-to-managing-youtube-videos-a-complete-watch-later-system-for-2024/"><u>Structured Approach to Managing YouTube Videos A Complete Watch Later System for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-selecting-fps-for-videos-why-not-both-30-or-60/"><u>[New] 2024 Approved Selecting FPS for Videos Why Not Both, 30 or 60?</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-live-your-best-life-the-ultimate-list-of-video-conferencing-gadgets/"><u>[New] In 2024, Live Your Best Life The Ultimate List of Video Conferencing Gadgets</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-editing-magic-transformative-strategies-for-youtube-creators/"><u>[Updated] 2024 Approved Editing Magic Transformative Strategies for YouTube Creators</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-expert-techniques-for-gameplay-recordings-via-obs/"><u>[Updated] 2024 Approved Expert Techniques for Gameplay Recordings via OBS</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-elite-green-tech-in-the-world-of-screen-capture/"><u>[Updated] Elite Green Tech in the World of Screen Capture</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-mastering-tv-saves-win-friendly-options-available/"><u>[Updated] In 2024, Mastering TV Saves Win-Friendly Options Available</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-the-ultimate-guide-to-online-streaming-audio-logging-for-2024/"><u>[Updated] The Ultimate Guide to Online Streaming Audio Logging for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/achieve-cinematic-brilliance-the-11-ultimate-tutorials-on-color-grading-for-2024/"><u>Achieve Cinematic Brilliance The 11 Ultimate Tutorials on Color Grading for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-your-code-with-microsoft-copilot-on-a-mac/"><u>Enhancing Your Code with Microsoft Copilot on a Mac</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/getting-destiny-2-online-again-a-step-by-step-guide-to-restoring-server-access/"><u>Getting Destiny 2 Online Again: A Step-by-Step Guide to Restoring Server Access</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-windows-10-advanced-screen-recorder-software/"><u>In 2024, Windows 10 Advanced Screen Recorder Software</u></a></li>
+<li><a href="https://games-able.techidaily.com/multitasking-on-xbox-series-xs-laptop-screen-co-option-strategies/"><u>Multitasking on Xbox Series X|S: Laptop Screen Co-Option Strategies</u></a></li>
+<li><a href="https://facebook.techidaily.com/optimizing-your-professional-presence-on-social-sites/"><u>Optimizing Your Professional Presence on Social Sites</u></a></li>
+<li><a href="https://program-issues.techidaily.com/red-dead-redemption-2-fixes-how-to-stop-the-game-from-crashing-on-your-windows-pc/"><u>Red Dead Redemption 2 Fixes: How to Stop the Game From Crashing on Your Windows PC</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Minecraft Shaping Mastery  Crafting Circles & Spheres\""
-date: 2024-08-28T20:52:57.699Z
-updated: 2024-08-29T20:52:57.699Z
+date: 2024-10-16T22:21:18.462Z
+updated: 2024-10-21T23:48:17.199Z
 tags: 
   - screen-recording
   - ai video
@@ -59,6 +59,13 @@ If you have ever noticed that when we zoom in out images, small pixels are held 
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to make a Sphere in Minecraft
 
 The only difference between making a circle and a sphere is the difference in dimensions. The circle is Two Dimensional and the sphere is three-dimensional. It is not as difficult as it seems.
@@ -67,6 +74,13 @@ The only difference between making a circle and a sphere is the difference in di
 
 ![minecraft-make-sphere1](https://images.wondershare.com/filmora/article-images/minecraft-make-sphere1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2:** Now it's time to create layers of the sphere. To do that you have to create a layer of 7 blocks wide on the top and the bottom of the column.
 
 ![minecraft-make-sphere2](https://images.wondershare.com/filmora/article-images/minecraft-make-sphere2.jpg)
@@ -74,6 +88,13 @@ The only difference between making a circle and a sphere is the difference in di
 **Step 3:** Since you have created the 1st and the 16th levels of the sphere, now you have to follow this procedure for all remaining layers: Make a layer of 11 blocks for the 2nd and 15th levels.
 
 ![minecraft-make-sphere3](https://images.wondershare.com/filmora/article-images/minecraft-make-sphere3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 4:** Follow the same pattern throughout the levels: 13 blocks layer on 3rd and 14th level, 15 blocks on 4th and 13th levels, 17 blocks on 5th and 12th level, and so on. As you can notice that each new level comes with 2 extra blocks. Follow this process until you reach the middle of the column.
 
@@ -89,6 +110,13 @@ Creating such amazing things and sharing them on your social media and video sha
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -97,14 +125,31 @@ Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-navigating-screen-sharing-in-google-meet-mobiledesktop/"><u>[New] Navigating Screen Sharing in Google Meet Mobile/Desktop</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-ultimate-guide-solidify-iphone-hdr-quality-with-4-key-editing-steps/"><u>[Updated] [Ultimate Guide] Solidify iPhone HDR Quality with 4 Key Editing Steps</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-in-depth-screen-capturing-a-resourceful-guide-for-dell-users/"><u>[Updated] 2024 Approved In-Depth Screen Capturing A Resourceful Guide for Dell Users</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-unveiling-the-secrets-of-valheim-crop-cultivation/"><u>[Updated] 2024 Approved Unveiling the Secrets of Valheim Crop Cultivation</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-crop-chronicles-the-ultimate-farm-farewell-fest/"><u>[Updated] Crop Chronicles The Ultimate Farm Farewell Fest</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-guide-to-start-recording-with-vlc-software/"><u>[Updated] In 2024, Guide to Start Recording with VLC Software</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-proven-ways-to-record-and-save-ps4-games/"><u>[Updated] Proven Ways to Record and Save PS4 Games</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-zoom-mastery-maximizing-communication-potential-in-remote-gatherings-for-2024/"><u>[Updated] Zoom Mastery Maximizing Communication Potential in Remote Gatherings for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/flvflac-movavi/"><u>無料移行:オンラインで簡単なFLVとFlac音楽形式の変換 - Movaviサービス</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/gratis-wiederherstellung-geloschter-bilder-schritt-fur-schritt-leitfaden/"><u>Gratis-Wiederherstellung Gelöschter Bilder: Schritt-Für-Schritt-Leitfaden</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-factory-unlock-your-telstra-iphone-8-by-drfone-ios/"><u>How To Factory Unlock Your Telstra iPhone 8</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-lava-yuva-3-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Lava Yuva 3 Phones with/without a PC</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/install-your-epson-perfection-v500-with-official-drivers-free-downloads-available-now/"><u>Install Your Epson Perfection V500 with Official Drivers - Free Downloads Available Now!</u></a></li>
+<li><a href="https://win-tips.techidaily.com/les-solutions-faciles-pour-mettre-en-place-un-point-de-basculement-sur-windows-server-2008-r2-alternatives-innovantes/"><u>Les Solutions Faciles Pour Mettre en Place Un Point De Basculement Sur Windows Server 2008 (R2) : Alternatives Innovantes</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-ditch-premiere-rush-top-alternative-video-editing-software/"><u>New Ditch Premiere Rush Top Alternative Video Editing Software</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/quick-fix-kinemaster-for-top-memes-for-2024/"><u>Quick-Fix KineMaster for Top Memes for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/voice-memo-grab-and-examine-for-2024/"><u>Voice Memo Grab & Examine for 2024</u></a></li>
+</ul></div>
+

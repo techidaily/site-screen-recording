@@ -1,7 +1,7 @@
 ---
 title: "[New] Change Saving Spot for Mac's Photos for 2024"
-date: 2024-10-12T18:09:54.233Z
-updated: 2024-10-16T16:19:27.924Z
+date: 2024-10-21T10:09:23.329Z
+updated: 2024-10-22T10:08:32.825Z
 tags: 
   - screen-recording
   - ai video
@@ -48,18 +48,18 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 1: How to Save Screenshots to a Specific Folder on Mac
 
 Changing the folder where you store your screenshots is not an irreversible process, which means that you can reset the destination where the files are saved to Desktop at any point. Do not delete the new folder, because your Mac may not be able to take screenshots, afterward. The process described below is the only way you can delete a folder or add a new destination for your screenshots, and failing to comply with it may cause your Mac to malfunction.
 
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Create a new folder on the desired location on your hard drive, and then launch Terminal, by typing Terminal in the Search Box and clicking on its icon. Once the app is open, you should insert the following command into the Terminal window:
 
@@ -70,10 +70,10 @@ Then enter a space at the end after 'location'.
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 The next step is to add the new location at which screenshots will be saved and you can do this by simply dragging the folder you created into Terminal and adding it at the end of the command you just entered. A path is created and the command line should now contain the folder's unique location and it should look like this:
@@ -87,10 +87,10 @@ To execute the command you have to press Enter. After Terminal finishes running 
 Hit Enter once more to confirm the changes and run the new command. Close Terminal app by clicking on the Terminal menu and selecting the Quick Terminal option. The default location where the screenshots are saved on your Mac is now changed and every time you take a screenshot using the Command + Shift + 3 shortcut the file will be saved at the new location. If for whatever reason you want to make the Desktop once again the destination where the screenshots on your computer will be saved here's how you can do it.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: How to Change the Screenshot Save Location Back to Desktop
@@ -106,10 +106,10 @@ Don't forget that deleting the folder you use as a default location for storing 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -127,20 +127,21 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-how-to-screen-capture-anything-including-netflix-on-a-mac-in-six-steps/"><u>[New] How to Screen Capture Anything, Including Netflix, on a Mac in Six Steps</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-elite-selection-of-text-motion-packages/"><u>[New] In 2024, Elite Selection of Text Motion Packages</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-optimal-mac-software-for-live-screenshots/"><u>[New] In 2024, Optimal Mac Software for Live Screenshots</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-broadcast-showdown-the-faceoff-between-obs-and-shadowtoolkit/"><u>[Updated] 2024 Approved Broadcast Showdown The Faceoff Between OBS & ShadowToolKit</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-first-steps-in-virtual-conferencing-with-zoom/"><u>[Updated] First Steps in Virtual Conferencing with Zoom</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-guidelines-for-eliminating-obs-fullscreen-freeze-for-2024/"><u>[Updated] Guidelines for Eliminating OBS Fullscreen Freeze for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-cyclings-apex-titles-for-gamers/"><u>[Updated] In 2024, Cycling's Apex Titles for Gamers</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-the-art-of-video-blending-using-modes-mastery/"><u>[Updated] The Art of Video Blending Using Modes Mastery</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/about-realme-gt-5-240w-frp-bypass-by-drfone-android/"><u>About Realme GT 5 (240W) FRP Bypass</u></a></li>
-<li><a href="https://android-frp.techidaily.com/easy-guide-how-to-bypass-sony-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Sony FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://win-premium.techidaily.com/emeditor-configure-store-options-via-inixml-files-rather-than-using-the-registry/"><u>EmEditor: Configure Store Options via .ini/XML Files Rather Than Using the Registry</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-newest-epson-tm-c88v-drivers-for-your-windows-pc-free-and-easy-download/"><u>Get the Newest EPSON TM-C88V Drivers for Your Windows PC – Free and Easy Download</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-oppo-a78-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Oppo A78 | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/in-plain-sight-yet-unseen-dissecting-the-dead-internet-phenomenon-and-identifying-those-you-chat-with-online/"><u>In Plain Sight, Yet Unseen: Dissecting the Dead Internet Phenomenon and Identifying Those You Chat With Online</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/macx-hd-video-converter-pro-ultimate-guide-to-editing-and-downloading-videos-on-windows/"><u>MacX HD Video Converter Pro: Ultimate Guide to Editing & Downloading Videos on Windows</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-complete-investigation-into-razers-kiyo-webcam-for-2024/"><u>[New] Complete Investigation Into Razer's Kiyo Webcam for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-leveraging-the-strengths-of-ez-grabber-software-for-2024/"><u>[New] Leveraging the Strengths of EZ Grabber Software for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-the-ultimate-mac-screenshot-strategy-revealed-for-2024/"><u>[New] The Ultimate Mac Screenshot Strategy Revealed for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-completely-erase-your-connection-with-youtube-shorts/"><u>[Updated] 2024 Approved Completely Erase Your Connection with YouTube Shorts</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-decoding-the-best-free-video-apps-for-os-multiplicity-for-2024/"><u>[Updated] Decoding the Best Free Video Apps for OS Multiplicity for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-navigating-the-decision-to-adopt-itop-recording/"><u>[Updated] In 2024, Navigating the Decision to Adopt ITop Recording</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-screen-sync-free-cross-platform-high-quality-recording-tools/"><u>[Updated] In 2024, Screen Sync Free Cross-Platform, High-Quality Recording Tools</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-androids-fastest-vid-tuning-tools-reviewed/"><u>2024 Approved Android's Fastest Vid Tuning Tools Reviewed</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-crafting-engaging-sims-4-gameplay-videos/"><u>2024 Approved Crafting Engaging Sims 4 Gameplay Videos</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/google-pc/"><u>Googleドライブの力: PC間でも簡単にファイルをリンクする技術</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-tecno-spark-20-proplus-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Tecno Spark 20 Pro+ to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-create-an-apple-developer-account-on-iphone-6-plus-by-drfone-ios/"><u>How To Create an Apple Developer Account On iPhone 6 Plus</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-optimizing-color-depth-and-gradients-for-obs/"><u>In 2024, Optimizing Color Depth and Gradients for OBS</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-premier-mac-recording-software-top-5-innovations-revealed/"><u>In 2024, Premier Mac Recording Software Top 5 Innovations Revealed</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-iphone-8-plus-drfone-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of iPhone 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/kindles-5-essential-selling-points-unveiled/"><u>Kindle's 5 Essential Selling Points Unveiled</u></a></li>
 </ul></div>
 

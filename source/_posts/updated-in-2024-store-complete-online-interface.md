@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Store Complete Online Interface"
-date: 2024-10-10T16:24:57.288Z
-updated: 2024-10-16T18:19:39.477Z
+date: 2024-10-19T09:45:24.513Z
+updated: 2024-10-21T17:03:03.269Z
 tags: 
   - screen-recording
   - ai video
@@ -60,33 +60,20 @@ Most frequently used web browsers such as Google Chrome or Mozilla Firefox, offe
 
 ![ Full Page Screenshot](https://images.wondershare.com/filmora/article-images/print-chrome-full-page.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Once the printing dialogue box appears on the screen you'll be able to preview the pages of the document, adjust the printing options and select the file format. Click on the **Change** icon and select the **Microsoft XPS Document Writer**, if you are using Google Chrome to create a new document that contains the entire page. You can also create a PDF file, but this file format may include the ads or other overlaying elements on the web page. When done, click on the Print icon to save the document to the desired location on your hard drive.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 2: Zooming Out the Page for Full-Screen Webpage Screenshots
 
 If you'd like to avoid producing several screenshots that you'll later have to combine into a single image or a document, you can simply hold the **CTRL and -** keys on Windows or **Command - on** a Mac OS to zoom out the page and fit it into a screen.
 
 To capture the resized screen, simply hold the **PrintScreen** button on your keyboard and the image will instantly be saved to the clipboard. Afterward, you have to paste the screenshot to a new document in any graphics editor, using the **CTRL and V** buttons. The **Cmd + Shift + 4** keyboard shortcut will enable you to take quick screenshots on a Mac computer, while the **Command + 0** will reset the browser to normal view.
-
-<!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 3: Capturing Screenshots With Browser Extensions
 
@@ -101,6 +88,13 @@ This is a free and easy to use add-on that is compatible with Google Chrome, Fir
 #### 2\. [Screenshot Webpages](https://chrome.google.com/webstore/detail/screenshot-webpages/bdfnieppndfdhcgbmhfdlgdjegclkomk)
 
 ![ Full Page Screenshot](https://images.wondershare.com/filmora/article-images/screenshot-webpage-full-page-screenshot.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 The Google Chrome extension lets you choose which type of screenshot you want to take, so you can take a screenshot of an entire web page in just a few simple steps. You can also add text, edit the pictures or insert annotations to each screenshot you take.
 
@@ -119,10 +113,16 @@ Install the extension in your browser and then click on its icon in the Extensio
 [Firefox Quantum](https://www.mozilla.org/en-US/firefox/) browser allows you to quickly take screenshots of the full page without much hassle. Make sure that the tab with the web page you'd like to capture is open, and then click on the **Page Action** icon, that looks like three dots. Select the **Take a Screenshot** feature from the menu and then when the new dialogue box appears on the screen click on the **Save full page** option. Your screenshots will be stored online and you can share, organize or delete them from **My Shots** folder.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 4: Using Online Tools for Full Page Screenshots
@@ -131,6 +131,13 @@ If you don't want to go through the trouble of installing a screenshot extension
 
 The platform lets you create PDF, PNG or JPEG files, so once you choose the file format that best meets your needs, you can simply click on the **Capture webpage** icon located near the bottom of the screen.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 5: Using Screen Capturing Software for Full Page Screenshots
 
 Stand-alone software products that enable its users to take screenshots of entire documents and web pages are a great choice for professionals that frequently need a powerful screen capturing tool. [Screenpresso,](https://www.screenpresso.com/) [FastStone Capture](http://www.faststone.org/FSCaptureDetail.htm) or [Snagit](https://www.techsmith.com/screen-capture.html) are just a few screen recorders, that are capable of producing still and moving images of a computer display.
@@ -138,13 +145,6 @@ Stand-alone software products that enable its users to take screenshots of entir
 Taking full page screenshots on a Mac computer is made much simpler by [Paparazzi!](https://derailer.org/paparazzi/) app since you can capture a web page in only a few simple steps. Paparazzi allow you to set up a delay, so you can choose how many seconds before capture. You can download it free of charge, but its photo editing options are far from impressive.
 
 ![ Full Page Screenshot](https://images.wondershare.com/filmora/article-images/snagit.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 The TechSmith's Snagit software provides a simple way to capture any scrolling window on your computer. Just click on the **Capture** icon located in the software's **All-in-one** tab and go ahead to drag the crosshairs and designate the region of the screen you'd like to capture.
 
@@ -173,21 +173,22 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-optimizing-your-workflow-nvidia-screener/"><u>[New] 2024 Approved Optimizing Your Workflow NVIDIA Screener</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-virtual-warriors-journey-7-intense-fps-games/"><u>[New] 2024 Approved Virtual Warriors’ Journey - 7 Intense FPS Games</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-advanced-methods-for-recording-in-adobe-presenter-for-2024/"><u>[New] Advanced Methods for Recording in Adobe Presenter for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-essential-guide-to-screen-capturing-on-hp-devices/"><u>[New] Essential Guide to Screen Capturing on HP Devices</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-gopro-studio-secrets-building-professional-time-lapses/"><u>[New] GoPro Studio Secrets Building Professional Time Lapses</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-guard-your-video-calls-the-ultimate-list-of-free-security-enhanced-applications/"><u>[New] In 2024, Guard Your Video Calls The Ultimate List of Free Security-Enhanced Applications</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-monthly-earnings-potential-on-youtube/"><u>[New] In 2024, Monthly Earnings Potential on YouTube</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-the-art-of-background-replacement-in-editing-suite/"><u>[New] The Art of Background Replacement in Editing Suite</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-a-guide-to-conveniently-documenting-your-gaming-victories/"><u>[Updated] 2024 Approved A Guide to Conveniently Documenting Your Gaming Victories</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-cutting-edge-communication-strategies-merging-slack-with-filmoras-capabilities/"><u>[Updated] Cutting-Edge Communication Strategies Merging Slack with Filmora's Capabilities</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-united-reviews-the-expert-on-easeus/"><u>[Updated] United Reviews The Expert on EaseUS</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1-free-online-image-converter-change-jpegs-into-bmp-files-with-ease/"><u>1. Free Online Image Converter: Change JPEGs Into BMP Files with Ease</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/advancing-training-with-vr-systems-for-2024/"><u>Advancing Training with VR Systems for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comparing-macbook-models-air-vs-pro-key-distinctions-explained/"><u>Comparing MacBook Models: Air Vs. Pro – Key Distinctions Explained</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effective-solutions-to-idt-high-definition-sound-card-drivers-in-windows-10/"><u>Effective Solutions to IDT High Definition Sound Card Drivers in Windows 10</u></a></li>
-<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-vivo-y78-5g-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Vivo Y78 5G? Here is How | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-the-easy-route-to-capturing-every-gameplay-moment/"><u>[New] In 2024, The Easy Route to Capturing Every Gameplay Moment</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-skyline-of-success-stardews-top-7-upgrades-review/"><u>[New] Skyline of Success Stardew's Top 7 Upgrades Review</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-three-methods-for-capturing-ps4-gaming-moments/"><u>[New] Three Methods for Capturing PS4 Gaming Moments</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-top-tier-ways-to-preserve-lol-competitions/"><u>[New] Top-Tier Ways to Preserve LOL Competitions</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-recapturing-moments-the-xiaomi-mi-11s-superior-screen-record/"><u>[Updated] Recapturing Moments The Xiaomi Mi 11'S Superior Screen Record</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-the-complete-handbook-for-saving-movies-on-desktop-laptop-and-android-for-2024/"><u>[Updated] The Complete Handbook for Saving Movies on Desktop, Laptop & Android for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-valhalla-vanguard-gods-clash-in-ragnarok-for-2024/"><u>[Updated] Valhalla Vanguard Gods Clash in Ragnarok for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-capture-screens-in-windows-8-4-methods/"><u>2024 Approved Capture Screens in Windows 8 4 Methods</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-the-art-of-google-podcast-upload/"><u>2024 Approved Mastering the Art of Google Podcast Upload</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/a-comprehensive-look-at-the-best-nixplay-seed-frame/"><u>A Comprehensive Look at the Best Nixplay Seed Frame</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/best-tools-for-live-gameplay-screen-grabs-for-2024/"><u>Best Tools for Live Gameplay Screen Grabs for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/contest-of-champions-claim-your-2018-fifa-world-cup-soccer-ball-and-exclusive-prizes/"><u>Contest of Champions! Claim Your 2018 FIFA World Cup Soccer Ball & Exclusive Prizes!</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-iphone-13-mini-online-here-are-6-easy-ways-by-drfone-ios/"><u>How to Unlock iPhone 13 mini Online? Here are 6 Easy Ways</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-cutting-edge-screen-capturing-with-the-latest-camstudio-release/"><u>In 2024, Cutting-Edge Screen Capturing with the Latest CamStudio Release</u></a></li>
+<li><a href="https://review-topics.techidaily.com/issues-playing-mkv-video-on-redmi-k70-pro-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Issues playing MKV video on Redmi K70 Pro</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-xiaomi-redmi-k70e-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Xiaomi Redmi K70E Phone</u></a></li>
+<li><a href="https://win-hot.techidaily.com/unveiling-the-reasons-behind-youtubes-video-converter-prompt-expert-level-antivirusguide-insights/"><u>Unveiling the Reasons Behind YouTube's Video Converter Prompt: Expert-Level AntiVirusGuide Insights</u></a></li>
 </ul></div>
 

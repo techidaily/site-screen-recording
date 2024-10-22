@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Uniting Your Network with Cross-Platform Skype Chat Groups  A How-To Guide\""
-date: 2024-10-01T16:47:13.565Z
-updated: 2024-10-05T03:18:27.373Z
+date: 2024-10-19T17:15:27.553Z
+updated: 2024-10-21T20:53:08.586Z
 tags: 
   - screen-recording
   - ai video
@@ -55,13 +55,6 @@ To make a group chat on Skype using a Windows operating system you can get conne
 
 ![start group chat](https://images.wondershare.com/filmora/article-images/start-group-chat4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: Start a Skype Group Chat on Mac
 
 Skype allows anyone to create a group chat on Mac. You can easily create and enjoy your Skype group chat with the simple steps below.
@@ -75,9 +68,23 @@ Skype allows anyone to create a group chat on Mac. You can easily create and enj
 
 ![get group name](https://images.wondershare.com/filmora/article-images/get-group-name2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * You’ll be taken to your “Contact List” to choose the contacts you want to add to the group. After selecting all the contacts press the “Done” button and Skype will make a group chat and notify all the members of their joining the group.
 
 ![contact list](https://images.wondershare.com/filmora/article-images/contact-list3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * You will directly be taken to the newly created Skype group chat. where you can start chit chat with the group members.
 
@@ -86,10 +93,10 @@ Skype allows anyone to create a group chat on Mac. You can easily create and enj
 * Now you can have a group video or audio call in real-time with members around the world. Talk and collaborate with coworkers, family, and friends while being able to send pictures, videos, and other files simultaneously.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3: Manage Your Skype Group Chat
@@ -99,13 +106,6 @@ Skype gives you full control over the group chats you create on Windows, Mac, Li
 * **Open the group settings**: right-click the group name under “Recent Chats”.
 
 ![manage group](https://images.wondershare.com/filmora/article-images/manage-group1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * **Update or add a group picture**: Upload, view, or remove the group picture.
 
@@ -124,13 +124,6 @@ Skype gives you full control over the group chats you create on Windows, Mac, Li
 * **Group gallery**: In Group Gallery you can view all the images, videos, links, and files that have been shared with this group chat.
 
 ![group gallery](https://images.wondershare.com/filmora/article-images/group-gallery10.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 4: Q&A about Skype Group Chat
 
@@ -152,15 +145,22 @@ You can in effect block a contact in Skype
 
 ![block contact](https://images.wondershare.com/filmora/article-images/block-contact4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * 4\. Skype will ask you to confirm if you want to block this particular contact and also if you want to report the abuse from this person by pressing the toggle button.
 
 ![confirm block](https://images.wondershare.com/filmora/article-images/confirm-block5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * 5\. Press the “Block” button and the contact will effectively be blocked from your Skype account and removed from your contact list and chats.
@@ -183,15 +183,22 @@ To delete all your Skype contacts at once follow the steps:
 
 ![contact tab](https://images.wondershare.com/filmora/article-images/contact-tab7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * 3\. In the Privacy settings, you will see all the other details. We need to go into the “View list” under the Profile section. This will reveal all your contacts in a list.
 
 ![view list](https://images.wondershare.com/filmora/article-images/view-list8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * 4\. In the list, you’ll be presented with all your contacts. Deleting them is very easy, just left-click each or dotted menu option and select “Delete contact”. This way you won’t have to go into each contact’s profile to delete the particular contact.
@@ -199,10 +206,10 @@ To delete all your Skype contacts at once follow the steps:
 ![delete contact](https://images.wondershare.com/filmora/article-images/delete-contact9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -212,19 +219,6 @@ Skype group chats allow multiple people to communicate face-to-face through time
 If you feel the same about the need for group chats like the one Skype offers, tell us about the applications you usually use for group chatting among your friends, family, and office staff in the comment section below.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -241,22 +235,18 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-insider-guide-recording-full-desktop-scenes-in-w8/"><u>[Updated] 2024 Approved Insider Guide Recording Full Desktop Scenes in W8</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-teachers-choice-top-recording-applications/"><u>[Updated] 2024 Approved Teachers' Choice Top Recording Applications</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-how-to-optimize-your-instagram-stories-for-engagement/"><u>[Updated] In 2024, How to Optimize Your Instagram Stories for Engagement</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-no-expense-high-quality-topping-chromebook-screen-capture-apps-for-2024/"><u>[Updated] No Expense, High Quality – Topping Chromebook Screen Capture Apps for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-unlocking-metaverse-potential-top-7-innovations-to-master/"><u>2024 Approved Unlocking Metaverse Potential - Top 7 Innovations to Master</u></a></li>
-<li><a href="https://win11.techidaily.com/boost-playnites-capabilities-with-windows-compatible-emulators/"><u>Boost Playnite's Capabilities with Windows-Compatible Emulators</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/capturafx-firefox-add-ons-for-2024/"><u>CapturaFX FireFox Add-Ons for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-the-delayed-response-time-in-cyberpunk-2077-gaming/"><u>Fixing the Delayed Response Time in Cyberpunk 2077 Gaming</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/guide-to-recording-tv-screens-with-ease-and-precision-for-2024/"><u>Guide to Recording TV Screens with Ease and Precision for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-oppo-reno-8t-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Oppo Reno 8T Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-colors-unveiled-the-comprehensive-tutorial/"><u>In 2024, Colors Unveiled The Comprehensive Tutorial</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-efficient-ways-to-save-ppt-slides/"><u>In 2024, Efficient Ways to Save PPT Slides</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-revolutionizing-your-brand-with-the-top-30-fb-hacks-all-levels/"><u>In 2024, Revolutionizing Your Brand with the Top 30 FB Hacks (All Levels)</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-seamless-integration-of-custom-backgrounds-on-microsoft-teams-calls/"><u>In 2024, Seamless Integration of Custom Backgrounds on Microsoft Teams Calls</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/inside-look-the-future-of-home-cam-recordings-for-2024/"><u>Inside Look The Future of Home Cam Recordings for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-samsung-galaxy-a05-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Samsung Galaxy A05 FRP Without Computer</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/student-guide-effective-ways-to-avoid-misusing-chatgpt/"><u>Student Guide: Effective Ways to Avoid Misusing ChatGPT</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-navigating-overwatch-audio-capture-settings/"><u>[New] 2024 Approved Navigating Overwatch Audio Capture Settings</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-sonic-sweets-best-romantic-melodies-for-your-pledged-life/"><u>[New] Sonic Sweets Best Romantic Melodies for Your Pledged Life</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-hacks-to-dodge-digital-lessons-at-home/"><u>[Updated] Hacks to Dodge Digital Lessons at Home</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-scorching-speedways-ranking-the-top-5-virtual-race-titles/"><u>[Updated] Scorching Speedways Ranking the Top 5 Virtual Race Titles</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-unlocking-recmasters-potential-in-screen-capture/"><u>[Updated] Unlocking Recmaster's Potential in Screen Capture</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-the-ultimate-strategy-for-perfect-xbox-screen-recordings/"><u>2024 Approved The Ultimate Strategy for Perfect Xbox Screen Recordings</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-realme-note-50-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Realme Note 50 Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-oneplus-ace-3-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On OnePlus Ace 3</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-xbox-screen-recording-uncovered-a-step-by-step-manual/"><u>In 2024, Xbox Screen Recording Uncovered A Step-by-Step Manual</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/real-time-recording-battle-obs-studio-against-fraps/"><u>Real-Time Recording Battle OBS Studio Against Fraps</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/top-10-efectivos-player-de-video-mkv-para-windows-y-mac-comprueba-las-ultimas-opciones-del-ano-2020/"><u>Top 10 Efectivos Player De Vídeo MKV Para Windows Y Mac: Comprueba Las Últimas Opciones Del Año 2020</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/voice-memo-basics-your-complete-guide-to-audio-recording/"><u>Voice Memo Basics Your Complete Guide to Audio Recording</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/what-does-jailbreaking-apple-iphone-13-pro-i-do-get-answers-here-by-drfone-ios/"><u>What Does Jailbreaking Apple iPhone 13 Pro i Do? Get Answers here</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, How to Change Screenshot File Formats on a Mac"
-date: 2024-10-14T16:42:24.327Z
-updated: 2024-10-16T16:22:43.254Z
+date: 2024-10-19T18:45:26.771Z
+updated: 2024-10-21T19:09:54.419Z
 tags: 
   - screen-recording
   - ai video
@@ -49,10 +49,10 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Supported Image Formats on Mac
@@ -62,10 +62,10 @@ As we already mentioned, Mac computers allow its users to save screenshots in so
 Using JPEG file extension will enable you to create images that can be used in Word documents, PowerPoint presentations or shared anywhere on the Internet. PDF or TIFF files should only be used if you want to print the screenshot you've taken, while the GIF file format is used to create short animations or loops and there is absolutely no reason to use it as a default screenshot file format.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Which Screenshot Format Should You Use?
@@ -74,15 +74,28 @@ Each image file format Mac computer support is designed for different purposes, 
 
 Besides being smaller in size than PNG files, JPEG files are also handier if you want to annotate the screenshots you're taking. In addition, you'll be able to post your files anywhere on the Internet, because JPEG files are supported by all social media platforms.
 
+<!-- affiliate ads begin -->
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Change Screenshot Formats?
 
 ![ Mac Screenshots formats ](https://images.wondershare.com/filmora/article-images/mac-screenshot-format-changing.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Once you decide which format you want to use the default screenshot graphics format on your Mac, you should launch the Terminal app. You can access the Terminal from the Utility subfolder that is located in the Application folder.
@@ -121,13 +134,6 @@ You can switch back to capturing screenshots in PNG file format at any moment by
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
@@ -143,22 +149,21 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-expert-review-of-apeaksoft-for-video-capture-technology/"><u>[New] 2024 Approved Expert Review of Apeaksoft for Video Capture Technology</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-game-modders-and-tutorial-content-leaders/"><u>[New] 2024 Approved Game Modders & Tutorial Content Leaders</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-mastering-quieter-recordings-basic-or-advanced-techniques/"><u>[New] 2024 Approved Mastering Quieter Recordings - Basic or Advanced Techniques</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/xploring-youtubes-payment-mechanisms-for-content-makers-for-2024/"><u>[New] Exploring YouTube's Payment Mechanisms for Content Makers for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-digital-creativity-unleashed-changing-numbers-in-tiktok/"><u>[New] In 2024, Digital Creativity Unleashed Changing Numbers in TikTok</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-state-of-the-art-methods-for-documenting-digital-education-for-2024/"><u>[New] State-of-the-Art Methods for Documenting Digital Education for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-top-techniques-in-documenting-real-time-sporting-broadcasts/"><u>[New] Top Techniques in Documenting Real-Time Sporting Broadcasts</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-essential-guide-best-screencasting-apps-at-no-cost-for-2024/"><u>[Updated] Essential Guide Best Screencasting Apps at No Cost for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-step-by-step-process-for-capturing-top-tier-presentations-for-2024/"><u>[Updated] Step-by-Step Process for Capturing Top-Tier Presentations for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-step-by-step-starting-a-skype-call-on-android-for-2024/"><u>[Updated] Step-by-Step Starting a Skype Call on Android for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-the-top-methods-for-remotely-podcasting-success-for-2024/"><u>[Updated] The Top Methods for Remotely Podcasting Success for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-unlock-professional-broadcasting-on-youtube-and-twitch-with-obs/"><u>[Updated] Unlock Professional Broadcasting on YouTube & Twitch with OBS</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/best-vivo-v29-pro-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Vivo V29 Pro Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/blueprint-for-big-screens-the-art-of-filmmaking/"><u>Blueprint for Big Screens The Art of Filmmaking</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-nokia-g310-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Nokia G310 Step-by-Step Solutions | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-nokia-c12-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Nokia C12 without backup.</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/youtubes-top-unboxing-houses-and-their-fanbase/"><u>YouTube’s Top Unboxing Houses and Their Fanbase</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-creating-compelling-content-using-windows-movie-maker-in-windows-8-os/"><u>[New] 2024 Approved Creating Compelling Content Using Windows Movie Maker in Windows 8 OS</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-kazam-screen-recorder-review/"><u>[New] 2024 Approved Kazam Screen Recorder Review</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-the-definitive-window-on-game-recording-in-windows-11/"><u>[New] 2024 Approved The Definitive Window on Game Recording in Windows 11</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-advanced-strategies-for-recording-and-saving-gameplay-on-ps4-for-2024/"><u>[New] Advanced Strategies for Recording and Saving Gameplay on PS4 for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-crafting-cinematic-experiences-with-magix-video-pro-x/"><u>[New] Crafting Cinematic Experiences with Magix Video Pro X</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-enhance-discord-conversations-a-recorders-insight-for-2024/"><u>[New] Enhance Discord Conversations A Recorder's Insight for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-non-root-android-audio-logging-step-by-step-for-2024/"><u>[New] Non-Root Android Audio Logging, Step by Step for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-the-modern-shoppers-guide-to-360-degree-imaging-tech/"><u>[Updated] The Modern Shopper's Guide to 360-Degree Imaging Tech</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-the-ultimate-guide-to-vimeo-record-features-for-2024/"><u>[Updated] The Ultimate Guide to Vimeo Record Features for 2024</u></a></li>
+<li><a href="https://win-online.techidaily.com/chrome6/"><u>如何在Chrome中重新发现丢失的书签？6个轻松的修复技巧</u></a></li>
+<li><a href="https://facebook.techidaily.com/are-your-online-posts-really-permanent/"><u>Are Your Online Posts Really Permanent?</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/capturing-life-in-hd-top-webcam-recorder-reviews/"><u>Capturing Life in HD - Top WebCam Recorder Reviews</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/expert-round-up-the-most-effective-9-digital-recorders-for-2024/"><u>Expert Round-Up The Most Effective 9 Digital Recorders for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/free-adobe-premiere-pro-cs6-for-mac-download-latest-2023-release/"><u>Free Adobe Premiere Pro CS6 for Mac Download Latest 2023 Release</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-elevate-your-snap-game-15-strategies-for-social-success/"><u>In 2024, Elevate Your Snap Game 15 Strategies for Social Success</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/perfect-places-to-procure-pixel-ringers-online/"><u>Perfect Places to Procure Pixel Ringers Online</u></a></li>
 </ul></div>
 
