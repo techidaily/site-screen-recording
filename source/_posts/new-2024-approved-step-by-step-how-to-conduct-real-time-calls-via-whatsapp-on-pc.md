@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Step by Step  How to Conduct Real-Time Calls via WhatsApp on PC\""
-date: 2024-10-19T11:27:16.626Z
-updated: 2024-10-22T12:29:00.911Z
+date: 2024-10-23T16:32:28.720Z
+updated: 2024-10-28T02:12:33.992Z
 tags: 
   - screen-recording
   - ai video
@@ -59,21 +59,34 @@ In a few easy steps:
 
 ![download WhatsApp](https://images.wondershare.com/filmora/article-images/download-whatsapp-in-bluestacks.JPG)
 
+<!-- affiliate ads begin -->
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
    1. Open it through the Bluestacks and set the WhatsApp with the same account on your phone.
 
 ![log in whatsapp](https://images.wondershare.com/filmora/article-images/install-whatsapp-in-desktop.JPG)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 1. Now you can see all your contacts on WhatsApp, and you can also add more people here.
 2. Choose a friend to start a conversation, and then tap the video call button at the top right corner. The whole process is easy to complete like on the phone.
 
 Your WhatsApp download will run from here, giving you the answer to how to make video calls in WhatsApp web – on laptops.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: WhatsApp Web Alternative
 
@@ -86,10 +99,17 @@ Skype is one of the longest-running video calling and web calling apps. It gives
 ![Skype](https://images.wondershare.com/filmora/article-images/skype.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. [Google Duo](https://duo.google.com/about/)
@@ -98,25 +118,11 @@ If you can’t figure out how to make video calls on WhatsApp Web on laptops, th
 
 ![Google Duo](https://images.wondershare.com/filmora/article-images/google-duo-app.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. [Facebook Messenger](https://www.messenger.com/)
 
 If you don’t intend to do much in the way of group chatting, then video calling in Messenger is a reliable way to see friends during the lockdown. Most people have Facebook, it will work with all their products, and it is as easy to join as clicking a link. The downside is that it only works if FB knows who you are. If you closed your account with them, then you will need to start from scratch. That being said, audio and video are both clear, you can add in file sharing, and you have the option to instant message at all times. Plus, it will sync with your contacts in much the same way as Google Duo will.
 
 ![Facebook Messenger](https://images.wondershare.com/filmora/article-images/messenger-app.JPG)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Rounding Up
 
@@ -125,10 +131,16 @@ So if you can’t work out how to make a WhatsApp call from a PC, try one of our
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Richard Bennett
@@ -146,19 +158,20 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-decoding-youtube-income-how-much-does-each-1000-viewer-earn-in-2024/"><u>[New] Decoding YouTube Income How Much Does Each 1,000 Viewer Earn, In 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-the-unboxing-gurus-toolkit-amplifying-video-likes-on-tiktok-for-2024/"><u>[New] The Unboxing Guru's Toolkit Amplifying Video Likes on TikTok for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-8-best-open-source-video-conferencing-software-for-enterprise/"><u>[Updated] 2024 Approved 8 Best Open Source Video Conferencing Software for Enterprise</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-cutting-out-the-clutter-efficient-borders-removal-on-canva-for-2024/"><u>[Updated] Cutting Out the Clutter Efficient Borders Removal on Canva for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-windows-snap-shotting-simplified-for-2024/"><u>[Updated] Windows Snap Shotting Simplified for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-comparing-apowersoft-and-more-a-screen-capture-deep-dive/"><u>2024 Approved Comparing Apowersoft & More A Screen Capture Deep Dive</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-essential-8-android-group-calls-over-4-users/"><u>2024 Approved Essential 8 Android Group Calls Over 4 Users</u></a></li>
-<li><a href="https://article-tips.techidaily.com/a-comprehensive-look-at-securing-background-visuals/"><u>A Comprehensive Look at Securing Background Visuals</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/conversion-sans-frais-dimages-bmp-a-png-directement-dans-votre-navigateur-movavi/"><u>Conversion Sans Frais D'images BMP À PNG Directement Dans Votre Navigateur - Movavi</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/highlighting-the-finest-video-grabbers-in-windows-10-for-2024/"><u>Highlighting the Finest Video Grabbers in Windows 10 for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-iphone-guide-to-water-reflected-imagery/"><u>In 2024, The Ultimate iPhone Guide to Water-Reflected Imagery</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/navigate-your-way-to-joining-google-live-video-sessions-for-2024/"><u>Navigate Your Way to Joining Google Live Video Sessions for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/quick-windows-surfing-guide-unveiled/"><u>Quick Windows Surfing Guide Unveiled</u></a></li>
-<li><a href="https://win-dash.techidaily.com/solving-the-mystery-why-is-your-tl-wn722n-wireless-card-missing-in-windows/"><u>Solving the Mystery: Why Is Your TL-WN722N Wireless Card Missing in Windows?</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-silent-snaptaking-the-art-of-concealed-picture-recording/"><u>[New] 2024 Approved Silent SnapTaking The Art of Concealed Picture Recording</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-enhance-your-profile-best-tools-to-create-professional-facebook-cover-photos-for-2024/"><u>[New] Enhance Your Profile Best Tools to Create Professional Facebook Cover Photos for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-greatest-7-web-based-recording-tools-2023/"><u>[New] Greatest 7 Web-Based Recording Tools 2023</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-elevate-your-gaming-with-fbx-capture-pro/"><u>[New] In 2024, Elevate Your Gaming with FBX Capture Pro</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-a-new-world-of-farming-the-best-7-mods-in-stardew/"><u>[Updated] A New World of Farming - The Best 7 Mods in Stardew</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-capturing-attention-a-guide-to-captivate-videos-for-2024/"><u>[Updated] Capturing Attention A Guide to Captivate Videos for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-top-picks-best-free-cross-platform-video-communication-tools/"><u>[Updated] In 2024, Top Picks Best Free Cross-Platform Video Communication Tools</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-unveiling-the-best-skype-recorders-of-this-year/"><u>[Updated] In 2024, Unveiling the Best Skype Recorders of This Year</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-top-10-non-native-screen-capture-applications/"><u>2024 Approved Top 10 Non-Native Screen Capture Applications</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-virtual-reality-top-emulators-for-playing-ps3-games-on-pc/"><u>2024 Approved Virtual Reality Top Emulators for Playing PS3 Games on PC</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-motorola-defy-2-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Motorola Defy 2?</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-free-guide-to-navigating-and-hosting-google-meet-sessions-effectively/"><u>In 2024, Free Guide to Navigating and Hosting Google Meet Sessions Effectively</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-the-most-wanted-android-apps-on-google-play-for-2024/"><u>New The Most Wanted Android Apps on Google Play for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-visual-glitches-in-the-sims-4-video-card-solutions-explored/"><u>Overcoming Visual Glitches in The Sims 4: Video Card Solutions Explored</u></a></li>
+<li><a href="https://blog-min.techidaily.com/unlock-full-access-to-premium-macxdvd-suite-for-a-complimentary-membership/"><u>Unlock Full Access to Premium MacXDVD Suite for a Complimentary Membership</u></a></li>
 </ul></div>
 

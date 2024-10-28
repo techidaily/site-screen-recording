@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Troubleshooting Mute  Reviving Sound in OBS Recordings for 2024\""
-date: 2024-10-19T07:02:56.183Z
-updated: 2024-10-21T19:23:34.620Z
+date: 2024-10-22T01:13:27.548Z
+updated: 2024-10-27T16:11:52.406Z
 tags: 
   - screen-recording
   - ai video
@@ -42,10 +42,10 @@ While using OBS studio, the users might experience the difficulties of OBS not c
 ![restart](https://images.wondershare.com/filmora/article-images/restart.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **2\. Run it as Administrator**
@@ -58,6 +58,13 @@ You can run OBS as an administrator on Windows 10 and Windows 11 effortlessly. B
 
 ![run it as administrator](https://images.wondershare.com/filmora/article-images/run-it-as-administrator.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **3\. Unmute OBS**
 
 If OBS Studio is muted in the Volume Mixer, no doubt you won’t hear any desktop sound. test if OBS desktop audio comes back. If not, try the next remedy below. So the first troubleshooting step is to check your Volume Mixer.
@@ -67,13 +74,6 @@ If OBS Studio is muted in the Volume Mixer, no doubt you won’t hear any deskto
 2) Click the speaker icon beneath OBS to unmute this program.
 
 ![unmute obs](https://images.wondershare.com/filmora/article-images/unmute-obs.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **4\. Check the sound settings**
 
@@ -95,6 +95,13 @@ Try recording with your speakers as the default playback device instead of headp
 
 ![audio control](https://images.wondershare.com/filmora/article-images/audio-control.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **6\. Update your audio driver**
 
 If the Desktop Audio stopped recording after the Windows Driver update, you may roll back the Windows to the prior version with no difficulty. If the audio driver is not up-to-date, the OS cannot connect with the audio output device. Hence, OBS will not detect any audio. To upgrade your audio driver, follow these procedures.
@@ -103,13 +110,6 @@ If the Desktop Audio stopped recording after the Windows Driver update, you may 
 * From there, expand the Sound, video, and game controller, then right-click the audio driver and Update.
 
 ![update your audio driver](https://images.wondershare.com/filmora/article-images/update-your-audio-driver.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **7\. Reinstall OBS**
 
@@ -122,17 +122,17 @@ If none of the techniques can assist you, your OBS is experiencing an undefined 
 ![reinstall obs](https://images.wondershare.com/filmora/article-images/reinstall-obs.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Use OBS Alternative
@@ -152,10 +152,10 @@ After the above efficient approaches, we have utilized to cure the "OBS No Sound
 ![record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Features Why You Should Go for Filmora:**
@@ -180,24 +180,19 @@ After the above efficient approaches, we have utilized to cure the "OBS No Sound
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-maximizing-gameplay-preservation-on-the-newest-windows-11/"><u>[New] 2024 Approved Maximizing Gameplay Preservation on the Newest Windows 11</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/new-essential-tools-for-youtube-live-broadcasting-reveal-the-7-key-apps/"><u>[New] Essential Tools for YouTube LIVE Broadcasting Reveal the 7 Key Apps</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-cutting-edge-technology-of-nikon-d7500-reviewed/"><u>[New] In 2024, Cutting-Edge Technology of Nikon D7500 Reviewed</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-screenshot-synopsis-study/"><u>[Updated] In 2024, ScreenShot Synopsis Study</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-top-strategies-capturing-saving-and-sharing-ps4-experiences/"><u>[Updated] In 2024, Top Strategies Capturing, Saving & Sharing PS4 Experiences</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-low-cost-pc-monitoring-solutions-reviewed-and-compared/"><u>[Updated] Low-Cost PC Monitoring Solutions Reviewed & Compared</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-modify-twitter-video-screenshot-for-2024/"><u>[Updated] Modify Twitter Video Screenshot for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-urban-to-agrarian-journey-stardew-titles-traced/"><u>[Updated] Urban to Agrarian Journey Stardew Titles Traced</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-webcam-video-production-record-edit-and-export-guide-for-2024/"><u>[Updated] Webcam Video Production Record, Edit & Export Guide for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-google-meet-for-everyone-a-comprehensive-no-cost-strategy-booklet/"><u>2024 Approved Google Meet for Everyone A Comprehensive, No-Cost Strategy Booklet</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/-non-appearance-of-tiny-vid-content/"><u>Cured Non-Appearance of Tiny Vid Content</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/digital-entertainment-preservation-online-tv-show-recording-101/"><u>Digital Entertainment Preservation Online TV Show Recording 101</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/elevating-presentations-with-adobe-captivate-skills-for-2024/"><u>Elevating Presentations with Adobe Captivate Skills for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723210012684-fix-x3daudio17dll-error-play-games-smoothly/"><u>Fix X3DAudio1_7.dll Error, Play Games Smoothly!</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-poco-m6-5g-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Poco M6 5G to iPhone XS/11 | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-bypass-apple-iphone-7-passcode-easily-video-inside-drfone-by-drfone-ios/"><u>In 2024, How to Bypass Apple iPhone 7 Passcode Easily Video Inside | Dr.fone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-perfecting-your-podcast-top-5-mac-friendly-recorder-recommendations/"><u>In 2024, Perfecting Your Podcast Top 5 Mac-Friendly Recorder Recommendations</u></a></li>
-<li><a href="https://video-capture.techidaily.com/speech-logging-made-easy-on-mac-the-top-5-tools-tested-and-ranked-for-2024/"><u>Speech Logging Made Easy on Mac The Top 5 Tools Tested & Ranked for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-9-vivo-s17-pro-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Vivo S17 Pro Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-capturewave-91-analysis-summary/"><u>[New] 2024 Approved CaptureWave 9.1 Analysis Summary</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-xiaomi-11-a-new-era-of-high-fidelity-video-recording-for-2024/"><u>[New] Xiaomi 11 A New Era of High Fidelity Video Recording for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-reel-your-best-footage-from-instagram-with-these-aids/"><u>[Updated] 2024 Approved Reel Your Best Footage From Instagram With These Aids</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-groove-gatherers-try-our-cost-free-beats-scanners-for-2024/"><u>[Updated] Groove Gatherers Try Our Cost-Free Beats Scanners for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-logitechs-4k-pro-webcam-a-complete-exploration/"><u>[Updated] In 2024, Logitech's 4K Pro Webcam A Complete Exploration</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-master-your-subtitles-with-top-10-free-converter-websites/"><u>[Updated] Master Your Subtitles with Top 10 Free Converter Websites</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-narrating-your-journey-channeling-authenticity-online/"><u>[Updated] Narrating Your Journey Channeling Authenticity Online</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-a-compre-folio-for-understanding-du-recorders-features/"><u>2024 Approved A Compre Folio for Understanding Du Recorder's Features</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-expert-endorsed-the-top-10-camcorders-for-your-needs/"><u>2024 Approved Expert-Endorsed The Top 10 Camcorders for Your Needs</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-apple-iphone-15-official-method-to-unlock-your-apple-iphone-15-by-drfone-ios/"><u>How To Unlock Apple iPhone 15 Official Method to Unlock Your Apple iPhone 15</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-essential-strategies-for-ppt-on-google-meet-laptopiosandroid/"><u>In 2024, Essential Strategies for PPT on Google Meet Laptop/iOS/Android</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-master-the-art-of-subtitle-integration-on-wmp/"><u>In 2024, Master the Art of Subtitle Integration on WMP</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/perfecting-presentations-adopt-the-ezvide-screencast-method-for-2024/"><u>Perfecting Presentations Adopt the EZvide Screencast Method for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-found-overcoming-the-mystery-of-sudden-black-screens-in-electronics/"><u>Solution Found! Overcoming the Mystery of Sudden Black Screens in Electronics</u></a></li>
 </ul></div>
 

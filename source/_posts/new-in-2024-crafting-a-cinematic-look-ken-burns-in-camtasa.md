@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Crafting a Cinematic Look  Ken Burns in Camtasa\""
-date: 2024-10-17T12:05:27.045Z
-updated: 2024-10-22T04:45:54.651Z
+date: 2024-10-26T21:02:51.753Z
+updated: 2024-10-27T22:47:43.310Z
 tags: 
   - screen-recording
   - ai video
@@ -48,10 +48,10 @@ At this point, all you need to do is drag that particular arrow to the left, so 
 In Camtasia 9, you have the option to experiment with zooming and panning or both to create new styles of the Ken Burns effect. You will learn as you experiment and will be able to create some really interesting videos in the process.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Apply Ken Burns Effect with the Best Alternative to Camtasia 9 - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -63,10 +63,10 @@ That's not to say that Filmora only offers basic features as it has a wide range
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Step 1\. Import Your Images/Still Photos
@@ -94,10 +94,10 @@ Remember that this tool isn’t just a single trick pony, and you can use Wonder
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -115,24 +115,18 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-voice-capture-made-easy-the-ultimate-ipad-guide/"><u>[New] 2024 Approved Voice Capture Made Easy The Ultimate iPad Guide</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-sizzling-social-hot-food-trends-on-tiktok-for-2024/"><u>[New] Sizzling Social Hot Food Trends on TikTok for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-pixicapture-studio-winos-series/"><u>[Updated] 2024 Approved PixiCapture Studio WinOS Series</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-ultimate-guide-top-7-superior-wet-proof-camcorders/"><u>[Updated] 2024 Approved Ultimate Guide Top 7 Superior Wet-Proof Camcorders</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-visionary-video-setups-a-filmmakers-guide-to-brilliance/"><u>[Updated] 2024 Approved Visionary Video Setups A Filmmaker's Guide to Brilliance</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-beat-the-curve-top-facebook-ad-strategies/"><u>[Updated] Beat the Curve Top Facebook Ad Strategies</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-flashclip-quick-checkup-review-for-2024/"><u>[Updated] FlashClip Quick Checkup Review for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-samurai-spirit-explored-in-top-10-gaming-worlds/"><u>[Updated] In 2024, Samurai Spirit, Explored in Top 10 Gaming Worlds</u></a></li>
-<li><a href="https://win-premium.techidaily.com/1-ultimate-guide-installing-zedge-ringtones-on-your-iphone-effortlessly/"><u>1. Ultimate Guide: Installing Zedge Ringtones on Your iPhone Effortlessly</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/become-a-croatian-connoisseur-heres-your-list-of-7-key-benefits/"><u>Become a Croatian Connoisseur – Here's Your List Of 7 Key Benefits</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/creating-interactive-digital-flipbooks-with-flipbuilder-a-step-by-step-guide/"><u>Creating Interactive Digital Flipbooks with FlipBuilder: A Step-by-Step Guide</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/game-on-log-it-galaxy-phone-playthroughs/"><u>Game on, Log It! Galaxy Phone Playthroughs</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/growth-galore-farming-game-classics-revisited-for-2024/"><u>Growth Galore Farming Game Classics Revisited for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-realme-narzo-60x-5g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Realme Narzo 60x 5G to iPad | Dr.fone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-iphone-7-perfect-screen-recording-setup/"><u>In 2024, IPhone 7 Perfect Screen Recording Setup</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-remedy-for-audio-pause-in-obs-streams/"><u>In 2024, Remedy for Audio Pause in OBS Streams</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/leading-digital-image-grabbers/"><u>Leading Digital Image Grabbers</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/straightforward-video-recorders-for-win10/"><u>Straightforward Video Recorders for Win10</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/windows-stellar-standard-file-wiping-tool-with-automated-schedule-settings/"><u>Windows Stellar Standard File Wiping Tool with Automated Schedule Settings</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-premium-terraria-enhancements-guide/"><u>[New] 2024 Approved Premium Terraria Enhancements Guide</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-az-vision-recorder-complete-application-audits-and-substitutes/"><u>[New] AZ Vision Recorder Complete Application Audits & Substitutes</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-breakdown-of-leading-free-video-conferencing-services-for-commercial-and-academic-use-for-2024/"><u>[New] Breakdown of Leading Free Video Conferencing Services for Commercial and Academic Use for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-step-by-step-selection-of-top-10-no-cost-conference-software/"><u>[New] In 2024, Step-By-Step Selection of Top 10 No-Cost Conference Software</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-the-essential-toolkit-for-youtube-video-editors-everywhere/"><u>[Updated] In 2024, The Essential Toolkit for YouTube Video Editors Everywhere</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-the-premier-selection-of-economical-video-collaboration-tools-businesseducation-edition/"><u>[Updated] In 2024, The Premier Selection of Economical Video Collaboration Tools Business/Education Edition</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-markets-best-gpus-for-uhd-video-processing/"><u>2024 Approved Market's Best GPUs for UHD Video Processing</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/conveniently-record-your-favorite-streams-top-5-grabber-apps/"><u>Conveniently Record Your Favorite Streams Top 5 Grabber Apps</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-build-your-dreamy-oriental-villas-in-minecraft/"><u>In 2024, Build Your Dreamy Oriental Villas in Minecraft</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-simplified-guide-from-camera-roll-capture-to-snapchat-posting/"><u>In 2024, Simplified Guide From Camera Roll Capture to Snapchat Posting</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Honor X50 GT | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/screenflow-uncovered-mastering-video-editing-on-a-mac-for-2024/"><u>ScreenFlow Uncovered Mastering Video Editing on a Mac for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/upgrade-your-videography-with-the-top-10-flv-to-youtube-devices-for-2024/"><u>Upgrade Your Videography with the Top 10 Flv-to-YouTube Devices for 2024</u></a></li>
 </ul></div>
 
