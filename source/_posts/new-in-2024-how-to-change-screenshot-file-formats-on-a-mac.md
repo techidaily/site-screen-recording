@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, How to Change Screenshot File Formats on a Mac"
-date: 2024-10-19T18:45:26.771Z
-updated: 2024-10-21T19:09:54.419Z
+date: 2024-10-27T23:43:20.552Z
+updated: 2024-11-02T16:14:11.519Z
 tags: 
   - screen-recording
   - ai video
@@ -49,10 +49,10 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Supported Image Formats on Mac
@@ -61,13 +61,6 @@ As we already mentioned, Mac computers allow its users to save screenshots in so
 
 Using JPEG file extension will enable you to create images that can be used in Word documents, PowerPoint presentations or shared anywhere on the Internet. PDF or TIFF files should only be used if you want to print the screenshot you've taken, while the GIF file format is used to create short animations or loops and there is absolutely no reason to use it as a default screenshot file format.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Which Screenshot Format Should You Use?
 
 Each image file format Mac computer support is designed for different purposes, which is the reason why you should choose the screenshot graphics format that best fits the context in which the file is going to be used. Converting PNG files to some popular file format is almost always necessary, so if you want to avoid having to go through the file conversion process every time you take a screenshot just to be able to edit it, our advice is to set the JPEG as the default screenshot file format on your Mac.
@@ -75,16 +68,10 @@ Each image file format Mac computer support is designed for different purposes, 
 Besides being smaller in size than PNG files, JPEG files are also handier if you want to annotate the screenshots you're taking. In addition, you'll be able to post your files anywhere on the Internet, because JPEG files are supported by all social media platforms.
 
 <!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Change Screenshot Formats?
@@ -92,10 +79,10 @@ Besides being smaller in size than PNG files, JPEG files are also handier if you
 ![ Mac Screenshots formats ](https://images.wondershare.com/filmora/article-images/mac-screenshot-format-changing.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Once you decide which format you want to use the default screenshot graphics format on your Mac, you should launch the Terminal app. You can access the Terminal from the Utility subfolder that is located in the Application folder.
@@ -134,6 +121,13 @@ You can switch back to capturing screenshots in PNG file format at any moment by
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
@@ -149,21 +143,24 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-creating-compelling-content-using-windows-movie-maker-in-windows-8-os/"><u>[New] 2024 Approved Creating Compelling Content Using Windows Movie Maker in Windows 8 OS</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-kazam-screen-recorder-review/"><u>[New] 2024 Approved Kazam Screen Recorder Review</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-the-definitive-window-on-game-recording-in-windows-11/"><u>[New] 2024 Approved The Definitive Window on Game Recording in Windows 11</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-advanced-strategies-for-recording-and-saving-gameplay-on-ps4-for-2024/"><u>[New] Advanced Strategies for Recording and Saving Gameplay on PS4 for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-crafting-cinematic-experiences-with-magix-video-pro-x/"><u>[New] Crafting Cinematic Experiences with Magix Video Pro X</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-enhance-discord-conversations-a-recorders-insight-for-2024/"><u>[New] Enhance Discord Conversations A Recorder's Insight for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-non-root-android-audio-logging-step-by-step-for-2024/"><u>[New] Non-Root Android Audio Logging, Step by Step for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-the-modern-shoppers-guide-to-360-degree-imaging-tech/"><u>[Updated] The Modern Shopper's Guide to 360-Degree Imaging Tech</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-the-ultimate-guide-to-vimeo-record-features-for-2024/"><u>[Updated] The Ultimate Guide to Vimeo Record Features for 2024</u></a></li>
-<li><a href="https://win-online.techidaily.com/chrome6/"><u>如何在Chrome中重新发现丢失的书签？6个轻松的修复技巧</u></a></li>
-<li><a href="https://facebook.techidaily.com/are-your-online-posts-really-permanent/"><u>Are Your Online Posts Really Permanent?</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/capturing-life-in-hd-top-webcam-recorder-reviews/"><u>Capturing Life in HD - Top WebCam Recorder Reviews</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/expert-round-up-the-most-effective-9-digital-recorders-for-2024/"><u>Expert Round-Up The Most Effective 9 Digital Recorders for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/free-adobe-premiere-pro-cs6-for-mac-download-latest-2023-release/"><u>Free Adobe Premiere Pro CS6 for Mac Download Latest 2023 Release</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-elevate-your-snap-game-15-strategies-for-social-success/"><u>In 2024, Elevate Your Snap Game 15 Strategies for Social Success</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/perfect-places-to-procure-pixel-ringers-online/"><u>Perfect Places to Procure Pixel Ringers Online</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-essential-tips-for-efficiently-using-ez-grabber/"><u>[New] 2024 Approved Essential Tips for Efficiently Using EZ Grabber</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-etiology-of-fetal-alcohol-syndrome/"><u>[New] 2024 Approved Etiology of Fetal Alcohol Syndrome</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-debut-video-capture-review-and-alternative/"><u>[New] Debut Video Capture Review and Alternative</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-escaping-reality-top-10-games-like-gta-v-but-not-for-2024/"><u>[New] Escaping Reality - Top 10 Games Like GTA V (But Not) for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-ultra-hd-playback-best-ps5-and-hdmi-21-compatible-monitors/"><u>[New] In 2024, Ultra HD Playback Best PS5 & HDMI 2.1 Compatible Monitors</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-top-10-games-like-gta-v-for-2024/"><u>[New] Top 10 Games Like GTA V for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-premier-video-communication-tools-the-top-10-for-ios-and-android-for-2024/"><u>[Updated] Premier Video Communication Tools The Top 10 for iOS & Android for 2024</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-vivo-v27-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Vivo V27 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/effortless-setup-with-behringers-professional-usb-audio-driver-start-here/"><u>Effortless Setup with Behringer's Professional USB Audio Driver - Start Here</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/gameplay-memories-preserved-unveiling-6-minecraft-tips-for-2024/"><u>Gameplay Memories Preserved Unveiling 6 Minecraft Tips for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-boost-engagement-with-these-5-caption-tricks-on-tiktok-videos/"><u>In 2024, Boost Engagement with These 5 Caption Tricks on TikTok Videos</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-color-mastery-selecting-the-best-luts-for-lightroom-editors/"><u>In 2024, Color Mastery Selecting the Best LUTs for LightRoom Editors</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-operational-update-troubled-obs-camera/"><u>In 2024, Operational Update Troubled OBS Camera</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-nokia-150-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Nokia 150 (2023)? | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-upgrade-playstation-10-best-hard-drive-mods/"><u>In 2024, Upgrade PlayStation #10 Best Hard Drive Mods</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/new-era-in-smart-home-tech-an-in-depth-review-of-the-fourth-generation-echo-dot/"><u>New Era in Smart Home Tech: An In-Depth Review of the Fourth Generation Echo Dot</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/outdoor-viewing-excellence-sealinks-4k-slim-silver-55/"><u>Outdoor Viewing Excellence: Sealink's 4K Slim Silver 55</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-gaming-systems-in-2/"><u>Top Rated Gaming Systems in 2</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/trilltones-techniques-how-to-cut-and-download-tamil-songs-for-2024/"><u>TrillTones Techniques How to Cut and Download Tamil Songs for 2024</u></a></li>
 </ul></div>
 

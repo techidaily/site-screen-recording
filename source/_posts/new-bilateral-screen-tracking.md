@@ -1,7 +1,7 @@
 ---
 title: "[New] Bilateral Screen Tracking"
-date: 2024-10-19T20:33:30.530Z
-updated: 2024-10-21T18:56:25.101Z
+date: 2024-11-01T17:21:48.251Z
+updated: 2024-11-02T21:23:19.606Z
 tags: 
   - screen-recording
   - ai video
@@ -49,10 +49,16 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Record Multiple Monitors
@@ -62,10 +68,10 @@ The first step towards setting up a screencasting session with multiple displays
 Head over to the Start Menu, and open the Control Panel. Select the 'Adjust Screen Resolution' option in the Appearance and Personalization menu, and then click on the Multiple Displays drop-down menu. Pick the 'Extend These Displays' option from the list and proceed to save the changes by clicking on the OK button.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Recording Multiple Monitors With [OBS Studio](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -83,6 +89,13 @@ Go to OBS Studio's main window and click on the Settings button in the lower rig
 Sum up the two values of the wider sides of the screens and insert the value you get into the Base Resolution bar. For example, if one monitor has a 1366X768 resolution and the second one has a 1024X768 resolution, you should add 1024 to the 1366 and insert the resulting value (2390) as the wide resolution value in Base Resolution Bar.
 
 Save the changes you've made, and then drag the screens to arrange them. You can start recording multiple monitors with OBS Studio by clicking on the Start Recording button.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Capturing Multiple Monitor Displays with Camtasia
 
@@ -110,20 +123,19 @@ In case that you want to record your secondary monitor, we recommend you to try 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Max Wales
 
@@ -140,24 +152,16 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-action-packed-angling-best-fishing-cameras-ranked/"><u>[New] In 2024, Action-Packed Angling Best Fishing Cameras Ranked</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-unlocking-team-potential-expert-tips-on-slack-and-filmora-integration/"><u>[New] In 2024, Unlocking Team Potential Expert Tips on Slack and Filmora Integration</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-outstanding-5-streamer-gadgets-online/"><u>[New] Outstanding 5 Streamer Gadgets Online</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-skillful-use-of-skypes-screen-share-capabilities-in-telecommuting/"><u>[New] Skillful Use of Skype's Screen Share Capabilities in Telecommuting</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-5-best-racing-simulator-games-you-can-find/"><u>[Updated] In 2024, 5 Best Racing Simulator Games You Can Find</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-superior-hd-video-capturing-choosing-premium-recorder-models/"><u>[Updated] In 2024, Superior HD Video Capturing Choosing Premium Recorder Models</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-recording-made-simple-a-comprehensive-guide-to-archiving-roblox-games-on-your-macbook/"><u>[Updated] Recording Made Simple A Comprehensive Guide to Archiving Roblox Games on Your MacBook</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-the-videographers-minecraft-6-proven-ways-to-document-gameplay/"><u>[Updated] The Videographer's Minecraft 6 Proven Ways to Document Gameplay</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-securing-sims-legacy-proven-strategies-for-documenting-virtual-escapades/"><u>2024 Approved Securing Sims' Legacy Proven Strategies for Documenting Virtual Escapades</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-undead-universe-discover-the-top-8-zombie-games/"><u>2024 Approved Undead Universe Discover the Top 8 Zombie Games</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/complete-guide-to-fixing-controller-connection-errors-on-pc-running-win-7-8-or-10/"><u>Complete Guide to Fixing Controller Connection Errors on PC Running Win 7, 8 or 10</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/demystifying-gptzero-an-in-depth-look-at-fighting-fake-content-generation/"><u>Demystifying GPTZero: An In-Depth Look at Fighting Fake Content Generation</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/detecting-the-presence-of-an-airtag-tracker-on-you-or-your-belongings-tips-and-strategies-for-privacy-protection/"><u>Detecting the Presence of an AirTag Tracker on You or Your Belongings | Tips & Strategies for Privacy Protection</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-nokia-c22-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Nokia C22 to PC? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Oppo Reno 8T 5G | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/streamline-and-simplify-game-setup-in-xbox-app/"><u>Streamline and Simplify Game Setup in Xbox App</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-method-for-unliking-songs-across-spotify-playlists-and-library/"><u>The Ultimate Method for Unliking Songs Across Spotify Playlists and Library</u></a></li>
-<li><a href="https://article-files.techidaily.com/top-notch-animated-text-settings/"><u>Top-Notch Animated Text Settings</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/sh-the-power-of-optimization-5-secrets-to-skyrocket-your-audience/"><u>Unleash the Power of Optimization 5 Secrets to Skyrocket Your Audience</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-protecting-your-privacy-a-curated-list-of-cam-covers/"><u>[New] 2024 Approved Protecting Your Privacy A Curated List of Cam Covers</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-5-essential-techniques-to-capture-roblox-gaming-experienenas-macos-devices/"><u>[New] In 2024, 5 Essential Techniques to Capture Roblox Gaming Experienenas macOS Devices</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-magix-acid-pros-successors-in-vector-editing-for-2024/"><u>[New] Magix ACID Pro's Successors in Vector Editing for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-masterpiece-maker-top-free-editors-for-android-devices/"><u>[New] Masterpiece Maker Top Free Editors for Android Devices</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-3-key-approaches-to-document-dynamic-gaming-moments/"><u>[Updated] 3 Key Approaches to Document Dynamic Gaming Moments</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-gadget-guidance-getting-into-googles-video-conference/"><u>[Updated] Gadget Guidance Getting Into Google's Video Conference</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-resolving-missing-sound-in-obs/"><u>[Updated] Resolving Missing Sound in OBS</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-the-telegram-edge-advanced-tactics-for-effective-promotion-for-2024/"><u>[Updated] The Telegram Edge Advanced Tactics for Effective Promotion for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/capturing-classroom-dynamics-easily-for-2024/"><u>Capturing Classroom Dynamics Easily for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/countering-phishing-in-fake-chatgpt-websites/"><u>Countering Phishing in Fake ChatGPT Websites</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unbeatable-deal-snag-a-discounted-ipad-at-only-199-on-amazons-labor-day-blowout-insights-from-zdnet/"><u>Unbeatable Deal: Snag a Discounted iPad at Only $199 on Amazon's Labor Day Blowout - Insights From ZDNet</u></a></li>
 </ul></div>
 

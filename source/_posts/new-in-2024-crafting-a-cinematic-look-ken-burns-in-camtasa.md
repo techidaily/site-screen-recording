@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Crafting a Cinematic Look  Ken Burns in Camtasa\""
-date: 2024-10-26T21:02:51.753Z
-updated: 2024-10-27T22:47:43.310Z
+date: 2024-10-28T23:59:04.499Z
+updated: 2024-11-02T22:52:07.585Z
 tags: 
   - screen-recording
   - ai video
@@ -48,10 +48,10 @@ At this point, all you need to do is drag that particular arrow to the left, so 
 In Camtasia 9, you have the option to experiment with zooming and panning or both to create new styles of the Ken Burns effect. You will learn as you experiment and will be able to create some really interesting videos in the process.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Apply Ken Burns Effect with the Best Alternative to Camtasia 9 - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -63,10 +63,10 @@ That's not to say that Filmora only offers basic features as it has a wide range
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Step 1\. Import Your Images/Still Photos
@@ -94,10 +94,16 @@ Remember that this tool isn’t just a single trick pony, and you can use Wonder
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -115,18 +121,20 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-premium-terraria-enhancements-guide/"><u>[New] 2024 Approved Premium Terraria Enhancements Guide</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-az-vision-recorder-complete-application-audits-and-substitutes/"><u>[New] AZ Vision Recorder Complete Application Audits & Substitutes</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-breakdown-of-leading-free-video-conferencing-services-for-commercial-and-academic-use-for-2024/"><u>[New] Breakdown of Leading Free Video Conferencing Services for Commercial and Academic Use for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-step-by-step-selection-of-top-10-no-cost-conference-software/"><u>[New] In 2024, Step-By-Step Selection of Top 10 No-Cost Conference Software</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-the-essential-toolkit-for-youtube-video-editors-everywhere/"><u>[Updated] In 2024, The Essential Toolkit for YouTube Video Editors Everywhere</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-the-premier-selection-of-economical-video-collaboration-tools-businesseducation-edition/"><u>[Updated] In 2024, The Premier Selection of Economical Video Collaboration Tools Business/Education Edition</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-markets-best-gpus-for-uhd-video-processing/"><u>2024 Approved Market's Best GPUs for UHD Video Processing</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/conveniently-record-your-favorite-streams-top-5-grabber-apps/"><u>Conveniently Record Your Favorite Streams Top 5 Grabber Apps</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-build-your-dreamy-oriental-villas-in-minecraft/"><u>In 2024, Build Your Dreamy Oriental Villas in Minecraft</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-simplified-guide-from-camera-roll-capture-to-snapchat-posting/"><u>In 2024, Simplified Guide From Camera Roll Capture to Snapchat Posting</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Honor X50 GT | Dr.fone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/screenflow-uncovered-mastering-video-editing-on-a-mac-for-2024/"><u>ScreenFlow Uncovered Mastering Video Editing on a Mac for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/upgrade-your-videography-with-the-top-10-flv-to-youtube-devices-for-2024/"><u>Upgrade Your Videography with the Top 10 Flv-to-YouTube Devices for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/1716000640680-new-detailed-evaluation-razer-kiyo-webcam-for-2024/"><u>[New] Detailed Evaluation - Razer Kiyo Webcam for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-reimagining-streaming-experience-beyond-manycam-for-2024/"><u>[New] Reimagining Streaming Experience Beyond ManyCam for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-utilize-vlc-software-for-webcam-video-storage/"><u>[Updated] 2024 Approved Utilize VLC Software for Webcam Video Storage</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-optimal-vision-selections-of-best-4k-dslrs-in-action-for-2024/"><u>[Updated] Optimal Vision Selections of Best 4K DSLRs in Action for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-provideocapture-pro-10plus-features-and-functionality-overview-for-2024/"><u>[Updated] ProVideoCapture Pro 10+ Features & Functionality Overview for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-quick-shot-screen-plus-sound-combo/"><u>[Updated] Quick Shot Screen + Sound Combo</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-filmmakers-delight-filmoras-best-aspects-exposed/"><u>2024 Approved Filmmakers' Delight Filmora's Best Aspects Exposed</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Vivo Y100i Power 5G | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-nubia-red-magic-8s-proplus-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Nubia Red Magic 8S Pro+ to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 10 Best Spy Watches For your Apple iPhone 8 | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722962025555-install-the-latest-bluetooth-driver-compatible-software-for-windows-1178/"><u>Install the Latest Bluetooth Driver: Compatible Software for Windows 11/7/8.</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-speed-up-your-storytelling-mastering-time-lapses-in-final-cut-pro/"><u>New 2024 Approved Speed Up Your Storytelling Mastering Time Lapses in Final Cut Pro</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/premier-selection-of-toppest-free-video-calls-and-screenshare/"><u>Premier Selection of Toppest FREE Video Calls & Screenshare</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/the-essential-guide-to-webcam-assisted-presentations/"><u>The Essential Guide to Webcam-Assisted Presentations</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-guide-transforming-mts-into-mp4-easy-steps-for-windows-and-mac-users/"><u>Ultimate Guide: Transforming MTS Into MP4 - Easy Steps for Windows & Mac Users</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Simple Steps to Modify Screen Capture on macOS for 2024"
-date: 2024-10-16T06:47:37.227Z
-updated: 2024-10-22T09:00:57.089Z
+date: 2024-10-28T23:14:37.629Z
+updated: 2024-11-02T21:13:11.404Z
 tags: 
   - screen-recording
   - ai video
@@ -55,10 +55,10 @@ As we already mentioned, Mac computers allow its users to save screenshots in so
 Using JPEG file extension will enable you to create images that can be used in Word documents, PowerPoint presentations or shared anywhere on the Internet. PDF or TIFF files should only be used if you want to print the screenshot you've taken, while the GIF file format is used to create short animations or loops and there is absolutely no reason to use it as a default screenshot file format.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Which Screenshot Format Should You Use?
@@ -68,10 +68,10 @@ Each image file format Mac computer support is designed for different purposes, 
 Besides being smaller in size than PNG files, JPEG files are also handier if you want to annotate the screenshots you're taking. In addition, you'll be able to post your files anywhere on the Internet, because JPEG files are supported by all social media platforms.
 
 <!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Change Screenshot Formats?
@@ -79,10 +79,10 @@ Besides being smaller in size than PNG files, JPEG files are also handier if you
 ![ Mac Screenshots formats ](https://images.wondershare.com/filmora/article-images/mac-screenshot-format-changing.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Once you decide which format you want to use the default screenshot graphics format on your Mac, you should launch the Terminal app. You can access the Terminal from the Utility subfolder that is located in the Application folder.
@@ -122,10 +122,10 @@ You can switch back to capturing screenshots in PNG file format at any moment by
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -143,18 +143,20 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-pursuing-profits-the-path-to-fiscal-gains-through-videography/"><u>[New] 2024 Approved Pursuing Profits The Path to Fiscal Gains Through Videography</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-6-innovative-mc-survival-homes-for-2024/"><u>[New] 6 Innovative MC Survival Homes for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-curriculum-capturers-selection-defining-the-most-effective-recorders-for-2024/"><u>[New] Curriculum Capturer's Selection Defining the Most Effective Recorders for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-clearview-record-pro-for-11-users/"><u>[New] In 2024, ClearView Record Pro for 11 Users</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-excelling-at-content-creation-a-guide-to-gamers-success/"><u>[New] In 2024, Excelling at Content Creation A Guide to Gamers' Success</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-lose-yourself-to-laughter-best-10-jokes-for-2024/"><u>[New] Lose Yourself to Laughter Best 10 Jokes for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-enhance-youtubes-conversations-with-emojis/"><u>[Updated] 2024 Approved Enhance Youtubes' Conversations with Emojis</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-find-the-top-8-video-communication-apps-for-android-groups/"><u>[Updated] In 2024, Find the Top 8 Video Communication Apps for Android Groups</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-securely-install-vrecorder-version-101/"><u>[Updated] In 2024, Securely Install VRecorder Version 101</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/fm/"><u>「純正のオーディオ体験を再現するための最適なスタンドアロンFM録音技術」</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-audio-visual-vanguard-evaluating-the-best-classroom-recorders/"><u>2024 Approved Audio-Visual Vanguard Evaluating the Best Classroom Recorders</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-modern-electronics-with-toms-hardware-wisdom/"><u>Navigating Modern Electronics with Tom's Hardware Wisdom</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-unlocking-adobe-premiere-a-step-by-step-guide-to-video-import-and-export-for-2024/"><u>New Unlocking Adobe Premiere A Step-by-Step Guide to Video Import and Export for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-economic-approaches-to-online-educational-broadcasting/"><u>[New] 2024 Approved Economic Approaches to Online Educational Broadcasting</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-top-5-techniques-for-storing-lol-battles/"><u>[New] 2024 Approved Top 5 Techniques for Storing LOL Battles</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-capturing-your-macs-display-live-easy-steps-included-for-2024/"><u>[New] Capturing Your Mac's Display Live - Easy Steps Included for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-tips-for-overcoming-obs-screen-blackout/"><u>[Updated] 2024 Approved Tips for Overcoming OBS Screen Blackout</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-youtube-video-shooting-equipment-choosing-guide/"><u>[Updated] 2024 Approved YouTube Video Shooting Equipment Choosing Guide</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-capture-and-share-the-top-10-free-screenshot-apps-on-macos-for-2024/"><u>[Updated] Capture & Share The Top 10 FREE Screenshot Apps on MacOS for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-unlocking-slidecast-potential-the-webcam-revolution/"><u>[Updated] In 2024, Unlocking Slidecast Potential The Webcam Revolution</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-the-quest-for-perfect-playback-aps4-capturing-essentials-for-enthusiasts/"><u>2024 Approved The Quest for Perfect Playback APS4 Capturing Essentials for Enthusiasts</u></a></li>
+<li><a href="https://facebook.techidaily.com/eliminate-online-echoes-erasing-discussion-footprints-from-your-posts/"><u>Eliminate Online Echoes: Erasing Discussion Footprints From Your Posts</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/here-is-how-asmr-helps-with-sleep-and-best-asmrtist-recommendation-for-2024/"><u>Here Is How ASMR Helps with Sleep & Best ASMRtist Recommendation for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-androids-facetime-essentials-explained/"><u>In 2024, Android's FaceTime Essentials Explained</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-real-time-broadcasting-obs-to-instagram/"><u>In 2024, Real-Time Broadcasting OBS to Instagram</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/oadmap-to-crafting-a-dynamic-youtube-presence-for-enterprise-and-individuals/"><u>The Roadmap to Crafting a Dynamic YouTube Presence for Enterprise & Individuals</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/unlock-creative-potential-macs-top-free-drawing-tools/"><u>Unlock Creative Potential Mac's Top Free Drawing Tools</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-vivo-v27e-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Vivo V27e | Dr.fone</u></a></li>
 </ul></div>
 

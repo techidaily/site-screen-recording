@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Integrated Mac System  Screen/Microphone Recording\""
-date: 2024-10-26T06:04:08.331Z
-updated: 2024-10-27T23:39:09.527Z
+date: 2024-10-26T16:43:39.572Z
+updated: 2024-11-02T16:39:57.788Z
 tags: 
   - screen-recording
   - ai video
@@ -29,18 +29,18 @@ Part 2. [Best Recorders to Record Screen and Audio on Mac](#part2)
 
 Before getting to more advanced tools, it's better to go through a couple of free screen and audio recorders that you can use.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Use QuickTime Player
 
 If you are using a Mac, you must have used QuickTime Player to watch media. It's a tool that has multiple functions rather than just a player. It comes preinstalled on all the Macs and you will not need to pay any amount to unlock its features.
 
 ![quicktime player](https://images.wondershare.com/filmora/article-images/quicktime-new-movie-recording.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Users will get to record the screen along with mic and system audio using this tool and while you are on it, you should know that it is just a recorder and not an editor. The interface that you will get is highly intuitive and user friendly where the recording process is extremely simple and straightforward.
 
@@ -53,18 +53,18 @@ How to record?
 * Once everything is set, it's time to hit the Record button and it will give you a drag & drop tool to make the screen selection. If you want to record the full screen, all you need to do is click anywhere on the screen to start recording.
 * To select a specific area, you will need to drag and drop from any corner of the screen.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Use Screenshot Toolbar
 
 The above tool is the one with just the screen recording feature and the screenshot toolbar is the one with multiple functions. It is also preinstalled on all the Macs with MacOS Mojave and above.
 
 ![screen toolbar mac](https://images.wondershare.com/filmora/article-images/screen-toolbar-on-mac.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 This tool offers you screen recording and snapshot with a plethora of options. You will get to select a specific window or area using the different selection options. This toolbar will also let you screen record Mac with internal audio. Let's go through the steps below.
 
@@ -80,13 +80,6 @@ How to record?
 
 The tools that we have mentioned above are completely free and have very limited functionality. For advanced users, these preinstalled apps aren't recommended. In this section, we are going to discuss two apps that are equipped with a range of advanced customizations.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Wondershare Filmora
 
 There are various creators who are struggling to find a [screen recording tool](https://tools.techidaily.com/wondershare/filmora/download/) along with an editor. After going through this guide, we hope that you are able to get done with all the tweaks and customizations that you want for your video.
@@ -94,13 +87,6 @@ There are various creators who are struggling to find a [screen recording tool](
 Wondershare Filmora is an advanced tool that packs a range of features to give your content a professional look. The recording and editing process is quite simple on the Mac record screen and audio and we are going to jot the steps down here.
 
 ![wondershare screen recorder settings](https://images.wondershare.com/filmora/article-images/wondershare-screen-recorder-settings.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 How to record?
 
@@ -128,6 +114,13 @@ Among a range of tools that are available in the market for the purpose of scree
 
 ![vlc screen recorder](https://images.wondershare.com/filmora/article-images/vlc-add-audio.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 The interface that you will get here is highly intuitive and you will not face any sort of hassle while setting up or even recording the screen. There are also many advanced options in terms of customization of the preferred settings. Let's go through the process in the following section.
 
 How to record?
@@ -139,6 +132,13 @@ How to record?
 * Make sure that the Capture Audio checkbox is enabled and built-in mic or your external mic is selected. Click on the Settings button for more advanced options.
 * Once you have configured everything, it's time to get back to the previous dialog box and hit Open. It will start recording.
 * To stop the recording, you will simply need to press the Stop button on the bottom left.
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -155,22 +155,22 @@ Part 2. [Best Recorders to Record Screen and Audio on Mac](#part2)
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-unbeatable-free-webcam-matchups/"><u>[New] 2024 Approved Unbeatable Free Webcam Matchups</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-capture-every-detail-on-mac-free/"><u>[New] Capture Every Detail on Mac - Free</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-essential-techniques-for-quiet-filming/"><u>[New] Essential Techniques for Quiet Filming</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-optimal-distance-approach-to-professional-podcasts-for-2024/"><u>[New] Optimal Distance Approach to Professional Podcasts for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-ultimate-gameplay-best-4k-hdmi-21-display-for-players/"><u>[Updated] 2024 Approved Ultimate Gameplay Best 4K (HDMI 2.1) Display for Players</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/updated-create-professional-minecraft-graphics/"><u>[Updated] Create Professional Minecraft Graphics</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723014156726-assassins-creed-odyssey-on-pc-say-goodbye-to-crashes-and-hello-to-uninterrupted-epic-quests/"><u>Assassin's Creed Odyssey on PC: Say Goodbye to Crashes and Hello to Uninterrupted Epic Quests</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/boost-your-text-editing-skills-with-emeditor-and-its-efficient-output-feature/"><u>Boost Your Text Editing Skills with EmEditor and Its Efficient Output Feature</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/efficient-methods-for-sharing-powerful-ppt-in-google-meet-sessions/"><u>Efficient Methods for Sharing Powerful PPT in Google Meet Sessions</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/efficiently-reducing-your-video-file-size-for-smooth-sharing-on-whatsapp/"><u>Efficiently Reducing Your Video File Size for Smooth Sharing on WhatsApp</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/effortless-photo-series-display-on-ig-for-2024/"><u>Effortless Photo Series Display on IG for 2024</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/erase-unwanted-black-fringes-on-youtube-tracks/"><u>Erase Unwanted Black Fringes on YouTube Tracks</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-hdr-horizon-highlights-selective-online-skies-compilation/"><u>In 2024, HDR Horizon Highlights Selective Online Skies Compilation</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/in-depth-review-the-functionality-and-features-of-googles-wireless-nest-doorbell-battery/"><u>In-Depth Review: The Functionality and Features of Google's Wireless Nest Doorbell (Battery)</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/io-screen-recorder-user-manual-overview-for-2024/"><u>IO Screen Recorder User Manual Overview for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/mac-studios-for-top-quality-recordings/"><u>Mac Studios for Top-Quality Recordings</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/simplify-your-digital-life-5-essential-recording-strategies-web/"><u>Simplify Your Digital Life 5 Essential Recording Strategies Web</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-swiftrecord-the-quick-windows-11-recorder/"><u>[New] 2024 Approved SwiftRecord - The Quick Windows 11 Recorder</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-mastering-tweeted-videos-on-facebooks-networks/"><u>[New] Mastering Tweeted Videos on Facebooks Networks</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-precision-adjustments-for-premium-zoom-audio/"><u>[New] Precision Adjustments for Premium Zoom Audio</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-windows-11s-best-pc-webcam-recorders-reviewed-for-2024/"><u>[New] Windows 11'S Best PC Webcam Recorders Reviewed for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/outube-to-audio-gold-prime-10-converter-hits-for-2024/"><u>[New] YouTube to Audio Gold Prime 10 Converter Hits for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-video-sequencing-synergy-mastering-blend-modes/"><u>[Updated] 2024 Approved Video Sequencing Synergy Mastering Blend Modes</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-which-screen-recorder-reigns-supreme-obs-or-fraps/"><u>[Updated] In 2024, Which Screen Recorder Reigns Supreme OBS or Fraps?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-starting-youtube-essential-seo-tips/"><u>[Updated] Starting YouTube Essential SEO Tips</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-unleashing-adventures-in-samsung-gear-vr-worlds/"><u>[Updated] Unleashing Adventures in Samsung Gear VR Worlds</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-optimizing-game-streams-through-ai-facial-recognition/"><u>2024 Approved Optimizing Game Streams Through AI Facial Recognition</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-the-ultimate-war-strategists-guide-selecting-top-7-total-war-challenges/"><u>2024 Approved The Ultimate War Strategists' Guide Selecting Top 7 Total War Challenges</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/best-screen-time-for-peaceful-phone-puzzles-for-2024/"><u>Best Screen-Time for Peaceful Phone Puzzles for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/compre-written-essentials-google-voice-call-records-for-2024/"><u>Compre Written Essentials Google Voice Call Records for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-art-of-visual-communication-video-creation-techniques-in-windows-10/"><u>The Art of Visual Communication Video Creation Techniques in Windows 10</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-rise-of-two-wheeled-freedom-could-this-suv-of-bikes-challenge-traditional-automobiles-zdnet/"><u>The Rise of Two-Wheeled Freedom: Could This 'SUV of Bikes' Challenge Traditional Automobiles? | ZDNET</u></a></li>
+<li><a href="https://fox-where.techidaily.com/top-techniques-for-adding-captions-to-your-mp4-videos/"><u>Top Techniques for Adding Captions to Your MP4 Videos</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Apple iPhone 13 Pro | Dr.fone</u></a></li>
 </ul></div>
 

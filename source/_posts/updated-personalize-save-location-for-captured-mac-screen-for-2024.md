@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Personalize Save Location for Captured Mac Screen for 2024"
-date: 2024-10-24T22:38:07.709Z
-updated: 2024-10-27T18:30:32.051Z
+date: 2024-11-02T00:09:28.173Z
+updated: 2024-11-02T23:30:01.411Z
 tags: 
   - screen-recording
   - ai video
@@ -49,16 +49,10 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 1: How to Save Screenshots to a Specific Folder on Mac
@@ -68,10 +62,10 @@ Changing the folder where you store your screenshots is not an irreversible proc
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Create a new folder on the desired location on your hard drive, and then launch Terminal, by typing Terminal in the Search Box and clicking on its icon. Once the app is open, you should insert the following command into the Terminal window:
@@ -83,16 +77,10 @@ Then enter a space at the end after 'location'.
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal-settings.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 The next step is to add the new location at which screenshots will be saved and you can do this by simply dragging the folder you created into Terminal and adding it at the end of the command you just entered. A path is created and the command line should now contain the folder's unique location and it should look like this:
@@ -118,10 +106,16 @@ Don't forget that deleting the folder you use as a default location for storing 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -139,19 +133,17 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-boosting-game-speed-optimizing-minecrafts-ram-usage-for-2024/"><u>[Updated] Boosting Game Speed Optimizing Minecraft's RAM Usage for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-innovative-strategies-for-revamping-your-video-covers-on-fb-for-2024/"><u>[Updated] Innovative Strategies for Revamping Your Video Covers on FB for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-streamline-screen-capturing-in-todays-remote-meetings-for-2024/"><u>[Updated] Streamline Screen Capturing in Today’s Remote Meetings for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-the-perfect-blend-of-sound-and-video-tips-to-capture-high-quality-zoom-recordings-for-2024/"><u>[Updated] The Perfect Blend of Sound and Video Tips to Capture High-Quality Zoom Recordings for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-windows-desktop-snappers-guide-for-2024/"><u>[Updated] Windows Desktop Snappers Guide for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-boost-visibility-with-customized-channel-names/"><u>2024 Approved Boost Visibility with Customized Channel Names!</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-unlock-screen-capture-potential-with-expert-tips-from-adobe-captivity/"><u>2024 Approved Unlock Screen Capture Potential with Expert Tips From Adobe Captivity</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-unlocking-viral-potential-in-instagram-videos/"><u>2024 Approved Unlocking Viral Potential in Instagram Videos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exploring-the-gridiron-a-detailed-review-of-vegas-pro-2021-for-2024/"><u>Exploring the Gridiron A Detailed Review of Vegas Pro 2021 for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-complete-examination-screenflow-full-features-for-mac/"><u>In 2024, Complete Examination ScreenFlow Full Features for Mac</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-perfecting-virtual-sessions-best-free-and-paid-zoom-transcribing-tools/"><u>In 2024, Perfecting Virtual Sessions Best Free & Paid Zoom Transcribing Tools</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-bring-your-videos-to-life-the-magic-of-cartoon-conversion-explained/"><u>New Bring Your Videos to Life The Magic of Cartoon Conversion Explained</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/ultimate-free-viewer-cam-parties/"><u>Ultimate Free Viewer Cam Parties</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-free-and-fabulous-20-adobe-premiere-intro-templates/"><u>Updated In 2024, Free and Fabulous 20 Adobe Premiere Intro Templates</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-livestream-platforms-at-play-fb-vs-yt-live-and-twitspaces/"><u>[New] 2024 Approved Livestream Platforms at Play FB Vs. YT Live & TWITSpaces</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-ultimate-terraria-enhancements-list/"><u>[New] 2024 Approved Ultimate Terraria Enhancements List</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-imovie-skills-producing-engaging-and-profitable-square-video-feeds/"><u>[New] IMovie Skills Producing Engaging and Profitable Square Video Feeds</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-the-insiders-secret-to-viral-tiktok-edits/"><u>[Updated] The Insider's Secret to Viral TikTok Edits</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-the-ultimate-blueprint-adopting-mobizen-screen-recording-skills/"><u>[Updated] The Ultimate Blueprint Adopting Mobizen Screen Recording Skills</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-screen-capture-unveiled-with-irecorder/"><u>2024 Approved Screen Capture Unveiled with iRecorder</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/endless-screen-time-recorder/"><u>Endless Screen Time Recorder</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-easywinrecorder-capture-windows-screens-quickly/"><u>In 2024, EasyWinRecorder Capture Windows Screens Quickly</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-itel-s23-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Itel S23? | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/red-dead-redemption-2-stuck-here-are-proven-fixes-for-incessant-loading-screens/"><u>Red Dead Redemption 2 Stuck? Here Are Proven Fixes for Incessant Loading Screens</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-8-benefits-for-educators-embracing-artifice-intelligence-in-the-classroom/"><u>Top 8 Benefits for Educators Embracing Artifice Intelligence in the Classroom</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-making-steam-acknowledge-controllers-under-windows/"><u>Troubleshooting Guide: Making Steam Acknowledge Controllers Under Windows</u></a></li>
 </ul></div>
 
