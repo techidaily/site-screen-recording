@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Enhance Your Videos with Dynamic Camera Movements - Camtasa Guide\""
-date: 2024-08-24T00:55:12.725Z
-updated: 2024-08-25T00:55:12.725Z
+date: 2024-11-09T16:48:29.106Z
+updated: 2024-11-11T02:50:35.928Z
 tags: 
   - screen-recording
   - ai video
@@ -47,6 +47,13 @@ At this point, all you need to do is drag that particular arrow to the left, so 
 
 In Camtasia 9, you have the option to experiment with zooming and panning or both to create new styles of the Ken Burns effect. You will learn as you experiment and will be able to create some really interesting videos in the process.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Apply Ken Burns Effect with the Best Alternative to Camtasia 9 - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
 
 If you are looking for the best alternative to Camtasia 9 that makes adding the Ken Burns effect and other video editing features much easier, then Wondershare Filmora should be on your list of considerations. Apart from the Ken Burns effect, Filmora is a perfect video editing tool for beginner content creators, YouTubers, and casual editors who don't want access to professional-grade features or want to pay a lot of money to edit their videos.
@@ -54,6 +61,13 @@ If you are looking for the best alternative to Camtasia 9 that makes adding the 
 That's not to say that Filmora only offers basic features as it has a wide range of options available to video editors including green screen, motion tracking, transitions, audio recording, a diverse variety of presets, and a lot more. Both amateur video creators and hobbyists can get a lot out of the Wondershare Filmora editing tool.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Step 1\. Import Your Images/Still Photos
 
@@ -79,13 +93,18 @@ Remember that this tool isn’t just a single trick pony, and you can use Wonder
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -93,6 +112,23 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-the-art-of-timely-and-effective-google-meet-planning/"><u>2024 Approved The Art of Timely and Effective Google Meet Planning</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-the-ultimate-ranking-top-10-video-conferencing-apps-on-mobile-devices/"><u>2024 Approved The Ultimate Ranking Top 10 Video Conferencing Apps on Mobile Devices</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-ultimate-mac-video-frames-catalog-max-156-chars/"><u>2024 Approved Ultimate Mac Video Frames Catalog (Max 156 Chars)</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/4-unrooted-ways-to-log-internal-android-audio-for-2024/"><u>4 Unrooted Ways to Log Internal Android Audio for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/best-free-screen-recorder-programs-with-no-trial-period-for-2024/"><u>Best Free Screen Recorder Programs with No Trial Period for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/captivation-chronicles-top-storytellers-on-youtube-for-23-for-2024/"><u>Captivation Chronicles Top Storytellers on YouTube for '23 for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723201066692-diagnostic-policy-service-malfunction-heres-the-solution/"><u>Diagnostic Policy Service Malfunction? Here's the Solution!</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/easy-steps-for-enhanced-productivity-keyboard-based-screen-recordings-in-os-x-for-2024/"><u>Easy Steps for Enhanced Productivity Keyboard-Based Screen Recordings in OS X for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-the-worlds-leading-online-platforms-the-ultimate-top-10-list/"><u>Exploring the World's Leading Online Platforms – The Ultimate Top 10 List</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-flip-your-pcs-two-screens/"><u>How to Flip Your PC's Two Screens</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-vivo-s18e-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Vivo S18e without App | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-discover-and-set-up-vrecorder-in-minutes-148-characters/"><u>In 2024, Discover & Set Up VRecorder in Minutes (148 Characters)</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-the-ultimate-guide-to-linking-fb-stories/"><u>In 2024, The Ultimate Guide to Linking FB Stories</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/1715860316861-in-2024-utilizing-in-device-recording-on-huawei-mate-series-phones-mate-10-mate-20-and-p-series-p20-p10/"><u>In 2024, Utilizing In-Device Recording on Huawei Mate Series Phones (Mate 10, Mate 20) & P Series (P20, P10).</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/smart-considerations-for-buying-the-perfect-printer-what-you-need-to-know-first/"><u>Smart Considerations for Buying the Perfect Printer: What You Need to Know First</u></a></li>
+</ul></div>
+
