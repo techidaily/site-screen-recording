@@ -1,7 +1,7 @@
 ---
 title: "Simple Steps to Modify Screen Capture on macOS for 2024"
-date: 2024-10-28T23:14:37.629Z
-updated: 2024-11-02T21:13:11.404Z
+date: 2024-11-18T17:37:48.304Z
+updated: 2024-11-20T23:34:58.744Z
 tags: 
   - screen-recording
   - ai video
@@ -31,6 +31,10 @@ However, the process of changing the default screenshot file format on a Mac is 
 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### The All-in-One Screen Recorder & Video Editor
 
 * Record desktop screen, voiceover, and webcam simultaneously
@@ -48,6 +52,14 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Supported Image Formats on Mac
 
 As we already mentioned, Mac computers allow its users to save screenshots in some of the most frequently used picture file formats. The PNG files support lossless data compression, just like GIF files and they are the most commonly used lossless data compression format on the Internet. However, there are a few downsides, including the size of the PNG files that can prompt you to set another file format as the default screenshot file format on your Mac.
@@ -55,10 +67,7 @@ As we already mentioned, Mac computers allow its users to save screenshots in so
 Using JPEG file extension will enable you to create images that can be used in Word documents, PowerPoint presentations or shared anywhere on the Internet. PDF or TIFF files should only be used if you want to print the screenshot you've taken, while the GIF file format is used to create short animations or loops and there is absolutely no reason to use it as a default screenshot file format.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Which Screenshot Format Should You Use?
@@ -68,22 +77,12 @@ Each image file format Mac computer support is designed for different purposes, 
 Besides being smaller in size than PNG files, JPEG files are also handier if you want to annotate the screenshots you're taking. In addition, you'll be able to post your files anywhere on the Internet, because JPEG files are supported by all social media platforms.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Change Screenshot Formats?
 
 ![ Mac Screenshots formats ](https://images.wondershare.com/filmora/article-images/mac-screenshot-format-changing.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Once you decide which format you want to use the default screenshot graphics format on your Mac, you should launch the Terminal app. You can access the Terminal from the Utility subfolder that is located in the Application folder.
 
@@ -121,13 +120,6 @@ You can switch back to capturing screenshots in PNG file format at any moment by
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
@@ -143,20 +135,21 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-economic-approaches-to-online-educational-broadcasting/"><u>[New] 2024 Approved Economic Approaches to Online Educational Broadcasting</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-top-5-techniques-for-storing-lol-battles/"><u>[New] 2024 Approved Top 5 Techniques for Storing LOL Battles</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-capturing-your-macs-display-live-easy-steps-included-for-2024/"><u>[New] Capturing Your Mac's Display Live - Easy Steps Included for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-tips-for-overcoming-obs-screen-blackout/"><u>[Updated] 2024 Approved Tips for Overcoming OBS Screen Blackout</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-youtube-video-shooting-equipment-choosing-guide/"><u>[Updated] 2024 Approved YouTube Video Shooting Equipment Choosing Guide</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-capture-and-share-the-top-10-free-screenshot-apps-on-macos-for-2024/"><u>[Updated] Capture & Share The Top 10 FREE Screenshot Apps on MacOS for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-unlocking-slidecast-potential-the-webcam-revolution/"><u>[Updated] In 2024, Unlocking Slidecast Potential The Webcam Revolution</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-the-quest-for-perfect-playback-aps4-capturing-essentials-for-enthusiasts/"><u>2024 Approved The Quest for Perfect Playback APS4 Capturing Essentials for Enthusiasts</u></a></li>
-<li><a href="https://facebook.techidaily.com/eliminate-online-echoes-erasing-discussion-footprints-from-your-posts/"><u>Eliminate Online Echoes: Erasing Discussion Footprints From Your Posts</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/here-is-how-asmr-helps-with-sleep-and-best-asmrtist-recommendation-for-2024/"><u>Here Is How ASMR Helps with Sleep & Best ASMRtist Recommendation for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-androids-facetime-essentials-explained/"><u>In 2024, Android's FaceTime Essentials Explained</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-real-time-broadcasting-obs-to-instagram/"><u>In 2024, Real-Time Broadcasting OBS to Instagram</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/oadmap-to-crafting-a-dynamic-youtube-presence-for-enterprise-and-individuals/"><u>The Roadmap to Crafting a Dynamic YouTube Presence for Enterprise & Individuals</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/unlock-creative-potential-macs-top-free-drawing-tools/"><u>Unlock Creative Potential Mac's Top Free Drawing Tools</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-vivo-v27e-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Vivo V27e | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-free-video-capture-test-apowersoft-and-more/"><u>[New] 2024 Approved Free Video Capture Test Apowersoft & More</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-maximizing-your-tech-efforts-a-detailed-look-at-showmores-features/"><u>[New] 2024 Approved Maximizing Your Tech Efforts A Detailed Look at ShowMore’s Features</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-extend-the-moment-filmmaking-in-iphone-slow-mo-for-2024/"><u>[New] Extend the Moment Filmmaking in iPhone Slow Mo for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-essential-tactics-for-android-video-capture/"><u>[New] In 2024, Essential Tactics for Android Video Capture</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/1716068643845-new-in-2024-premium-12-video-capture-apps-no-time-limit/"><u>[New] In 2024, Premium 12 Video Capture Apps, No Time Limit!</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-crafting-flawless-game-captures-roblox-and-macos-techniques/"><u>[Updated] Crafting Flawless Game Captures Roblox & macOS Techniques</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-essential-choices-for-premium-video-calls-on-smartphones-for-2024/"><u>[Updated] Essential Choices for Premium Video Calls on Smartphones for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-preventing-unseen-frames-in-video-captures/"><u>[Updated] Preventing Unseen Frames in Video Captures</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-the-leading-free-online-screencasting-solutions-for-2024/"><u>[Updated] The Leading Free Online Screencasting Solutions for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirror-on-apple-iphone-15-plus-drfone-by-drfone-ios/"><u>How to Screen Mirror on Apple iPhone 15 Plus? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-honor-magic-vs-2-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Honor Magic Vs 2 to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-soniccapture-pro-review-and-download-steps/"><u>In 2024, SonicCapture Pro Review & Download Steps</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-tune-in-to-success-mastering-the-art-of-vocal-change-on-insta/"><u>In 2024, Tune in to Success Mastering the Art of Vocal Change on Insta</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/problemlosung-fur-nicht-angezeigte-externe-festplatten-im-windows-betriebssystem/"><u>Problemlösung Für Nicht Angezeigte Externe Festplatten Im Windows-Betriebssystem</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/superior-15-camcorders-for-uhd-video-for-2024/"><u>Superior 15 Camcorders for UHD Video for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/vsdc-capture-expert-analysis-and-top-replacements/"><u>VSDC Capture Expert Analysis & Top Replacements</u></a></li>
 </ul></div>
 

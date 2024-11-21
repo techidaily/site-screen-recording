@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Quick Recording Trick  Webcam + Display on the Fly for 2024\""
-date: 2024-11-04T00:23:50.697Z
-updated: 2024-11-11T01:28:20.118Z
+date: 2024-11-19T17:03:27.845Z
+updated: 2024-11-20T16:11:09.298Z
 tags: 
   - screen-recording
   - ai video
@@ -39,9 +39,17 @@ Once you’ve installed Fimora on your PC, you should launch the app and create 
 
 ![Filmora9 Record PC Screen](https://images.wondershare.com/filmora/article-images/filmora-record-pc-screen.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 You can then choose if you want to record videos using the built-in or external webcam, record a voiceover or capture your computer’s screen and webcam video at the same time. Select the Record PC Screen option and wait for the Wondershare Filmora Scrn window to pop up on the screen.
 
 ![Filmora9 PC Screen Recording Settings](https://images.wondershare.com/filmora/article-images/filmora-record-pc-screen-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Click on the Settings icon in the lower right corner of the window if you want to change the frame rate of the video you’re creating or adjust its quality. The screen recorder lets you capture an entire screen, a target window, and it offers the possibility to specify the portion of the screen you would like to capture.
 
@@ -56,10 +64,7 @@ Optionally, you can set the keyboard shortcuts that enable you to start, stop, p
 After the screen capturing session, the video file you created will be located in the destination folder you specified and appeared in the media library automatically, so you just have to place it onto the timeline if you want to edit it.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: How to Record a Computer Screen and Webcam Video at the same time on Windows 10?
@@ -67,13 +72,6 @@ After the screen capturing session, the video file you created will be located i
 All you need to do in order to access the Game Bar on Windows 10 is to use the Win + G keyboard shortcut. The screen capturing options you will have at your disposal are underwhelming at best since you won’t be able to select the resolution or the frame rate of the video you’re recording. However, you just need to enable the microphone and click on the Record button to start capturing the gameplay of the video game you’re playing or any other activity on your computer.
 
 Even though it is possible to record a webcam video and capture a screen simultaneously, you can only do so if you install additional encoders. It may take a while to figure out the exact steps of this highly technical process, and once you do, you still won’t be able to record the webcam video stream and capture a computer screen with the same app.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3: Capturing Screens with Loom Extension for Google Chrome
 
@@ -88,10 +86,7 @@ So, if you want to record the webcam and screen at the same time, and edit the r
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Conclusion**
@@ -101,10 +96,7 @@ Including the webcam footage in your screen recordings can make them more entert
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Max Wales
@@ -122,18 +114,18 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-25-top-free-tips-to-stream-online-learning-events-effectively-for-2024/"><u>[New] 25 Top Free Tips to Stream Online Learning Events Effectively for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-easy-tutorial-uploading-youtube-shorts-video-via-computer-and-phone-for-2024/"><u>[Updated] Easy Tutorial Uploading YouTube Shorts Video via Computer & Phone for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-your-ultimate-ps4-screen-recorder-inside-the-obs-studio-guide/"><u>[Updated] In 2024, Your Ultimate PS4 Screen Recorder Inside the OBS Studio Guide</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-seamless-saving-of-snapchat-images-on-device-memory-for-2024/"><u>[Updated] Seamless Saving of SnapChat Images on Device Memory for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-top-7-apps-altering-vocal-soundtracks-for-2024/"><u>[Updated] Top 7 Apps Altering Vocal Soundtracks for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-achieving-expert-control-the-steam-switch-controllers-guide/"><u>2024 Approved Achieving Expert Control The Steam Switch Controllers Guide</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-from-content-creator-to-brand-ambassador-unlocking-instagram-sponsorship/"><u>2024 Approved From Content Creator to Brand Ambassador Unlocking Instagram Sponsorship</u></a></li>
-<li><a href="https://win-able.techidaily.com/beat-dev-error-6068-with-these-pro-tips-and-keep-your-battlefield-experience-uninterrupted/"><u>Beat Dev Error 6068 with These Pro Tips and Keep Your Battlefield Experience Uninterrupted</u></a></li>
-<li><a href="https://fox-making.techidaily.com/guia-detalhado-sobre-como-recuperar-arquivos-excluidos-do-servidor-windows-server-2cu-2012-r2-aulas-de-backup-e-restauracao/"><u>Guia Detalhado Sobre Como Recuperar Arquivos Excluídos Do Servidor Windows Server 2Cu 2012 (R2) – Aulas De Backup E Restauração</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-realme-12-pro-5g-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Realme 12 Pro 5G</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/smoothly-record-your-desktop-on-win11-for-2024/"><u>Smoothly Record Your Desktop on Win11 for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/techniques-to-prevent-overheating-in-pcs-os-w11/"><u>Techniques to Prevent Overheating in PCs OS: W11</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-vivo-y02t-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Vivo Y02T Phones</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-passive-to-profitable-youtube-revenue-techniques/"><u>[New] 2024 Approved From Passive to Profitable YouTube Revenue Techniques</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-rapid-audio-to-video-conversion-for-youtube-fans/"><u>[New] 2024 Approved Rapid Audio-to-Video Conversion for YouTube Fans</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-comprehensible-techniques-for-effective-classroom-recordings-on-mac/"><u>[New] In 2024, Comprehensible Techniques for Effective Classroom Recordings on Mac</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-skype-learning-logs-for-2024/"><u>[New] Skype Learning Logs for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-steps-to-eliminate-the-obs-blank-screens-in-gaming-setup-for-2024/"><u>[New] Steps to Eliminate the OBS Blank Screens in Gaming Setup for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-inaugural-recording-evaluation-guide/"><u>[Updated] 2024 Approved Inaugural Recording Evaluation Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-harmonizing-soundscape-and-unboxing-footage/"><u>[Updated] Harmonizing Soundscape and Unboxing Footage</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-secrets-to-effective-vr-game-playback/"><u>[Updated] In 2024, Secrets to Effective VR Game Playback</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-windows-10-for-beginners-trim-videos-like-a-pro/"><u>[Updated] In 2024, Windows 10 for Beginners Trim Videos Like a Pro</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-effortless-zoom-edge-management-your-visual-companion/"><u>In 2024, Effortless Zoom Edge Management Your Visual Companion</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-enhance-creativity-in-video-editing-these-7-sources/"><u>In 2024, Enhance Creativity in Video Editing - These 7 Sources</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/top-group-video-chat-apps-for-video-conferences-and-meetings-for-2024/"><u>Top Group Video Chat Apps For Video Conferences and Meetings for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlock-the-secrets-of-previous-notifications-on-your-iphone-expert-strategies/"><u>Unlock the Secrets of Previous Notifications on Your iPhone: Expert Strategies</u></a></li>
 </ul></div>
 
