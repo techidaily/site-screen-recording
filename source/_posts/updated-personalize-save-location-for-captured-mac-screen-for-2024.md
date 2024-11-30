@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Personalize Save Location for Captured Mac Screen for 2024"
-date: 2024-11-20T00:19:31.954Z
-updated: 2024-11-21T01:41:32.602Z
+date: 2024-11-26T19:23:21.142Z
+updated: 2024-11-29T23:58:36.707Z
 tags: 
   - screen-recording
   - ai video
@@ -31,10 +31,6 @@ Here's how you can change the location where the screenshots you take using the 
 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### The All-in-One Screen Recorder & Video Editor
 
 * Record desktop screen, voiceover, and webcam simultaneously
@@ -53,7 +49,11 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to Save Screenshots to a Specific Folder on Mac
@@ -61,6 +61,10 @@ For macOS 10.12 or later
 Changing the folder where you store your screenshots is not an irreversible process, which means that you can reset the destination where the files are saved to Desktop at any point. Do not delete the new folder, because your Mac may not be able to take screenshots, afterward. The process described below is the only way you can delete a folder or add a new destination for your screenshots, and failing to comply with it may cause your Mac to malfunction.
 
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Create a new folder on the desired location on your hard drive, and then launch Terminal, by typing Terminal in the Search Box and clicking on its icon. Once the app is open, you should insert the following command into the Terminal window:
 
@@ -71,7 +75,7 @@ Then enter a space at the end after 'location'.
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The next step is to add the new location at which screenshots will be saved and you can do this by simply dragging the folder you created into Terminal and adding it at the end of the command you just entered. A path is created and the command line should now contain the folder's unique location and it should look like this:
@@ -83,10 +87,6 @@ To execute the command you have to press Enter. After Terminal finishes running 
 **killall SystemUIServer**
 
 Hit Enter once more to confirm the changes and run the new command. Close Terminal app by clicking on the Terminal menu and selecting the Quick Terminal option. The default location where the screenshots are saved on your Mac is now changed and every time you take a screenshot using the Command + Shift + 3 shortcut the file will be saved at the new location. If for whatever reason you want to make the Desktop once again the destination where the screenshots on your computer will be saved here's how you can do it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: How to Change the Screenshot Save Location Back to Desktop
 
@@ -101,7 +101,7 @@ Don't forget that deleting the folder you use as a default location for storing 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Max Wales
@@ -119,24 +119,24 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-gamings-apex-predators-best-7-shooter-titles/"><u>[New] 2024 Approved Gaming's Apex Predators Best 7 Shooter Titles</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-cutting-edge-video-processing-free-hd1080p-from-ff-videos/"><u>[New] Cutting Edge Video Processing Free HD/1080P From FF Videos</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-cutting-edge-voice-capture-top-recorders-of-2023-for-2024/"><u>[New] Cutting-Edge Voice Capture Top Recorders of 2023 for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-innovative-techniques-for-capturing-every-play-of-your-ps3-games-for-2024/"><u>[New] Innovative Techniques for Capturing Every Play of Your PS3 Games for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-introductory-handbook-on-video-quality-and-size/"><u>[New] Introductory Handbook on Video Quality and Size</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-beyond-cyberlink-hunt-for-the-ultimate-screen-recording-app/"><u>[Updated] Beyond Cyberlink Hunt for the Ultimate Screen Recording App</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-mastering-minecraft-survival-housing/"><u>[Updated] Mastering Minecraft Survival Housing</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-thrifty-pc-frame-buffer-tools-for-2024/"><u>[Updated] Thrifty PC Frame Buffer Tools for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-top-12-wildlife-wonders-for-your-android-device-for-2024/"><u>[Updated] Top 12 Wildlife Wonders for Your Android Device for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-top-3-ipad-voice-logging-strategies/"><u>2024 Approved Top 3 iPad Voice Logging Strategies</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/best-mac-options-to-replace-bandicam-for-2024/"><u>Best Mac Options to Replace Bandicam for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exclusive-extended-amazon-fire-tv-discounts-post-october-prime-day-detailed-guide-by-zdnet/"><u>Exclusive Extended Amazon Fire TV Discounts Post-October Prime Day – Detailed Guide by ZDNet</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-hot-30-5g-phone-without-google-account-by-drfone-android/"><u>How to Unlock Infinix Hot 30 5G Phone without Google Account?</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/is-chromecasts-new-google-tv-feature-a-threat-to-amazons-dominance-in-the-stream/"><u>Is Chromecast's New Google TV Feature a Threat to Amazon's Dominance in the Stream?</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/major-focus-most-popular-foreign-languages-us/"><u>Major Focus: Most Popular Foreign Languages U.S</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-honor-magic-5-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Honor Magic 5 Running Slow and Freezing | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/smooth-gaming-experience-eliminating-v-ray-stuttering-problems-on-your-computer/"><u>Smooth Gaming Experience: Eliminating V-Ray Stuttering Problems on Your Computer</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/top-5-pro-snipers-on-macos/"><u>Top 5 Pro Snipers on macOS</u></a></li>
-<li><a href="https://article-files.techidaily.com/windowsmacos-execute-and-enjoy-srt-files-for-2024/"><u>Windows/macOS Execute and Enjoy SRT Files for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-discovering-the-ultimate-14-stardew-valley-upgrades/"><u>[New] 2024 Approved Discovering the Ultimate 14 Stardew Valley Upgrades</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-from-biting-snippets-to-captivating-narratives-an-experts-guide-to-youtube-edits/"><u>[New] 2024 Approved From Biting Snippets to Captivating Narratives An Expert's Guide to Youtube Edits</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-premier-choices-the-5-foremost-webcams-for-live-gamers/"><u>[New] In 2024, Premier Choices The 5 Foremost Webcams for Live Gamers</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-explore-our-curated-top-12-click-based-pc-titles/"><u>[Updated] In 2024, Explore Our Curated Top 12 Click-Based PC Titles</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-optimizing-whiteboard-use-during-online-sessions-across-different-tech-brands-for-2024/"><u>[Updated] Optimizing Whiteboard Use During Online Sessions Across Different Tech Brands for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-supreme-4k-tvs-for-the-ultimate-gaming-experience/"><u>[Updated] Supreme 4K TVs for the Ultimate Gaming Experience</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-broadcasting-battleground-who-are-the-champions-obs-or-twitch-studio/"><u>2024 Approved Broadcasting Battleground Who Are the Champions, OBS or Twitch Studio?</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-discover-top-emulated-psp-classics-on-ios/"><u>2024 Approved Discover Top Emulated PSP Classics on iOS</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-exemplary-melodies-set-for-visual-narratives/"><u>2024 Approved Exemplary Melodies Set for Visual Narratives</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-itel-a05s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Itel A05s | Dr.fone</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/how-to-create-and-share-flipbooks-for-mobile-devices-using-flipbuilder/"><u>How to Create and Share Flipbooks for Mobile Devices Using FlipBuilder</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-seamless-video-communication-in-whatsapp-web-for-laptops-and-desktops/"><u>In 2024, Seamless Video Communication in WhatsApp Web for Laptops and Desktops</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-steps-to-record-voice-memo-on-iphone/"><u>In 2024, Steps to Record Voice Memo on iPhone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/optimize-your-site-with-cookiebot-technology-a-guide-to-advanced-analytics-and-targeting/"><u>Optimize Your Site with Cookiebot Technology: A Guide to Advanced Analytics and Targeting</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/scrutinizing-the-latest-in-screen-recording-tech-by-tunefab/"><u>Scrutinizing the Latest in Screen Recording Tech by Tunefab</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/top-video-meeting-applications-excluding-zoom-for-2024/"><u>Top Video Meeting Applications Excluding Zoom for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/unable-to-play-verify-your-installation-for-seamless-gaming-experience/"><u>Unable to Play? Verify Your Installation for Seamless Gaming Experience</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-best-of-both-worlds-top-android-video-editor-apps-for-chromebook-users/"><u>Updated Best of Both Worlds Top Android Video Editor Apps for Chromebook Users</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/which-is-better-for-you-a-look-at-chatgpt-with-browsing-and-chatgpt-as-a-browser-add-on/"><u>Which Is Better for You? A Look at ChatGPT with Browsing and ChatGPT as a Browser Add-On</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Quick Recording Trick  Webcam + Display on the Fly for 2024\""
-date: 2024-11-19T17:03:27.845Z
-updated: 2024-11-20T16:11:09.298Z
+date: 2024-11-24T17:26:11.828Z
+updated: 2024-11-29T20:40:54.242Z
 tags: 
   - screen-recording
   - ai video
@@ -29,6 +29,10 @@ We perform so many different tasks on our computers every day, but we rarely get
 
 You are at the right place if you would like to learn how to record computer screens and webcam videos simultaneously because in this article we are going to show you several different ways in which you can perform this task on Windows 10.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to Capture Screens and Webcam Videos with Filmora?
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -39,16 +43,12 @@ Once you’ve installed Fimora on your PC, you should launch the app and create 
 
 ![Filmora9 Record PC Screen](https://images.wondershare.com/filmora/article-images/filmora-record-pc-screen.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 You can then choose if you want to record videos using the built-in or external webcam, record a voiceover or capture your computer’s screen and webcam video at the same time. Select the Record PC Screen option and wait for the Wondershare Filmora Scrn window to pop up on the screen.
 
 ![Filmora9 PC Screen Recording Settings](https://images.wondershare.com/filmora/article-images/filmora-record-pc-screen-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Click on the Settings icon in the lower right corner of the window if you want to change the frame rate of the video you’re creating or adjust its quality. The screen recorder lets you capture an entire screen, a target window, and it offers the possibility to specify the portion of the screen you would like to capture.
@@ -64,7 +64,7 @@ Optionally, you can set the keyboard shortcuts that enable you to start, stop, p
 After the screen capturing session, the video file you created will be located in the destination folder you specified and appeared in the media library automatically, so you just have to place it onto the timeline if you want to edit it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: How to Record a Computer Screen and Webcam Video at the same time on Windows 10?
@@ -86,7 +86,7 @@ So, if you want to record the webcam and screen at the same time, and edit the r
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Conclusion**
@@ -96,7 +96,7 @@ Including the webcam footage in your screen recordings can make them more entert
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Max Wales
@@ -114,18 +114,16 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-passive-to-profitable-youtube-revenue-techniques/"><u>[New] 2024 Approved From Passive to Profitable YouTube Revenue Techniques</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-rapid-audio-to-video-conversion-for-youtube-fans/"><u>[New] 2024 Approved Rapid Audio-to-Video Conversion for YouTube Fans</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-comprehensible-techniques-for-effective-classroom-recordings-on-mac/"><u>[New] In 2024, Comprehensible Techniques for Effective Classroom Recordings on Mac</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-skype-learning-logs-for-2024/"><u>[New] Skype Learning Logs for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-steps-to-eliminate-the-obs-blank-screens-in-gaming-setup-for-2024/"><u>[New] Steps to Eliminate the OBS Blank Screens in Gaming Setup for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-inaugural-recording-evaluation-guide/"><u>[Updated] 2024 Approved Inaugural Recording Evaluation Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-harmonizing-soundscape-and-unboxing-footage/"><u>[Updated] Harmonizing Soundscape and Unboxing Footage</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-secrets-to-effective-vr-game-playback/"><u>[Updated] In 2024, Secrets to Effective VR Game Playback</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-windows-10-for-beginners-trim-videos-like-a-pro/"><u>[Updated] In 2024, Windows 10 for Beginners Trim Videos Like a Pro</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-effortless-zoom-edge-management-your-visual-companion/"><u>In 2024, Effortless Zoom Edge Management Your Visual Companion</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-enhance-creativity-in-video-editing-these-7-sources/"><u>In 2024, Enhance Creativity in Video Editing - These 7 Sources</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/top-group-video-chat-apps-for-video-conferences-and-meetings-for-2024/"><u>Top Group Video Chat Apps For Video Conferences and Meetings for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unlock-the-secrets-of-previous-notifications-on-your-iphone-expert-strategies/"><u>Unlock the Secrets of Previous Notifications on Your iPhone: Expert Strategies</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-electorate-enthrallment-best-politic-based-game-reviews/"><u>[New] Electorate Enthrallment Best Politic-Based Game Reviews</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-advanced-techniques-in-zooming-achieving-perfect-audio-quality-for-your-podcast/"><u>[New] In 2024, Advanced Techniques in Zooming Achieving Perfect Audio Quality for Your Podcast</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2023s-ultimate-selection-of-ios-devices-for-classic-psp-games/"><u>[Updated] 2023'S Ultimate Selection of iOS Devices for Classic PSP Games</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-age-old-artwork-free-from-modern-constraints/"><u>2024 Approved Age-Old Artwork Free From Modern Constraints</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/discover-world-languages-in-virtual-reality-with-mondly/"><u>Discover World Languages in Virtual Reality with Mondly</u></a></li>
+<li><a href="https://win11.techidaily.com/ejecting-onedrive-from-windows-integrated-ms-identity/"><u>Ejecting OneDrive From Windows-Integrated MS Identity</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-cross-platform-iptv-adaptability/"><u>In 2024, Cross-Platform IPTV Adaptability</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-foundations-in-creating-animated-imagery/"><u>In 2024, Foundations in Creating Animated Imagery</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/inside-samsungs-newest-smartwatch-the-galaxy-watch-7-insights-on-pricing-release-schedule-and-capabilities/"><u>Inside Samsung's Newest Smartwatch - The Galaxy Watch ^7: Insights on Pricing, Release Schedule & Capabilities</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/studio-vs-campers-contest/"><u>Studio vs Camper’s Contest</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-10-error-code-0x80070426-quick-fixes-and-tips/"><u>Windows 10 Error Code 0X80070426: Quick Fixes & Tips</u></a></li>
 </ul></div>
 

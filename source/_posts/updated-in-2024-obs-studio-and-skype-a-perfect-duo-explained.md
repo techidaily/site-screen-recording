@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, OBS Studio & Skype  A Perfect Duo Explained\""
-date: 2024-11-16T20:12:50.716Z
-updated: 2024-11-20T17:35:05.746Z
+date: 2024-11-23T17:27:02.248Z
+updated: 2024-11-29T23:09:17.360Z
 tags: 
   - screen-recording
   - ai video
@@ -22,7 +22,7 @@ Video interviews for remote jobs are quite common these days because of this qui
 So in this article I will discuss that how can you record your skype videos using OBS. Skype has been extensively used for quite a long time now and it hasn’t lost its edge over the years but has actually upgraded and improved its services with time. Coming to OBS which is an open-source software used widely for streaming purposes. It provides an incredible experience courtesy of its variety of editing and recording options. The audio can be recorded from the system and the microphone. And video can be fetched from the webcam. Along with the recording of specific section of the screen.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: Recording Skype Calls with OBS
@@ -37,10 +37,6 @@ Initially, you’ll be required to have skype installed on your desktop along wi
 
 ![skype calling settings advanced calling](https://images.wondershare.com/filmora/article-images/skype-calling-settings-advanced-calling.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 After this you have to open the OBS program and set it up for skype calls, firs thing is to create a new scene, then you're going to hit the plus button and select the capture device. Now you can see yourself on camera and screen can easily be cropped, while holding ‘Alt’, on OBS so fix it according to your liking. Then press ‘lock’ using the NDI plug-in.
 
 ![obs program set up for skype](https://images.wondershare.com/filmora/article-images/obs-program-set-up-for-skype.jpg)
@@ -52,7 +48,7 @@ To setup NDI plugin you have to visit <https://github.com/Palakis/obs-ndi/releas
 ![obc ndi plugin visit](https://images.wondershare.com/filmora/article-images/obc-ndi-plugin-visit.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 And after addition of plug in you would want to click on ‘+’ again and select NDI plugin and you can select the source video which is going to be the received video.
@@ -70,14 +66,6 @@ As you receive the call from the reciever you will see the incoming feed of him 
 So you can just resize it similarly as you did yours earlier and pressing the lock icon will stop you from mistakenly modify or change the video screen settings. Now to record the video you have to click on record button and your desktop starts recording.
 
 ![obs resize it similarly](https://images.wondershare.com/filmora/article-images/obs-resize-it-similarly.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: OBS Alternative to Record Skype
 
@@ -104,8 +92,59 @@ For macOS 10.12 or later
 
 ![filmora regard screen size](https://images.wondershare.com/filmora/guide/recording-04.png)
 
+* This window is to configure all the audio and video devices. So you can get audio from any device and similarly video devices can also be configured.
+
+![filmora configure all the audio devices](https://images.wondershare.com/filmora/guide/recording-05.png)
+
+* After the configuration, you can click on the big red button to start the recording.
+
+## FAQs Regarding Skype Recording
+
+**How do I add Skype video on OBS?**
+
+Now we must set up the setting for screen recording by following the instructions below.
+
+* To begin, you'll need to have Skype installed on your computer, as well as the most recent version of OBS software.
+* You must first create a secondary/backup account on Skype after installing it.
+* After that, you'll need a secondary camera to record yourself because your webcam may be in use elsewhere, preventing you from recording yourself or allowing your guests to view you.
+* Then, as explained earlier in the image, enable the following command in Skype: skype>settings>calling>advanced>'allow NDI usage'.
+
+OBS can now access Skype videos with this command.
+
+**Can you screen record Skype with audio?**
+
+Yes, OBS can record audio of skype separately as well as mixed up, you can separately record the tracks from the caller and the receiver and later manipulate them as well. There are options for changing the audio devices for your own computer. And I recommend that you separate your audio right now. Everything is set up in a way that everything's going to come through one audio feed. I don't like that. I think it's better if you separate your audio that. Let's say you cough during an interview or something. You're actually able to cut that out and you can actually record a separate feed itself.
+
+**Capturing Audio in OBS Studio on a Mac**
+
+On a Mac, you'll need to install an additional OBS plugin to capture audio.
+
+* Install iShowU Audio Capture on your computer.
+* Make sure you navigate to Security & Privacy in your System Preferences.
+* To proceed, you may need to grant permission to "Shiny White Box."
+* Restart your Mac after the installation is complete.
+* Open Audio MIDI Setup after rebooting.
+* At the bottom left of the window, click the Plus button.
+* Select Create Multi-Output Device from the drop-down menu.
+
+So form the above discussion it can be concluded that OBS for screen recording can be a very handy tool because it has the ability to easily record skype videos along with separate audio recording to avoid interference of sounds and mix ups. The separate audio recording system allows us to manipulate and modify the sounds along with the video quality. Skype is a tool much used by the world for quite some time and it still continues to serve us with numerous improvements and updates to simplify the complex world of networking today and the tools to use it properly help us communicate better with others. Also you can add cool graphics with your video to ornate your work. So If you want to buy graphics, templates, and other similar items, even if you only have rudimentary Photoshop skills, there are a lot of really skilled designers on here with pretty affordable costs if you want to buy graphics and other similar items.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+![filmra record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
+
+* This window gives you options regarding screen size, resolution and devices which will record your audio and videos.
+
+![filmora regard screen size](https://images.wondershare.com/filmora/guide/recording-04.png)
+
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * This window is to configure all the audio and video devices. So you can get audio from any device and similarly video devices can also be configured.
@@ -164,61 +203,14 @@ For macOS 10.12 or later
 ![filmora configure all the audio devices](https://images.wondershare.com/filmora/guide/recording-05.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * After the configuration, you can click on the big red button to start the recording.
 
-## FAQs Regarding Skype Recording
-
-**How do I add Skype video on OBS?**
-
-Now we must set up the setting for screen recording by following the instructions below.
-
-* To begin, you'll need to have Skype installed on your computer, as well as the most recent version of OBS software.
-* You must first create a secondary/backup account on Skype after installing it.
-* After that, you'll need a secondary camera to record yourself because your webcam may be in use elsewhere, preventing you from recording yourself or allowing your guests to view you.
-* Then, as explained earlier in the image, enable the following command in Skype: skype>settings>calling>advanced>'allow NDI usage'.
-
-OBS can now access Skype videos with this command.
-
-**Can you screen record Skype with audio?**
-
-Yes, OBS can record audio of skype separately as well as mixed up, you can separately record the tracks from the caller and the receiver and later manipulate them as well. There are options for changing the audio devices for your own computer. And I recommend that you separate your audio right now. Everything is set up in a way that everything's going to come through one audio feed. I don't like that. I think it's better if you separate your audio that. Let's say you cough during an interview or something. You're actually able to cut that out and you can actually record a separate feed itself.
-
-**Capturing Audio in OBS Studio on a Mac**
-
-On a Mac, you'll need to install an additional OBS plugin to capture audio.
-
-* Install iShowU Audio Capture on your computer.
-* Make sure you navigate to Security & Privacy in your System Preferences.
-* To proceed, you may need to grant permission to "Shiny White Box."
-* Restart your Mac after the installation is complete.
-* Open Audio MIDI Setup after rebooting.
-* At the bottom left of the window, click the Plus button.
-* Select Create Multi-Output Device from the drop-down menu.
-
-So form the above discussion it can be concluded that OBS for screen recording can be a very handy tool because it has the ability to easily record skype videos along with separate audio recording to avoid interference of sounds and mix ups. The separate audio recording system allows us to manipulate and modify the sounds along with the video quality. Skype is a tool much used by the world for quite some time and it still continues to serve us with numerous improvements and updates to simplify the complex world of networking today and the tools to use it properly help us communicate better with others. Also you can add cool graphics with your video to ornate your work. So If you want to buy graphics, templates, and other similar items, even if you only have rudimentary Photoshop skills, there are a lot of really skilled designers on here with pretty affordable costs if you want to buy graphics and other similar items.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-![filmra record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
-
-* This window gives you options regarding screen size, resolution and devices which will record your audio and videos.
-
-![filmora regard screen size](https://images.wondershare.com/filmora/guide/recording-04.png)
-
-* This window is to configure all the audio and video devices. So you can get audio from any device and similarly video devices can also be configured.
-
-![filmora configure all the audio devices](https://images.wondershare.com/filmora/guide/recording-05.png)
-
-* After the configuration, you can click on the big red button to start the recording.
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## FAQs Regarding Skype Recording
 
@@ -262,21 +254,29 @@ For macOS 10.12 or later
 ![filmra record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * This window gives you options regarding screen size, resolution and devices which will record your audio and videos.
 
 ![filmora regard screen size](https://images.wondershare.com/filmora/guide/recording-04.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * This window is to configure all the audio and video devices. So you can get audio from any device and similarly video devices can also be configured.
 
 ![filmora configure all the audio devices](https://images.wondershare.com/filmora/guide/recording-05.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * After the configuration, you can click on the big red button to start the recording.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## FAQs Regarding Skype Recording
@@ -334,20 +334,22 @@ So form the above discussion it can be concluded that OBS for screen recording c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-dissecting-samsungs-photo-enhancing-software-features/"><u>[New] Dissecting Samsung's Photo Enhancing Software Features</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-prime-video-conferencing-and-communication-aids/"><u>[New] In 2024, Prime Video Conferencing & Communication Aids</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-in-depth-vita-video-editing-analysis-and-step-by-step-guide/"><u>[New] In-Depth Vita Video Editing Analysis & Step-by-Step Guide</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-streamlining-movie-file-processing-in-windows-11-for-2024/"><u>[New] Streamlining Movie File Processing in Windows 11 for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/outube-copyrights-demystified-understanding-and-managing-strikes/"><u>[New] YouTube Copyrights Demystified Understanding and Managing Strikes</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-end-screen-elegance-free-guides-to-upgrade-your-videos-for-2024/"><u>[Updated] End-Screen Elegance - Free Guides to Upgrade Your Videos for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-goovision-xtreme-cam-high-res-screen-capturer/"><u>[Updated] GooVision Xtreme Cam High-Res Screen Capturer</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-unlocking-ppts-potential-with-voiceover-techniques/"><u>[Updated] Unlocking PPT's Potential with Voiceover Techniques</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-best-practices-for-rl-video-editing-and-post-processing/"><u>2024 Approved Best Practices for RL Video Editing and Post-Processing</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-digital-tapes-a-comprehensive-recorder-roundup/"><u>2024 Approved Digital Tapes A Comprehensive Recorder Roundup</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/apple-macbook-air-13-inch-m1-2020-review-apples-impressive-m1-chip-rises-to-new-heights/"><u>Apple MacBook Air 13-Inch (M1, 2020) Review: Apple’s Impressive M1 Chip Rises To New Heights</u></a></li>
-<li><a href="https://extra-information.techidaily.com/best-free-online-solutions-for-instantaneous-gif-conversion/"><u>Best Free Online Solutions For Instantaneous GIF Conversion</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-vivo-y100a-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Vivo Y100A? | Dr.fone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/streamline-screen-recording-with-these-windows-tools-for-2024/"><u>Streamline Screen Recording with These Windows Tools for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/unlocking-the-potential-of-your-laptops-recording-features-for-2024/"><u>Unlocking the Potential of Your Laptop's Recording Features for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-essential-screen-capture-software-top-picks-ranked/"><u>[New] 2024 Approved Essential Screen Capture Software - Top Picks Ranked</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/emographic-relevance-for-higher-youtube-rankings-for-2024/"><u>[New] Demographic Relevance for Higher YouTube Rankings for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-ideal-screencasting-apps-that-transform-classroom-dynamics-for-2024/"><u>[New] Ideal Screencasting Apps That Transform Classroom Dynamics for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-high-quality-game-recordings-methods-and-tools/"><u>[New] In 2024, High-Quality Game Recordings Methods and Tools</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-unveiling-vrecorder-download-and-install-made-simple-for-2024/"><u>[New] Unveiling VRecorder Download & Install Made Simple for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-best-low-end-screen-recorder-options-summarized-for-2024/"><u>[Updated] Best Low-End Screen Recorder Options Summarized for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-investigation-vlc-screen-capturer/"><u>[Updated] Investigation VLC Screen Capturer</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-pro-tips-for-utilizing-green-screen-effects-professionally/"><u>[Updated] Pro Tips for Utilizing Green Screen Effects Professionally</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-perfect-blend-of-relaxation-and-growth-podcast-multi-tasking-tips/"><u>[Updated] The Perfect Blend of Relaxation and Growth Podcast Multi-Tasking Tips</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-ultimate-nintendo-switch-fighter-showcase-max-156/"><u>[Updated] Ultimate Nintendo Switch Fighter Showcase (Max 156)</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2023how-to-share-videos-on-twitter-on-your-phone-without-retweeting/"><u>2023|How to Share Videos on Twitter on Your Phone Without Retweeting?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-video-snippet-creator/"><u>2024 Approved Video Snippet Creator</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/how-to-optimize-video-production-with-adobe-presenter/"><u>How to Optimize Video Production with Adobe Presenter</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/introducing-the-new-rapid-chrome-version-by-google-for-windows-users-a-game-changer-with-exceptions/"><u>Introducing the New Rapid Chrome Version by Google for Windows Users – A Game-Changer with Exceptions!</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-copypaste-problems-on-your-windows-11-machine-solutions-inside/"><u>Overcoming Copy/Paste Problems on Your Windows 11 Machine - Solutions Inside!</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/seamless-social-media-execution-with-the-top-8-iphone-and-android-apps-for-2024/"><u>Seamless Social Media Execution with The Top 8 iPhone & Android Apps for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-fresh-driver-update-for-epson-wf-7720-on-microsofts-os/"><u>Step-by-Step Guide: Fresh Driver Update for Epson WF-7720 on Microsoft's OS</u></a></li>
 </ul></div>
 

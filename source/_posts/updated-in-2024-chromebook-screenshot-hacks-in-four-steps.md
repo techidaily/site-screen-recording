@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Chromebook Screenshot Hacks in Four Steps"
-date: 2024-08-09T14:10:53.754Z
-updated: 2024-08-10T14:10:53.754Z
+date: 2024-11-26T22:12:39.757Z
+updated: 2024-11-29T17:52:17.152Z
 tags: 
   - screen-recording
   - ai video
@@ -29,6 +29,10 @@ Great for those looking for a quick-booting, budget friendly, and auto-updating 
 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### The All-in-One Screen Recorder & Video Editor
 
 * Record desktop screen, voiceover, and webcam simultaneously
@@ -44,21 +48,12 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Taking Screenshots on a Chromebook with a Keyboard
 
 Similar to the typical CTRL + PrtScn or PrtScn shortcut used on most Window’s PCs, or the Command + Control + Shift + 3 shortcut used on Mac devices, taking screenshots with the use of a keyboard on a Chromebook is equally as straight forward. To capture a screenshot of the entire screen, the process requires the use of the **Windows Switcher Key** (look for 3 layered rectangles that resemble open tabs/windows) – this is generally located above the number 6 and 7 keys and close to the screen-brightness toggles.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ Chromebook Screenshot](https://images.wondershare.com/filmora/article-images/chromebook-keyboard-screenshot.jpg)
 
 The command “**Ctrl + \*Windows Switcher Key\***” will capture a screenshot of your current page, and the command “**Ctrl + Shift + \*Windows Switcher Key\***” will allow users to capture a partial screenshot with the help from a handy drag-selector tool.
@@ -66,8 +61,9 @@ The command “**Ctrl + \*Windows Switcher Key\***” will capture a screenshot 
 **Note**: If your keyboard doesn’t seem to have the Screen Switcher key, **try using F5 instead**. To ensure your screenshot is copied into a specific document, select “**Copy to Clipboard**”. From here, you’ll be able to paste directly into a document.
 
 <!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Taking a Screenshot on a Chromebook with the Use of Side Buttons
 
 Using your Chromebook in tablet mode? If so, then there’s also a handy way to make use of the screenshot feature whilst on the go. Similar to the function offered on most Smart Phone Devices, simply press both the **Power and Volume Down Side Button** to capture a screenshot. Unfortunately, this feature is only useful if you’re looking to capture your entire screen; you’ll need to utilize the keyboard or stylus if you’re planning to crop out a specific section.
@@ -76,16 +72,14 @@ Using your Chromebook in tablet mode? If so, then there’s also a handy way to 
 
 ## 3\. Taking a Screenshot on a Chromebook with the Use of a Stylus
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ Chromebook Screenshot](https://images.wondershare.com/filmora/article-images/chromebook-stylus-screenshot.jpg)
 
 If your Chromebook features a handy stylus, then here’s how to capture a screenshot via the touchscreen functionality. Simply remove the stylus from the Chromebook and select the “**Capture** **Screen**” option from the **Stylus Tool Menu** (located on the lower task bar) to capture the whole screen. If you’re aiming to just capture a specific area, then simply select the “**Capture Region**” option. This option will allow users to highlight the particular area they’re looking to screenshot.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Taking a Screenshot on a Chromebook with the Use of a Third-Party App and Extension
 
 It can often be quite time consuming to capture screenshots, edit, and save them, but there are a number of user-friendly and in-depth third-party applications and extensions on the market to help make the process a little easier. Each allowing you to capture screenshots in a stress-free manner without users even having to leave their browser, here are our Top Picks:
@@ -98,16 +92,11 @@ With a number of simple yet effective editing features built-in, such as further
 
 #### 2. LightShot
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ![ Chromebook Screenshot](https://images.wondershare.com/filmora/article-images/chromebook-lightshot-screenshot.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Available for both Chrome, Windows, and even Mac devices, this more in-depth extension is perfect for those looking to annotate, add layers to, or modify their screen captures to more advanced levels. Although it’s not possible to capture your entire webpage with this extension, LightShot boasts the ability to take screenshots of not only your desktop but also other desired applications with 2 simple clicks of a button. The simplistic desktop saving capability and the ability to upload it direct to the LightShot server makes this application attractive to those looking for a more professional editing tool.
 
@@ -133,13 +122,15 @@ In summary, there are plenty of ways to successfully capture a screenshot whilst
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -147,3 +138,27 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-next-gen-broadcast-tools-outperforming-streamlabs-obs/"><u>[New] In 2024, Next-Gen Broadcast Tools Outperforming StreamLabs OBS</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-purifying-audio-from-films-and-movies-cost-effective-methods/"><u>[New] Purifying Audio From Films and Movies Cost-Effective Methods</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-uninterrupted-virtual-engagement-top-5-high-quality-recorders-for-2024/"><u>[New] Uninterrupted Virtual Engagement - Top 5 High-Quality Recorders for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-fix-for-sudden-audio-gaps-in-obs-captures/"><u>[Updated] 2024 Approved Fix for Sudden Audio Gaps in OBS Captures</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-navigating-steam-with-your-switch-pro-device/"><u>[Updated] 2024 Approved Navigating Steam with Your Switch Pro Device</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-unboxing-premium-game-devices-youtube-edition/"><u>[Updated] 2024 Approved Unboxing Premium Game Devices YouTube Edition</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-26-low-cost-strategies-capture-webinars-without-spending-money-for-2024/"><u>[Updated] 26 Low-Cost Strategies Capture Webinars Without Spending Money for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-exploring-skies-in-4k-with-mi-drone-for-2024/"><u>[Updated] Exploring Skies in 4K with MI Drone for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-top-3-techniques-for-capturing-sports-spectacles/"><u>[Updated] Top 3 Techniques for Capturing Sports Spectacles</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-elevate-meeting-experience-with-zooms-camera-snaps/"><u>2024 Approved Elevate Meeting Experience with Zoom's Camera Snaps</u></a></li>
+<li><a href="https://article-helps.techidaily.com/efficient-expeditions-to-extinct-reddit-threads/"><u>Efficient Expeditions to Extinct Reddit Threads</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/ice-cream-video-recorder-exploration-in-depth/"><u>Ice Cream Video Recorder Exploration in Depth</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-channel-growth-blueprint-selecting-between-studio-and-latest-beta/"><u>In 2024, Channel Growth Blueprint Selecting Between Studio and Latest Beta</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-nokia-c300-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Nokia C300 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-itel-p55-5g-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from Itel P55 5G to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/master-the-art-of-cross-language-conversation-via-chatgpt/"><u>Master the Art of Cross-Language Conversation via ChatGPT</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/t-in-the-space-time-continuum-the-art-of-creating-earning-rich-content/"><u>Profit in the Space-Time Continuum The Art of Creating Earning-Rich Content</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/simplified-steps-to-successful-screenshotsrecording-on-imac/"><u>Simplified Steps to Successful Screenshots/Recording on iMac</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/step-by-step-guide-converting-your-classic-vhs-tapes-into-digital-format-using-a-computer/"><u>Step-by-Step Guide: Converting Your Classic VHS Tapes Into Digital Format Using a Computer</u></a></li>
+</ul></div>
+

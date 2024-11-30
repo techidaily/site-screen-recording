@@ -1,7 +1,7 @@
 ---
 title: "Tips & Tricks for Efficient Use of Steam’s Switch Controllers"
-date: 2024-10-27T16:08:02.278Z
-updated: 2024-11-02T20:53:07.132Z
+date: 2024-11-23T18:21:21.527Z
+updated: 2024-11-30T00:57:56.579Z
 tags: 
   - screen-recording
   - ai video
@@ -42,6 +42,10 @@ This article will tell you how to enable your Nintendo Switch Pro controller to 
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Wired Connection for Switch Pro Controllers**
 
 Windows describe it as a DirectInput controller instead of an XInput controller, so getting it to work with PC games can prove tedious. However, thanks to Value-adding full Switch controller support to Steam, you will probably be able to play most of your favorite games.
@@ -51,6 +55,10 @@ Windows describe it as a DirectInput controller instead of an XInput controller,
 **Step2:** Connect the other end of the cable to your PC.
 
 ![switch-pro-controller-connected-with-cable](https://images.wondershare.com/filmora/article-images/switch-pro-controller-connected-with-cable.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 There you have it! Windows 10 will recognize your controller as a "Pro Controller." You can now proceed with installing Steam.
 
@@ -70,32 +78,16 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 
 ![switch-pro-controller-add-device](https://images.wondershare.com/filmora/article-images/switch-pro-controller-add-device.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Click on "Bluetooth" (since Windows 10 needs to be convinced that you want to use Bluetooth).
 * Ensure that the Pro Controller appears on the list of available devices (if it does not, ensure that the indicator lights are flashing back and forth). Pair the controller by clicking it.
 
 ![switch-pro-controller-setting-up](https://images.wondershare.com/filmora/article-images/switch-pro-controller-setting-up.png)
 
-<!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * Once Steam is set up, you can begin using it.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **How To Setup Steam To Use Your Switch Pro Controller On Pc**
 
@@ -115,6 +107,10 @@ When configured through Steam, you should use the Pro Controller with any Steam 
 
 Enter the Switch Pro Controller overlay from Steam's controller options while running in Big Picture mode. There are several ways to map the inputs on the Pro Controller, but default configurations are usually sufficient for most games. By changing the controller mapping based on the situation, you can fix any problems on the fly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **What To Do With Non-Steam Games?**
 
 Using the methods discussed above, you can easily use a switch pro controller with your pc, but it only works with steam games. But what if you want to play a non-steam game using a switch pro controller? What will you do now? The switch pro controller hardware support will run out of luck in this scenario.
@@ -125,13 +121,6 @@ The main problem here now is how windows will detect your switch pro controller 
 
 **Solution2:** The second method is to use a software-based XInput Wrapper. There is plenty of software out there that provides this functionality. Just configure your switch pro controller with them, and you can easily use it on non-steam games.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Final Verdict**
 
 This is how you can use your switch pro controller with your PC. Now you can easily enjoy your favorite games on one of the finest controllers available in the market today. All you need to do is, follow some simple steps mentioned in this article, and you are good to go. You can connect it both with wire and wirelessly. It is comparatively easy to connect it through the wire, and the performance of the controller is also slightly better when it is connected through a wire.
@@ -139,10 +128,7 @@ This is how you can use your switch pro controller with your PC. Now you can eas
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -160,24 +146,19 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-effortless-techniques-to-archive-google-call-transcripts-for-2024/"><u>[New] Effortless Techniques to Archive Google Call Transcripts for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-demystifying-the-apple-m1-prodigy/"><u>[New] In 2024, Demystifying the Apple M1 Prodigy</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-how-to-make-a-group-chat-on-skype-for-windows-and-mac/"><u>[New] In 2024, How to Make a Group Chat on Skype [For Windows and Mac]</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-streamlining-the-process-of-google-voice-call-capture/"><u>[New] In 2024, Streamlining the Process of Google Voice Call Capture</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-step-by-step-for-adding-a-link-in-your-tiktok-bios/"><u>[New] The Ultimate Step-by-Step for Adding a Link in Your TikTok Bios</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-advanced-strategies-for-saving-vr-gameplay-moments-for-2024/"><u>[Updated] Advanced Strategies for Saving VR Gameplay Moments for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-capture-and-transfer-igtv-videos-on-handheld-tech/"><u>[Updated] Capture and Transfer IGTV Videos on Handheld Tech</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-how-to-save-funny-tweet-graphics-gifs-in-minutes-for-2024/"><u>[Updated] How To Save Funny Tweet Graphics (GIFs) in Minutes for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-augmented-reality-aesthetics-tapping-into-free-lut-resources-for-ar/"><u>[Updated] In 2024, Augmented Reality Aesthetics Tapping Into Free LUT Resources for AR</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-open-world-wonders-beyond-gtas-empire/"><u>[Updated] In 2024, Open World Wonders Beyond GTA's Empire</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-the-ultimate-resource-for-instagram-livestreams-via-obs-software/"><u>[Updated] In 2024, The Ultimate Resource for Instagram Livestreams via OBS Software</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-optimal-ways-to-preserve-android-records/"><u>[Updated] Optimal Ways to Preserve Android Records</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-superior-suggestions-prime-platforms-for-grabbing-snapalert-rhythms/"><u>[Updated] Superior Suggestions Prime Platforms for Grabbing SnapAlert Rhythms</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-top-obs-recording-software-unveiled-in-our-latest-study-for-2024/"><u>[Updated] Top OBS Recording Software Unveiled in Our Latest Study for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-webcam-buying-simplified-the-best-10-options/"><u>[Updated] Webcam Buying Simplified The Best 10 Options</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-nokia-c12-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Nokia C12 | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-best-mkv-solvers-on-macos/"><u>2024 Approved Best MKV Solvers on macOS</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-apple-iphone-xs-without-passcode-now-drfone-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock Apple iPhone XS Without Passcode Now | Dr.fone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-google-meet-for-everyone-a-comprehensive-no-cost-strategy-booklet/"><u>In 2024, Google Meet for Everyone A Comprehensive, No-Cost Strategy Booklet</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-unleashing-video-potential-effective-seo-strategies-for-youtube/"><u>[New] 2024 Approved Unleashing Video Potential Effective SEO Strategies for YouTube</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-expert-insights-into-iptv-stream-logging/"><u>[Updated] 2024 Approved Expert Insights Into IPTV Stream Logging</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-expert-advice-tailoring-ppt-presentations-on-google-meet-for-2024/"><u>[Updated] Expert Advice Tailoring PPT Presentations on Google Meet for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-simple-android-voice-capture-no-root-access/"><u>[Updated] In 2024, Simple Android Voice Capture - No Root Access</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-experience-legendary-ps3-gaming-on-your-pc-today/"><u>2024 Approved Experience Legendary PS3 Gaming on Your PC Today</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-graphical-grandeur-radeons-return/"><u>2024 Approved Graphical Grandeur Radeon's Return</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/guide-to-fade-out-music-in-premiere-pro-for-2024/"><u>Guide To Fade Out Music In Premiere Pro for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-beginners-cheatsheet-for-fantastic-collage-making/"><u>In 2024, Beginner's Cheatsheet for Fantastic Collage Making</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-nokia-g310-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Nokia G310 FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-immaculatecapture-the-best-w10-recorder/"><u>In 2024, ImmaculateCapture The Best W10 Recorder</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-perfecting-ipad-display-recordings/"><u>In 2024, Perfecting iPad Display Recordings</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/record-your-gameplay-3-simple-and-effective-ways-for-2024/"><u>Record Your Gameplay 3 Simple and Effective Ways for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
 </ul></div>
 

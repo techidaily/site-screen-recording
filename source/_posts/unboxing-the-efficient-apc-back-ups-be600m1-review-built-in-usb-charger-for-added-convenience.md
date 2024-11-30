@@ -1,7 +1,7 @@
 ---
 title: Unboxing the Efficient APC Back-UPS BE600M1 Review - Built-In USB Charger for Added Convenience
-date: 2024-11-14T23:22:27.020Z
-updated: 2024-11-20T18:48:33.580Z
+date: 2024-11-22T22:25:18.059Z
+updated: 2024-11-30T01:10:05.179Z
 categories:
   - BestProducts
 description: This Article Describes Unboxing the Efficient APC Back-UPS BE600M1 Review - Built-In USB Charger for Added Convenience
@@ -16,10 +16,6 @@ thumbnail: https://www.lifewire.com/thmb/6wth6CzRLPjcELs8n-eLSz0Zmy4=/400x300/fi
 ## Amazon Halo
 
 ![Amazon Halo](https://www.lifewire.com/thmb/KDrlBicwDSsm8oahXwLC9cx5FSs=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Halo_HeroSquare-2e5c3941b8fe49afbd7464f382164976.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Lifewire / Yoona Wagener
 
@@ -76,7 +72,7 @@ Lifewire / Yoona Wagener
 Lifewire / Yoona Wagener
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Design: An accessory that blends in
@@ -88,10 +84,14 @@ Lifewire / Yoona Wagener
 ![Amazon Halo](https://www.lifewire.com/thmb/QHImxX0EsYwunnnS2aNtTX9j80s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Halo_03-66da73beea854cd39f6c35c06975ef4e.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Lifewire / Yoona Wagener
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Comfort: Streamlined but not immune to typical fit issues
 
@@ -103,6 +103,10 @@ Lifewire / Yoona Wagener
 
  As for water resistance, I didn’t test the 50-meter swimproof rating of the Halo in a pool, but I did shower with the device for three days. Despite the band’s moisture-wicking band material, it remained damp far longer than was comfortable and compared to a fast-drying silicone band. If you’re an avid swimmer or prefer not to remove your wearable while showering, the sport band option will most likely be the more desirable option.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Performance: Constantly monitoring movement, not performance
 
  While this streamlined device doesn’t log detailed workout metrics, the Halo has the upper hand when it comes to continuously monitoring movement—and sedentary stints throughout the day. Whether you’re sitting at a desk or venture out for an errand, the Halo will capture that and pretty accurately categorize it. It consistently registered walking and running activities, though the readout wasn’t very accurate for the latter. Truthfully, I don’t get the impression that that’s the point of the Halo.
@@ -110,10 +114,6 @@ Lifewire / Yoona Wagener
  Instead, the Halo presents all activity data through a convenient point-tracking system. The weekly goal is 150, which converts to 150 minutes of cardiovascular activity, as recommended by the American Heart Association. Periods of movement and exercise count toward this point goal, while periods of non-movement subtract from points earned. It’s a digestible system that offers a new twist on the steps or movement alert functions you’ll find in fitness trackers and[smartwatches](https://www.lifewire.com/an-introduction-to-smart-watches-3441381) from Samsung, Garmin, Fitbit, and others. This system was an encouraging reset from those reminders that sometimes feel more annoying than motivating.
 
 ![Amazon Halo](https://www.lifewire.com/thmb/FjdFyV6Y4mTXNsqccZ4aEBJNpV0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Halo_05-e671ee9f77cc4cee8e2580a2dba449d5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Lifewire / Yoona Wagener.
 
@@ -124,10 +124,6 @@ Lifewire / Yoona Wagener
  All voice data and images used for the body scan are deletable from the app, though you can also choose to back up body data in the cloud, which Amazon assures is private and well secured.
 
  The body fat scan is based on pictures uploaded to the app—and based on prompts from the app. While it felt invasive and isn’t a feature I’d seek out in a fitness tracker, it worked without issue. Amazon reports that this technology is twice as accurate as smart scales. For the right user who feels comfortable with this kind of data compilation, this feature also offers visualizations of how different body fat percentages would look on your frame and stores your scans for a look at trends over time. All voice data and images used for the body scan are deletable from the app, though you can also choose to back up body data in the[cloud](https://www.lifewire.com/what-is-cloud-computing-817770) , which Amazon assures is private and well secured.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Software: An essential and user-friendly mobile app
 
@@ -147,11 +143,11 @@ Lifewire / Yoona Wagener
 
 ![Amazon Halo](https://www.lifewire.com/thmb/fBsShcBruhAWkg-kTKPWkYUaImo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Halo_04-ee532fbe8d2f4e8195e63ed9dd45611a.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Lifewire / Yoona Wagener
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Price: A reasonable price for the feature set
 
@@ -174,6 +170,10 @@ Lifewire / Yoona Wagener
 * [Apple Watch Series 5](https://www.lifewire.com/apple-watch-series-6-review-5087552)
 * [Fitbit Sense](https://www.lifewire.com/fitbit-sense-review-5085832)
 * [Ticwatch Pro](https://www.lifewire.com/ticwatch-pro-4g-review-4797547)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -206,24 +206,14 @@ Lifewire / Yoona Wagener
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-comparative-guide-to-the-metaverse-and-multiplemetaverse-platforms-insightful-analysis/"><u>[New] In 2024, Comparative Guide to the Metaverse & MultipleMetaverse Platforms (Insightful Analysis)</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-mastering-iphone-capturing-time-stretched-movies/"><u>[New] In 2024, Mastering iPhone Capturing Time-Stretched Movies</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-moviemeld-editor-review-in-depth-analysis/"><u>[New] MovieMeld Editor Review – In-Depth Analysis</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-the-definitive-list-of-economical-teleconference-platforms-for-2024/"><u>[New] The Definitive List of Economical Teleconference Platforms for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-vivacious-talker-examined-revision-no-8/"><u>[Updated] 2024 Approved Vivacious Talker Examined Revision No. 8</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-easy-screen-capture-app-w10-edition/"><u>[Updated] Easy Screen Capture App, W10 Edition</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-elevating-your-channel-youtube-backlink-basics-for-2024/"><u>[Updated] Elevating Your Channel YouTube Backlink Basics for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-how-do-i-access-the-full-range-of-shared-media-on-messenger/"><u>[Updated] How Do I Access the Full Range of Shared Media on Messenger?</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-obs-full-screen-fix-announced/"><u>[Updated] In 2024, Obs Full-Screen Fix Announced</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-depth-tutorial-for-immaculate-3d-shapes-perfect-circles-spheres/"><u>[Updated] In-Depth Tutorial for Immaculate 3D Shapes Perfect Circles, Spheres</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-savvy-screenshot-tactics-for-netflix-on-mac-a-complete-guide-of-six-ways-for-2024/"><u>[Updated] Savvy Screenshot Tactics for Netflix on Mac - A Complete Guide of Six Ways for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-tactical-approach-to-effortless-ipad-screen-records/"><u>2024 Approved Tactical Approach to Effortless iPad Screen Records</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210711809-9781454936770-a-little-bit-of-intuition/"><u>A Little Bit of Intuition | Free Book</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-the-latest-brother-mfc-l26-670dw-printer-software-get-your-updates-here/"><u>Download the Latest Brother MFC-L26 670DW Printer Software - Get Your Updates Here!</u></a></li>
-<li><a href="https://driver-error.techidaily.com/freeze-free-fast-windows-11/"><u>Freeze-Free, Fast Windows 11</u></a></li>
-<li><a href="https://win-blog.techidaily.com/ghostrunner-malfunction-in-windows-10-causes-and-solutions-revealed/"><u>Ghostrunner Malfunction in Windows 10: Causes and Solutions Revealed</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-optimizing-your-music-library-transitioning-from-spotify-to-youtube-music/"><u>In 2024, Optimizing Your Music Library Transitioning From Spotify To YouTube Music</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/soundsnatch-aural-replay-analysis/"><u>SoundSnatch Aural Replay Analysis</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unpacking-the-features-in-depth-analysis-of-the-powerful-space-saving-jaco-smartpro-portable-tire-filler/"><u>Unpacking the Features: In-Depth Analysis of the Powerful, Space-Saving Jaco SmartPro Portable Tire Filler</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-top-10-best-free-mmorpg-games/"><u>[New] 2024 Approved Top 10 Best Free MMORPG Games</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-essential-recording-gear-for-environmentalists/"><u>[New] Essential Recording Gear for Environmentalists</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-7-excellent-screen-capture-tools/"><u>[Updated] 7 Excellent Screen Capture Tools</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-sharpen-your-zoom-skills-with-background-blur-expertise-for-2024/"><u>[Updated] Sharpen Your Zoom Skills with Background Blur Expertise for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/free-download-of-tumblr-vids-music-videos-for-pc-android-and-ios/"><u>Free Download of Tumblr Vids - Music Videos for PC, Android & iOS</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-master-the-charm-of-darker-digital-images/"><u>In 2024, Master the Charm of Darker Digital Images</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/top-video-compression-tools-on-windows-10-enhance-performance-and-quality/"><u>Top Video Compression Tools on Windows 10: Enhance Performance and Quality</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/unlock-instagrams-hidden-features-voice-modification-for-2024/"><u>Unlock Instagram's Hidden Features Voice Modification for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlock-the-full-potential-of-zoom-in-your-xbox-setup-for-2024/"><u>Unlock the Full Potential of Zoom in Your Xbox Setup for 2024</u></a></li>
 </ul></div>
 

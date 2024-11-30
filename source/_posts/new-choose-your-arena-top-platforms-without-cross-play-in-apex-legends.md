@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Choose Your Arena  Top Platforms Without Cross-Play in Apex Legends\""
-date: 2024-08-09T14:04:49.924Z
-updated: 2024-08-10T14:04:49.924Z
+date: 2024-11-27T19:57:08.378Z
+updated: 2024-11-30T00:06:55.053Z
 tags: 
   - screen-recording
   - ai video
@@ -19,18 +19,12 @@ thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325
 
 # Apex Legends Crossplay: How to Turn it Off & Platform Choosing Guide
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
 
  Mar 27, 2024• Proven solutions
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/apex-poster.png)
 
 From the past few months, a few questions are asked: Can we crossplay in Apex Legends? How to disable crossplay? How about cross-progression? Further, which platform is the best to play on? What's the difference between Steam and Origin?
@@ -45,9 +39,6 @@ In this article, all of the questions above will be answered. No doubt, we have 
 
 Apex Legends Gameplay Basics:
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/Apex-gameplay.jpg)
 
 In this battle royal game, you are a part of a 3-person squad. There are 14 playable characters to choose from, and they are called legends in the game. If you compare all legends, you will find that they are equal in strength, speed, and firepower. It's their special abilities that make them different from each other. Every character has a unique ability that can help you in-game to leverage other players. So, you can choose a legend that suits your playstyle and is a perfect fit for your squad.
@@ -58,9 +49,6 @@ There is a ring around the battleground that shrinks after fixed short intervals
 
 One thing that you must keep in mind while playing this game is that killing an opponent is a bit longer than other FPS (First Person Shooting) games. To kill an opponent, you may need to rely on several headshots, your legends' unique ability, and the support of your teammates.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 Although this game is free of cost, it offers several in-game purchases. You can purchase Apex Coins, which is an in-game currency. ![](https://images.wondershare.com/filmora/article-images/Apex-ingame-purchase.jpg)
 
 You can use it to purchase loot boxes that contain skins and costumes. There are two locked characters in the game also, and you need to purchase them with Apex coins. So, you can get the maximum out of this game by spending some money and giving time to this game.
@@ -107,18 +95,12 @@ If you want to get Apex's best experience on Xbox consoles, you should play it o
 
 **Sony PlayStation 5**
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ps5-poster](https://images.wondershare.com/filmora/article-images/ps5-poster.png)
 
 Sony PlayStation 5 is a next-generation console, and luckily Apex Legends is already playable on it. PS5 offers improved performance and better graphics as compared to its previous versions. If you were previously playing on PS4 and just switched to PS5, you can also retain all your progress and skins on PS5 also. You can use the same EA account and start enjoying Apex Legends on 1440p screen resolution.
 
 **PC**
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/PC-apex.png)If you want to do competitive gaming in Apex Legends, then PC is the most suitable choice for you. It is because when you play using a mouse and keyboard instead of controllers, then your aim and movement are more precise. As it is an FPS category game, you can use a monitor with a high refresh rate to have smooth gameplay and reduce the lag. You must keep in mind that you need a PC with some good specs that can provide you with at least 60fps in the game. It would be best if you aim for a PC that can provide you maximum fps. 120 is the most recommended figure here.
 
 PC Requirements For Apex Legends:
@@ -154,9 +136,6 @@ Bonus：Want to record and edit your wonderful Apex gameplay? Give it a go on Wo
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -165,11 +144,30 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-effortless-video-capture-expert-tips-for-obs-on-android/"><u>[New] 2024 Approved Effortless Video Capture Expert Tips for OBS on Android</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-generate-giggle-worthy-graphics/"><u>[New] 2024 Approved Generate Giggle-Worthy Graphics</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-comprehensive-visuals-what-sets-360-apart/"><u>[New] Comprehensive Visuals What Sets 360° Apart?</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-elevate-your-game-advanced-ps4-recording-strategies-with-obs/"><u>[New] In 2024, Elevate Your Game Advanced PS4 Recording Strategies with OBS</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-selecting-the-best-screen-recorders-of-todays-market/"><u>[New] In 2024, Selecting the Best Screen Recorders of Today's Market</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-splitcam-examination-camera-quality-showdown/"><u>[New] In 2024, SplitCam Examination - Camera Quality Showdown?</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-comparing-stream-quality-with-obs-studio-and-fraps/"><u>[Updated] In 2024, Comparing Stream Quality with OBS Studio and Fraps</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-hands-on-guide-flipping-film-with-vlc-software/"><u>In 2024, Hands-On Guide Flipping Film with VLC Software</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/iphone-or-android-a-comprehensive-guide-to-help-you-decide/"><u>IPhone or Android: A Comprehensive Guide to Help You Decide</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/step-by-step-process-for-iptv-stream-imaging/"><u>Step-by-Step Process for IPTV Stream Imaging</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/streamline-conferencing-top-tactics-using-zoom-coder/"><u>Streamline Conferencing Top Tactics Using Zoom Coder</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-free-and-easy-the-best-online-tone-generator-sites-for-2024/"><u>Updated Free and Easy The Best Online Tone Generator Sites for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
