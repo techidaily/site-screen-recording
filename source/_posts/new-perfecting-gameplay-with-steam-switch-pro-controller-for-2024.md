@@ -1,7 +1,7 @@
 ---
 title: "[New] Perfecting Gameplay with Steam Switch Pro Controller for 2024"
-date: 2024-11-23T20:07:30.880Z
-updated: 2024-11-29T16:17:24.774Z
+date: 2024-12-02T19:52:05.962Z
+updated: 2024-12-08T04:11:44.523Z
 tags: 
   - screen-recording
   - ai video
@@ -42,10 +42,6 @@ This article will tell you how to enable your Nintendo Switch Pro controller to 
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Wired Connection for Switch Pro Controllers**
 
 Windows describe it as a DirectInput controller instead of an XInput controller, so getting it to work with PC games can prove tedious. However, thanks to Value-adding full Switch controller support to Steam, you will probably be able to play most of your favorite games.
@@ -55,6 +51,10 @@ Windows describe it as a DirectInput controller instead of an XInput controller,
 **Step2:** Connect the other end of the cable to your PC.
 
 ![switch-pro-controller-connected-with-cable](https://images.wondershare.com/filmora/article-images/switch-pro-controller-connected-with-cable.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 There you have it! Windows 10 will recognize your controller as a "Pro Controller." You can now proceed with installing Steam.
 
@@ -70,16 +70,12 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 
 ![switch-pro-controller-bluetooth-connection](https://images.wondershare.com/filmora/article-images/switch-pro-controller-bluetooth-connection.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * To add a Bluetooth device, click "Add Bluetooth Device."
 
 ![switch-pro-controller-add-device](https://images.wondershare.com/filmora/article-images/switch-pro-controller-add-device.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Click on "Bluetooth" (since Windows 10 needs to be convinced that you want to use Bluetooth).
@@ -87,14 +83,22 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 
 ![switch-pro-controller-setting-up](https://images.wondershare.com/filmora/article-images/switch-pro-controller-setting-up.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Once Steam is set up, you can begin using it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **How To Setup Steam To Use Your Switch Pro Controller On Pc**
 
 ![switch-pro-controller-steam-set-up](https://images.wondershare.com/filmora/article-images/switch-pro-controller-steam-set-up.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The Best Way to make sure your Pro Controller works properly with your PC game is to use Steam's Big Picture mode, which uses a comfortable lean-back system to allow you to navigate.
@@ -110,10 +114,6 @@ When configured through Steam, you should use the Pro Controller with any Steam 
 ![switch-pro-controller-steam-set-up2](https://images.wondershare.com/filmora/article-images/switch-pro-controller-steam-set-up2.png)
 
 Enter the Switch Pro Controller overlay from Steam's controller options while running in Big Picture mode. There are several ways to map the inputs on the Pro Controller, but default configurations are usually sufficient for most games. By changing the controller mapping based on the situation, you can fix any problems on the fly.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **What To Do With Non-Steam Games?**
 
@@ -146,22 +146,24 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-all-you-need-to-know-about-mobizens-screen-capture-for-2024/"><u>[New] All You Need to Know About Mobizen's Screen Capture for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-ultimate-ps4-recording-in-obs-a-detailed-walkthrough/"><u>[New] In 2024, Ultimate PS4 Recording in OBS - A Detailed Walkthrough</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-quest-for-thrills-a-chronicle-of-action-adventures-best-ten/"><u>[Updated] 2024 Approved Quest for Thrills A Chronicle of Action-Adventures' Best Ten</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-essential-links-for-acquiring-youtube-preview-templates-online/"><u>[Updated] Essential Links for Acquiring YouTube Preview Templates Online</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-expert-recommendations-high-quality-mac-video-grabber-tools/"><u>[Updated] In 2024, Expert Recommendations High-Quality Mac Video Grabber Tools</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-skype-recording-techniques-for-pc-mac-users/"><u>[Updated] In 2024, Skype Recording Techniques for PC, Mac Users</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-minicam-project-scrutiny-overview/"><u>2024 Approved MiniCam Project Scrutiny Overview</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-navigating-obs-setup-for-zoom-streaming-excellence/"><u>2024 Approved Navigating OBS Setup for Zoom Streaming Excellence</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-the-complete-screen-recorders-playbook/"><u>2024 Approved The Complete Screen Recorder's Playbook</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/digital-diaries-top-picks-for-personal-recorders-for-2024/"><u>Digital Diaries Top Picks for Personal Recorders for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nubia-red-magic-8s-proplus-phone-without-google-account-by-drfone-android/"><u>How to Unlock Nubia Red Magic 8S Pro+ Phone without Google Account?</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/laptop-and-web-navigating-live-video-communication-in-whatsapp/"><u>Laptop & Web Navigating Live Video Communication in WhatsApp</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/overlooked-marvels-free-transcription-tools-for-macos/"><u>Overlooked Marvels Free Transcription Tools for macOS</u></a></li>
-<li><a href="https://fox-making.techidaily.com/secure-your-device-with-zero-costs-try-malwarefox-the-ultimate-no-cost-malware-eliminator/"><u>Secure Your Device with Zero Costs: Try MalwareFox, the Ultimate No-Cost Malware Eliminator!</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/soundcore-life-q30-an-economic-journey-through-anc-headphones/"><u>Soundcore Life Q30 - An Economic Journey Through ANC Headphones</u></a></li>
-<li><a href="https://facebook.techidaily.com/taking-a-leap-in-privacy-protection-facebook-unveils-stronger-security-for-instagram-dms-and-messenger-calls/"><u>Taking a Leap in Privacy Protection: Facebook Unveils Stronger Security for Instagram DMs and Messenger Calls.</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/the-ultimate-screen-recorder-showdown-testing-recmeister/"><u>The Ultimate Screen Recorder Showdown Testing Recmeister</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-go-digital-capturing-lifes-motion-with-ios-device/"><u>[New] 2024 Approved Go Digital Capturing Life's Motion with iOS Device</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-all-about-camstudio-screen-recorder-efficiency-for-2024/"><u>[New] All About CamStudio Screen Recorder Efficiency for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-the-top-ten-accelerating-youtube-sectors-of-thought/"><u>[New] In 2024, The Top Ten Accelerating YouTube Sectors of Thought</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-ocam-screen-recorder-download/"><u>[New] OCam Screen Recorder Download</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-pro-level-playback-advanced-techniques-for-capturing-minecraft-games-on-mac-for-2024/"><u>[New] Pro-Level Playback Advanced Techniques for Capturing Minecraft Games on Mac for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-snap-it-all-complimentary-android-recordings-for-2024/"><u>[New] Snap It All Complimentary Android Recordings for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-seamless-clip-recording-solutions/"><u>[Updated] 2024 Approved Seamless Clip Recording Solutions</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-twitters-hot-spots-1-10-viral-visits/"><u>[Updated] 2024 Approved Twitter's Hot Spots #1-#10 Viral Visits</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-how-to-save-and-archive-google-voice-chats-for-2024/"><u>[Updated] How to Save and Archive Google Voice Chats for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/cross-platform-capture-made-simple-for-pc-mac-and-ios-for-2024/"><u>Cross-Platform Capture Made Simple for PC, Mac & iOS for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-samsung-galaxy-s24-by-fonelab-android-recover-photos/"><u>How To Restore Missing Photos Files from Samsung Galaxy S24.</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-captureelite-pro-windows-enhanced/"><u>In 2024, CaptureElite Pro Windows Enhanced</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-maximizing-auditory-experience-on-windows-10/"><u>In 2024, Maximizing Auditory Experience on Windows 10</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/laptop-techniques-for-instantaneous-video-communication-through-whatsapp-web-for-2024/"><u>Laptop Techniques for Instantaneous Video Communication Through WhatsApp Web for 2024</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/losung-fur-outlook-fehler-bei-mail-empfang-erkennen-und-beheben-der-ursachen/"><u>Lösung Für Outlook: Fehler Bei Mail-Empfang, Erkennen Und Beheben Der Ursachen</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/master-the-art-of-video-format-shifting-from-youtube-for-apple-devices-expert-tutorial-on-iphoneipod-video-converters/"><u>Master the Art of Video Format Shifting From YouTube for Apple Devices - Expert Tutorial on iPhone/iPod Video Converters</u></a></li>
+<li><a href="https://techtrends.techidaily.com/reviving-your-iphone-snapshots-fixes-for-when-auto-focus-fails-you/"><u>Reviving Your iPhone Snapshots: Fixes for When Auto-Focus Fails You</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-troubleshooting-your-msi-webcam-issues-expert-advice-from-2024/"><u>Ultimate Guide: Troubleshooting Your MSI Webcam Issues - Expert Advice From 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/understanding-your-spreadsheets-past-how-to-check-document-versions-on-excel-web-app/"><u>Understanding Your Spreadsheet's Past - How to Check Document Versions on Excel Web App</u></a></li>
 </ul></div>
 

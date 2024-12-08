@@ -1,7 +1,7 @@
 ---
 title: "Tips & Tricks for Efficient Use of Steam’s Switch Controllers"
-date: 2024-11-23T18:21:21.527Z
-updated: 2024-11-30T00:57:56.579Z
+date: 2024-12-07T08:03:37.251Z
+updated: 2024-12-08T05:53:32.389Z
 tags: 
   - screen-recording
   - ai video
@@ -43,7 +43,7 @@ This article will tell you how to enable your Nintendo Switch Pro controller to 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Wired Connection for Switch Pro Controllers**
@@ -56,11 +56,11 @@ Windows describe it as a DirectInput controller instead of an XInput controller,
 
 ![switch-pro-controller-connected-with-cable](https://images.wondershare.com/filmora/article-images/switch-pro-controller-connected-with-cable.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 There you have it! Windows 10 will recognize your controller as a "Pro Controller." You can now proceed with installing Steam.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Wirelessly connect your Switch Pro controller to your PC**
 
@@ -70,22 +70,30 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 
 ![switch-pro-controller-syncing-button](https://images.wondershare.com/filmora/article-images/switch-pro-controller-syncing-button.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Right-click the Bluetooth icon in the system tray.
 
 ![switch-pro-controller-bluetooth-connection](https://images.wondershare.com/filmora/article-images/switch-pro-controller-bluetooth-connection.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * To add a Bluetooth device, click "Add Bluetooth Device."
 
 ![switch-pro-controller-add-device](https://images.wondershare.com/filmora/article-images/switch-pro-controller-add-device.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * Click on "Bluetooth" (since Windows 10 needs to be convinced that you want to use Bluetooth).
 * Ensure that the Pro Controller appears on the list of available devices (if it does not, ensure that the indicator lights are flashing back and forth). Pair the controller by clicking it.
 
 ![switch-pro-controller-setting-up](https://images.wondershare.com/filmora/article-images/switch-pro-controller-setting-up.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * Once Steam is set up, you can begin using it.
 
@@ -107,10 +115,6 @@ When configured through Steam, you should use the Pro Controller with any Steam 
 
 Enter the Switch Pro Controller overlay from Steam's controller options while running in Big Picture mode. There are several ways to map the inputs on the Pro Controller, but default configurations are usually sufficient for most games. By changing the controller mapping based on the situation, you can fix any problems on the fly.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **What To Do With Non-Steam Games?**
 
 Using the methods discussed above, you can easily use a switch pro controller with your pc, but it only works with steam games. But what if you want to play a non-steam game using a switch pro controller? What will you do now? The switch pro controller hardware support will run out of luck in this scenario.
@@ -127,10 +131,6 @@ This is how you can use your switch pro controller with your PC. Now you can eas
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -146,19 +146,17 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-unleashing-video-potential-effective-seo-strategies-for-youtube/"><u>[New] 2024 Approved Unleashing Video Potential Effective SEO Strategies for YouTube</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-expert-insights-into-iptv-stream-logging/"><u>[Updated] 2024 Approved Expert Insights Into IPTV Stream Logging</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-expert-advice-tailoring-ppt-presentations-on-google-meet-for-2024/"><u>[Updated] Expert Advice Tailoring PPT Presentations on Google Meet for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-simple-android-voice-capture-no-root-access/"><u>[Updated] In 2024, Simple Android Voice Capture - No Root Access</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-experience-legendary-ps3-gaming-on-your-pc-today/"><u>2024 Approved Experience Legendary PS3 Gaming on Your PC Today</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-graphical-grandeur-radeons-return/"><u>2024 Approved Graphical Grandeur Radeon's Return</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/guide-to-fade-out-music-in-premiere-pro-for-2024/"><u>Guide To Fade Out Music In Premiere Pro for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-beginners-cheatsheet-for-fantastic-collage-making/"><u>In 2024, Beginner's Cheatsheet for Fantastic Collage Making</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-nokia-g310-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Nokia G310 FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-immaculatecapture-the-best-w10-recorder/"><u>In 2024, ImmaculateCapture The Best W10 Recorder</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-perfecting-ipad-display-recordings/"><u>In 2024, Perfecting iPad Display Recordings</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/record-your-gameplay-3-simple-and-effective-ways-for-2024/"><u>Record Your Gameplay 3 Simple and Effective Ways for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-master-downloader-facebook-and-firefox-integration/"><u>[New] In 2024, Master Downloader Facebook & FireFox Integration</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-profile-pictures-download-for-free/"><u>[New] In 2024, Profile Pictures - Download for FREE</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-sail-through-smooth-sharing-with-instagram-troubleshooting/"><u>[New] In 2024, Sail Through Smooth Sharing with Instagram Troubleshooting</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-unveiling-the-essence-of-streaming-with-recordcast/"><u>[Updated] 2024 Approved Unveiling the Essence of Streaming with RecordCast</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-elevate-your-fb-chronicles-with-complimentary-extension-tools-for-2024/"><u>[Updated] Elevate Your FB Chronicles with Complimentary Extension Tools for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-leading-third-place-ipad-recording-software-guide-for-2024/"><u>[Updated] Leading Third-Place iPad Recording Software Guide for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/ace-ios-selection-of-best-psp-emulators-for-2024/"><u>Ace iOS Selection of Best PSP Emulators for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/cutting-edge-5-online-video-capture-applications-for-2024/"><u>Cutting-Edge 5 Online Video Capture Applications for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhanced-windows-ui-now-visible-in-10s-display/"><u>Enhanced Windows UI: Now Visible in 10'S Display</u></a></li>
+<li><a href="https://win-dash.techidaily.com/installation-guide-newest-printer-driver-update-for-dells-2330d-and-2330dn-models/"><u>Installation Guide: Newest Printer Driver Update for Dell's 2330D and 2330DN Models</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/premium-cloud-services-on-android-the-ultimate-2024-compilation/"><u>Premium Cloud Services on Android The Ultimate 2024 Compilation</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unleash-the-mixer-in-you-20-free-custom-luts-for-dji-minis-and-airs/"><u>Unleash the Mixer in You 20 Free, Custom LUTs for DJI Minis & Airs</u></a></li>
 </ul></div>
 

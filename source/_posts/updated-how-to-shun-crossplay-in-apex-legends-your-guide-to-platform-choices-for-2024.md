@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] How to Shun Crossplay in Apex Legends - Your Guide to Platform Choices for 2024\""
-date: 2024-08-09T14:02:04.905Z
-updated: 2024-08-10T14:02:04.905Z
+date: 2024-12-03T22:20:40.557Z
+updated: 2024-12-08T07:14:53.028Z
 tags: 
   - screen-recording
   - ai video
@@ -19,18 +19,12 @@ thumbnail: https://thmb.techidaily.com/e1c4df4174fbb7e774640c12444893c833b651d1c
 
 # Apex Legends Crossplay: How to Turn it Off & Platform Choosing Guide
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
 
  Mar 27, 2024• Proven solutions
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/apex-poster.png)
 
 From the past few months, a few questions are asked: Can we crossplay in Apex Legends? How to disable crossplay? How about cross-progression? Further, which platform is the best to play on? What's the difference between Steam and Origin?
@@ -73,9 +67,6 @@ Step1, to disable it, you need to go to the setting button at the lobby's right 
 
 ![ape-setting1](https://images.wondershare.com/filmora/article-images/apex-setting1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Step 2, under the gameplay tab, scroll down, and you can find cross-platform play.![apex-setting2](https://images.wondershare.com/filmora/article-images/apex-setting2.png)
 
 #### **Does it have cross-progression?**
@@ -110,9 +101,6 @@ Sony PlayStation 5 is a next-generation console, and luckily Apex Legends is alr
 
 **PC**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/PC-apex.png)If you want to do competitive gaming in Apex Legends, then PC is the most suitable choice for you. It is because when you play using a mouse and keyboard instead of controllers, then your aim and movement are more precise. As it is an FPS category game, you can use a monitor with a high refresh rate to have smooth gameplay and reduce the lag. You must keep in mind that you need a PC with some good specs that can provide you with at least 60fps in the game. It would be best if you aim for a PC that can provide you maximum fps. 120 is the most recommended figure here.
 
 PC Requirements For Apex Legends:
@@ -128,10 +116,6 @@ PC Requirements For Apex Legends:
 
 **Nintendo Switch**
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
  ![](https://images.wondershare.com/filmora/article-images/Apex-switch.png)
 
 On March 9, 2021, EA released a version of this game for Nintendo switch. Currently, it is playable on the switch, and you can only match up with switch players, but soon it will be available to play with cross-platform support. It is a big achievement for EA to make this game playable on a small screen.
@@ -150,14 +134,8 @@ With Apex Legends available on so many platforms, sometimes it can be difficult 
 
 Bonus：Want to record and edit your wonderful Apex gameplay? Give it a go on Wondershare Filmora X.
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -166,11 +144,37 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-the-ultimate-15-list-of-expert-recommended-gif-maker-apps/"><u>[New] 2024 Approved The Ultimate 15 List of Expert-Recommended GIF Maker Apps</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-top-5-best-full-hd-action-cameras-below-100/"><u>[New] 2024 Approved Top 5 Best Full HD Action Cameras Below $100</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-expert-tips-download-youtube-playlists-in-minutes-for-2024/"><u>[New] Expert Tips Download YouTube Playlists in Minutes for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-ultimate-unlimited-fb-photomovie-builder/"><u>[New] In 2024, Ultimate Unlimited FB Photo/Movie Builder</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-airtunes-on-your-apple-devices-quick-guide-to-repairs/"><u>[New] Mastering Airtunes on Your Apple Devices - Quick Guide to Repairs</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-top-free-video-call-apps-versatile-use-on-windows-and-macos-for-2024/"><u>[New] Top Free Video Call Apps Versatile Use on Windows & MacOS for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-capturing-moments-seamlessly-with-snap-and-meet/"><u>[Updated] 2024 Approved Capturing Moments Seamlessly with Snap and Meet</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-efficient-windows-11-recorders-to-ace-your-content/"><u>[Updated] 2024 Approved Efficient Windows 11 Recorders to Ace Your Content</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-unleash-your-devices-full-potential-capture-and-store-youtube-streams-flawlessly/"><u>[Updated] In 2024, Unleash Your Device's Full Potential Capture and Store YouTube Streams Flawlessly</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-premier-mac-programming-options-excluding-bandicam/"><u>[Updated] Premier Mac Programming Options Excluding Bandicam</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-ending-automatic-video-captures-in-qt-player/"><u>2024 Approved Ending Automatic Video Captures in QT Player</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-low-end-pc-visual-recorders/"><u>2024 Approved Low-End PC Visual Recorders</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-smarter-recording-on-mac-top-10-screen-capturing-software-insight/"><u>2024 Approved Smarter Recording on Mac Top 10 Screen Capturing Software Insight</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/cinematic-chronicles-in-depth-video-tech-reviews/"><u>Cinematic Chronicles In-Depth Video Tech Reviews</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/discard-bad-drivers-to-prevent-game-breakdown/"><u>Discard Bad Drivers to Prevent Game Breakdown</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/expert-tips-for-resizing-mkv-video-content-while-retaining-excellent-picture-quality/"><u>Expert Tips for Resizing MKV Video Content While Retaining Excellent Picture Quality</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-nokia-c210-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Nokia C210</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Tecno Spark 10 Pro? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/master-your-dragon-ball-journey-by-watching-episode-by-episode-in-order/"><u>Master Your Dragon Ball Journey by Watching Episode by Episode in Order</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

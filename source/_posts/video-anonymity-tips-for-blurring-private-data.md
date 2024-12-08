@@ -1,7 +1,7 @@
 ---
 title: "\"Video Anonymity  Tips for Blurring Private Data\""
-date: 2024-11-26T16:06:10.163Z
-updated: 2024-11-29T18:21:49.897Z
+date: 2024-12-06T00:38:17.389Z
+updated: 2024-12-07T19:07:46.473Z
 tags: 
   - screen-recording
   - ai video
@@ -31,6 +31,10 @@ This article will take you through all the steps you need to take to hide privat
 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### The All-in-One Screen Recorder & Video Editor
 
 * Record desktop screen, voiceover, and webcam simultaneously
@@ -49,7 +53,7 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: Why Choose Filmora Scrn to Blur and Hide Private Information in a Video You Recorded?
@@ -72,6 +76,10 @@ Recording voice-over during the recording session, adding markers, or using HotK
 
 ![Filmora Scrn Annotations ](https://images.wondershare.com/filmora/article-images/annotation-filmora-scrn.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 All files captured with the screen recorder are displayed in the software's video editor that allows you to trim or cut video clips, add captions, or use blending modes to merge the layers in your videos seamlessly.
 
 The Annotations tab lets you add captions, overlays, speech bubbles, and, most importantly, blur effects. The **Mosaic, Linear, Vertical, Horizontal** **, Horizontal Mix, and Vertical Mix** **blur** options are available to users who want to protect sensitive info in their screen recordings. Let's have a look at how you can protect the privacy of the information in your screen recordings by blurring them in Filmora Scrn.
@@ -91,14 +99,10 @@ After I applied the Horizontal Mix blur and the Vertical Mix blur to these two p
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-rose-win.png)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-rose-mac.png)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 See, these two "private" pictures are hidden as if nothing were here. Do not believe the miracles? Why not follow the steps below to check it by yourself?
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: How to Blur and Hide Private Information with Filmora Scrn
 
@@ -107,6 +111,10 @@ Hiding the identity of the people in your videos and concealing private informat
 #### Step 1. Record a video or import a video file into the editor
 
 ![Filmora Scrn Annotations ](<https://images.wondershare.com/filmora/article-images/blurring-private> info-import.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If you choose to capture a screen with the Filmora Scrn's screen recorder, the video file you create will be automatically imported into the software's video editor and placed into the Media Bin after the recording session is over.
 
@@ -122,10 +130,6 @@ Drag the effect you like the most to the timeline or drag it to the Canvas direc
 
 ![Filmora Scrn   ](https://images.wondershare.com/filmora/article-images/adjust-blur-effects.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 On the right side of the editor's screen, you'll be able to see Transform and Blur options. Use the Transform feature to place the blur effect over the area of the shot in which the sensitive info is located to hide it from the spectators. Alternatively, you can move or resize the blurred window by dragging it on the software's preview screen.
 
 Next to the Transform icon, you'll be able to see the Annotations icon, click on it and proceed to adjust the blur Intensity and Opacity features. You should repeat this process as many times as necessary until all the sensitive information in your video clip is blurred.
@@ -137,10 +141,6 @@ Finally, you can go ahead and click on the Export button if you're happy with th
 Ok, that's it. Hope you have hidden and blurred the private info in your recorded video. Leave a comment below and let us know if it works for you perfectly.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Max Wales
 
@@ -157,24 +157,22 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-mov-file-management-made-simple-on-windows-10/"><u>[New] .mov File Management Made Simple on Windows 10</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-advanced-android-video-and-screenshot-tools-top-5-selection/"><u>[New] In 2024, Advanced Android Video & Screenshot Tools, Top 5 Selection</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-assessment-of-vidmas-impact-on-modern-screen-recorders/"><u>[New] In 2024, Assessment of Vidma's Impact on Modern Screen Recorders</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/1715860669132-new-maximizing-ipad-audio-record-best-tips/"><u>[New] Maximizing iPad Audio Record Best Tips!</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-windows-best-video-talks-ranked-1-8-for-2024/"><u>[New] Windows' Best Video Talks Ranked #1-8 for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-boosting-stability-and-speed-more-ram-for-minecraft/"><u>[Updated] In 2024, Boosting Stability & Speed More RAM for Minecraft</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-how-to-record-voice-memo-on-iphone/"><u>[Updated] In 2024, How to Record Voice Memo on iPhone?</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-ultimate-webcam-usage-for-macbooks/"><u>2024 Approved Ultimate Webcam Usage for MacBooks</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/assessing-free2x-recording-software-quality-for-2024/"><u>Assessing Free2X Recording Software Quality for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/curving-images-without-complication-a-guide-for-2024/"><u>Curving Images without Complication A Guide for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-photos-from-spark-10-4g-by-fonelab-android-recover-photos/"><u>Easy steps to recover deleted photos from Spark 10 4G.</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-motorola-defy-2-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Motorola Defy 2 Phone</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-craft-a-signature-sound-how-to-modify-voices-for-instagram/"><u>In 2024, Craft a Signature Sound How to Modify Voices for Instagram</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-vivo-y27-5g-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Vivo Y27 5G to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-secrets-to-a-flawless-ps3-gameplay-record/"><u>In 2024, Secrets to a Flawless PS3 Gameplay Record</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-unlocking-efficiency-the-top-5-video-shortener-tools/"><u>In 2024, Unlocking Efficiency The Top 5 Video Shortener Tools</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/leading-smartwatch-selection-for-2e24-in-depth-analysis-by-tech-specialists/"><u>Leading Smartwatch Selection for 2E24: In-Depth Analysis by Tech Specialists</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/tech-talk-made-simple-29-essential-ai-phrases/"><u>Tech Talk Made Simple: 29 Essential AI Phrases</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/top-tricks-for-seamless-ipad-video-capture-experience-for-2024/"><u>Top Tricks for Seamless iPad Video Capture Experience for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-prime-selections-the-best-free-screencasting-apps/"><u>[New] 2024 Approved Prime Selections The Best Free Screencasting Apps</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-the-writers-toolkit-dialogue-and-narration-techniques-for-success/"><u>[New] 2024 Approved The Writer's Toolkit Dialogue and Narration Techniques for Success</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-top-techniques-for-captivating-instagram-image-highlights/"><u>[New] 2024 Approved Top Techniques for Captivating Instagram Image Highlights</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-in-depth-look-at-screenrec-your-laptops-best-friend/"><u>[New] In 2024, In-Depth Look at ScreenRec Your Laptop's Best Friend</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-cultivate-connections-top-10-agrigames-for-gathering-pals/"><u>[Updated] 2024 Approved Cultivate Connections Top 10 AgriGames for Gathering Pals</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-clandestine-call-collectors-a-stealthy-apps-review-androidios/"><u>[Updated] Clandestine Call Collectors A Stealthy Apps Review (Android/iOS)</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-becoming-a-pro-with-obs-gaming-recordings/"><u>[Updated] In 2024, Becoming a Pro with OBS Gaming Recordings</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-no-limit-visual-capturer-device/"><u>[Updated] In 2024, No-Limit Visual Capturer Device</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-press-record-on-your-pc-with-simplicity-for-2024/"><u>[Updated] Press 'Record' On Your PC with Simplicity for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-prime-routines-for-mobile-game-screening-for-2024/"><u>[Updated] Prime Routines for Mobile Game Screening for 2024</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/discover-how-microsoft-could-be-upsetting-more-clients-with-its-new-tactics-according-to-zdnet/"><u>Discover How Microsoft Could Be Upsetting More Clients With Its New Tactics, According to ZDNet</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-vivo-y200-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Vivo Y200 to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/integrating-clips-flawlessly-using-blend-modes-for-2024/"><u>Integrating Clips Flawlessly Using Blend Modes for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/step-by-step-instructions-for-activating-high-dynamic-range-in-windows-11-for-2024/"><u>Step-by-Step Instructions for Activating High Dynamic Range in Windows 11 for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-steps-to-overcome-not-working-error-on-your-devices/"><u>Swift Steps to Overcome 'Not Working' Error on Your Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/time-travelling-to-90s-with-pokemon-mobile-apps/"><u>Time Travelling to 90S with Pokémon Mobile Apps</u></a></li>
+<li><a href="https://win-help.techidaily.com/un-effettivo-manuale-per-trasformare-i-tuoi-indirizzi-email-di-gmail-in-un-documento-pdf-passaggio-dopo-passaggio/"><u>Un Effettivo Manuale per Trasformare I Tuoi Indirizzi Email Di Gmail in Un Documento PDF: Passaggio Dopo Passaggio!</u></a></li>
 </ul></div>
 

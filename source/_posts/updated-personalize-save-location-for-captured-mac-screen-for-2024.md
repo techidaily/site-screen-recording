@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Personalize Save Location for Captured Mac Screen for 2024"
-date: 2024-11-26T19:23:21.142Z
-updated: 2024-11-29T23:58:36.707Z
+date: 2024-12-06T00:27:19.259Z
+updated: 2024-12-08T02:27:17.553Z
 tags: 
   - screen-recording
   - ai video
@@ -31,6 +31,10 @@ Here's how you can change the location where the screenshots you take using the 
 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### The All-in-One Screen Recorder & Video Editor
 
 * Record desktop screen, voiceover, and webcam simultaneously
@@ -49,11 +53,7 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to Save Screenshots to a Specific Folder on Mac
@@ -63,7 +63,7 @@ Changing the folder where you store your screenshots is not an irreversible proc
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Create a new folder on the desired location on your hard drive, and then launch Terminal, by typing Terminal in the Search Box and clicking on its icon. Once the app is open, you should insert the following command into the Terminal window:
@@ -75,7 +75,7 @@ Then enter a space at the end after 'location'.
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The next step is to add the new location at which screenshots will be saved and you can do this by simply dragging the folder you created into Terminal and adding it at the end of the command you just entered. A path is created and the command line should now contain the folder's unique location and it should look like this:
@@ -101,7 +101,7 @@ Don't forget that deleting the folder you use as a default location for storing 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Max Wales
@@ -119,24 +119,18 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-discovering-the-ultimate-14-stardew-valley-upgrades/"><u>[New] 2024 Approved Discovering the Ultimate 14 Stardew Valley Upgrades</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-from-biting-snippets-to-captivating-narratives-an-experts-guide-to-youtube-edits/"><u>[New] 2024 Approved From Biting Snippets to Captivating Narratives An Expert's Guide to Youtube Edits</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-premier-choices-the-5-foremost-webcams-for-live-gamers/"><u>[New] In 2024, Premier Choices The 5 Foremost Webcams for Live Gamers</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-explore-our-curated-top-12-click-based-pc-titles/"><u>[Updated] In 2024, Explore Our Curated Top 12 Click-Based PC Titles</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-optimizing-whiteboard-use-during-online-sessions-across-different-tech-brands-for-2024/"><u>[Updated] Optimizing Whiteboard Use During Online Sessions Across Different Tech Brands for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-supreme-4k-tvs-for-the-ultimate-gaming-experience/"><u>[Updated] Supreme 4K TVs for the Ultimate Gaming Experience</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-broadcasting-battleground-who-are-the-champions-obs-or-twitch-studio/"><u>2024 Approved Broadcasting Battleground Who Are the Champions, OBS or Twitch Studio?</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-discover-top-emulated-psp-classics-on-ios/"><u>2024 Approved Discover Top Emulated PSP Classics on iOS</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-exemplary-melodies-set-for-visual-narratives/"><u>2024 Approved Exemplary Melodies Set for Visual Narratives</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-itel-a05s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Itel A05s | Dr.fone</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/how-to-create-and-share-flipbooks-for-mobile-devices-using-flipbuilder/"><u>How to Create and Share Flipbooks for Mobile Devices Using FlipBuilder</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-seamless-video-communication-in-whatsapp-web-for-laptops-and-desktops/"><u>In 2024, Seamless Video Communication in WhatsApp Web for Laptops and Desktops</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-steps-to-record-voice-memo-on-iphone/"><u>In 2024, Steps to Record Voice Memo on iPhone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/optimize-your-site-with-cookiebot-technology-a-guide-to-advanced-analytics-and-targeting/"><u>Optimize Your Site with Cookiebot Technology: A Guide to Advanced Analytics and Targeting</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/scrutinizing-the-latest-in-screen-recording-tech-by-tunefab/"><u>Scrutinizing the Latest in Screen Recording Tech by Tunefab</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/top-video-meeting-applications-excluding-zoom-for-2024/"><u>Top Video Meeting Applications Excluding Zoom for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/unable-to-play-verify-your-installation-for-seamless-gaming-experience/"><u>Unable to Play? Verify Your Installation for Seamless Gaming Experience</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-best-of-both-worlds-top-android-video-editor-apps-for-chromebook-users/"><u>Updated Best of Both Worlds Top Android Video Editor Apps for Chromebook Users</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/which-is-better-for-you-a-look-at-chatgpt-with-browsing-and-chatgpt-as-a-browser-add-on/"><u>Which Is Better for You? A Look at ChatGPT with Browsing and ChatGPT as a Browser Add-On</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-transform-how-you-talk-best-mobile-apps-to-alter-vocal-quality/"><u>[New] 2024 Approved Transform How You Talk Best Mobile Apps to Alter Vocal Quality</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-webcammastery-practicalrecordingsteps/"><u>[New] 2024 Approved WebCamMastery PracticalRecordingSteps</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-constructing-cozy-cornerstones-easy-mc-house-plans/"><u>[New] In 2024, Constructing Cozy Cornerstones Easy MC House Plans</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-echo-chambers-tech-updates/"><u>[New] In 2024, Echo Chambers Tech Updates</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-mac-screenshot-format-reconfiguration-guide/"><u>[New] In 2024, Mac Screenshot Format Reconfiguration Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-navigating-iphones-with-ease-download-podcasts-made-simple/"><u>[New] Navigating iPhones with Ease - Download Podcasts Made Simple</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-start-and-participate-in-group-video-chats-zoom-on-androids-way/"><u>[Updated] Start and Participate in Group Video Chats Zoom on Android's Way</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-optimize-your-iphone-for-gif-saving-and-playing-like-a-pro/"><u>2024 Approved Optimize Your iPhone for GIF Saving & Playing Like a Pro</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-13-pro-max-without-passcode-4-easy-methods-drfone-by-drfone-ios/"><u>In 2024, How To Unlock iPhone 13 Pro Max Without Passcode? 4 Easy Methods | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/quest-for-freedom-guide-to-affordable-mmo-games-for-2024/"><u>Quest for Freedom Guide to Affordable MMO Games for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/rapidrecord-fullscreen-feature-for-2024/"><u>RapidRecord Fullscreen Feature for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/iming-credibility-from-a-youtube-ban/"><u>Reclaiming Credibility From a YouTube Ban</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/the-ultimate-list-of-free-high-quality-screenshot-apps/"><u>The Ultimate List of Free, High-Quality Screenshot Apps</u></a></li>
 </ul></div>
 
