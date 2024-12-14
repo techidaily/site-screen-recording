@@ -1,7 +1,7 @@
 ---
 title: "[New] Tips & Tricks to Streamline Your Zoom Meetings"
-date: 2024-10-29T19:56:41.533Z
-updated: 2024-11-02T21:15:01.186Z
+date: 2024-12-10T02:14:33.343Z
+updated: 2024-12-14T05:31:41.751Z
 tags: 
   - screen-recording
   - ai video
@@ -39,6 +39,10 @@ Going further, this guide explains in detail how to set up a Zoom call or confer
 
 You may also like: [8 Best Video Conference App for Android and iPhone (Picked)](https://filmora.wondershare.com/video-call/best-video-conference-app-android-iphone.html)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to Set Up Zoom Meeting
 
 The good news is, if you are merely a participant of a Zoom meeting that has been hosted by someone else, you don’t necessarily need to download and install the app. You can join the conference by following the URL using your favorite web browser, and typing in the meeting ID and password you are provided with via email or any other method chosen by the host.
@@ -46,6 +50,10 @@ The good news is, if you are merely a participant of a Zoom meeting that has bee
 On the other hand, if it’s you who is hosting a conference (in other words, starting a conference and want to invite others to join the meeting), Zoom must be installed on your device.
 
 You can learn how to set up a Zoom meeting right from the scratch by following the steps given below:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step 1: Download and Install Zoom
 
@@ -70,16 +78,7 @@ Next, click **Invite** from the bottom of the screen, go to the **Email** tab fr
 ![Zoom Meeting Invite People to join ](https://images.wondershare.com/filmora/article-images/zoom-meeting-invite-people-to-join.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note:** Alternatively, you can use the **Contacts** tab to invite the participants who are already added in your contact list, or use the **Copy URL** or **Copy Invitation** buttons at the bottom to send the invitation manually.
@@ -98,6 +97,10 @@ Enabled by default, the mirror effect lets you flip the video display that the w
 
 ![Zoom Meeting Mirror Effects](https://images.wondershare.com/filmora/article-images/setup-zoom-meeting-mirror-my-video.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Want to flip or mirror your video footage after recording? Try Filmora to [Flip Video](https://tools.techidaily.com/wondershare/filmora/download/) Quickly and Easily.
 
 #### 2\. Appearance Touchup
@@ -105,10 +108,7 @@ Want to flip or mirror your video footage after recording? Try Filmora to [Flip 
 ![Zoom Meeting Touch my appearance](https://images.wondershare.com/filmora/article-images/setup-zoom-meeting-touch-my-appearance.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 This feature makes the visuals captured by your webcam or camera less crispy. This comes in handy when you don’t want to distract other participants of the meeting with the imperfections your clothes or sleepy face have when you’re right out of the bed. You can enable or disable this function by checking or unchecking the **Touch up my appearance** box present in the right section of the **Video** category on the **Settings** window respectively.
@@ -119,13 +119,6 @@ Virtual backgrounds let you hide those untidy and wrinkled bedsheets or wet towe
 
 ![Zoom Meeting change virtual background](https://images.wondershare.com/filmora/article-images/setup-zoom-meeting-change-virtual-background.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 To select virtual background, you can go to the **Settings** box, click **Virtual Background** category from the left pane, and choose your preferred background from the right. Zoom might take a while to download the required packs if you’re using the feature for the first time. If you’ve a physical green screen background, you can check **I have a green screen**, and then select the correct color for it.
 
 Bonus: green screen is widely used in filming and TV shows, you can get more info about this magical skill in [Green Screen Tutorial](https://tools.techidaily.com/wondershare/filmora/download/).
@@ -133,6 +126,10 @@ Bonus: green screen is widely used in filming and TV shows, you can get more inf
 #### 4\. Prevent Screen Sharing
 
 ![Zoom Meeting  set screen sharing to host only](https://images.wondershare.com/filmora/article-images/setup-zoom-meeting-only-host-sharing-screen.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You can keep all the mischievous or ignorant participants from sharing their screen deliberately or accidentally while you’re discussing a serious matter. To do this, while you are in an ongoing conference, click the up-facing arrow next to the **Share Screen** option from the bottom of the camera window, click **Advanced Sharing Options**, and select the **Only Host** radio button from the **Who can share** section on the box that appears next.
 
@@ -150,24 +147,29 @@ As a host you can even schedule a conference with Zoom. You can learn how to set
 
 Launch Zoom (a Windows 10 computer is used here), and click **Schedule** from the left section of the interface to open the **Schedule meeting** box.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Step 2: Schedule a Meeting
 
 Use the **Start** drop-down calendar to select a future date you want to schedule a meeting on, use the adjacent box to choose your preferred time of the meeting, play with other self-explanatory options to configure the meeting preferences as needed, and click **Schedule** from the bottom to schedule a meeting.
 
 ![Schedule  Zoom Meeting](https://images.wondershare.com/filmora/article-images/schedule-zoom-meetings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 3: Invite Participants to the Scheduled Meeting
 
 Click **Meetings** from the top of the Zoom’s interface, ensure that the scheduled meeting is selected in the left pane, and click the **Copy Invitation** button from the right to copy the invitation URL and the meeting ID and password to the clipboard. Next, open your favorite web browser, sign in to your email account, compose an email for all the participants you want to invite, paste the copied content in the message box, and send the invitation to the recipients.
 
 ![Zoom Meeting Upcoming meeting](https://images.wondershare.com/filmora/article-images/setup-zoom-meeting-upcoming-meeting.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: How to Set Up Zoom Meetings on Google Calendar
 
@@ -176,13 +178,6 @@ In order to set up a Zoom meeting, you don’t always have to launch the program
 _Need to Sync Zoom meetings to your Calendar? We've figured out how to do that on desktop/iPhone/Android phones, you can check it here: [Syncing Zoom to Your Calendar](https://tools.techidaily.com/wondershare/filmora/download/)_
 
 The entire process of how to set up a Zoom meeting with Google Calendar is explained below:
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Step 1: Install Zoom for GSuite Add-on
 
@@ -193,6 +188,10 @@ Start your favorite web browser, go to <https://gsuite.google.com/marketplace/ap
 ### Step 2: Launch Google Calendar and Sign In to Zoom Account
 
 Open a new tab on your browser, sign in to your Google account (Gmail is used here for demonstration), click the **Google apps** icon from the top-right corner, click **Calendar** from the available programs, click the **Zoom** icon from the right most pane and sign in to your Zoom account.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step 3: Create Event and Set Up Zoom Meeting
 
@@ -218,32 +217,11 @@ Launch your favorite web browser, click [**here**](https://appsource.microsoft.c
 
 ![Get Zoom Meeting for Outlook](https://images.wondershare.com/filmora/article-images/get-zoom-meeting-for-outlook.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Step 2: Get to Event’s Calendar Box
 
 Go to your Microsoft Outlook account using your web browser, click the **Calendar** icon from the bottom, on the main window, click the block representing the date you want to schedule a Zoom meeting, and click **More options** from the bottom-right corner of the box that pops up to go to the **Calendar** box.
 
 ![Set up Zoom in Google Calendar](https://images.wondershare.com/filmora/article-images/set-schedule-zoom-meeting-google-calendar.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Step 3: Schedule a Zoom Meeting
 
@@ -276,24 +254,15 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-beyond-basiccams-prospects-of-elevated-performance/"><u>[New] 2024 Approved Beyond BasicCams Prospects of Elevated Performance</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-youtubes-updated-monetization-playbook/"><u>[New] 2024 Approved YouTube's Updated Monetization Playbook</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-clearing-up-the-darkness-tips-for-non-black-screens-with-obs/"><u>[New] In 2024, Clearing Up the Darkness Tips for Non-Black Screens with OBS</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-the-impact-of-multi-view-video-technology-on-home-surveillance-for-2024/"><u>[New] The Impact of Multi-View Video Technology on Home Surveillance for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-the-ken-burns-method-in-camtasia-9-explained-simply/"><u>[New] The Ken Burns Method in Camtasia 9 Explained Simply</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-professional-gamers-showcase-live-recording-in-obs/"><u>[Updated] In 2024, Professional Gamers Showcase - Live Recording in OBS</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-proven-methods-to-perfectly-capture-iptv-broadcasts/"><u>[Updated] In 2024, Proven Methods to Perfectly Capture IPTV Broadcasts</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-depth-analysis-of-best-practices-in-valheim-agriculture-for-2024/"><u>[Updated] In-Depth Analysis of Best Practices in Valheim Agriculture for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-pro-video-setup-the-ultimate-recording-companion/"><u>[Updated] Pro Video Setup The Ultimate Recording Companion</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-real-time-broadcast-logging-made-simple/"><u>[Updated] Real-Time Broadcast Logging Made Simple</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discovering-the-latest-in-computing-toms-hardware-specialist/"><u>Discovering the Latest in Computing - Tom's Hardware Specialist</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-guide-to-fixing-voice-chat-glitches-in-fortnite-instantly/"><u>Expert Guide to Fixing Voice Chat Glitches in Fortnite Instantly</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-unlock-the-lock-screen-on-my-honor-by-drfone-android-unlock-android-unlock/"><u>How to Unlock the Lock Screen on my Honor</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-surrender-to-serenity-top-10-game-guides/"><u>In 2024, Surrender to Serenity Top 10 Game Guides</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/new-installation-guides-brother-scanner-software-updates-on-windows/"><u>New Installation Guides: Brother Scanner Software Updates on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/remedies-for-black-screen-crisis-in-win-based-playing/"><u>Remedies for Black Screen Crisis in Win-Based Playing</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/829929-9781589795297-taurus/"><u>Taurus | Free Book</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/ultimate-record-assistant-az-audits-and-substitutes-for-2024/"><u>Ultimate Record Assistant - AZ Audits & Substitutes for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/unlocking-the-secrets-to-effective-youtube-video-uploads-for-2024/"><u>Unlocking the Secrets to Effective YouTube Video Uploads for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-spotifys-1-charting-tunes/"><u>[New] 2024 Approved Spotify's #1 Charting Tunes</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-beyond-zoom-the-intricacies-of-iphone-xs-lens-tech/"><u>[New] Beyond Zoom The Intricacies of iPhone X's Lens Tech</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-achieve-perfect-screen-captures-on-the-mi-11-lite/"><u>[New] In 2024, Achieve Perfect Screen Captures on the Mi 11 Lite</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-excellent-windows-compatible-video-recorders/"><u>[New] In 2024, Excellent Windows-Compatible Video Recorders</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-unveiling-the-secrets-of-enhancing-video-sessions-in-google-meet-for-2024/"><u>[New] Unveiling the Secrets of Enhancing Video Sessions in Google Meet for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-relaxation-station-leisurely-phone-game-guide/"><u>[Updated] 2024 Approved Relaxation Station Leisurely Phone Game Guide</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-unlocking-the-full-potential-of-zooms-visual-features/"><u>[Updated] In 2024, Unlocking the Full Potential of Zoom's Visual Features</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-vivo-v30-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Vivo V30 | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-logitech-brio-webcam-drivers-for-windows-11-and-earlier-versions-8-7/"><u>Get the Latest Logitech Brio Webcam Drivers for Windows 11 and Earlier Versions (8, 7)</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-update-and-install-hp-printer-drivers-on-windows-11-computers/"><u>How to Update and Install HP Printer Drivers on Windows 11 Computers</u></a></li>
 </ul></div>
 

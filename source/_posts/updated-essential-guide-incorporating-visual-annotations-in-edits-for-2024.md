@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Essential Guide  Incorporating Visual Annotations in Edits for 2024\""
-date: 2024-12-06T22:05:53.774Z
-updated: 2024-12-08T05:34:40.664Z
+date: 2024-12-07T22:40:29.574Z
+updated: 2024-12-14T05:36:03.819Z
 tags: 
   - screen-recording
   - ai video
@@ -31,10 +31,6 @@ Markers can be used during the video editing and after the screen recording to m
 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### The All-in-One Screen Recorder & Video Editor
 
 * [Record desktop screen](https://tools.techidaily.com/wondershare/filmora/download/), voiceover, and webcam simultaneously
@@ -53,7 +49,7 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Distinctions Between the Two Types of Markers
@@ -65,6 +61,10 @@ The **media markers** are the markers you can add directly to the video file you
 You can use them to mark a place in the screen recording you're not too happy with, or to highlight the part of the video clip that you intend on featuring in the final cut of the video you've created with Wondershare's screen capturing and screen recording software. By doing so you'll save time on going through all the material just to find a few seconds of footage that fit perfectly to your video.
 
 ![Filmora Scrn Markers](https://images.wondershare.com/filmora/article-images/filmora-scrn-markers.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The **timeline markers**, on the other hand, can only be added to a project once you've completed the recording session, during the post-production period. You can utilize them to highlight the parts of the video clip you want to remove from the final version of your video or to mark the spots on the timeline where you'd like to switch from one take to another.
 
@@ -82,6 +82,10 @@ For macOS 10.12 or later
 
 * [1\. How to Add a Marker During Video Editing](#filmora1)
 * [2\. How to Remove a Marker After Screen Recording](#filmora2)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. How to Add a Marker During Video Editing
 
@@ -107,10 +111,6 @@ In the Marker Editor window, make relevant changes such as naming the marker, ad
 
 ![customize the markers](https://images.wondershare.com/filmora/guide/guide-win/add-markers-with-filmora-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### **Method 2: Adding Markers through the Keyboard**
 
 After importing the clip into the timeline and identifying the points of error in your video, place the playhead on these points and press the **"M"** key on your keyboard to add a marker at the chosen timeframes.
@@ -118,11 +118,11 @@ After importing the clip into the timeline and identifying the points of error i
 ![add maker through the keyboard](https://images.wondershare.com/filmora/guide/guide-win/add-markers-with-filmora-6.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **2\. How to Remove a Marker After Screen Recording**
@@ -152,18 +152,24 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-pioneering-pedagogy-choosing-from-the-premier-10-lecture-recorders/"><u>[New] 2024 Approved Pioneering Pedagogy Choosing From the Premier 10 Lecture Recorders</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-how-to-quickly-capture-iphone-screens-on-the-fly-for-2024/"><u>[New] How to Quickly Capture iPhone Screens on the Fly for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-innovating-friendship-dynamic-pins-on-snapchat/"><u>[Updated] Innovating Friendship Dynamic Pins on Snapchat</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-the-ultimate-playbook-seamless-hulu-saving-on-winmacmobile/"><u>[Updated] The Ultimate Playbook Seamless Hulu Saving on Win/Mac/Mobile</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-top-6-strategies-for-mc-village-housebuilding/"><u>[Updated] Top 6 Strategies for MC Village Housebuilding</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-top-6-unobtrusive-applications-for-android-captures/"><u>[Updated] Top 6 Unobtrusive Applications for Android Captures</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-how-to-use-your-recordings-for-a-seamless-live-experience-on-fb/"><u>2024 Approved How to Use Your Recordings for a Seamless Live Experience on FB</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-leveraging-youtubes-cc-for-high-quality-video-creation/"><u>2024 Approved Leveraging YouTube’s CC for High-Quality Video Creation</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-streamers-guide-to-choosing-a-video-player-vlc-vs-mpc/"><u>2024 Approved Streamer's Guide to Choosing a Video Player VLC Vs. MPC</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/disable-screen-lock-on-lava-blaze-pro-5g-by-drfone-android-unlock-android-unlock/"><u>Disable screen lock on Lava Blaze Pro 5G</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-asus-rog-phone-8-pro-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Asus ROG Phone 8 Pro Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-from-novice-to-expert-how-to-edit-mp4-videos-on-mac-and-windows/"><u>In 2024, From Novice to Expert How to Edit MP4 Videos on Mac and Windows</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-how-to-revive-and-unfreeze-a-frozen-macos-system/"><u>Troubleshooting: How to Revive and Unfreeze a Frozen macOS System</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-elite-e-commerce-destinations-for-specialty-wrapping-art/"><u>[New] 2024 Approved Elite E-Commerce Destinations for Specialty Wrapping Art</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-live-feed-obs-on-instagram-app/"><u>[New] 2024 Approved Live Feed OBS on Instagram App</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-high-fidelity-playback-of-games-using-obs/"><u>[New] In 2024, High Fidelity Playback of Games Using OBS</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-voice-reinvention-with-technology-rankings-of-7-innovative-audio-tools/"><u>[New] In 2024, Voice Reinvention with Technology Rankings of 7 Innovative Audio Tools</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-probing-into-asuss-proart-pa-329q-professional-4k-display-review-insights/"><u>[New] Probing Into Asus's ProArt PA 329Q – Professional 4K Display Review Insights</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-mastering-snips-on-mac-top-5-picks-unveiled/"><u>[Updated] 2024 Approved Mastering Snips on Mac Top 5 Picks Unveiled</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-battle-for-asgard-the-ragnarok-chronicles/"><u>[Updated] Battle for Asgard The Ragnarök Chronicles</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-capturing-the-action-5-roblox-recordings-for-mac-users-for-2024/"><u>[Updated] Capturing the Action 5 Roblox Recordings for Mac Users for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-elite-selection-best-budget-friendly-video-call-software-for-2024/"><u>[Updated] Elite Selection Best Budget-Friendly Video Call Software for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-the-insiders-guide-to-mastering-fb-live-recordings-for-2024/"><u>[Updated] The Insider's Guide to Mastering FB Live Recordings for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-explore-the-cheapest-deals-on-top-tier-gopros/"><u>2024 Approved Explore the Cheapest Deals on Top-Tier GoPros</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/governing-a-dream-island-a-comprehensive-critique-of-tropico-6s-socio-political-landscape/"><u>Governing a Dream Island: A Comprehensive Critique of Tropico 6'S Socio-Political Landscape</u></a></li>
+<li><a href="https://fox-info.techidaily.com/how-to-skip-without-missing-tips-on-bypassing-edgenuity-video-lessons/"><u>How to Skip Without Missing Tips on Bypassing Edgenuity Video Lessons</u></a></li>
+<li><a href="https://driver-error.techidaily.com/ideport0-fault-discovered-by-driver/"><u>Ideport0 Fault Discovered by Driver</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-conjuring-chrono-displacement-with-digital-magic/"><u>In 2024, Conjuring Chrono-Displacement with Digital Magic</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-finest-racing-games-roundup-top-5/"><u>In 2024, Finest Racing Games Roundup (Top 5)</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-realme-11-5g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Realme 11 5G to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-quick-tips-to-resurrect-windows-photo-viewer-on-windows-11/"><u>In 2024, Quick Tips to Resurrect Windows Photo Viewer on Windows 11</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-step-by-step-turn-your-images-darker/"><u>In 2024, Step-by-Step Turn Your Images Darker</u></a></li>
 </ul></div>
 

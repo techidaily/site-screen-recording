@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Advanced Mac Screenshots  A Deep Dive Into Five Efficient Methods\""
-date: 2024-10-31T19:04:13.866Z
-updated: 2024-11-02T18:09:59.150Z
+date: 2024-12-07T02:24:44.460Z
+updated: 2024-12-13T22:46:21.597Z
 tags: 
   - screen-recording
   - ai video
@@ -30,6 +30,10 @@ Unlike Windows PC, Mac computer doesn't own the "PrintScreen" shortcut button to
 * [Part 1: How to Make Screen Record and Screenshots on Mac](#part1) \- Edit After Screenshots
 * [Part 2: 4 Methods to Capture Screenshots on Mac Itself](#part2)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to Make Screen Record and Screenshots on Mac
 
 Here, we would like to recommend a tool for making screenshots and screen recordings at the same time. [Filmora Screen Recorder](https://tools.techidaily.com/wondershare/filmora/download/) can easily capture and record the operation on a Mac. Below are the 3 ways to start the function. Now download and install Filmora on Mac first, then keep reading.
@@ -43,6 +47,10 @@ Here, we would like to recommend a tool for making screenshots and screen record
 ![Filmora secure download](https://images.wondershare.com/filmora/images/store/secure.png) Secure Download
 
 [![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6) [![Android](https://images.wondershare.com/assets/images-common/badges-google.svg) ](https://app.adjust.com/w06dr6m%5F19za1f6)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -66,19 +74,35 @@ Enter Filmora and navigate towards the "**Files**" > "**Record Media**". You wil
 
 ![launch filmora screen recorder from the top toolbar](https://images.wondershare.com/filmora/guide/guide-mac/screen-recording-in-mac-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### **3\.** From the Search Bar Menu
 
 Enter Filmora then find the search bar, the "**Record**" option just next to it. Select a suitable recording option.
 
 ![launch filmora screen recorder from the search bar](https://images.wondershare.com/filmora/guide/guide-mac/screen-recording-in-mac-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Make Screen Record and Snapshot on Mac](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![Filmora secure download](https://images.wondershare.com/filmora/images/store/secure.png) Secure Download
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Make Screen Record and Snapshot on Mac](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![Filmora secure download](https://images.wondershare.com/filmora/images/store/secure.png) Secure Download
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6) [![Android](https://images.wondershare.com/assets/images-common/badges-google.svg) ](https://app.adjust.com/w06dr6m%5F19za1f6)
 
@@ -112,6 +136,10 @@ Want to Make Screen Record on Mac? Try This Out!
 
 [Screen Record on iPad with Ease](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: 4 Methods to Capture Screenshots on Mac Itself
 
 Besides using a screenshot tool, Mac also offers multiple ways to make screenshots on a Mac PC or Macbook. Keep reading to find out the 4 ways!
@@ -120,13 +148,6 @@ Besides using a screenshot tool, Mac also offers multiple ways to make screensho
 * [Method 2: Taking Screenshots with Touch Bar on MacBook Pro](#method2)
 * [Method 3: Capture Screen with Built-in Preview App in Mac](#method3)
 * [Method 4: Make Screenshots with Pre-installed Grab App](#method4)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 1 3 Ways to Take Screenshots with Keyboard Commands
 
@@ -138,25 +159,11 @@ Make sure that everything you want to include in the picture is clearly visible 
 
 ![capture entire screen on mac](https://images.wondershare.com/filmora/article-images/capture-entire-screen-on-mac-keyboard-command.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### Way 2: How to Screenshot a Portion of the Screen on a Mac?
 
 If you want to take screenshot on a partial part of the screen, simply hit the **Command + Shift + 4** keys. Then drag the crosshair mouse cursor to the area you want to capture.
 
 ![screenshot protion of screen on mac](https://images.wondershare.com/filmora/article-images/screenshot-portion-of-screen-on-mac-keyboard-command.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 The crosshair will also display the pixel count to show you the size of the screenshot. Holding the **Shift** button will allow you to lock all corners of the selection rectangle, except the one you are dragging.
 
@@ -166,6 +173,10 @@ Launch the app or open the window you'd like to screenshot, and then hold the **
 
 ![capture a window or menu or app on mac](https://images.wondershare.com/filmora/article-images/capture-a-window-or-menu-on-mac-keyboard-command.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 2 Taking Screenshots with Touch Bar on MacBook Pro
 
 MacBook Pro owners can utilize the **Touch Bar** feature to take screenshots on their computers. Click on the **Apple logo** from the menu bar, then select the **System Preferences** option. Click on the **Keyboard > Customize Control Strip** feature, located at the bottom of the screen. Once the new window pops-out you should locate the **Screenshot** icon and drag and drop it to the Touch Bar, and click **Done**.
@@ -174,31 +185,11 @@ MacBook Pro owners can utilize the **Touch Bar** feature to take screenshots on 
 
 Now that the Screenshot option is available from the Touch Bar, you can simply click on its icon and take screenshots of the full screen, a portion of it, or a single window.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 3 Capture Screen with Built-in Preview App
 
 Open the **Preview** app, go to **File** and find the **Take Screenshot** sub-menu. You can either capture a full screen, a part of it you select or take a screenshot of an active window. Holding the Control button while taking a screenshot will enable you to save the picture to the clipboard and paste it into a photo editing software or a word processor.
 
 ![capture screen with preview on mac](https://images.wondershare.com/filmora/article-images/mac-screenshot-preview-app.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 The Preview app lets you select the saving path and name it before saving.
 
@@ -208,9 +199,17 @@ Go to **Utility > Applications** to launch **Grab**. Click on the **Capture** me
 
 ![make screenshots on mac with grab](https://images.wondershare.com/filmora/article-images/mac-screenshot-grab-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The Timed Screen feature can be used if you want to have a ten-second delay before you take the screenshot, which can be quite useful if you need time to organize the desktop before the screenshot is taken.
 
 ![use grab to screen shot on mac](https://images.wondershare.com/filmora/article-images/mac-screenshot-grab-timed-feature.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If you would like to include the mouse cursor in your screenshots, you have go to the **Preferences** option, then select the **Pointer Type**, it also able to record the clicking sound if needed.
 
@@ -221,13 +220,6 @@ Mac provides the screenshots itself, also, some built-in apps are available to m
 [Make Screenshots on Mac](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![Filmora secure download](https://images.wondershare.com/filmora/images/store/secure.png) Secure Download
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [Make Screenshots on Mac](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -258,22 +250,24 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-expert-advice-on-archiving-sports-from-live-feeds/"><u>[Updated] 2024 Approved Expert Advice on Archiving Sports From Live Feeds</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-premium-ios-photo-and-video-shows-from-ix-to-ios12/"><u>[Updated] 2024 Approved Premium iOS Photo & Video Shows From IX to IOS12</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-bring-your-presentations-to-life-with-aiseesoft-screencast-capabilities/"><u>[Updated] Bring Your Presentations to Life with Aiseesoft Screencast Capabilities</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-frametaker-high-quality-edition/"><u>[Updated] FrameTaker High-Quality Edition</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-mastery-of-tasks-with-the-help-of-ez-grabber/"><u>[Updated] In 2024, Mastery of Tasks with the Help of EZ Grabber</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-sliceshot-synopsis-for-2024/"><u>[Updated] SliceShot Synopsis for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-direct-engagement-broadcasting-from-your-xbox-to-fb/"><u>2024 Approved Direct Engagement Broadcasting From Your Xbox to FB</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-navigating-facebooks-memory-lane-with-ease/"><u>2024 Approved Navigating Facebook's Memory Lane with Ease</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/a-new-era-of-creativity-pinpointing-the-best-10-budget-friendly-video-art-communities-on-youtube/"><u>A New Era of Creativity Pinpointing the Best 10 Budget-Friendly Video Art Communities on YouTube</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/capturing-android-sounds-without-root-access-guide-for-2024/"><u>Capturing Android Sounds Without Root Access [Guide] for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/comprehensive-review-of-premium-pc-cameras-in-win-11-for-2024/"><u>Comprehensive Review of Premium PC Cameras in Win 11 for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/easy-installation-up-to-date-drivers-for-your-hp-officejet-pro-8610-on-any-window-operating-system-xp-to-10/"><u>Easy Installation: Up-to-Date Drivers for Your HP Officejet Pro 8610 on Any Window Operating System (XP to 10)</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-4-unrooted-ways-to-log-internal-android-audio/"><u>In 2024, 4 Unrooted Ways to Log Internal Android Audio</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-iphone-14-plus-and-ipad-securely-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on iPhone 14 Plus and iPad Securely</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-ios-video-experience-the-10-most-excellent-players/"><u>In 2024, IOS Video Experience The 10 Most Excellent Players</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-nokia-c32-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Nokia C32 | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/why-microsoft-copilot-trumps-chatgpt-a-comparative-guide/"><u>Why Microsoft Copilot Trumps ChatGPT – A Comparative Guide</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-choose-wisely-the-best-10-mac-video-capture-software-reviewed/"><u>[New] In 2024, Choose Wisely The Best 10 Mac Video Capture Software Reviewed</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-mastering-smooth-transitions-to-prevent-drops-in-obs/"><u>[New] In 2024, Mastering Smooth Transitions to Prevent Drops in OBS</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-premium-3ds-pc-mimicry-software-choices/"><u>[New] In 2024, Premium 3Ds PC Mimicry Software Choices</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-perfecting-visual-output-incorporating-luts-into-your-ae-projects/"><u>[New] Perfecting Visual Output Incorporating LUTs Into Your AE Projects</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-quick-scale-your-iphones-viewport/"><u>[New] Quick Scale Your iPhone's Viewport</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-virtual-gallery-combining-crescendos-with-clarity/"><u>[New] Virtual Gallery Combining Crescendos with Clarity</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-youtube-srt-extraction-three-practical-approaches-for-downloading/"><u>[Updated] 2024 Approved YouTube SRT Extraction Three Practical Approaches for Downloading</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-cutting-edge-approaches-for-secure-and-precise-call-logging/"><u>[Updated] In 2024, Cutting-Edge Approaches for Secure and Precise Call Logging</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-lens-legends-library-your-query-guide/"><u>[Updated] In 2024, Lens Legends' Library Your Query Guide</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-tips-for-perfect-control-how-to-use-your-switch-pro-on-steam/"><u>[Updated] In 2024, Tips for Perfect Control How to Use Your Switch Pro on Steam</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-ultimate-top-11-list-excellent-audio-devices/"><u>[Updated] In 2024, Ultimate Top 11 List Excellent Audio Devices</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-unveil-prodigious-profits-with-our-12-top-tycoon-gaming-selection/"><u>[Updated] In 2024, Unveil Prodigious Profits with Our #12 Top Tycoon Gaming Selection</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-live-transmission-via-obs-to-instagram/"><u>[Updated] Live Transmission via OBS to Instagram</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-simplifying-video-preservation-with-3-key-practices/"><u>[Updated] Simplifying Video Preservation with 3 Key Practices</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-reinstate-lost-watch-icon-on-facebook-platform/"><u>2024 Approved Reinstate Lost Watch Icon on Facebook Platform</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/balancing-bulkiness-with-bandwidth-an-examination-of-netgears-powerline-av-n-model-1200-speed-and-design/"><u>Balancing Bulkiness with Bandwidth: An Examination of Netgear's Powerline AV N Model 1200 Speed and Design</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-the-art-of-action-shots-with-gopro/"><u>In 2024, Mastering the Art of Action Shots with GoPro</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/premium-macpc-video-recording-software/"><u>Premium Mac/PC Video Recording Software</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209866079-9781944878931-spiritual-verse-today/"><u>Spiritual Verse Today | Free Book</u></a></li>
 </ul></div>
 
