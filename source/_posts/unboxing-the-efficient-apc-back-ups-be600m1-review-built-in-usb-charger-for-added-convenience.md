@@ -1,7 +1,7 @@
 ---
 title: Unboxing the Efficient APC Back-UPS BE600M1 Review - Built-In USB Charger for Added Convenience
-date: 2024-12-11T00:59:51.009Z
-updated: 2024-12-13T20:56:21.583Z
+date: 2024-12-20T22:30:57.438Z
+updated: 2024-12-23T03:40:29.520Z
 categories:
   - BestProducts
 description: This Article Describes Unboxing the Efficient APC Back-UPS BE600M1 Review - Built-In USB Charger for Added Convenience
@@ -18,7 +18,7 @@ thumbnail: https://www.lifewire.com/thmb/6wth6CzRLPjcELs8n-eLSz0Zmy4=/400x300/fi
 ![Amazon Halo](https://www.lifewire.com/thmb/KDrlBicwDSsm8oahXwLC9cx5FSs=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Halo_HeroSquare-2e5c3941b8fe49afbd7464f382164976.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Lifewire / Yoona Wagener
@@ -43,9 +43,17 @@ Lifewire / Yoona Wagener
 
 4.2
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Amazon Halo
 
 ![Amazon Halo](https://www.lifewire.com/thmb/3Kfyp4XgBEtCuXPHAVw99RFqQs8=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Halo_HeroSquare-2e5c3941b8fe49afbd7464f382164976.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Yoona Wagener
 
@@ -73,11 +81,11 @@ Lifewire / Yoona Wagener
 
 ![Amazon Halo](https://www.lifewire.com/thmb/W0-czfRzA-7ixa5VS8Cb4sBcaqM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Halo_02-b2292f1ee1b54f4e9990c92e582c5a4b.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Lifewire / Yoona Wagener
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Design: An accessory that blends in
 
@@ -87,11 +95,11 @@ Lifewire / Yoona Wagener
 
 ![Amazon Halo](https://www.lifewire.com/thmb/QHImxX0EsYwunnnS2aNtTX9j80s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Halo_03-66da73beea854cd39f6c35c06975ef4e.jpg)
 
-Lifewire / Yoona Wagener
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Lifewire / Yoona Wagener
 
 ## Comfort: Streamlined but not immune to typical fit issues
 
@@ -103,6 +111,10 @@ Lifewire / Yoona Wagener
 
  As for water resistance, I didn’t test the 50-meter swimproof rating of the Halo in a pool, but I did shower with the device for three days. Despite the band’s moisture-wicking band material, it remained damp far longer than was comfortable and compared to a fast-drying silicone band. If you’re an avid swimmer or prefer not to remove your wearable while showering, the sport band option will most likely be the more desirable option.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Performance: Constantly monitoring movement, not performance
 
  While this streamlined device doesn’t log detailed workout metrics, the Halo has the upper hand when it comes to continuously monitoring movement—and sedentary stints throughout the day. Whether you’re sitting at a desk or venture out for an errand, the Halo will capture that and pretty accurately categorize it. It consistently registered walking and running activities, though the readout wasn’t very accurate for the latter. Truthfully, I don’t get the impression that that’s the point of the Halo.
@@ -110,10 +122,6 @@ Lifewire / Yoona Wagener
  Instead, the Halo presents all activity data through a convenient point-tracking system. The weekly goal is 150, which converts to 150 minutes of cardiovascular activity, as recommended by the American Heart Association. Periods of movement and exercise count toward this point goal, while periods of non-movement subtract from points earned. It’s a digestible system that offers a new twist on the steps or movement alert functions you’ll find in fitness trackers and[smartwatches](https://www.lifewire.com/an-introduction-to-smart-watches-3441381) from Samsung, Garmin, Fitbit, and others. This system was an encouraging reset from those reminders that sometimes feel more annoying than motivating.
 
 ![Amazon Halo](https://www.lifewire.com/thmb/FjdFyV6Y4mTXNsqccZ4aEBJNpV0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Halo_05-e671ee9f77cc4cee8e2580a2dba449d5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Lifewire / Yoona Wagener.
 
@@ -124,10 +132,6 @@ Lifewire / Yoona Wagener
  All voice data and images used for the body scan are deletable from the app, though you can also choose to back up body data in the cloud, which Amazon assures is private and well secured.
 
  The body fat scan is based on pictures uploaded to the app—and based on prompts from the app. While it felt invasive and isn’t a feature I’d seek out in a fitness tracker, it worked without issue. Amazon reports that this technology is twice as accurate as smart scales. For the right user who feels comfortable with this kind of data compilation, this feature also offers visualizations of how different body fat percentages would look on your frame and stores your scans for a look at trends over time. All voice data and images used for the body scan are deletable from the app, though you can also choose to back up body data in the[cloud](https://www.lifewire.com/what-is-cloud-computing-817770) , which Amazon assures is private and well secured.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Software: An essential and user-friendly mobile app
 
@@ -152,10 +156,6 @@ Lifewire / Yoona Wagener
 ## Price: A reasonable price for the feature set
 
  Retailing for just about $100, the Amazon Halo band certainly won’t break the bank for budget-minded shoppers. While the lack of display could be a deterrent, the solid mobile app provides convenient access to the detailed sleep, automatic activity tracking, and specialized tone of voice and body fat analysis the Halo provides.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Amazon Halo vs. WHOOP Strap 3
 
@@ -206,19 +206,16 @@ Lifewire / Yoona Wagener
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-comprehensive-guide-to-advanced-screen-capture-via-adobe-captive/"><u>[New] 2024 Approved Comprehensive Guide to Advanced Screen Capture via Adobe Captive</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-harnessing-the-power-of-stories-in-fb-networks/"><u>[New] 2024 Approved Harnessing the Power of Stories in FB Networks</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-advanced-tips-for-recording-google-voice-dialogues-for-2024/"><u>[New] Advanced Tips for Recording Google Voice Dialogues for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-convert-and-save-webcam-images-in-vlc/"><u>[New] Convert and Save Webcam Images in VLC</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-the-ultimate-guide-to-excellent-cricket-broadcasting/"><u>[Updated] 2024 Approved The Ultimate Guide to Excellent Cricket Broadcasting</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-top-5-economical-game-ready-keyboards/"><u>[Updated] 2024 Approved Top 5 Economical Game-Ready Keyboards</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-direct-live-broadcasting-obs-to-instagram-for-2024/"><u>[Updated] Direct Live Broadcasting OBS to Instagram for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-exploring-the-top-10-budget-friendly-youtube-spaces-for-artistry/"><u>[Updated] Exploring the Top 10 Budget-Friendly YouTube Spaces for Artistry</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-navigating-the-nuances-of-ps4-live-gaming-recordings/"><u>[Updated] Navigating the Nuances of PS4 Live Gaming Recordings</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-your-go-to-list-of-international-adventure-vids/"><u>2024 Approved Your Go-To List of International Adventure Vids</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/boosting-operability-win11w8w7-via-mf4770n-update/"><u>Boosting Operability: Win11/W8/W7 via MF4770n Update</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/expert-analysis-of-the-genius-widecam-f100-a-look-at-visuals-and-acoustics/"><u>Expert Analysis of the Genius WideCam F100 - A Look at Visuals and Acoustics</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-transforming-your-business-with-smart-smm-tactics/"><u>In 2024, Transforming Your Business with Smart SMM Tactics</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/the-complete-guide-to-vivo-t2-5g-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Vivo T2 5G FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-iconic-instagram-aesthetics-compilation/"><u>[New] Iconic Instagram Aesthetics Compilation</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-a-list-nintendo-switch-fighter-titles-max-156/"><u>[Updated] In 2024, A-List Nintendo Switch Fighter Titles (Max 156)</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-exclusive-list-of-budget-friendly-video-conferencing-tools/"><u>[Updated] In 2024, Exclusive List of Budget-Friendly Video Conferencing Tools</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-professional-tips-for-efficient-screen-casting-in-meet-for-2024/"><u>[Updated] Professional Tips for Efficient Screen Casting in Meet for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-unlocking-smooth-twitch-video-captures/"><u>[Updated] Unlocking Smooth Twitch Video Captures</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-google-frp-on-v30-lite-5g-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass Google FRP on V30 Lite 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-14-pro-to-other-iphone-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 14 Pro to other iPhone devices? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/is-the-lenovo-yoga-book-9i-the-breakthrough-for-dual-screen-laptop-innovation-weve-been-waiting-for-explore/"><u>Is the Lenovo Yoga Book 9I the Breakthrough for Dual-Screen Laptop Innovation We've Been Waiting For? - Explore</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/latest-guide-how-to-bypass-infinix-smart-7-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Infinix Smart 7 FRP Without Computer</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/professional-screencapture-for-windows-11-for-2024/"><u>Professional ScreenCapture for Windows 11 for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/troubleshooting-and-resolving-usb-connection-errors-on-260ci-wia-drives/"><u>Troubleshooting and Resolving USB Connection Errors on 260CI WiA Drives</u></a></li>
 </ul></div>
 

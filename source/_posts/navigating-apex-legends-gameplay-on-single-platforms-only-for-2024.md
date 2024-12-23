@@ -1,7 +1,7 @@
 ---
 title: "Navigating Apex Legends Gameplay on Single Platforms Only for 2024"
-date: 2024-08-09T13:56:40.390Z
-updated: 2024-08-10T13:56:40.390Z
+date: 2024-12-17T09:40:17.682Z
+updated: 2024-12-23T01:25:09.567Z
 tags: 
   - screen-recording
   - ai video
@@ -19,18 +19,12 @@ thumbnail: https://thmb.techidaily.com/f060aa48894ea1b017bf8a4af8da622e4076e35a6
 
 # Apex Legends Crossplay: How to Turn it Off & Platform Choosing Guide
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
 
  Mar 27, 2024• Proven solutions
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/apex-poster.png)
 
 From the past few months, a few questions are asked: Can we crossplay in Apex Legends? How to disable crossplay? How about cross-progression? Further, which platform is the best to play on? What's the difference between Steam and Origin?
@@ -71,9 +65,6 @@ Firstly, crossplay is enabled by default. Assume now you're playing apex on PS4/
 
 Step1, to disable it, you need to go to the setting button at the lobby's right bottom, as shown below.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ape-setting1](https://images.wondershare.com/filmora/article-images/apex-setting1.png)
 
 Step 2, under the gameplay tab, scroll down, and you can find cross-platform play.![apex-setting2](https://images.wondershare.com/filmora/article-images/apex-setting2.png)
@@ -96,9 +87,6 @@ If you want to get Apex's best experience on Xbox consoles, you should play it o
 
 **Xbox Series X and S**
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/xbox-seriesx.jpg) Xbox series S and X are the latest generations of Xbox. They rival their competitor PS5 and offer competitive performance when you compare these consoles with a PS5\. They do offer better gaming performance and better graphics. But, the question is, Can you play Apex on the latest generations of Xbox? The answer is yes. You will get better performance in terms of graphics and FPS but currently, the game isn't fully optimized for the latest generations. In the coming days it is expected that the game will be optimized for the latest consoles and you can enjoy the game to the fullest. Currently, you can enjoy 1440p gaming on these consoles and can get up to 120fps.
 
 **Sony PlayStation 4**
@@ -128,9 +116,6 @@ PC Requirements For Apex Legends:
 
 **Nintendo Switch**
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  ![](https://images.wondershare.com/filmora/article-images/Apex-switch.png)
 
 On March 9, 2021, EA released a version of this game for Nintendo switch. Currently, it is playable on the switch, and you can only match up with switch players, but soon it will be available to play with cross-platform support. It is a big achievement for EA to make this game playable on a small screen.
@@ -151,9 +136,6 @@ Bonus：Want to record and edit your wonderful Apex gameplay? Give it a go on Wo
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -162,12 +144,35 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-cheap-microphones-for-youtubers-on-a-budget/"><u>[New] 2024 Approved Cheap Microphones for Youtubers on a Budget</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-efficient-laptop-recording-with-top-screenrec-tools-for-2024/"><u>[New] Efficient Laptop Recording with Top ScreenRec Tools for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-eyesharp-record-chromeos-native-cam/"><u>[New] In 2024, EyeSharp Record ChromeOS Native Cam</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-precision-techniques-the-most-essential-8-tools-for-microphone-and-speaker-recording/"><u>[New] Precision Techniques The Most Essential 8 Tools for Microphone & Speaker Recording</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-canon-tips-for-effective-time-lapse-photography/"><u>[Updated] Canon Tips for Effective Time-Lapse Photography</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-crafting-sections-in-vimeo-videos-for-2024/"><u>[Updated] Crafting Sections in Vimeo Videos for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-easywebcamusage-recordingtipsandtricks/"><u>[Updated] In 2024, EasyWebCamUsage RecordingTipsAndTricks</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-prime-top-5-weightless-action-recording-units/"><u>[Updated] Prime Top 5 Weightless Action Recording Units</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-top-5-hidden-gems-to-watch-insta-stories/"><u>2024 Approved Top 5 Hidden Gems to Watch Insta Stories</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/broadcast-battles-obs-clashes-with-shadowgl/"><u>Broadcast Battles OBS Clashes with ShadowGL</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effortless-bavarder-integration-for-linux-aficionados/"><u>Effortless Bavarder Integration for Linux Aficionados</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-honor-x50-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Honor X50 | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-navigate-past-edgenuity-stealthy-study-strategies/"><u>In 2024, Navigate Past Edgenuity Stealthy Study Strategies</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-offline-adventures-top-10-android-journeys-without-connectivity/"><u>In 2024, Offline Adventures Top 10 Android Journeys Without Connectivity</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/obs-or-streamlabs-experts-take-on-best-live-broadcast-software-for-2024/"><u>OBS or Streamlabs? Expert's Take on Best Live Broadcast Software for 2024</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/step-by-step-guide-converting-protected-pdb-files-into-editable-pdf-documents/"><u>Step-by-Step Guide: Converting Protected PDB Files Into Editable PDF Documents</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/take-full-page-screen-images/"><u>Take Full-Page Screen Images</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

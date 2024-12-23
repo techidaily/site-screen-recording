@@ -1,7 +1,7 @@
 ---
 title: "[New] Bilateral Screen Tracking"
-date: 2024-12-10T09:45:43.377Z
-updated: 2024-12-14T00:58:12.275Z
+date: 2024-12-21T04:46:52.368Z
+updated: 2024-12-22T23:32:05.091Z
 tags: 
   - screen-recording
   - ai video
@@ -31,6 +31,10 @@ If you would like to capture footage from multiple monitors, but you are not sur
 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### The All-in-One Screen Recorder & Video Editor
 
 * Record desktop screen, voiceover, and webcam simultaneously
@@ -49,11 +53,11 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Record Multiple Monitors
@@ -63,7 +67,7 @@ The first step towards setting up a screencasting session with multiple displays
 Head over to the Start Menu, and open the Control Panel. Select the 'Adjust Screen Resolution' option in the Appearance and Personalization menu, and then click on the Multiple Displays drop-down menu. Pick the 'Extend These Displays' option from the list and proceed to save the changes by clicking on the OK button.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Recording Multiple Monitors With [OBS Studio](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -81,6 +85,10 @@ Go to OBS Studio's main window and click on the Settings button in the lower rig
 Sum up the two values of the wider sides of the screens and insert the value you get into the Base Resolution bar. For example, if one monitor has a 1366X768 resolution and the second one has a 1024X768 resolution, you should add 1024 to the 1366 and insert the resulting value (2390) as the wide resolution value in Base Resolution Bar.
 
 Save the changes you've made, and then drag the screens to arrange them. You can start recording multiple monitors with OBS Studio by clicking on the Start Recording button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Capturing Multiple Monitor Displays with Camtasia
 
@@ -107,15 +115,7 @@ In case that you want to record your secondary monitor, we recommend you to try 
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Max Wales
 
@@ -132,18 +132,21 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-capturing-slide-decks-via-webcam-a-step-by-step-guide/"><u>[New] 2024 Approved Capturing Slide Decks via Webcam A Step-by-Step Guide</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-transforming-videos-with-unprecedented-clarity-using-vce-22/"><u>[New] 2024 Approved Transforming Videos with Unprecedented Clarity Using VCE 2.2</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-detailed-look-logitechs-elite-4k-webcam-review/"><u>[New] Detailed Look Logitech’s Elite 4K Webcam Review</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-the-complete-package-of-top-zoom-capturing-gear/"><u>[New] The Complete Package of Top Zoom Capturing Gear</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-drone-lighting-tunes-with-dji-mini-2air-2s-no-cost/"><u>[Updated] Drone Lighting Tunes with DJI Mini 2/Air 2S (No Cost)</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-free-video-conferencing-excellence-plus-screen-sharing-guide/"><u>[Updated] Free Video Conferencing Excellence + Screen Sharing Guide</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-navigating-the-short-form-space-youtubes-bite-vs-tiktok-written-by-a-marketing-analyst-with-expertise-in-social-media-trends-and-platforms/"><u>[Updated] Navigating the Short-Form Space YouTube's Bite Vs. TikTok' Written by a Marketing Analyst with Expertise in Social Media Trends and Platforms</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-ultimate-non-twitter-social-sites-of-the-year/"><u>[Updated] Ultimate Non-Twitter Social Sites of the Year</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-from-shared-laughter-to-your-storage-twitters-gif-guide/"><u>2024 Approved From Shared Laughter to Your Storage Twitter's GIF Guide</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/harmonizing-windows-11-8-7-and-mf4770n-for-efficiency/"><u>Harmonizing Windows 11, 8, 7 & MF4770n for Efficiency</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/innovative-approaches-adding-borders-to-your-instagram-content-for-2024/"><u>Innovative Approaches Adding Borders to Your Instagram Content for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722859762687-ipad-specials-and-sales-up-to-the-minute-offers-inside/"><u>IPad Specials and Sales – Up-to-the-Minute Offers Inside!</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/realms-of-play-top-10-costless-online-roleplayers-for-2024/"><u>Realms of Play Top 10 Costless Online Roleplayers for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-balancing-act-volume-control-techniques-for-logic-pro-x-for-2024/"><u>[New] Balancing Act Volume Control Techniques for Logic Pro X for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-choreographed-battle-top-5-martial-arts-video-game-list-for-2024/"><u>[New] Choreographed Battle Top 5 Martial Arts Video Game List for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-from-setup-to-masterpiece-the-comprehensive-tutorial-for-zoom-based-audio-recordings-for-2024/"><u>[New] From Setup to Masterpiece The Comprehensive Tutorial for Zoom-Based Audio Recordings for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-gamelog-analysts-guide-for-2024/"><u>[New] GameLog Analyst's Guide for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-ultimate-guide-to-securing-photographic-backdrops/"><u>[New] In 2024, Ultimate Guide to Securing Photographic Backdrops</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-flip-your-video-frames-effortlessly-with-vlc/"><u>[Updated] 2024 Approved Flip Your Video Frames Effortlessly with VLC</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-top-9-secure-virtual-meeting-solutions-for-startups/"><u>[Updated] 2024 Approved Top 9 Secure Virtual Meeting Solutions for Startups</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-ultimate-free-viewer-cam-parties/"><u>[Updated] 2024 Approved Ultimate Free Viewer Cam Parties</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-the-loop-life-tips-to-make-your-boomerangs-addictive/"><u>[Updated] In 2024, The Loop Life Tips to Make Your Boomerangs Addictive</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-a-comprehensive-guide-to-ps3-gameplay-recording/"><u>2024 Approved A Comprehensive Guide to PS3 Gameplay Recording</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-asus-rog-phone-8-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Asus ROG Phone 8 | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-honor-x9b-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Honor X9b? | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-journey-of-joyrides-top-6-easy-mc-habitats-revealed/"><u>In 2024, Journey of Joyrides Top 6 Easy MC Habitats Revealed</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-nokia-xr21-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Nokia XR21</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/the-3-essential-voice-logging-tactics-for-ipad/"><u>The 3 Essential Voice Logging Tactics for iPad</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlock-your-potential-with-openais-bespoke-gpt-tools/"><u>Unlock Your Potential with OpenAI's Bespoke GPT Tools</u></a></li>
 </ul></div>
 
