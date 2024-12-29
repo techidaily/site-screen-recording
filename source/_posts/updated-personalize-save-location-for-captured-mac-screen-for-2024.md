@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Personalize Save Location for Captured Mac Screen for 2024"
-date: 2024-12-21T08:00:13.667Z
-updated: 2024-12-22T20:52:26.877Z
+date: 2024-12-27T17:26:10.509Z
+updated: 2024-12-28T16:41:00.197Z
 tags: 
   - screen-recording
   - ai video
@@ -32,7 +32,7 @@ Here's how you can change the location where the screenshots you take using the 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The All-in-One Screen Recorder & Video Editor
@@ -53,11 +53,11 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to Save Screenshots to a Specific Folder on Mac
@@ -66,10 +66,6 @@ Changing the folder where you store your screenshots is not an irreversible proc
 
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Create a new folder on the desired location on your hard drive, and then launch Terminal, by typing Terminal in the Search Box and clicking on its icon. Once the app is open, you should insert the following command into the Terminal window:
 
 **defaults write com.apple.screencapture location**
@@ -77,6 +73,10 @@ Create a new folder on the desired location on your hard drive, and then launch 
 Then enter a space at the end after 'location'.
 
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The next step is to add the new location at which screenshots will be saved and you can do this by simply dragging the folder you created into Terminal and adding it at the end of the command you just entered. A path is created and the command line should now contain the folder's unique location and it should look like this:
 
@@ -87,10 +87,6 @@ To execute the command you have to press Enter. After Terminal finishes running 
 **killall SystemUIServer**
 
 Hit Enter once more to confirm the changes and run the new command. Close Terminal app by clicking on the Terminal menu and selecting the Quick Terminal option. The default location where the screenshots are saved on your Mac is now changed and every time you take a screenshot using the Command + Shift + 3 shortcut the file will be saved at the new location. If for whatever reason you want to make the Desktop once again the destination where the screenshots on your computer will be saved here's how you can do it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: How to Change the Screenshot Save Location Back to Desktop
 
@@ -103,6 +99,10 @@ Make sure that your username is properly written, and then press Enter to run th
 Don't forget that deleting the folder you use as a default location for storing screenshots should only be done using the process we just described in the Terminal application, since all other methods may cause unnecessary trouble.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Max Wales
 
@@ -119,18 +119,18 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-virtual-journeys-ultimate-listing-of-10-free-mmorpg-games/"><u>[New] 2024 Approved Virtual Journey's Ultimate Listing of 10 Free MMORPG Games</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-5-top-tier-gaming-displays-in-4k-quality/"><u>[New] 5 Top-Tier Gaming Displays in 4K Quality</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-novice-cinematographers-initial-work-analysis-and-replacements/"><u>[New] Novice Cinematographer's Initial Work Analysis & Replacements</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-top-5-affordable-gaming-mice-and-keyboards-99plus/"><u>[New] Top 5 Affordable Gaming Mice & Keyboards $99+</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-evaluating-the-tech-behind-your-memories-the-mycam-cam-reviewed-for-2024/"><u>[Updated] Evaluating the Tech Behind Your Memories The MyCam Cam Reviewed for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-the-complete-hulu-recording-manual-for-pc-mac-and-mobile-users/"><u>[Updated] In 2024, The Complete Hulu Recording Manual for PC, Mac & Mobile Users</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-realities-redefined-the-metaverse-vs-omniverse-showdown-explained/"><u>2024 Approved Realities Redefined The Metaverse Vs. Omniverse Showdown Explained</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/explore-the-world-of-professional-streaming-with-manycam-your-ultimate-livestream-camera-and-effects-suite/"><u>Explore the World of Professional Streaming with ManyCam - Your Ultimate Livestream Camera and Effects Suite</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-unlocking-the-art-of-extended-frame-shooting/"><u>In 2024, Unlocking the Art of Extended Frame Shooting</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/pioneering-personalized-voices-on-ps-games-for-2024/"><u>Pioneering Personalized Voices on PS Games for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Motorola Razr 40 | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-for-overcoming-modern-warfares-mw-deverror-6034-playstation-and-pc-strategies/"><u>Troubleshooting Tips for Overcoming Modern Warfare's MW DEV_ERROR 6034 - PlayStation & PC Strategies</u></a></li>
-<li><a href="https://win11.techidaily.com/unveiling-the-veiled-viewer-steps-to-engage-with-windows-hidden-character-tracker/"><u>Unveiling the Veiled Viewer: Steps to Engage with Windows’ Hidden Character Tracker</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-cross-platform-movie-recording-pc-mac-and-mobile/"><u>[New] Cross-Platform Movie Recording PC, Mac & Mobile</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-peeking-into-apeaksofts-2023-screen-recording-features-for-2024/"><u>[New] Peeking Into Apeaksoft’s 2023 Screen Recording Features for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2023-top-10-facebook-video-players/"><u>[Updated] 2023 | Top 10 Facebook Video Players</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-how-to-make-money-on-vimeo-your-ultimate-guide-to-vimeo-monetization/"><u>[Updated] 2024 Approved How to Make Money on Vimeo Your Ultimate Guide to Vimeo Monetization</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-the-fundamentals-of-synchronizing-audio-and-video-in-screencasts/"><u>[Updated] 2024 Approved The Fundamentals of Synchronizing Audio and Video in Screencasts</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-twitch-live-recording-made-simple/"><u>[Updated] In 2024, Twitch Live Recording Made Simple</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-unleash-your-creativity-macs-finest-screen-capture-programs-free/"><u>[Updated] In 2024, Unleash Your Creativity Mac's Finest Screen Capture Programs (FREE)</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-introducing-the-ultimate-intro-edits-app-of-2023/"><u>2024 Approved Introducing the Ultimate Intro Edits App of 2023</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ggers-guide-to-camera-lenses-wondershare-filmora-for-2024/"><u>A Vlogger's Guide To Camera Lenses | Wondershare Filmora for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/bypassing-youtubes-copyright-strike-legal-strategies-and-precautions/"><u>Bypassing YouTube's Copyright Strike Legal Strategies and Precautions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/forest-fears-and-ai-can-conversations-keep-you-safe-outside/"><u>Forest Fears & AI: Can Conversations Keep You Safe Outside?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-the-steam-refund-policy-a-comprehensive-guide-for-gamers/"><u>Navigating the Steam Refund Policy: A Comprehensive Guide for Gamers</u></a></li>
+<li><a href="https://article-posts.techidaily.com/the-cutting-edge-of-content-tips-for-the-trendy-tiktoker/"><u>The Cutting Edge of Content Tips for the Trendy TikToker</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Getting Comfortable with Zoom  A Beginner’s Tutorial\""
-date: 2024-12-21T03:56:21.776Z
-updated: 2024-12-23T00:06:15.730Z
+date: 2024-12-25T16:29:04.370Z
+updated: 2024-12-28T23:54:49.580Z
 tags: 
   - screen-recording
   - ai video
@@ -33,6 +33,10 @@ Zoom grants you access to all the tools you are going to need in order to manage
 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### The All-in-One Screen Recorder & Video Editor
 
 * Record desktop screen, voiceover, and webcam simultaneously
@@ -50,10 +54,6 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is a Zoom Webinar?
 
 A webinar is simply an online seminar, but the term can also be used to denote collaborative services such as webcasts or peer-level web meetings. Zoom allows its users to purchase webinar add-ons that can have as many as 149 hosts and 10,000 attendees. Each of the plans enables the host or hosts to have an unlimited number of meetings, which means that you can run as many webinars as you want with Zoom.
@@ -62,13 +62,13 @@ The platform doesn’t allow its users to host webinars for free and you must pu
 
 ![Add Webinar to Zoom Plan](https://images.wondershare.com/filmora/article-images/add-webinar-on-zoom-pricing.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Furthermore, each of the available plans offers the cloud recording option, and you can get up to 3 TB of extra storage for an additional fee. Once you purchase a license you will also have to assign it to the owner of the Zoom account or the admin of a particular account. You can do this by heading over to the User Management menu and selecting the Users option. After you locate the user to which you would like to assign a webinar license, you should click on the Edit button at the end of the user’s row and click on the Webinar option in the Feature menu.
 
 ![Zoom Webinar Setting Editing](https://images.wondershare.com/filmora/article-images/zoom-webinar-setting-editing.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Optionally, you can choose the user’s role, specify their job title or add their location. When done, you should click on the Save button to confirm the changes you’ve made and proceed with the setup of your webinar.
 
@@ -79,6 +79,10 @@ Looking for some other webinar software? We’ve picked some of the best webinar
 After purchasing the Zoom’s webinar add-on you can schedule a new webinar. Simply sign in to the webinar portal, click on the Webinars option and then click on the Schedule a Webinar button.
 
 ![Zoom Schedule Webinar](https://images.wondershare.com/filmora/article-images/schedule-zoom-webinar.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You can then provide the information about the topic of the webinar, write a short description of the webinar that is going to be displayed at the registration page, set the time and date when the webinar is supposed to take place and specify how long the webinar is going to last.
 
@@ -98,10 +102,6 @@ The process of inviting panelists to a webinar is straightforward since you just
 
 ![Invite people to Zoom Webinar](https://images.wondershare.com/filmora/article-images/invite-people-to-zoom-webinar.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Zoom allows you to invite up to a hundred panelists to a webinar, and you just have to add their names and emails to the corresponding boxes and click on the checkbox next to the Send invitation to all newly added panelists immediately option.
 
 Click on the Save button to send invitations to panelists. Panelists on recurring webinars will be invited to all webinars in the series, but you can also add or remove panelists between two webinars.
@@ -114,10 +114,14 @@ Hosts of webinars that require registration must send the registration link to a
 
 ![Start Scheduled Zoom Webinar](https://images.wondershare.com/filmora/article-images/start-scheduled-zoom-webinar.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 To start a webinar, you should click on the Meetings tab, locate the webinar and click on the Start button.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Do Attendees Join a Zoom Webinar?
@@ -127,10 +131,6 @@ As an attendee of a Zoom webinar, you can either join a webinar through a regist
 In some cases, you can also gain access to the join link from the registration confirmation page and all you have to do is click on it to join a webinar.
 
 ![  Zoom Webinar Approve](https://images.wondershare.com/filmora/article-images/zoom-webinar-registration-approve.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Zoom offers the option to join a webinar manually, and you just have to locate the 9-digit webinar ID in the registration email, before signing in to your Zoom account from your computer or your Smartphone. Proceed to click on the Join a Meeting option, insert the 9-digit webinar ID and click Join. Provide your name and email address if the platform asks for this information and then click on the Join Webinar button.
 
@@ -165,18 +165,19 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-how-to-use-a-whiteboard-in-google-meet/"><u>[New] 2024 Approved How to Use a Whiteboard in Google Meet</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-premium-choices-the-very-best-tripods-for-high-definition-shooting/"><u>[New] In 2024, Premium Choices The Very Best Tripods for High Definition Shooting</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-optimal-cameras-for-slow-motion-film/"><u>[New] Optimal Cameras for Slow Motion Film</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-protect-your-live-streams-the-periscope-video-howto/"><u>[New] Protect Your Live Streams The Periscope Video HowTo</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-revolutionize-your-sales-approach-with-the-best-15-social-media-analyzers-for-2024/"><u>[New] Revolutionize Your Sales Approach with the Best 15 Social Media Analyzers for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-top-10-best-terraria-mods/"><u>[Updated] In 2024, Top 10 Best Terraria Mods</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-unveiling-the-most-exceptional-podcast-microphones/"><u>[Updated] In 2024, Unveiling the Most Exceptional Podcast Microphones</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-budget-friendly-choices-must-have-gopro-add-ons/"><u>2024 Approved Budget-Friendly Choices Must-Have GoPro Add-Ons</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-precisionsync-analyst-perspectives/"><u>2024 Approved PrecisionSync Analyst Perspectives</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/comprehensible-selection-the-10-affordable-video-conferencing-tools/"><u>Comprehensible Selection The 10 Affordable Video Conferencing Tools</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/lack-of-self-awareness-in-language-models/"><u>Lack of Self-Awareness in Language Models</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/pixelated-palaces-starter-designs-for-new-minecrafters/"><u>Pixelated Palaces Starter Designs for New Minecrafters</u></a></li>
-<li><a href="https://extra-information.techidaily.com/quick-tip-crafting-perfect-insta-collages/"><u>Quick Tip Crafting Perfect Insta Collages</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-demystifying-periscope-your-ultimate-learning-resource/"><u>[New] In 2024, Demystifying Periscope Your Ultimate Learning Resource</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-enhancing-collaboration-merging-the-benefits-of-zoom-and-skype/"><u>[Updated] 2024 Approved Enhancing Collaboration Merging the Benefits of ZOOM and SKYPE</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-high-definition-capture-best-pc-cameras-for-windows-11/"><u>[Updated] 2024 Approved High Definition Capture Best PC Cameras for Windows 11</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-speed-capturing-screens-with-sound/"><u>[Updated] 2024 Approved Speed Capturing Screens With Sound</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-audireview-listening-and-recording-evaluation/"><u>[Updated] In 2024, Audireview Listening & Recording Evaluation</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-capture-live-camera-feed-in-vlc-media-player/"><u>[Updated] In 2024, Capture Live Camera Feed in VLC Media Player</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-mastering-solo-podcast-production-for-top-spots/"><u>[Updated] In 2024, Mastering Solo Podcast Production for Top Spots</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/convenient-interaction-starting-a-skype-group-for-windowsmac-users-for-2024/"><u>Convenient Interaction Starting a Skype Group for Windows/Mac Users for 2024</u></a></li>
+<li><a href="https://win-lab.techidaily.com/efficiently-downsizing-storage-migrating-from-a-large-hdd-to-compact-ssd-in-windows-11/"><u>Efficiently Downsizing Storage: Migrating From a Large HDD to Compact SSD in Windows 11</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-nubia-red-magic-9-pro-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Nubia Red Magic 9 Pro to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-realme-narzo-60-pro-5g-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Realme Narzo 60 Pro 5G Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/photo-framing-made-easy-leading-apps-and-sites-reviewed-for-2024/"><u>Photo Framing Made Easy Leading Apps and Sites Reviewed for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/pinnacle-video-devices-for-windows-11-enthusiasts-for-2024/"><u>Pinnacle Video Devices for Windows 11 Enthusiasts for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-9-iphone-tools-expertly-watermarking-your-pics/"><u>Top 9 iPhone Tools Expertly Watermarking Your Pics</u></a></li>
 </ul></div>
 

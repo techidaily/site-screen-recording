@@ -1,7 +1,7 @@
 ---
 title: "\"CaptureCrafted  Expert Reviews on the Best Screen Recorders for 2024\""
-date: 2024-08-24T00:50:44.021Z
-updated: 2024-08-25T00:50:44.021Z
+date: 2024-12-24T16:24:22.862Z
+updated: 2024-12-28T17:37:33.907Z
 tags: 
   - screen-recording
   - ai video
@@ -41,17 +41,15 @@ Even though it is an online screen recorder, you have to download and install th
 
 Step 1: Open your web browser and visit “showmore.com”.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![showmore recorder start](https://images.wondershare.com/filmora/article-images/showmore-recorder-start.jpg)
 
 Step 2: Click on Start Recording button and the web launcher will get downloaded.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![showmore get downloaded](https://images.wondershare.com/filmora/article-images/showmore-get-downloaded.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 3: Install the web launcher and thereafter, come back to your web browser and click on Start Recording button again.
 
@@ -66,8 +64,9 @@ Step 6: Click on Pause button followed by Tick-Mark icon to stop recording. The 
 ![showmore stop recording](https://images.wondershare.com/filmora/article-images/showmore-stop-recording.jpg)
 
 <!-- affiliate ads begin -->
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Pros and Cons of ShowMore Recorder
 
 It is time for ShowMore screen recorder review. You should understand the strengths and weaknesses of the online recorder so that you can decide clearly if you should install it or opt for a better alternative. Here are the pros and cons of ShowMore Recorder that you should be aware of.
@@ -91,6 +90,10 @@ Cons –
 No video editing option available.
 
 Crashes while recording high-end games and videos.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Best Alternatives to ShowMore Recorder
 
@@ -132,6 +135,10 @@ We have stated that ShowMore recorder is not good enough for recording gameplay.
 
 ![nvidia shadow play gameplay recording](https://images.wondershare.com/filmora/article-images/nvidia-shadow-play-gameplay-recording.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Screencastify
 
 If you want to stick to an online screen recorder, Screencastify is a great alternative ShowMore Recorder. Screencastify comes as a browser extension and this makes it better than ShowMore. This is because there is no need to install web launcher and you can get instant access to the recorder from your web browser. It is perfect when you want to capture your browser activities, desktop activities, as well as, webcam video. Here are the key features of Screencastify.
@@ -143,64 +150,11 @@ If you want to stick to an online screen recorder, Screencastify is a great alte
 * Upload on Google Drive and share link instantly.
 * Very simple and easy user interface.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![screencastify](https://images.wondershare.com/filmora/article-images/screencastify.jpg)
 
-## Conclusion
-
-To summarize ShowMore screen recorder review for you, it is an outstanding free online screen recorder without any watermark. However, there is no video editing option available and it is not suitable for recording high-end games. We have suggested better alternatives such as Screencastify online browser extension recorder. The best alternative is Wondershare Filmora where you can record as well as edit video like a pro.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-* Record screen as well as webcam in PiP mode.
-* Record system audio as well as external mic audio.
-* Change various video recording settings as required.
-* Instantly edit the recorded video like a pro.
-* Add animations, elements, as well as, audio effects.
-* Import different types of file to add to the recorded video.
-* Export the edited video in different file formats.
-* Intuitive user interface and no performance issue.
-
-![pc screen record](https://images.wondershare.com/filmora/guide/recording-01.png)
-
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-### Nvidia ShadowPlay
-
-We have stated that ShowMore recorder is not good enough for recording gameplay. If you are looking for a dedicated screen recorder software for recording gameplay, Nvidia ShadowPlay is the best alternative to ShowMore recorder. Apart from recording your gameplay, you can watch instant replay of the last 30 seconds of your gameplay. You can save the replay and share online for a short video. Here are the key features of Nvidia ShadowPlay.
-
-* Record your screen and gameplay at 4K resolution.
-* Record screen and webcam with audio from different sources.
-* Instant replay and record at 4K and 60FPS.
-* Captures key moments and creates highlight videos.
-* You can capture screenshots and create GIFs.
-* Broadcasting your screen live on online platforms.
-
-![nvidia shadow play gameplay recording](https://images.wondershare.com/filmora/article-images/nvidia-shadow-play-gameplay-recording.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-### Screencastify
-
-If you want to stick to an online screen recorder, Screencastify is a great alternative ShowMore Recorder. Screencastify comes as a browser extension and this makes it better than ShowMore. This is because there is no need to install web launcher and you can get instant access to the recorder from your web browser. It is perfect when you want to capture your browser activities, desktop activities, as well as, webcam video. Here are the key features of Screencastify.
-
-* Record browser, desktop and webcam video.
-* Record microphone audio as well as system audio.
-* Real-time drawing options available.
-* Basic editing options present.
-* Upload on Google Drive and share link instantly.
-* Very simple and easy user interface.
-
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
-![screencastify](https://images.wondershare.com/filmora/article-images/screencastify.jpg)
 
 ## Conclusion
 
@@ -234,9 +188,6 @@ We have stated that ShowMore recorder is not good enough for recording gameplay.
 
 ![nvidia shadow play gameplay recording](https://images.wondershare.com/filmora/article-images/nvidia-shadow-play-gameplay-recording.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Screencastify
 
 If you want to stick to an online screen recorder, Screencastify is a great alternative ShowMore Recorder. Screencastify comes as a browser extension and this makes it better than ShowMore. This is because there is no need to install web launcher and you can get instant access to the recorder from your web browser. It is perfect when you want to capture your browser activities, desktop activities, as well as, webcam video. Here are the key features of Screencastify.
@@ -251,8 +202,13 @@ If you want to stick to an online screen recorder, Screencastify is a great alte
 ![screencastify](https://images.wondershare.com/filmora/article-images/screencastify.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 To summarize ShowMore screen recorder review for you, it is an outstanding free online screen recorder without any watermark. However, there is no video editing option available and it is not suitable for recording high-end games. We have suggested better alternatives such as Screencastify online browser extension recorder. The best alternative is Wondershare Filmora where you can record as well as edit video like a pro.
@@ -270,14 +226,12 @@ For macOS 10.12 or later
 * Export the edited video in different file formats.
 * Intuitive user interface and no performance issue.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![pc screen record](https://images.wondershare.com/filmora/guide/recording-01.png)
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Nvidia ShadowPlay
 
 We have stated that ShowMore recorder is not good enough for recording gameplay. If you are looking for a dedicated screen recorder software for recording gameplay, Nvidia ShadowPlay is the best alternative to ShowMore recorder. Apart from recording your gameplay, you can watch instant replay of the last 30 seconds of your gameplay. You can save the replay and share online for a short video. Here are the key features of Nvidia ShadowPlay.
@@ -289,14 +243,8 @@ We have stated that ShowMore recorder is not good enough for recording gameplay.
 * You can capture screenshots and create GIFs.
 * Broadcasting your screen live on online platforms.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![nvidia shadow play gameplay recording](https://images.wondershare.com/filmora/article-images/nvidia-shadow-play-gameplay-recording.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Screencastify
 
 If you want to stick to an online screen recorder, Screencastify is a great alternative ShowMore Recorder. Screencastify comes as a browser extension and this makes it better than ShowMore. This is because there is no need to install web launcher and you can get instant access to the recorder from your web browser. It is perfect when you want to capture your browser activities, desktop activities, as well as, webcam video. Here are the key features of Screencastify.
@@ -311,8 +259,58 @@ If you want to stick to an online screen recorder, Screencastify is a great alte
 ![screencastify](https://images.wondershare.com/filmora/article-images/screencastify.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Conclusion
+
+To summarize ShowMore screen recorder review for you, it is an outstanding free online screen recorder without any watermark. However, there is no video editing option available and it is not suitable for recording high-end games. We have suggested better alternatives such as Screencastify online browser extension recorder. The best alternative is Wondershare Filmora where you can record as well as edit video like a pro.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+* Record screen as well as webcam in PiP mode.
+* Record system audio as well as external mic audio.
+* Change various video recording settings as required.
+* Instantly edit the recorded video like a pro.
+* Add animations, elements, as well as, audio effects.
+* Import different types of file to add to the recorded video.
+* Export the edited video in different file formats.
+* Intuitive user interface and no performance issue.
+
+![pc screen record](https://images.wondershare.com/filmora/guide/recording-01.png)
+
+### Nvidia ShadowPlay
+
+We have stated that ShowMore recorder is not good enough for recording gameplay. If you are looking for a dedicated screen recorder software for recording gameplay, Nvidia ShadowPlay is the best alternative to ShowMore recorder. Apart from recording your gameplay, you can watch instant replay of the last 30 seconds of your gameplay. You can save the replay and share online for a short video. Here are the key features of Nvidia ShadowPlay.
+
+* Record your screen and gameplay at 4K resolution.
+* Record screen and webcam with audio from different sources.
+* Instant replay and record at 4K and 60FPS.
+* Captures key moments and creates highlight videos.
+* You can capture screenshots and create GIFs.
+* Broadcasting your screen live on online platforms.
+
+![nvidia shadow play gameplay recording](https://images.wondershare.com/filmora/article-images/nvidia-shadow-play-gameplay-recording.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+### Screencastify
+
+If you want to stick to an online screen recorder, Screencastify is a great alternative ShowMore Recorder. Screencastify comes as a browser extension and this makes it better than ShowMore. This is because there is no need to install web launcher and you can get instant access to the recorder from your web browser. It is perfect when you want to capture your browser activities, desktop activities, as well as, webcam video. Here are the key features of Screencastify.
+
+* Record browser, desktop and webcam video.
+* Record microphone audio as well as system audio.
+* Real-time drawing options available.
+* Basic editing options present.
+* Upload on Google Drive and share link instantly.
+* Very simple and easy user interface.
+
+![screencastify](https://images.wondershare.com/filmora/article-images/screencastify.jpg)
+
 ## Conclusion
 
 To summarize ShowMore screen recorder review for you, it is an outstanding free online screen recorder without any watermark. However, there is no video editing option available and it is not suitable for recording high-end games. We have suggested better alternatives such as Screencastify online browser extension recorder. The best alternative is Wondershare Filmora where you can record as well as edit video like a pro.
@@ -339,9 +337,26 @@ To summarize ShowMore screen recorder review for you, it is an outstanding free 
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-expertly-selected-asmr-tools-for-androidios/"><u>[New] 2024 Approved Expertly Selected ASMR Tools for Android/iOS</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-8-superior-windows-video-call-apps-ranked/"><u>[New] 8 Superior Windows Video Call Apps Ranked</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-detailed-analysis-vlc-for-video-capture/"><u>[New] Detailed Analysis VLC for Video Capture</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-resounding-beats-audio-studio-mac/"><u>[New] Resounding Beats Audio Studio Mac</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-the-ultimate-tutorial-for-iphone-voice-memo-for-2024/"><u>[New] The Ultimate Tutorial for iPhone Voice Memo for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-win-11s-prime-10-cam-recorder-guide-for-2024/"><u>[New] Win 11'S Prime 10 Cam Recorder Guide for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-crafting-instagram-reels-like-professionals-top-10-tools/"><u>[Updated] 2024 Approved Crafting Instagram Reels Like Professionals - Top 10 Tools</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-ensuring-your-zoom-appointments-match-iphoneandroidpc-calendars/"><u>[Updated] In 2024, Ensuring Your Zoom Appointments Match iPhone/Android/PC Calendars</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-effortless-techniques-for-saving-youtube-videos/"><u>2024 Approved Effortless Techniques for Saving YouTube Videos</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-exploring-the-best-iphone-selfie-tools-ranked-8/"><u>2024 Approved Exploring the Best iPhone Selfie Tools, Ranked #8</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-the-insiders-method-becoming-a-pro-at-fb-live-streaming/"><u>2024 Approved The Insider's Method Becoming a Pro at FB Live Streaming</u></a></li>
+<li><a href="https://win-special.techidaily.com/1728471402144-windows-103/"><u>外部ドライブ向けWindows 10データ保護：トップ3スキルミティゲーション</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/boosting-high-resolution-outputs-the-role-of-gpus-in-efficient-4k-and-hd-transcoding/"><u>Boosting High-Resolution Outputs: The Role of GPUs in Efficient 4K and HD Transcoding</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/expert-tips-swiftly-move-iphone-contact-info-onto-your-dell-computer/"><u>Expert Tips: Swiftly Move iPhone Contact Info Onto Your Dell Computer</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-efficient-methods-for-youtube-video-preservation/"><u>In 2024, Efficient Methods for YouTube Video Preservation</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-whatsapp-web-for-laptops-setting-up-remote-video-calls-step-by-step/"><u>In 2024, WhatsApp Web for Laptops Setting Up Remote Video Calls Step by Step</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/perfect-your-pitch-with-android-the-ultimate-list-of-voice-alteration-apps-for-2024/"><u>Perfect Your Pitch with Android The Ultimate List of Voice Alteration Apps for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/step-into-retro-gaming-with-top-5-ps1-emulators-for-pc-for-2024/"><u>Step Into Retro Gaming with Top 5 PS1 Emulators for PC for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016574908-troubleshooting-tips-fix-windows-11-audio-issues-solved/"><u>Troubleshooting Tips: Fix Windows 11 Audio Issues – Solved</u></a></li>
+</ul></div>
 
