@@ -1,7 +1,7 @@
 ---
 title: "[New] Change Saving Spot for Mac's Photos for 2024"
-date: 2024-12-24T01:03:11.518Z
-updated: 2024-12-28T18:37:53.956Z
+date: 2025-01-05T19:16:34.670Z
+updated: 2025-01-07T19:21:54.176Z
 tags: 
   - screen-recording
   - ai video
@@ -32,7 +32,7 @@ Here's how you can change the location where the screenshots you take using the 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The All-in-One Screen Recorder & Video Editor
@@ -53,7 +53,7 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to Save Screenshots to a Specific Folder on Mac
@@ -63,7 +63,7 @@ Changing the folder where you store your screenshots is not an irreversible proc
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Create a new folder on the desired location on your hard drive, and then launch Terminal, by typing Terminal in the Search Box and clicking on its icon. Once the app is open, you should insert the following command into the Terminal window:
@@ -75,7 +75,7 @@ Then enter a space at the end after 'location'.
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The next step is to add the new location at which screenshots will be saved and you can do this by simply dragging the folder you created into Terminal and adding it at the end of the command you just entered. A path is created and the command line should now contain the folder's unique location and it should look like this:
@@ -88,10 +88,6 @@ To execute the command you have to press Enter. After Terminal finishes running 
 
 Hit Enter once more to confirm the changes and run the new command. Close Terminal app by clicking on the Terminal menu and selecting the Quick Terminal option. The default location where the screenshots are saved on your Mac is now changed and every time you take a screenshot using the Command + Shift + 3 shortcut the file will be saved at the new location. If for whatever reason you want to make the Desktop once again the destination where the screenshots on your computer will be saved here's how you can do it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2: How to Change the Screenshot Save Location Back to Desktop
 
 The process of changing the default screenshot save location back to Desktop is nearly identical to the process we just described. You just have to open the Terminal app and insert the following command into the prompt.
@@ -103,6 +99,10 @@ Make sure that your username is properly written, and then press Enter to run th
 Don't forget that deleting the folder you use as a default location for storing screenshots should only be done using the process we just described in the Terminal application, since all other methods may cause unnecessary trouble.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Max Wales
 
@@ -119,18 +119,18 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-top-5-driving-and-race-replicas/"><u>[New] 2024 Approved Top 5 Driving & Race Replicas</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-how-to-record-edit-and-produce-high-quality-webcam-videos-for-2024/"><u>[New] How to Record, Edit and Produce High-Quality Webcam Videos for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-plex-vs-streaming-titanique-for-2024/"><u>[New] Plex vs Streaming Titanique for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-the-framework-for-exceptional-ppt-video-documentation-for-2024/"><u>[Updated] The Framework for Exceptional PPT Video Documentation for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-how-to-find-videos-on-facebook/"><u>2024 Approved How to Find Videos on Facebook?</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-step-by-step-finding-your-digital-filming-suite-on-youtube/"><u>2024 Approved Step-by-Step Finding Your Digital Filming Suite on YouTube</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-bypass-activation-lock-from-apple-iphone-13-by-drfone-ios/"><u>3 Effective Ways to Bypass Activation Lock from Apple iPhone 13</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1725287659890-dvd/"><u>耐久力あるDVDダウニングソフトを見つけよう。セキュアで信頼性高いツール集 - 「窓の杜」オススメリスト</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-the-craft-of-background-image-acquisition/"><u>In 2024, Mastering the Craft of Background Image Acquisition</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-the-ultimate-collection-5-outstanding-book-tts/"><u>In 2024, The Ultimate Collection 5 Outstanding Book TTs</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-top-8-techniques-for-capturing-pc-audio-and-mic-sounds/"><u>In 2024, Top 8 Techniques for Capturing PC Audio & Mic Sounds</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/insta-style-the-essential-guide-to-instagram-story-magnification/"><u>Insta Style The Essential Guide to Instagram Story Magnification</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209667362-9781547580095-meditacion-tecnicas-para-lograr-la-paz-reducir-el-estres-y-la-depresion/"><u>Meditación: Técnicas Para Lograr La Paz (Reducir El Estrés Y La Depresión) | Free Book</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-find-your-favorite-general-knowledge-quiz-channel-of-the-year-24/"><u>[New] 2024 Approved Find Your Favorite General Knowledge Quiz Channel of the Year, '24</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-efficient-way-to-broadcast-tiktok-videos-via-facebook/"><u>[New] Efficient Way to Broadcast TikTok Videos via Facebook</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/1716068810014-new-in-2024-capture-share-enjoy/"><u>[New] In 2024, Capture, Share, Enjoy!</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-innovative-choices-best-android-simulators-for-macpc-enthusiasts/"><u>[New] Innovative Choices Best Android Simulators for Mac/PC Enthusiasts</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-drive-engagement-not-farewells-top-strategies-to-keep-your-audience-hooked-on-youtube/"><u>[Updated] In 2024, Drive Engagement, Not Farewells Top Strategies to Keep Your Audience Hooked on YouTube</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-harmonizing-scores-with-cinematic-vision-in-film-trailers/"><u>[Updated] In 2024, Harmonizing Scores with Cinematic Vision in Film Trailers</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-effortless-pc-sound-logging-with-x-recorder-software/"><u>2024 Approved Effortless PC Sound Logging with X-Recorder Software</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-premium-virtual-meetup-software-titles/"><u>2024 Approved Premium Virtual Meetup Software Titles</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-ultimate-9-listing-best-virtual-microphones-recorders-2023/"><u>2024 Approved Ultimate 9 Listing Best Virtual Microphones Recorders 2023</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/easy-access-guide-skype-audio-to-mp3-free-for-2024/"><u>Easy-Access Guide Skype Audio to Mp3, Free for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/harmonyhook-tracker-extracting-sound-and-insights-for-2024/"><u>HarmonyHook Tracker Extracting Sound & Insights for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-aria-elimination-kit-compose-one-of-a-kind-background-scores-for-2024/"><u>New Aria Elimination Kit Compose One-of-a-Kind Background Scores for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/playscreen-media-app-review-for-2024/"><u>PlayScreen Media App Review for 2024</u></a></li>
 </ul></div>
 
