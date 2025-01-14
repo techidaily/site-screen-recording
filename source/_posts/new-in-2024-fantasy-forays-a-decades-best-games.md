@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Fantasy Forays  A Decade’s Best Games\""
-date: 2025-01-06T19:31:40.746Z
-updated: 2025-01-07T16:47:37.757Z
+date: 2025-01-06T20:53:30.372Z
+updated: 2025-01-14T02:42:43.886Z
 tags: 
   - screen-recording
   - ai video
@@ -70,9 +70,17 @@ In Darkest Dungeon, your misery is manifest all around you. The oppressive visua
 
 ![darkest-dungeon](https://images.wondershare.com/filmora/article-images/darkest-dungeon.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 It's one thing to defeat each dungeon's horrifying inhabitants in turn-based combat, but your party members should also be more than meat shields. Your expeditions will inevitably take a toll on your body and mind, and this is the main reason that makes Darkest Dungeon so challenging.
 
 Your tactical instincts will be put to the test when it comes to teamwork and resource allocation. This is undoubtedly one of the best roguelikes to be found.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **2.[Downwell](https://store.steampowered.com/app/360740/Downwell/)**
 
@@ -86,10 +94,6 @@ Only a couple of minutes to complete each run, this roguelike takes us on an adv
 
 Don't let its retro look fool you. This 2015 title is fast and intense, with a good amount of power-ups that boost your survivability. It is immediately enjoyable with its fast-paced downward action, but gaining mastery of its combat is no simple feat. Downwell is one of the best roguelikes out there, despite its intense difficulty. Its concise levels, satisfying combo system, and creative boss are among the roguelikes' best features.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **3\. [Dungeon Crawl Stone Soup](https://crawl.develz.org/)**
 
 **_Platforms:_** _Android, Web browser_
@@ -102,10 +106,6 @@ The successor to the 1997's roguelike Liney's Dungeon Crawl, Dungeon Crawl Stone
 
 Each item, class, spell, and trait in this community-developed game has hundreds of hidden interactions that just heighten your enjoyment every time you play. Each floor increases the game's difficulty, and as you go deeper, it becomes harder to decide whether to fight or flee.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **4\. [Hades](https://store.steampowered.com/app/1145360/Hades/)**
 
 **_Platforms:_**   _Nintendo Switch, macOS, Microsoft Windows, Macintosh operating systems_
@@ -116,14 +116,10 @@ Hades is a masterpiece when it comes to dungeon crawling and roguelike games. Yo
 
 ![hades](https://images.wondershare.com/filmora/article-images/hades.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Many blessings have been given to you by the gods of Olympus, but your quest is not an easy one. A game like this will enthrall you and entice you to keep playing until you get some better stuff for your characters. After each failure, you are resurrected in your own house, the House of Hades, where your friends and family await your following conversation. It is one of the best roguelike titles out there.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **5\. [Into the Breach](https://store.steampowered.com/app/590380/Into%5Fthe%5FBreach/)**
@@ -136,16 +132,12 @@ This is the second title developed and published by Subset Games. Their first ti
 
 ![into-the-breach](https://images.wondershare.com/filmora/article-images/into-the-breach.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 There's only one way to hold off their attack, and that is to enlist some giant mechs. But you'll have to agonize over every decision if you intend to keep your team intact. The more you progress through the game's islands, the more advanced equipment you'll find, so you can turn the tide of war and save humankind.
 
 This is one of the most accessible strategy games out there, and its straightforward combat won't offend novices, but you should expect something more challenging, though rewarding, from Into the Breach.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **6\. [Slay the Spire](https://store.steampowered.com/app/646570/Slay%5Fthe%5FSpire/)**
@@ -158,11 +150,11 @@ It foregoes combat mechanics solely in favor of strategy and premonition in a de
 
 ![slay-the-spire](https://images.wondershare.com/filmora/article-images/slay-the-spire.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 The game, released in 2017, has gained massive audience recognition thanks to its 10/10 Steam rating and over 60,00 reviews despite its simplistic art and simplistic interface. It is considered the best deck-builder roguelike in the market, so if you haven't tried it already, you miss out a lot.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **7\. [Crypt of the Necrodancer](https://store.steampowered.com/app/247080/Crypt%5Fof%5Fthe%5FNecroDancer/)**
 
@@ -184,7 +176,15 @@ Dead Cells is a 2D and Souls-inspired roguelike game. You revolve around procedu
 
 ![deadcells-poster](https://images.wondershare.com/filmora/article-images/deadcells-poster.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Various upgrades can be carried over between runs, generating a constant sense of progression. Because of this, starting a new run after a particularly messy boss fight doesn't sting quite as much as many other roguelike games might be. There are many different weapon types and perks to unlock in Dead Cells, making it more replayable and keeps it from being monotonous.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **9\. [The Binding of Isaac](https://store.steampowered.com/app/113200/The%5FBinding%5Fof%5FIsaac/)**
 
@@ -197,6 +197,10 @@ An indie roguelike developed by Super Meat Boy creator Edmund McMillen, The Bind
 ![binding-of-issac](https://images.wondershare.com/filmora/article-images/the-binding-of-isaac.png)
 
 In addition to some captivating gameplay, the game contains some compelling storytelling, with Biblical references providing a nice hint of lore. Although decisions are essential in roguelikes, you may also need to be quick with your reaction times with some bullet hell-style bosses.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **10\. [Otherworld Legends](https://play.google.com/store/apps/details?id=com.chillyroom.zhmr.gp&hl=en&gl=US)**
 
@@ -218,10 +222,6 @@ The Otherworld Legends game is incredibly entertaining to play with beautiful gr
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -239,20 +239,20 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-epic-visual-storyteller-suite-top-tier-for-2024/"><u>[New] Epic Visual Storyteller Suite - Top Tier for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-live-stream-to-screen-seamlessly-reviewed-for-2024/"><u>[New] Live-Stream to Screen, Seamlessly Reviewed for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-nextgen-videotron-app-evaluation/"><u>[Updated] In 2024, NextGen Videotron App Evaluation</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-premium-choice-top-12-apps-with-no-time-limit-feature/"><u>2024 Approved Premium Choice Top 12 Apps with No Time Limit Feature</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/advanced-setup-setting-up-an-elapsed-time-display-in-obs-for-2024/"><u>Advanced Setup Setting up an Elapsed Time Display in OBS for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/digital-vault-for-internet-streams-a-recording-blueprint/"><u>Digital Vault for Internet Streams A Recording Blueprint</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/essential-tips-for-recording-ps4-games-with-obs-for-2024/"><u>Essential Tips for Recording PS4 Games with OBS for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-artificial-intelligence-prompts-what-are-they-and-how-do-they-function/"><u>Exploring Artificial Intelligence Prompts: What Are They and How Do They Function?</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/from-play-to-pro-setting-up-a-ps4-game-broadcast-hub/"><u>From Play to Pro Setting up a PS4 Game Broadcast Hub</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-your-apple-iphone-se-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your Apple iPhone SE? | Dr.fone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-best-affordable-pc-cases-and-accessories-under-100/"><u>In 2024, Best Affordable PC Cases & Accessories (Under $100)</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-from-cloudy-to-crisp-how-to-remove-background-in-picsart/"><u>In 2024, From Cloudy to Crisp How to Remove Background in Picsart</u></a></li>
-<li><a href="https://extra-information.techidaily.com/professionals-choice-select-the-best-15-tripodsmounts-for-gopro/"><u>Professional's Choice Select the Best 15 Tripods/Mounts for GoPro</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-your-guide-to-diagnosing-and-fixing-faulty-usb-connections-easily/"><u>Solved! Your Guide to Diagnosing and Fixing Faulty USB Connections Easily</u></a></li>
-<li><a href="https://article-posts.techidaily.com/strategy-cradle-nurturing-market-gains/"><u>Strategy Cradle Nurturing Market Gains</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-10-best-zoom-alternatives-deskop-and-mobile-for-2024/"><u>[New] 10 Best Zoom Alternatives [Deskop & Mobile] for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-the-insta-twist-techniques-manual-flipping-photos-and-videos-for-social-media-success/"><u>[New] 2024 Approved The Insta Twist Techniques Manual Flipping Photos and Videos for Social Media Success</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/iscover-the-best-8-mirrorless-cameras-that-transform-vlogging-for-2024/"><u>[New] Discover the Best 8 Mirrorless Cameras That Transform Vlogging for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-excellent-pc-screen-grabbers-the-most-useful-1-5/"><u>[New] Excellent PC Screen Grabbers The Most Useful #1-#5</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-windows-10s-premier-choice-of-video-grabber-software/"><u>[New] Windows 10'S Premier Choice of Video Grabber Software</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-guide-to-captivating-gmeet-audiences-with-flawless-ppt-presentations/"><u>[Updated] Guide to Captivating GMeet Audiences with Flawless PPT Presentations</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-shoguns-call-a-list-of-top-10-games-reflecting-tsushi-values-for-2024/"><u>[Updated] Shogun's Call A List of Top 10 Games Reflecting Tsushi Values for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-webcamwizardry-techniquesforperfectrecordings-for-2024/"><u>[Updated] WebCamWizardry TechniquesForPerfectRecordings for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/apple-complies-with-class-action-settlement-eligible-macbook-users-receive-payments-now/"><u>Apple Complies with Class Action Settlement: Eligible MacBook Users Receive Payments Now</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-honor-x50-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Honor X50? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-insights-into-new-gadgets-with-toms-computing-hub/"><u>Expert Insights Into New Gadgets with Tom's Computing Hub</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-damage-to-the-file-was-so-extensive-excel-error-by-stellar-guide/"><u>How to fix damage to the file was so extensive Excel error?</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-no-imovie-no-problem-top-5-free-online-video-editors/"><u>New 2024 Approved No iMovie? No Problem! Top 5 Free Online Video Editors</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/survivals-thrill-top-picks-for-heart-pounding-zombie-games-for-2024/"><u>Survival's Thrill Top Picks for Heart-Pounding Zombie Games for 2024</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/transform-your-pcs-look-a-step-by-step-guide-to-customizing-windows-11-display-preferences-tips-from-yl-computing/"><u>Transform Your PC's Look: A Step-by-Step Guide to Customizing Windows 11 Display Preferences - Tips From YL Computing</u></a></li>
 </ul></div>
 

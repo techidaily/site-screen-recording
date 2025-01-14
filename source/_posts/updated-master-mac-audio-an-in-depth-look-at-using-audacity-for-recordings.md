@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Master Mac Audio  An In-Depth Look at Using Audacity for Recordings\""
-date: 2024-12-31T18:33:52.412Z
-updated: 2025-01-07T16:52:10.802Z
+date: 2025-01-07T16:35:25.485Z
+updated: 2025-01-13T19:45:14.568Z
 tags: 
   - screen-recording
   - ai video
@@ -33,16 +33,12 @@ Step 1: Visit [Audacity Download](https://www.audacityteam.org/download/mac/) pa
 
 ![step2 dmg file](https://images.wondershare.com/filmora/article-images/step2-dmg-file.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Alternatively, you can go to FossHub and search for Audacity and download the latest Audacity macOS DMG file.
 
 ![fosshub](https://images.wondershare.com/filmora/article-images/fosshub.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 3: Once the downloading of the file is complete, double-click on the downloaded “Audacity macOS DMG” file to start installing the file. You can also find the file under Downloads from Finder.
@@ -66,17 +62,21 @@ Step 3: Go to Tracks menu option and go to Add New. Here, you have to select eit
 ![go to tracks menu](https://images.wondershare.com/filmora/article-images/go-to-tracks-menu.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 4: Now, you are ready to start recording your audio through microphone using Audacity. Click on Record button at the top bar. The recording will start immediately and you will see audiograph of your audio which shows that your voice is getting recorded.
 
 ![ready to start](https://images.wondershare.com/filmora/article-images/ready-to-start.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 5: When you are done, click on Stop button at the top bar.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Alternative way to record sound on Mac
@@ -119,6 +119,10 @@ Step 4: Click on Record button to start recording. You will get a buffer time to
 
 Step 5: Click on Stop button or use F9 key again to stop recording. You can edit and export the recorded audio with video to save on your computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 If you are looking for a free audio recorder on Mac, Audacity fits in perfectly. However, there are several drawbacks of Audacity Mac and its operation is not as easy as any other audio recorder. That is why we recommend Wondershare Filmora as an alternative to Audacity Mac as it takes care of all the issues on Audacity and offers better features and functionalities.
@@ -142,7 +146,7 @@ Step 1: Download and install Wondershare Filmora. Launch the application and sel
 ![pc screen](https://images.wondershare.com/filmora/article-images/pc-screen.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 2: From Recording window, set the video recording screen size as per your requirement.
@@ -179,19 +183,11 @@ Step 1: Download and install Wondershare Filmora. Launch the application and sel
 
 ![pc screen](https://images.wondershare.com/filmora/article-images/pc-screen.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2: From Recording window, set the video recording screen size as per your requirement.
 
 Step 3: Make sure the system audio is turned on and correctly selected beside the recording screen size. If you want to record microphone sound as well, turn it on and select it correctly.
 
 ![select](https://images.wondershare.com/filmora/article-images/select.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 4: Click on Record button to start recording. You will get a buffer time to get your screen ready.
 
@@ -221,10 +217,6 @@ Step 1: Download and install Wondershare Filmora. Launch the application and sel
 
 ![pc screen](https://images.wondershare.com/filmora/article-images/pc-screen.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2: From Recording window, set the video recording screen size as per your requirement.
 
 Step 3: Make sure the system audio is turned on and correctly selected beside the recording screen size. If you want to record microphone sound as well, turn it on and select it correctly.
@@ -235,7 +227,15 @@ Step 4: Click on Record button to start recording. You will get a buffer time to
 
 ![record button](https://images.wondershare.com/filmora/article-images/record-button.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 5: Click on Stop button or use F9 key again to stop recording. You can edit and export the recorded audio with video to save on your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -265,22 +265,20 @@ If you are looking for a free audio recorder on Mac, Audacity fits in perfectly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-easy-steps-for-logging-vimeo-media/"><u>[New] 2024 Approved Easy Steps for Logging Vimeo Media</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-virtual-adrenaline-rushes-top-10-without-gta-for-2024/"><u>[New] Virtual Adrenaline Rushes - Top 10 Without GTA for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-unlock-clear-shots-instagram-storys-in-and-out-tactics/"><u>[Updated] Unlock Clear Shots Instagram Story's In and Out Tactics</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-beginning-your-first-fb-giveaway-announcement/"><u>2024 Approved Beginning Your First FB Giveaway Announcement</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-how-to-record-audio-with-audacity-on-mac/"><u>2024 Approved How to Record Audio with Audacity on Mac?</u></a></li>
-<li><a href="https://games-able.techidaily.com/buying-fortnite-v-bucks-for-sony-psp5-console/"><u>Buying Fortnite V-Bucks for Sony PSP5 Console</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/enhancing-visual-storytelling-with-impeccable-voice-over-for-2024/"><u>Enhancing Visual Storytelling with Impeccable Voice Over for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/essential-10-no-cost-video-conference-platforms-worklearn-edition/"><u>Essential 10 No-Cost Video Conference Platforms Work/Learn Edition</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-11-to-other-iphone-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 11 To Other iPhone? | Dr.fone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-democracy-dashboard-top-5-voting-simulation-titles/"><u>In 2024, Democracy Dashboard Top 5 Voting Simulation Titles</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-ios-screen-capture-a-comparative-analysis/"><u>In 2024, IOS Screen Capture A Comparative Analysis</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-shambling-successes-the-cutthroat-list-of-best-zombies-gaming/"><u>In 2024, Shambling Successes The Cutthroat List of Best Zombies Gaming</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-vivo-v27-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Vivo V27 for Streaming | Dr.fone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-top-5-ios-apps-for-seamless-psp-gaming-experience/"><u>In 2024, Top 5 iOS Apps For Seamless PSP Gaming Experience</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-unlock-your-full-potential-with-zd-softwares-advanced-screenshot-techniques/"><u>In 2024, Unlock Your Full Potential with ZD Software's Advanced Screenshot Techniques</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-infinix-zero-30-5g-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Infinix Zero 30 5G Phones</u></a></li>
-<li><a href="https://windows11.techidaily.com/top-8-personalization-hacks-for-windows-1011-via-bubbleui/"><u>Top 8 Personalization Hacks for Windows 10/11 via BubbleUI</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-build-your-dreamy-oriental-villas-in-minecraft-for-2024/"><u>[New] Build Your Dreamy Oriental Villas in Minecraft for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-cinematic-capture-a-device-friendly-movie-guidebook-for-2024/"><u>[New] Cinematic Capture A Device-Friendly Movie Guidebook for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-navigating-the-world-of-gopro-streaming-and-social-media-networks/"><u>[New] Navigating the World of Gopro Streaming and Social Media Networks</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-essential-apps-for-effective-mac-sniping/"><u>[Updated] 2024 Approved Essential Apps for Effective Mac Sniping</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-revolutionizing-call-recording-with-facetime-advancements/"><u>[Updated] 2024 Approved Revolutionizing Call Recording with FaceTime Advancements</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-get-to-know-vrecorder-the-perfect-installation-process/"><u>[Updated] Get to Know VRecorder The Perfect Installation Process</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-optimal-speech-devices-web-based/"><u>[Updated] In 2024, Optimal Speech Devices, Web-Based</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-tips-for-producing-ai-powered-live-game-streaming-content/"><u>[Updated] In 2024, Tips for Producing AI-Powered Live Game Streaming Content</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-snap-a-story-sharing-photos-and-videos-without-retweet/"><u>2024 Approved Snap a Story Sharing Photos & Videos Without Retweet</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Lava Blaze 2 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-lava-yuva-2-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Lava Yuva 2 Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-your-asus-rog-phone-8-pro-lock-screen-password-by-drfone-android/"><u>How to Reset your Asus ROG Phone 8 Pro Lock Screen Password</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-crafting-impactful-ppt-tutorials-for-online-learning-sessions/"><u>In 2024, Crafting Impactful PPT Tutorials for Online Learning Sessions</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-lava-blaze-pro-5g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Lava Blaze Pro 5G to iPad | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/ultimate-list-premier-networks-for-live-viewing-for-2024/"><u>Ultimate List Premier Networks for Live Viewing for 2024</u></a></li>
 </ul></div>
 

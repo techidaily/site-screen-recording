@@ -1,7 +1,7 @@
 ---
 title: "Saving a Look at Your Window for 2024"
-date: 2025-01-04T17:25:09.919Z
-updated: 2025-01-07T17:45:26.197Z
+date: 2025-01-13T04:20:43.060Z
+updated: 2025-01-14T02:26:49.460Z
 tags: 
   - screen-recording
   - ai video
@@ -32,7 +32,7 @@ In this article, we are going to show you five different ways of creating screen
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The All-in-One Screen Recorder & Video Editor
@@ -62,17 +62,9 @@ You can either double-click on the app's desktop icon or you can launch it from 
 
 ![ Windows Screen Sketch](https://images.wondershare.com/filmora/article-images/windows-screen-sketch.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 The Windows Key + Shift + S keyboard shortcut can also be used to activate the Screen Sketch's screen capturing features. The New Snipping feature will grant you access to the Free Form and Full-Screen icons, and you can select them by clicking on their icons at the top of the screen.
 
 ![ Windows Screen Sketch](https://images.wondershare.com/filmora/article-images/windows-screen-sketch-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 The Free Form option lets you create a screenshot in any shape you want, while the Full-Screen feature automatically captures the entire screen. The image you create will be saved on your hard-drive, and if you want to edit it, you'll have to import the file into Screen Sketch.
 
@@ -82,12 +74,16 @@ After taking a screenshot you will get a notification in the Windows Action Cent
 
 ![ Windows Screen Sketch](https://images.wondershare.com/filmora/article-images/windows-screen-sketch-editing.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 You can add annotations to the screenshots, by clicking on the bullet point pen, pencil or highlighter icons. The Ruler tool can assist you when drawing straight and curved lines, while the Eraser and Crop tools should be used to remove all unwanted elements in your screenshots.
 
 ![ Windows Screen Sketch](https://images.wondershare.com/filmora/article-images/windows-screen-sketch-editing-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Step 3. Saving and Exporting Screenshots
@@ -103,6 +99,10 @@ The Share feature enables you to post the picture on social media or send it via
 All versions of Windows 10 feature the Xbox app that offers the DVR support and it lets its users capture live gameplay or take screenshots of games that are compatible with the Windows 10 OS. Open the Xbox app and head over to the Settings menu and click on the Game DVR option. Make sure that the Take screenshots using Game DVR feature is on, and then press the Windows + G keys to open the Game Bar. The app also lets you customize your own keyboard shortcut if you want to change the default one.
 
 ![ Windows Game Bar Screenshot](https://images.wondershare.com/filmora/article-images/xbox-game-bar-screenshot-shotkey.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Select the 'Yes, this is a game' option if a dialogue box pops-up on the screen and click on the Camera icon or hold the Windows, Alt and PrintScreen keys to take a screenshot. A Screenshot Saved notification will appear on the screen and you should click on in order to access the picture you've just taken using the Xbox app. The file will be displayed in the Game DVR> On This PC menu. The Game Bar saves screenshots in the PNG file format and it stores them in C:\\Users\\\[your username\]\\Videos\\Captures.
 
@@ -130,6 +130,10 @@ Once you've taken the screenshot you can use the Pen and Highlighter features to
 
 The app lets you Save the screenshot in PNG, JPEG, GIF or MHTML file formats and it also lets you email the pictures to your friends and colleagues. You can choose the folder where the file will be saved, and if you are not happy with the result you can click on the New icon to take another screenshot.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 4: Using the Share Charm to Take Screenshots on Windows 8.1
 
 Charms were first introduced on Windows 8, but trying to snap a screenshot with the Share Charm on this version of the OS won't produce any results since the screenshot option is only available on the Windows 8.1\. You can access the Charms Bar that offers Search, Share, Start, Devices and Settings charms by either pressing the Windows+C keys or by moving the mouse cursor down from the upper right corner of the screen.
@@ -147,7 +151,7 @@ Find the moment in the video you'd like to capture, and then select the Screensh
 The Share Charm offers a quick and easy way to take screenshots, but it lacks the tools for editing the images you create. However, it still provides powerful sharing options that enable you to send screenshots and other media files without having to invest too much time.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 5: Take a Quick Screenshots with Print Screen
@@ -184,10 +188,6 @@ Leave a comment and let us know what is your favorite method of taking screensho
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
@@ -203,19 +203,22 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-2023s-premier-ios-solutions-best-psp-game-simulators/"><u>[New] 2024 Approved 2023'S Premier iOS Solutions Best PSP Game Simulators</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-a-complete-resource-for-aspiring-xbox-streaming-pros/"><u>[New] 2024 Approved A Complete Resource for Aspiring Xbox Streaming Pros</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-achieving-comprehensive-participant-visualization-on-meet/"><u>[New] 2024 Approved Achieving Comprehensive Participant Visualization on Meet</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-active-screen-capture-pro-does-it-reign-supreme/"><u>[New] 2024 Approved Active Screen Capture Pro Does It Reign Supreme?</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-age-of-empires-unleashed-exploring-the-7-greatest-battles/"><u>[New] 2024 Approved Age of Empires Unleashed Exploring the 7 Greatest Battles</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-mastering-the-art-of-zooming-on-social-media-platform-snapchat/"><u>2024 Approved Mastering the Art of Zooming on Social Media Platform, Snapchat</u></a></li>
-<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-vivo-y77t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Vivo Y77t | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-realme-11x-5g-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Realme 11X 5G to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-xiaomi-redmi-note-13-pro-5g-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Xiaomi Redmi Note 13 Pro 5G to Roku | Dr.fone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/navigating-zoom-rooms-with-ease-newcomers/"><u>Navigating Zoom Rooms with Ease, Newcomers</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/synology-rt2600ac-wireless-router-reviewed-discovering-the-power-of-long-range-signals-and-comprehensive-parent-protection-options/"><u>Synology RT2600ac Wireless Router Reviewed: Discovering the Power of Long Range Signals & Comprehensive Parent Protection Options</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/tablet-or-laptop-showdown-evaluating-ipad-pro-vs-macbook-air-to-determine-the-ideal-tech-partner/"><u>Tablet or Laptop Showdown: Evaluating IPad Pro vs MacBook Air to Determine the Ideal Tech Partner</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/turn-your-youtube-snippets-into-memorable-gifs-for-2024/"><u>Turn Your YouTube Snippets Into Memorable GIFs for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ultimate-guide-to-the-smallest-high-performance-tablets-of-2024-vetted-and-analyzed-by-industry-experts-choice/"><u>Ultimate Guide to the Smallest High-Performance Tablets of 2024 - Vetted and Analyzed by Industry Experts Choice</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-image-ingenuity-optimal-apps-and-platforms-for-frames-to-photos-for-2024/"><u>[New] Image Ingenuity Optimal Apps and Platforms for Frames to Photos for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-itunes-masterclass-maximizing-video-outputs/"><u>[New] In 2024, ITunes Masterclass Maximizing Video Outputs</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-step-by-step-guide-to-capturing-desktop-using-ezvid-software/"><u>[New] In 2024, Step-by-Step Guide to Capturing Desktop Using Ezvid Software</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-the-ultimate-list-of-android-mobas/"><u>[New] In 2024, The Ultimate List of Android MOBAs</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-unveiling-a-simple-yet-powerful-copywriting-model-for-ads/"><u>[New] In 2024, Unveiling a Simple, Yet Powerful Copywriting Model for Ads</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-visionary-video-snatcher-tools-guide/"><u>[New] In 2024, Visionary Video Snatcher Tools Guide</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-the-ultimate-companion-for-recording-google-video-calls-for-2024/"><u>[New] The Ultimate Companion for Recording Google Video Calls for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-unleashing-power-plays-exclusive-insights-into-best-7-total-war-battles/"><u>[New] Unleashing Power Plays Exclusive Insights Into Best 7 Total War Battles</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-video-separation-standards-recorders-rating-review/"><u>[Updated] 2024 Approved Video Separation Standards Recorder's Rating Review</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-capturing-clarity-ranking-5-excellent-live-stream-devices/"><u>[Updated] In 2024, Capturing Clarity Ranking 5 Excellent Live Stream Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/all-the-paint-3d-keyboard-shortcuts-you-must-know/"><u>All the Paint 3D Keyboard Shortcuts You Must Know</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96317219-9781401929978-how-my-death-saved-my-life/"><u>How My Death Saved My Life | Free Book</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-apple-iphone-11-pro-max-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Apple iPhone 11 Pro Max Data From iCloud? | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-effortless-obs-and-zoom-stream-merge-steps/"><u>In 2024, Effortless OBS and Zoom Stream Merge Steps</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721479495880-itunes-or-finder-not-recognizing-your-iphone-heres-the-fix/"><u>ITunes or Finder Not Recognizing Your iPhone? Here's the Fix!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-skypes-unresponsiveness-effective-tips-and-techniques/"><u>Resolving Skype's Unresponsiveness: Effective Tips and Techniques</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-evolution-of-interaction-from-forums-to-socialspeak/"><u>The Evolution of Interaction: From Forums to Socialspeak</u></a></li>
 </ul></div>
 

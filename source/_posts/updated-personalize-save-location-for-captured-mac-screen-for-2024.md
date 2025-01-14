@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Personalize Save Location for Captured Mac Screen for 2024"
-date: 2025-01-05T18:26:29.482Z
-updated: 2025-01-07T18:28:06.683Z
+date: 2025-01-08T05:19:59.779Z
+updated: 2025-01-13T23:56:44.257Z
 tags: 
   - screen-recording
   - ai video
@@ -32,7 +32,7 @@ Here's how you can change the location where the screenshots you take using the 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The All-in-One Screen Recorder & Video Editor
@@ -53,11 +53,7 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to Save Screenshots to a Specific Folder on Mac
@@ -67,7 +63,7 @@ Changing the folder where you store your screenshots is not an irreversible proc
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Create a new folder on the desired location on your hard drive, and then launch Terminal, by typing Terminal in the Search Box and clicking on its icon. Once the app is open, you should insert the following command into the Terminal window:
@@ -77,6 +73,10 @@ Create a new folder on the desired location on your hard drive, and then launch 
 Then enter a space at the end after 'location'.
 
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The next step is to add the new location at which screenshots will be saved and you can do this by simply dragging the folder you created into Terminal and adding it at the end of the command you just entered. A path is created and the command line should now contain the folder's unique location and it should look like this:
 
@@ -101,7 +101,7 @@ Don't forget that deleting the folder you use as a default location for storing 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Max Wales
@@ -119,21 +119,20 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-android-dominance-top-10-moba-games-showcase/"><u>[New] Android Dominance Top 10 MOBA Games Showcase</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-how-to-record-steam-gameplay-for-2024/"><u>[New] How to Record Steam Gameplay for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-navigating-screen-capture-in-google-video-conferencing/"><u>[New] In 2024, Navigating Screen Capture in Google Video Conferencing</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-speedy-cam-and-commentary-recorder-software/"><u>[Updated] 2024 Approved Speedy Cam & Commentary Recorder Software</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-optimal-gameplayers-for-your-androids-gb-games/"><u>[Updated] In 2024, Optimal GamePlayers for Your Android's GB Games</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-ultimate-guide-to-zoom-transcription-software-fee-based/"><u>[Updated] In 2024, Ultimate Guide to Zoom Transcription Software (Fee-Based)</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/compreranimal-webcam-tutorial-achieve-excellent-video-quality-for-2024/"><u>Compreranimal Webcam Tutorial Achieve Excellent Video Quality for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/cutting-edge-livestream-software-selection-for-2024/"><u>Cutting-Edge Livestream Software Selection for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/enhance-your-chatbot-interaction-a-guide-to-developing-effective-user-personas-in-chatgpt/"><u>Enhance Your Chatbot Interaction: A Guide to Developing Effective User Personas in ChatGPT</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/essential-knowledge-optimizing-your-use-of-mobizen-recorders/"><u>Essential Knowledge Optimizing Your Use of Mobizen Recorders</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722845171487-google-maps-as-your-companard-in-finding-ev-charging-stations-across-the-us/"><u>Google Maps as Your Companard in Finding EV Charging Stations Across the U.S</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oneplus-nord-ce-3-5g-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from OnePlus Nord CE 3 5G to Any iOS Devices | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-the-updated-method-to-bypass-honor-x50i-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Honor X50i FRP</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-infinix-note-30-5g-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Infinix Note 30 5G Phones</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-wondering-the-best-alternative-to-hola-on-realme-narzo-60x-5g-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>In 2024, Wondering the Best Alternative to Hola On Realme Narzo 60x 5G? Here Is the Answer | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On ZTE Nubia Z60 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-essential-tips-for-perfect-hdr-shots-with-your-iphone/"><u>[New] 2024 Approved Essential Tips for Perfect HDR Shots with Your iPhone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-unlock-the-power-of-high-quality-webcam-videos/"><u>[New] In 2024, Unlock the Power of High-Quality Webcam Videos</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-master-the-art-of-discussion-in-google-meet-spaces-for-2024/"><u>[New] Master the Art of Discussion in Google Meet Spaces for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-essential-voice-capturing-apps-for-ipads-3-top-picks/"><u>[Updated] 2024 Approved Essential Voice Capturing Apps for iPads #3 Top Picks</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-ultimate-chromebook-snapshot-tool/"><u>[Updated] 2024 Approved Ultimate Chromebook Snapshot Tool</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-webinar-technology-hacks-with-no-financial-cost/"><u>[Updated] 2024 Approved Webinar Technology Hacks with No Financial Cost</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-intuitive-video-collaboration-through-mstream/"><u>[Updated] In 2024, Intuitive Video Collaboration Through MStream</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-why-youtube-tv-is-a-game-changer-in-streaming/"><u>[Updated] Why YouTube TV Is a Game-Changer in Streaming</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-scouting-the-best-cameras-for-aspiring-muso-videographers/"><u>2024 Approved Scouting the Best Cameras for Aspiring Muso Videographers</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-samsung-galaxy-a24-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Samsung Galaxy A24 to Roku | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-green-grounds-a-selection-of-free-downloadable-videography-sets/"><u>In 2024, Green Grounds A Selection of Free, Downloadable Videography Sets</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Apple iPhone 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/perfecting-the-art-of-quiet-videography-for-2024/"><u>Perfecting the Art of Quiet Videography for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/superior-obs-configurations-budget-edition-for-2024/"><u>Superior OBS Configurations - Budget Edition for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-wonders-unlock-the-secrets-of-measuring-ethernet-speeds/"><u>Windows Wonders: Unlock the Secrets of Measuring Ethernet Speeds</u></a></li>
 </ul></div>
 
