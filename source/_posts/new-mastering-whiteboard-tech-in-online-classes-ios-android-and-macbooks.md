@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering Whiteboard Tech in Online Classes  IOS, Android, and MacBooks\""
-date: 2025-01-12T23:49:35.811Z
-updated: 2025-01-13T17:03:42.339Z
+date: 2025-01-16T02:54:05.258Z
+updated: 2025-01-20T07:14:26.788Z
 tags: 
   - screen-recording
   - ai video
@@ -58,7 +58,7 @@ Click on the **three dots** at the bottom of your screen and select **the whiteb
 ![Google Meet whiteboard](https://images.wondershare.com/filmora/article-images/google-meet-whiteboard.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3: Create Whiteboard**
@@ -70,7 +70,11 @@ Click on the **start a new whiteboard** option**.**
 ![create Google Meet whiteboard](https://images.wondershare.com/filmora/article-images/create-google-meet-whiteboard.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Part 3: How to Use a Whiteboard in Google Meet on an iPhone?**
@@ -91,10 +95,6 @@ Go to your home page and launch the Microsoft Whiteboard.
 
 **Note:** Since you will be sharing the screen of your iPhone, participants will be able to see your whiteboard activity.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Part 4: How to Use a Whiteboard in Google Meet on an Android Device**
 
 Similar to iPhone, you cannot use the in-built Jamboard Google Meet tool on Android devices. Even if you try accessing Google Meet from the browser on your android phone, you are likely to be redirected to Google Meet, where there is no whiteboard option. So, the only way out is to download an external whiteboard app from Playstore and use its whiteboard. Your whiteboard activity will be visible to other participants in a Google Meet session when you share the screen. However, this option is only viable if you are the only one illustrating on the whiteboard and no other participants are required to perform any whiteboard activity. If this works for you, follow the step-by-step guide below.
@@ -114,7 +114,7 @@ Similar to iPhone, you cannot use the in-built Jamboard Google Meet tool on Andr
 ![create Google Meet whiteboard on mobile](https://images.wondershare.com/filmora/article-images/create-google-meet-whiteboard-mobile.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Bonus: How to Save and Send Jams as PDFs?**
@@ -137,15 +137,15 @@ Select **Download as PDF** from the list of options. Locate the downloaded file 
 
 ![save Google Meet whiteboard as pdf](https://images.wondershare.com/filmora/article-images/download-google-meet-whiteboard-as-pdf.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Conclusion**
 
 Google Meet allows its users to enjoy the vast collection of built-in tools. **Google Meet whiteboarding** is another helpful feature that makes brainstorming and visual illustration easy and efficient. The maximum utility of this feature is when you use it on your desktop or laptop. This gives all attendees whiteboard editing access. However, for mobile phone users, editing access is only for using an external whiteboard app. This article covered all dimensions, including setting up, using, and sharing whiteboards on Google Meet. So, no matter which device you are using, take advantage of the whiteboard feature to make your virtual meetings more interactive and interesting.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -162,18 +162,16 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-academic-anchors-identifying-top-10-lecture-preservation-tools/"><u>[New] In 2024, Academic Anchors Identifying Top 10 Lecture Preservation Tools</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-ideal-pc-emulators-for-retro-ps1-gaming/"><u>[New] In 2024, Ideal PC Emulators for Retro PS1 Gaming</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-efficient-screen-recording-on-mac-utilizing-key-combos/"><u>[Updated] 2024 Approved Efficient Screen Recording on Mac Utilizing Key Combos</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-the-ultimate-guide-to-restoring-windows-photo-viewer-on-win-11/"><u>[Updated] In 2024, The Ultimate Guide to Restoring Windows Photo Viewer on Win 11</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-vivo-x90s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Vivo X90S | Dr.fone</u></a></li>
-<li><a href="https://solve-marvelous.techidaily.com/comprimere-i-file-e-salvare-lo-spazio-disco-con-il-backup-di-immagini-avanzate/"><u>Comprimere I File E Salvare Lo Spazio Disco Con Il Backup Di Immagini Avanzate</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/discover-top-5-ios-ps2-games-simulators/"><u>Discover Top 5 IOS PS2 Games Simulators</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-xiaomi-redmi-note-13-5g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-review-spotlight-on-yuneecs-aerodrone-typhoon-h/"><u>In 2024, Review Spotlight on Yuneec’s AeroDrone Typhoon H</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-tecno-spark-20-pro-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Tecno Spark 20 Pro Step-by-Step Solutions | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/revolutionizing-fun-vr-applications-unveiled/"><u>Revolutionizing Fun VR Applications Unveiled</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/simple-steps-to-switch-from-android-contacts-to-iphone-effortlessly/"><u>Simple Steps to Switch From Android Contacts to iPhone Effortlessly</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/unlock-screen-saving-potential-on-android-devices-for-2024/"><u>Unlock Screen Saving Potential on Android Devices for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-transformative-tech-upgrading-phones-for-a-vr-experience/"><u>[New] Transformative Tech Upgrading Phones for a VR Experience</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-non-microsoft-methods-for-game-session-recording/"><u>[Updated] 2024 Approved Non-Microsoft Methods for Game Session Recording</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/1715859700011-updated-explore-mp4-recording-tools-today/"><u>[Updated] Explore MP4 Recording Tools Today!</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-speech-analysis-and-conversion-its-free/"><u>[Updated] In 2024, Speech Analysis and Conversion - It's Free</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-quick-tips-simplified-techniques-for-capturing-google-meets/"><u>[Updated] Quick Tips Simplified Techniques for Capturing Google Meets</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722962446020-essential-windows-7-audio-driver-installations-download-now/"><u>Essential Windows 7 Audio Driver Installations - Download Now</u></a></li>
+<li><a href="https://some-tips.techidaily.com/grab-your-essentials-before-time-runs-out-20-discounts-on-nomadic-tech-accessories-from-cases-to-chargers-and-apple-bands-zdnet/"><u>Grab Your Essentials Before Time Runs Out – 20% Discounts on Nomadic Tech Accessories From Cases to Chargers and Apple Bands | ZDNET</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-your-vivo-x-fold-2-lock-screen-password-by-drfone-android/"><u>How to Reset your Vivo X Fold 2 Lock Screen Password</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-about-honor-x8b-frp-bypass-by-drfone-android/"><u>In 2024, About Honor X8b FRP Bypass</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-engineering-video-excerpts-for-online-platforms/"><u>In 2024, Engineering Video Excerpts for Online Platforms</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/quintessential-fps-experiences-ranked-by-fun-factor-for-2024/"><u>Quintessential FPS Experiences Ranked by Fun Factor for 2024</u></a></li>
 </ul></div>
 

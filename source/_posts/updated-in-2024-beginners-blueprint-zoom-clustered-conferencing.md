@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Beginner's Blueprint  Zoom Clustered Conferencing\""
-date: 2024-12-09T03:09:01.428Z
-updated: 2024-12-13T17:19:39.580Z
+date: 2025-01-19T00:50:20.154Z
+updated: 2025-01-20T03:52:31.733Z
 tags: 
   - screen-recording
   - ai video
@@ -39,15 +39,15 @@ You are at the right place if you are just getting started with Zoom. Because in
 * [Part 4: How to Record Breakout Rooms meetings?](#record%5Fbreakout%5Froom)
 * [Part 5: Troubleshooting Zoom Breakout Rooms](#zoom-breakout-room%5Ffaq)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: What is a Breakout Room in Zoom?
 
 A breakout room is a sub-room that can be created during a meeting and you can split a meeting into up to 50 breakout sessions. The app allows you to choose if you want to create these sub-rooms and split the participants in a meeting into smaller groups automatically or manually.
 
 You must purchase the Large Meeting add-on if you would like to create 50 breakout sessions that have as many as two hundred participants. Each participant in a breakout session has complete control over video, audio and screen sharing options, and they can record each breakroom locally. In case the meeting’s host has enabled the cloud recording feature, Zoom will only record the main room while giving the participants the option to record the breakout room separately.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How to Create a Breakout Room?
 
@@ -67,6 +67,10 @@ Zoom also allows account administrators and account members to activate the brea
 
 Afterward, you should just enable the breakout room option from the Meetings tab and decide if you want to pre-assign members to particular rooms while scheduling a meeting.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Create Breakout Rooms in Zoom Meeting
 
 Once the breakout room feature is enabled, you should start a new meeting and click on the Breakout Room icon in the Zoom’s toolbar. You will be prompted to set the number of rooms you would like to create for the meeting and choose if you want to assign participants to breakout rooms automatically or manually.
@@ -74,6 +78,10 @@ Once the breakout room feature is enabled, you should start a new meeting and cl
 ![ Create  Breakout Rooms in Zoom](https://images.wondershare.com/filmora/article-images/create-breakout-rooms.jpg)
 
 Click on the Create Rooms button to complete the process and proceed to fine-tune the settings for each room.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: How to Manage Breakout Rooms
 
@@ -84,7 +92,7 @@ You can then decide if you want to move all participants into breakout rooms aut
 ![ Manage  Breakout Rooms in Zoom](https://images.wondershare.com/filmora/article-images/manage-breakout-rooms-zoom.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Click on the Open all Rooms button to start assigning participants to different breakout rooms. You should then click on the Assign button next to a particular room and select all the participants you wish to add to that room. Keep in mind that the Assign button will be replaced with the number of participants each room has as soon as you add the first participant to them.
@@ -113,25 +121,17 @@ Even though creating and managing breakout rooms shouldn’t be too difficult, y
 
 Only users with access to Zoom desktop client, Zoom mobile app and H.323/SIP devices can join breakout rooms. You won’t be able to join a breakout room if you are using Zoom from a web browser.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Can I communicate with participants in Breakout Session?
 
 Hosts can only communicate with participants of a single breakout room, which means that they have to join a room to which a particular participant was assigned in order to communicate with them.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Can participants switch between breakout rooms after a session starts?
 
 No, this is not an option. However, if you remove a participant from the meeting, you will be able to assign them to a new breakout room after they rejoin the meeting.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. What happens if I miss or close an invitation to a breakout session?
 
@@ -144,7 +144,7 @@ Dividing a meeting into smaller sessions that have fewer participants can boost 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Richard Bennett
@@ -162,20 +162,22 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-device-based-digital-recording-pcmac-plus-phone-edition/"><u>[New] In 2024, Device-Based Digital Recording PC/Mac + Phone Edition</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-professional-windows-11-screen-capture-tool/"><u>[New] In 2024, Professional Windows 11 Screen Capture Tool</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-navigating-win11-like-a-pro-your-guidebook/"><u>[New] Navigating Win11 Like a Pro - Your Guidebook</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-operational-update-troubled-obs-camera/"><u>[New] Operational Update Troubled OBS Camera</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-recording-google-voice-a-comprehensive-tutorial/"><u>[New] Recording Google Voice A Comprehensive Tutorial</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-mastering-the-art-of-screen-recording-best-software-guide/"><u>[Updated] 2024 Approved Mastering the Art of Screen Recording Best Software Guide</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-expert-netflix-tips-maximizing-screenshots-with-your-mac/"><u>[Updated] Expert Netflix Tips Maximizing Screenshots with Your Mac</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-share-it-all-video-watchlist-for-2024/"><u>[Updated] Share-It-All Video Watchlist for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-step-by-step-webcam-recording-on-hp-systems-for-2024/"><u>[Updated] Step-by-Step Webcam Recording on HP Systems for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/1-seamless-steps-converting-your-dvd-collection-into-hd-content/"><u>1. Seamless Steps: Converting Your DVD Collection Into HD Content</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/a-beginners-journey-through-chinese-characters/"><u>A Beginner's Journey Through Chinese Characters</u></a></li>
-<li><a href="https://driver-download.techidaily.com/experience-smoother-graphics-in-games-with-updated-nvidia-geforce-rtx-2080-ti-driver-software/"><u>Experience Smoother Graphics in Games with Updated Nvidia GeForce RTX 2080 Ti Driver Software</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/identifying-the-source-of-static-noise-in-your-electronic-device-insights-from-yl-computing-and-yl-software/"><u>Identifying the Source of Static Noise in Your Electronic Device - Insights From YL Computing and YL Software</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-how-to-stream-to-youtube-facebook-twitch-and-over-30-platforms/"><u>In 2024, How to Stream to YouTube, Facebook, Twitch and Over 30 Platforms</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210295360-9781644584514-metamorphyx/"><u>Metamorphyx | Free Book</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-calm-clicks-the-ideal-screen-free-puzzles/"><u>[New] 2024 Approved Calm Clicks The Ideal Screen-Free Puzzles</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-efficient-movie-recording-strategies-across-desktops-and-handhents/"><u>[New] 2024 Approved Efficient Movie Recording Strategies Across Desktops and Handhents</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-5-best-slow-motion-cameras-for-2024/"><u>[New] 5 Best Slow Motion Cameras for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-mastering-google-meet-customization-filter-and-effect-techniques-for-2024/"><u>[New] Mastering Google Meet Customization Filter & Effect Techniques for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-navigating-fun-with-junior-drivers-for-2024/"><u>[New] Navigating Fun with Junior Drivers for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-elite-5-video-snapshot-recorders/"><u>[Updated] Elite 5 Video Snapshot Recorders</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-leading-edge-the-top-10-mobile-video-chat-platforms/"><u>[Updated] In 2024, Leading Edge The Top 10 Mobile Video Chat Platforms</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-nintendo-switchs-ultimate-hd-gameplay/"><u>[Updated] In 2024, Nintendo Switch's Ultimate HD Gameplay</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-optimizing-views-understanding-the-key-rankers-for-youtubers/"><u>[Updated] Optimizing Views Understanding the Key Rankers for YouTubers</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-scorching-speedways-ranking-the-top-5-virtual-race-titles-for-2024/"><u>[Updated] Scorching Speedways Ranking the Top 5 Virtual Race Titles for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-superior-on-screen-moment-documentation/"><u>[Updated] Superior On-Screen Moment Documentation</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-vintage-video-making-masterclass-complete-tutorial/"><u>2024 Approved Vintage Video Making Masterclass Complete Tutorial</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-steps-to-get-the-latest-toshiba-laptop-drivers-for-your-windows-pc/"><u>Easy Steps to Get the Latest Toshiba Laptop Drivers for Your Windows PC</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-do-realme-10t-5g-screen-sharing-drfone-by-drfone-android/"><u>How To Do Realme 10T 5G Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-the-ultimate-roadmap-for-distance-podcasting/"><u>In 2024, The Ultimate Roadmap for Distance Podcasting</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/no-cost-audio-treasure-trove-for-video-endings-for-2024/"><u>No-Cost Audio Treasure Trove for Video Endings for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-itel-a05s-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Itel A05s | Dr.fone</u></a></li>
 </ul></div>
 
