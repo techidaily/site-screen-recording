@@ -1,7 +1,7 @@
 ---
 title: "[New] Change Saving Spot for Mac's Photos for 2024"
-date: 2025-01-13T01:24:50.255Z
-updated: 2025-01-19T21:42:15.441Z
+date: 2025-01-18T19:52:20.693Z
+updated: 2025-01-25T19:26:14.136Z
 tags: 
   - screen-recording
   - ai video
@@ -31,6 +31,10 @@ Here's how you can change the location where the screenshots you take using the 
 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### The All-in-One Screen Recorder & Video Editor
 
 * Record desktop screen, voiceover, and webcam simultaneously
@@ -49,7 +53,11 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to Save Screenshots to a Specific Folder on Mac
@@ -59,7 +67,7 @@ Changing the folder where you store your screenshots is not an irreversible proc
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Create a new folder on the desired location on your hard drive, and then launch Terminal, by typing Terminal in the Search Box and clicking on its icon. Once the app is open, you should insert the following command into the Terminal window:
@@ -69,10 +77,6 @@ Create a new folder on the desired location on your hard drive, and then launch 
 Then enter a space at the end after 'location'.
 
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal-settings.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 The next step is to add the new location at which screenshots will be saved and you can do this by simply dragging the folder you created into Terminal and adding it at the end of the command you just entered. A path is created and the command line should now contain the folder's unique location and it should look like this:
 
@@ -85,7 +89,7 @@ To execute the command you have to press Enter. After Terminal finishes running 
 Hit Enter once more to confirm the changes and run the new command. Close Terminal app by clicking on the Terminal menu and selecting the Quick Terminal option. The default location where the screenshots are saved on your Mac is now changed and every time you take a screenshot using the Command + Shift + 3 shortcut the file will be saved at the new location. If for whatever reason you want to make the Desktop once again the destination where the screenshots on your computer will be saved here's how you can do it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: How to Change the Screenshot Save Location Back to Desktop
@@ -99,10 +103,6 @@ Make sure that your username is properly written, and then press Enter to run th
 Don't forget that deleting the folder you use as a default location for storing screenshots should only be done using the process we just described in the Terminal application, since all other methods may cause unnecessary trouble.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Max Wales
 
@@ -119,20 +119,18 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-accurate-mac-photography-mastery-of-five-proven-snapshot-ways/"><u>[New] In 2024, Accurate Mac Photography Mastery of Five Proven Snapshot Ways</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-intuitive-guide-how-to-capture-on-vimeo/"><u>[New] In 2024, Intuitive Guide How to Capture on Vimeo</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-relish-the-unplugged-adventure-with-our-best-offline-ipad-and-iphone-games/"><u>[New] In 2024, Relish the Unplugged Adventure with Our Best Offline iPad & iPhone Games</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-game-of-thrones-ringtones-15-best-websites-reviewed-and-ranked-for-2024/"><u>[Updated] Game of Thrones Ringtones 15 Best Websites Reviewed and Ranked for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-quick-tips-screen-capture-on-ipad-pro/"><u>[Updated] In 2024, Quick Tips Screen Capture on iPad Pro</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-under-the-hood-inside-knowledge-for-instagram-story-enthusiasts-for-2024/"><u>[Updated] Under the Hood Inside Knowledge for Instagram Story Enthusiasts for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/1715860229979-2024-approved-best-free-call-apps-on-android-ranks-them/"><u>2024 Approved Best Free Call Apps on Android, Ranks Them!</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/essential-tactics-for-mastering-mobizen-mobile-screen-recording-for-2024/"><u>Essential Tactics for Mastering Mobizen Mobile Screen Recording for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-iphone-14-plus-without-backup-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore iPhone 14 Plus without Backup | Stellar</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-honor-70-lite-5g-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Honor 70 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-best-windows-video-communicators-list-1-8/"><u>In 2024, Best Windows Video Communicators List #1-8</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-poco-m6-pro-4g-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Poco M6 Pro 4G Phone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/is-claude-ai-superior-to-chatgpt-analyzing-top-tier-artificial-intelligence-conversationalists/"><u>Is Claude AI Superior to ChatGPT? Analyzing Top-Tier Artificial Intelligence Conversationalists</u></a></li>
-<li><a href="https://fox-http.techidaily.com/unlock-the-secrets-of-slow-motion-expert-advice-using-photo-apps-and-websites/"><u>Unlock the Secrets of Slow Motion Expert Advice Using Photo Apps & Websites</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/unlocking-the-potential-of-consoles-with-pc-gaming-tech/"><u>Unlocking the Potential of Consoles with PC Gaming Tech</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-prime-screen-snaps-on-apple-devices-max-length-156-for-2024/"><u>[New] Prime Screen Snaps on Apple Devices (Max Length 156) for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-step-wise-technique-turn-video-upside-down-in-vlc-media-player/"><u>[New] Step-Wise Technique Turn Video Upside Down in VLC Media Player</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-cutting-edge-capture-top-10-windows-11-cam-recorders/"><u>[Updated] 2024 Approved Cutting-Edge Capture Top 10 Windows 11 Cam Recorders</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-skyhigh-snapshot-top-5-time-lapse-videos/"><u>[Updated] 2024 Approved Skyhigh Snapshot - Top 5 Time-Lapse Videos</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-fusing-live-streams-combining-cameras-plus-monitors-for-2024/"><u>[Updated] Fusing Live Streams Combining Cameras + Monitors for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/defrosting-techniques-reviving-your-frozen-macbook-air-easily/"><u>Defrosting Techniques: Reviving Your Frozen MacBook Air Easily</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-the-toughest-and-most-resilient-laptops-insights-from-zdnet/"><u>Exploring the Toughest and Most Resilient Laptops - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/game-development-transformed-by-ai-driven-innovations/"><u>Game Development Transformed by AI-Driven Innovations</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/how-to-access-and-enjoy-free-online-music-playlists-without-any-charge/"><u>How to Access & Enjoy Free Online Music Playlists Without Any Charge</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-honor-magic-v2-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Honor Magic V2 To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-ringtone-revolution-transforming-your-ios-sound/"><u>In 2024, Ringtone Revolution Transforming Your iOS Sound</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/top-recommended-tools-for-efficiently-removing-unnecessary-file-clutter-insights-from-yl-computings-expertise/"><u>Top Recommended Tools for Efficiently Removing Unnecessary File Clutter: Insights From YL Computing's Expertise</u></a></li>
+<li><a href="https://games-able.techidaily.com/virtual-victory-joystick-vs-console-command/"><u>Virtual Victory: Joystick Vs. Console Command</u></a></li>
 </ul></div>
 
