@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Personalize Save Location for Captured Mac Screen for 2024"
-date: 2025-01-21T20:12:38.353Z
-updated: 2025-01-25T20:18:30.516Z
+date: 2025-02-02T02:18:39.759Z
+updated: 2025-02-07T22:52:34.826Z
 tags: 
   - screen-recording
   - ai video
@@ -49,11 +49,11 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to Save Screenshots to a Specific Folder on Mac
@@ -61,10 +61,6 @@ For macOS 10.12 or later
 Changing the folder where you store your screenshots is not an irreversible process, which means that you can reset the destination where the files are saved to Desktop at any point. Do not delete the new folder, because your Mac may not be able to take screenshots, afterward. The process described below is the only way you can delete a folder or add a new destination for your screenshots, and failing to comply with it may cause your Mac to malfunction.
 
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Create a new folder on the desired location on your hard drive, and then launch Terminal, by typing Terminal in the Search Box and clicking on its icon. Once the app is open, you should insert the following command into the Terminal window:
 
@@ -75,7 +71,7 @@ Then enter a space at the end after 'location'.
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The next step is to add the new location at which screenshots will be saved and you can do this by simply dragging the folder you created into Terminal and adding it at the end of the command you just entered. A path is created and the command line should now contain the folder's unique location and it should look like this:
@@ -87,6 +83,10 @@ To execute the command you have to press Enter. After Terminal finishes running 
 **killall SystemUIServer**
 
 Hit Enter once more to confirm the changes and run the new command. Close Terminal app by clicking on the Terminal menu and selecting the Quick Terminal option. The default location where the screenshots are saved on your Mac is now changed and every time you take a screenshot using the Command + Shift + 3 shortcut the file will be saved at the new location. If for whatever reason you want to make the Desktop once again the destination where the screenshots on your computer will be saved here's how you can do it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How to Change the Screenshot Save Location Back to Desktop
 
@@ -101,7 +101,7 @@ Don't forget that deleting the folder you use as a default location for storing 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Max Wales
@@ -119,20 +119,19 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-identifying-and-tapping-into-youtubes-hidden-niches/"><u>[New] 2024 Approved Identifying and Tapping Into Youtube's Hidden Niches</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-isolate-subject-in-recording-for-clearer-videos/"><u>[New] 2024 Approved Isolate Subject in Recording for Clearer Videos</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-screen-capturing-made-simple-with-apowersoft/"><u>[New] 2024 Approved Screen Capturing Made Simple with Apowersoft</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-quickcapture-5000-chrome-os-recording-pro/"><u>[New] In 2024, QuickCapture 5000 Chrome OS Recording Pro</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-leveraging-obs-streaming-capabilities-on-facebook-platform-for-2024/"><u>[New] Leveraging OBS Streaming Capabilities on Facebook Platform for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-simplified-guide-for-iphones-voice-capture-feature-for-2024/"><u>[New] Simplified Guide for iPhone's Voice Capture Feature for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-decrypting-youtubes-view-count-calculation-system-for-2024/"><u>[Updated] Decrypting YouTube’s View-Count Calculation System for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-financial-free-editing-the-ultimate-guide-to-fcp/"><u>[Updated] Financial-Free Editing The Ultimate Guide to FCP</u></a></li>
-<li><a href="https://win-tutorials.techidaily.com/1-vibrant-skull-themed-wallpaper-and-image-collections-exclusive-offer-by-yl-computing/"><u>1. Vibrant Skull-Themed Wallpaper & Image Collections: Exclusive Offer by YL Computing</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-how-to-record-skype-meeting-on-windows-and-mac-skype-for-business/"><u>2024 Approved How to Record Skype Meeting on Windows and Mac | Skype for Business</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-startechs-professional-vga-driver-suite-with-usb-connectivity/"><u>Download StarTech's Professional VGA Driver Suite with USB Connectivity</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-your-motorola-edge-2023-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Motorola Edge 2023 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-getting-the-most-out-of-google-meet-for-free/"><u>In 2024, Getting the Most Out of Google Meet (For Free)</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-network-locked-motorola-edge-40-pro-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Motorola Edge 40 Pro Phone?</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-optimal-video-saver-best-chromebook-recorder/"><u>In 2024, Optimal Video Saver Best Chromebook Recorder</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-comparing-dailymovements-and-youtubes-income-models/"><u>[New] In 2024, Comparing DailyMovement's and Youtube's Income Models</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-dji-unmanned-aircraft-series-basic-high-end-4k-pro/"><u>[New] In 2024, DJI Unmanned Aircraft Series Basic, High-End, 4K Pro</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-creating-captivating-inshot-edits-with-grace/"><u>[Updated] 2024 Approved Creating Captivating Inshot Edits with Grace</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-unique-iphone-photo-style-adding-dynamic-motion-effects/"><u>[Updated] 2024 Approved Unique iPhone Photo Style Adding Dynamic Motion Effects</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-the-ultimate-list-of-15-youtube-openers/"><u>[Updated] In 2024, The Ultimate List of 15 YouTube Openers</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-clearview-recorder-xtreme-win10/"><u>2024 Approved ClearView Recorder Xtreme (Win10)</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-combat-black-screen-disruptions-in-gaming-feeds/"><u>2024 Approved Combat Black Screen Disruptions in Gaming Feeds</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-ensuring-clear-sound-with-proper-obs-configurations/"><u>2024 Approved Ensuring Clear Sound with Proper OBS Configurations</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-spectacular-mini-houses-you-cant-miss-in-mc/"><u>2024 Approved Spectacular Mini-Houses You Can't Miss in MC</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-streamlining-presentations-captivate-techniques/"><u>2024 Approved Streamlining Presentations Captivate Techniques</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-top-10-zoom-recording-essentials/"><u>2024 Approved Top 10 Zoom Recording Essentials</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-guide-swift-tarkov-performance-mastering-the-6-essential-tweaks-to-elevate-your-pace-and-resolve-low-fps-issues/"><u>Expert Guide: Swift Tarkov Performance - Mastering the 6 Essential Tweaks to Elevate Your Pace and Resolve Low FPS Issues</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/tips-for-spotting-unverified-chatgpt-ios-software/"><u>Tips for Spotting Unverified ChatGPT iOS Software</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-3d-video-software-best-free-and-paid-solutions/"><u>Updated 3D Video Software Best Free and Paid Solutions</u></a></li>
 </ul></div>
 

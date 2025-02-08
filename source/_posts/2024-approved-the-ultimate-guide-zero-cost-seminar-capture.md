@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Ultimate Guide  Zero-Cost Seminar Capture\""
-date: 2024-09-22T16:08:58.286Z
-updated: 2024-09-23T23:56:58.190Z
+date: 2025-01-31T22:59:48.478Z
+updated: 2025-02-07T21:38:49.492Z
 tags: 
   - screen-recording
   - ai video
@@ -53,13 +53,6 @@ Things get easy for you if you are a Mac user. You can record any webinar on you
 
 ![obs setup](https://images.wondershare.com/filmora/article-images/quicktime-new-movie-recording.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 1: Launch QuickTime Player from Applications folder. Go to File > New Screen Recording option.
 
 Step 2: When the webinar is about to start, click on the Record button from QuickTime widget.
@@ -136,11 +129,19 @@ Things get easy for you if you are a Mac user. You can record any webinar on you
 
 ![obs setup](https://images.wondershare.com/filmora/article-images/quicktime-new-movie-recording.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 1: Launch QuickTime Player from Applications folder. Go to File > New Screen Recording option.
 
 Step 2: When the webinar is about to start, click on the Record button from QuickTime widget.
 
 Step 3: When the webinar gets over, press the Stop button. To save the recorded webinar, go to File> Save option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3\. How to Record Webinar on iPhone
 
@@ -157,10 +158,7 @@ Step 3: From the pop-up message, tap on Start Recording option to start recordin
 Step 4: When you want to stop recording, tap on the Red icon at the top-left corner.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 4\. Record Webinar on Android Phones
@@ -182,6 +180,10 @@ Step 4: To stop recording, tap on Stop button and you will find the recorded vid
 If you do not want to go for any webinar recording software free download on your computer, you can opt for an online screen recorder. This is useful for those who record webinar on the go or those who record once in a while. There are several online free screen recorders available but not all of them are safe and sound. We prefer Apowersoft free online recorder as it is a trusted recorder and it has all the required features completely. Here are the steps on how to record webinar online.
 
 ![apowersoft free online recorder](https://images.wondershare.com/filmora/article-images/apowersoft-online-screen-recorder.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 1: Open your web browser and visit apowersoft.id/free-online-screen-recorder.
 
@@ -206,10 +208,7 @@ Step 1: After you download and install Wondershare Filmora, launch it and select
 ![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 2: From Recording window, set the recording screen size and make sure that the system audio is correctly selected.
@@ -219,6 +218,10 @@ Step 2: From Recording window, set the recording screen size and make sure that 
 Step 3: Once the webinar is about to start, click on Record button to start recording. You will get a buffer time to go to the webinar. You can press F9 key to start recording just after the webinar starts.
 
 Step 4: Once the webinar ends, click on Stop button or press F9 key again to stop recording. Edit and export the recording to save it on your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2\. Record Webinar on Mac
 
@@ -231,13 +234,6 @@ Step 1: Launch QuickTime Player from Applications folder. Go to File > New Scree
 Step 2: When the webinar is about to start, click on the Record button from QuickTime widget.
 
 Step 3: When the webinar gets over, press the Stop button. To save the recorded webinar, go to File> Save option.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3\. How to Record Webinar on iPhone
 
@@ -259,13 +255,6 @@ Unlike iPhone, most Android phones do not have a built-in screen recorder. That 
 
 ![mobizen screen recorder](https://images.wondershare.com/filmora/article-images/mobizen-screenrecorder.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 1: Install Mobizen screen recorder app from Play Store.
 
 Step 2: Launch the app and you will see Mobizen recording widget on your screen.
@@ -279,6 +268,10 @@ Step 4: To stop recording, tap on Stop button and you will find the recorded vid
 If you do not want to go for any webinar recording software free download on your computer, you can opt for an online screen recorder. This is useful for those who record webinar on the go or those who record once in a while. There are several online free screen recorders available but not all of them are safe and sound. We prefer Apowersoft free online recorder as it is a trusted recorder and it has all the required features completely. Here are the steps on how to record webinar online.
 
 ![apowersoft free online recorder](https://images.wondershare.com/filmora/article-images/apowersoft-online-screen-recorder.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 1: Open your web browser and visit apowersoft.id/free-online-screen-recorder.
 
@@ -306,9 +299,17 @@ Step 2: From Recording window, set the recording screen size and make sure that 
 
 ![wondershare screen recorder](https://images.wondershare.com/filmora/article-images/wondershare-screen-recorder.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 3: Once the webinar is about to start, click on Record button to start recording. You will get a buffer time to go to the webinar. You can press F9 key to start recording just after the webinar starts.
 
 Step 4: Once the webinar ends, click on Stop button or press F9 key again to stop recording. Edit and export the recording to save it on your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2\. Record Webinar on Mac
 
@@ -328,13 +329,6 @@ If you are attending any webinar from your iPhone, you can go for free record we
 
 ![iphone screen recorder](https://images.wondershare.com/filmora/article-images/iphone-screen-recording.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 1: Open the webinar on your screen that you want to record.
 
 Step 2: Pull down Control Centre on your iPhone. Tap on Screen Recording option.
@@ -342,6 +336,10 @@ Step 2: Pull down Control Centre on your iPhone. Tap on Screen Recording option.
 Step 3: From the pop-up message, tap on Start Recording option to start recording. Make sure you turn off the microphone.
 
 Step 4: When you want to stop recording, tap on the Red icon at the top-left corner.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4\. Record Webinar on Android Phones
 
@@ -356,13 +354,6 @@ Step 2: Launch the app and you will see Mobizen recording widget on your screen.
 Step 3: Open the webinar that you want to record. Tap on Video Camera icon from the widget to start recording.
 
 Step 4: To stop recording, tap on Stop button and you will find the recorded video on your phone gallery.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 5\. Online Webinar Recording
 
@@ -379,13 +370,6 @@ Step 3: Install the launcher and click on Start Recording button again. Select t
 Step 4: Open the webinar on the screen that you want to record and click on Rec button on Apowersoft widget.
 
 Step 5: To stop recording, click on Stop icon on the floating widget and the recorded video will be shown on your computer.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -413,5 +397,22 @@ It is always better to record webinar whether you are a presenter or a viewer. Y
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-from-idea-to-installment-making-custom-instagram-notifications/"><u>[New] In 2024, From Idea to Installment Making Custom Instagram Notifications</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-safely-extract-youtube-audio-a-study-of-3-techniques/"><u>[New] In 2024, How to Safely Extract YouTube Audio A Study of 3 Techniques</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solved-usb-ports-not-working-on-laptop/"><u>[SOLVED] USB Ports Not Working on Laptop</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-ending-echoes-reconnecting-audio-to-obs/"><u>[Updated] Ending Echoes Reconnecting Audio to OBS</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-awaitingnewagecameratechnologies/"><u>2024 Approved AwaitingNewAgeCameraTechnologies</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-best-virtual-race-games-roundup/"><u>2024 Approved Best Virtual Race Games Roundup</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-from-syncing-to-capturing-a-complete-itunes-journey/"><u>2024 Approved From Syncing to Capturing A Complete iTunes Journey</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-screenmasterrevolution-next-gen-recording-software/"><u>2024 Approved ScreenMasterRevolution Next-Gen Recording Software</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-top-6-mac-screen-capture-tools-expert-picks/"><u>2024 Approved Top 6 Mac Screen Capture Tools - Expert Picks</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/all-inclusive-guide-what-is-googles-podcast-service-for-2024/"><u>All-Inclusive Guide What Is Google's Podcast Service for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/analyzed-the-finest-screen-capture-software-for-macos-for-2024/"><u>Analyzed The Finest Screen Capture Software for macOS for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/combining-obs-and-zoom-a-step-by-step-guide/"><u>Combining OBS and Zoom A Step-by-Step Guide</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-xs-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone XS To Other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-poco-x6-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Poco X6 to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-nokia-130-music-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Nokia 130 Music</u></a></li>
+</ul></div>
 

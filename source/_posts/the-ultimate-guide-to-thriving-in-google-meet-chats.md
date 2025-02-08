@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Guide to Thriving in Google Meet Chats"
-date: 2025-01-16T22:25:09.101Z
-updated: 2025-01-20T07:44:32.221Z
+date: 2025-02-06T02:32:52.292Z
+updated: 2025-02-07T16:57:44.612Z
 tags: 
   - screen-recording
   - ai video
@@ -40,6 +40,10 @@ If you are looking to figure out **how to chat in Google Meet**, then keep on re
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to Chat in Google Meet on a Desktop Computer?
 
 There are times when individuals have something very essential to share with the participants in the meeting, however, it just is not their turn to talk. During times such as these, the Google Meet chat feature can come in very handy!
@@ -50,24 +54,16 @@ Once you have joined the session, look towards the bottom right-hand side of you
 
 ![ Google Meet Chat Option  ](https://images.wondershare.com/filmora/article-images/google-meet-chat-options.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Upon clicking the speech bubble, a chat window will open on the right-hand side of your screen. On the bottom of the window, there will be a blank text box.
 
 ![ Google Meet in-call message  ](https://images.wondershare.com/filmora/article-images/google-meet-in-call-message-window.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Click on the blank text box and type the message that you would like to share.
 
 ![ Google Meet chat message  window](https://images.wondershare.com/filmora/article-images/type-texts-google-meet-chat.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 After typing the message, in order to send it to all the participants in the meeting, click the send button. Another way of sending the message is simply by pressing the “Enter” key on your keyboard.
@@ -77,7 +73,7 @@ As soon as you press the arrow, your message will be visible to all the members 
 ![ Google Meet chat with all](https://images.wondershare.com/filmora/article-images/google-meet-chat-with-all.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: How to Chat in Google Meet Mobile App?
@@ -98,16 +94,16 @@ After you click the option, your screen will show a text box pop-up on your enti
 
 ![ Google Meet sent chat message mobile](https://images.wondershare.com/filmora/article-images/send-google-meet-chat-message-mobile.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 After you click send, the message/messages will be shared with all other participants in the meeting. Keep in mind you cannot delete messages on Google Meet, so send messages wisely. By using the chat feature individuals can get their message across to all the members in the meeting without disrupting the entire meeting itself. There is no need to unmute your microphone to communicate when you have the chat feature available to you as well.
 
 ![ Google Meet sent chat with all mobile](https://images.wondershare.com/filmora/article-images/chat-with-all-google-meet-mobile.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: How to Create a Group Chat on Google Meet?
@@ -130,6 +126,10 @@ Many individuals wonder if they can privately chat on Google Meet, however that 
 
 For instance, if a participant leaves a meeting and you send a message when they have left, then that participant joins again, the participant will not be able to receive or view your message. However, all those present in the session while the message was sent can read it. There is no option to create a private chat on Google Meet as of now.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 5: How to Change Google Meet Chat Font Size?
 
 Google Meet comes fully equipped with numerous features and functions, however, changing the chat font size is not one of them. Participants cannot make any changes to the font of messages sent in the chatbox. They cannot increase the size, spacing, font style, or color of the messages that are being sent. While these options are available in other Google Application features such as Gmail and more. They are still yet to come into play on Google Meet.
@@ -149,6 +149,10 @@ After clicking on the speech bubble icon, a messaging window will open on the ri
 From there go over to the messaging text box and right-click on your computer device for an additional options menu. No matter which device you are using, the first option in the additional menu will be that of emoticons and symbols.
 
 ![ Google Meet emoji and symbols option](https://images.wondershare.com/filmora/article-images/google-meet-emoji-symbols-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Click the emoji and symbols option and a popup of all the emojis available on your device will appear on the screen, as shown in the image below.
 
@@ -170,10 +174,6 @@ A popup will appear on the right-hand side of your screen with options and setti
 
 ![ Google Meet turn off chat](https://images.wondershare.com/filmora/article-images/turn-off-chat-google-meet.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 8: How to Retrieve Google Meet Chat History?
 
 Unlike Google Hangouts, individuals cannot retrieve chats on Google Meet. Once the call has ended the chat is automatically deleted. Unless the [video meeting is recorded](https://tools.techidaily.com/wondershare/filmora/download/) with a Google Workspace account, the chat in Google Meet is archived.
@@ -185,7 +185,7 @@ Making use of the Google Meets chat feature can be extremely handy and helpful i
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Richard Bennett
@@ -203,21 +203,16 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-breaking-news-working-obs-cam/"><u>[New] Breaking News Working OBS Cam</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-webcam-wonders-unveiling-tools-for-top-video-quality/"><u>[New] In 2024, Webcam Wonders - Unveiling Tools for Top Video Quality</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-funnybox-simple-setup-for-content-creators/"><u>[Updated] FunnyBox Simple Setup for Content Creators</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-ideal-screen-snapshot-service-chromebook/"><u>[Updated] In 2024, Ideal Screen Snapshot Service Chromebook</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-pixelpioneer-mastering-the-art-of-screen-capture/"><u>[Updated] In 2024, PixelPioneer Mastering the Art of Screen Capture</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-optimize-your-memory-perfecting-iphone-album-organization-and-icloud-backup/"><u>[Updated] Optimize Your Memory Perfecting iPhone Album Organization and iCloud Backup</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-step-by-step-tutorial-enhancing-your-hp-screen-recordings/"><u>[Updated] Step-by-Step Tutorial Enhancing Your HP Screen Recordings</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-the-ultimate-guide-to-choosing-the-most-effective-9-multimedia-devices-ios-android-for-2024/"><u>[Updated] The Ultimate Guide to Choosing the Most Effective 9 Multimedia Devices (iOS, Android) for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-win-11s-10-finest-webcams-for-high-quality-capture/"><u>[Updated] Win 11'S 10 Finest Webcams For High-Quality Capture</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-optimal-no-cost-android-video-maker/"><u>2024 Approved Optimal No-Cost Android Video Maker</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-shoot-the-worlds-hustle-and-bustle-iphone-tips-for-shutter-speed-blurs/"><u>2024 Approved Shoot the World's Hustle and Bustle IPhone Tips for Shutter Speed Blurs</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/choosing-between-ipad-pro-and-macbook-air-a-comprehensive-comparison-for-tech-enthusiasts/"><u>Choosing Between iPad Pro and MacBook Air: A Comprehensive Comparison for Tech Enthusiasts</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/essential-steps-for-podcast-rss-feed-creation-for-2024/"><u>Essential Steps for Podcast RSS Feed Creation for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/multitask-mastery-in-media-co-watching-channels-with-ease-for-2024/"><u>Multitask Mastery in Media Co-Watching Channels with Ease for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/surviving-the-perils-of-startup-delays-key-techniques-for-a-thriving-2024-market-entry/"><u>Surviving the Perils of Startup Delays: Key Techniques for a Thriving 2024 Market Entry</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-sm-bus-controller-errors-on-windows-1011/"><u>Troubleshooting SM Bus Controller Errors on Windows 10/11</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-accelerated-video-maker-time-lapse-edition/"><u>[New] Accelerated Video Maker Time-Lapse Edition</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-perfecting-your-dialogue-a-google-meet-strategy/"><u>[New] In 2024, Perfecting Your Dialogue A Google Meet Strategy</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-swift-systems-simplified-screen-capture-procedures-dell-for-2024/"><u>[New] Swift Systems Simplified Screen Capture Procedures (Dell) for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-enhanced-collaboration-through-top-tier-backgrounds/"><u>[Updated] 2024 Approved Enhanced Collaboration Through Top-Tier Backgrounds</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-the-recording-game-changer-for-facebook-streams/"><u>[Updated] 2024 Approved The Recording Game-Changer for Facebook Streams</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-expert-guides-to-mobile-screen-recording/"><u>[Updated] Expert Guides to Mobile Screen Recording</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-premier-slide-to-video-software/"><u>[Updated] In 2024, Premier Slide-to-Video Software</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-top-gamers-tools-premium-gear-lists-on-youtube/"><u>2024 Approved Top Gamers' Tools Premium Gear Lists on YouTube</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-honor-x50i-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Honor X50i? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/the-pathway-to-proficient-league-of-legends-screen-recordings/"><u>The Pathway to Proficient League of Legends Screen Recordings</u></a></li>
+<li><a href="https://article-tips.techidaily.com/unleashing-true-black-and-vivid-colors-on-asus-pa32u/"><u>Unleashing True Black & Vivid Colors on ASUS PA32U</u></a></li>
 </ul></div>
 
