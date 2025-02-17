@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Essential Guide  Incorporating Visual Annotations in Edits for 2024\""
-date: 2025-01-16T22:42:11.033Z
-updated: 2025-01-20T04:24:23.919Z
+date: 2025-02-13T16:23:48.842Z
+updated: 2025-02-17T18:39:57.434Z
 tags: 
   - screen-recording
   - ai video
@@ -76,7 +76,7 @@ For macOS 10.12 or later
 * [2\. How to Remove a Marker After Screen Recording](#filmora2)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. How to Add a Marker During Video Editing
@@ -91,19 +91,11 @@ To add markers, watch your video and find the mistake. Pause the video, then cli
 
 ![add marker from the timeline toolbar](https://images.wondershare.com/filmora/guide/guide-win/add-markers-with-filmora-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step 2: Access the Modification Option
 
 Filmora lets you adjust your marker settings for your video. Right-click on the marker and select **"Modify Marker"** from the control panel.
 
 ![access the modification option](https://images.wondershare.com/filmora/guide/guide-win/add-markers-with-filmora-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##### Step 3: Customize the Markers
 
@@ -111,11 +103,23 @@ In the Marker Editor window, make relevant changes such as naming the marker, ad
 
 ![customize the markers](https://images.wondershare.com/filmora/guide/guide-win/add-markers-with-filmora-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### **Method 2: Adding Markers through the Keyboard**
 
 After importing the clip into the timeline and identifying the points of error in your video, place the playhead on these points and press the **"M"** key on your keyboard to add a marker at the chosen timeframes.
 
 ![add maker through the keyboard](https://images.wondershare.com/filmora/guide/guide-win/add-markers-with-filmora-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **2\. How to Remove a Marker After Screen Recording**
 
@@ -124,11 +128,7 @@ Once you have finished editing your mistakes, it's important to remove the marke
 ![remove a marker](https://images.wondershare.com/filmora/guide/guide-win/add-markers-with-filmora-7.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -152,16 +152,24 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-crystal-clear-play-top-5-ultra-hd-gaming-pcmonitor-screens/"><u>[New] 2024 Approved Crystal Clear Play Top 5 Ultra HD Gaming PC/Monitor Screens</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-easy-routines-for-screen-recording-in-gaming/"><u>[New] Easy Routines for Screen Recording in Gaming</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-expert-choices-for-tiktok-video-to-gif-transformations-for-2024/"><u>[New] Expert Choices for TikTok Video to GIF Transformations for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-visionary-tech-review-the-video-hub/"><u>[New] In 2024, Visionary Tech Review The Video Hub</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-the-ultimate-collection-of-sandbox-games-for-2024/"><u>[New] The Ultimate Collection of Sandbox Games for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-beginners-pathway-to-proficientyoucamuse/"><u>2024 Approved Beginner's Pathway to ProficientYouCamUse</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/a-visual-journey-with-mac-clients/"><u>A Visual Journey with Mac Clients</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/forgotten-the-voicemail-password-of-poco-x5-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Poco X5? Try These Fixes</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/reinvent-your-video-storytelling-in-obs-studio/"><u>Reinvent Your Video Storytelling in OBS Studio</u></a></li>
-<li><a href="https://win-dash.techidaily.com/step-by-step-guide-updating-your-hp-deskjet-2652-printer-driver-for-win10-win8-and-win7/"><u>Step-by-Step Guide: Updating Your HP DeskJet 2652 Printer Driver for Win10, Win8, and Win7</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-hp-accelerometer-problems-on-windows-pcs-a-comprehensive-guide/"><u>Troubleshooting HP Accelerometer Problems on Windows PCs: A Comprehensive Guide</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-get-to-know-vrecorder-the-perfect-installation-process/"><u>[New] Get to Know VRecorder The Perfect Installation Process</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-iconic-open-world-games-to-commit-to-for-2024/"><u>[New] Iconic Open World Games to Commit To for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-win-10s-best-recording-software-10-picks-for-2024/"><u>[New] Win 10'S Best Recording Software - 10 Picks for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-keeping-up-with-the-screen-capturing-internet-television-online/"><u>[Updated] 2024 Approved Keeping Up With The Screen - Capturing Internet Television Online</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-effective-screenrecording-practices-for-professionals/"><u>[Updated] In 2024, Effective ScreenRecording Practices for Professionals</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-free-mac-screenshoter-extraordinaire/"><u>2024 Approved Free Mac Screenshoter Extraordinaire</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-simplified-techniques-for-blurring-faces-in-pictures/"><u>2024 Approved Simplified Techniques for Blurring Faces in Pictures</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/boost-your-earnings-on-youtube-shorts-a-guide-for-2024/"><u>Boost Your Earnings on YouTube Shorts A Guide for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-lenovo-chromebook-duet-evaluation-affordable-convertible-laptop/"><u>Comprehensive Lenovo Chromebook Duet Evaluation – Affordable Convertible Laptop</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/digital-diary-the-art-of-screen-recording-on-macbook-air-for-2024/"><u>Digital Diary The Art of Screen Recording on MacBook Air for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effective-fixes-for-physxloaderdll-missing-or-lost-errors-in-windows/"><u>Effective Fixes for 'PhysXLoader.dll Missing or Lost Errors' In Windows</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/excellent-low-cost-webcam-snipper-app-for-2024/"><u>Excellent Low-Cost Webcam Snipper App for 2024</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/how-to-download-videos-from-youwatch-in-various-formats-mp4-wmv-and-avi/"><u>How to Download Videos From YouWatch in Various Formats: MP4, WMV & AVI</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-13-pro-max-drfone-by-drfone-ios/"><u>In 2024, iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/is-itops-performance-worth-your-investment/"><u>Is ITop's Performance Worth Your Investment?</u></a></li>
+<li><a href="https://win-able.techidaily.com/maplestory-and-windows-11-compatibility-solving-the-crash-problem/"><u>MapleStory and Windows 11 Compatibility: Solving the Crash Problem</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/master-the-art-of-raspberry-pi-zero-ns-speed-enhancement-via-overclocking-techniques/"><u>Master the Art of Raspberry Pi Zero N's Speed Enhancement via Overclocking Techniques</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/resound-the-villainy-troubleshooting-steps-when-evil-genius-2-lacks-volume/"><u>Resound the Villainy: Troubleshooting Steps When 'Evil Genius 2' Lacks Volume</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-syncing-your-fire-stick-with-the-perfect-remote/"><u>Ultimate Guide: Syncing Your Fire Stick with the Perfect Remote</u></a></li>
 </ul></div>
 

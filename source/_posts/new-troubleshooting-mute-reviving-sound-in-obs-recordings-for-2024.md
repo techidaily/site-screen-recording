@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Troubleshooting Mute  Reviving Sound in OBS Recordings for 2024\""
-date: 2025-02-02T00:46:46.462Z
-updated: 2025-02-07T23:58:27.119Z
+date: 2025-02-15T16:49:18.937Z
+updated: 2025-02-17T18:03:59.239Z
 tags: 
   - screen-recording
   - ai video
@@ -31,19 +31,23 @@ Edit system and microphone audio seperately
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Solutions to Fix OBS Not Recording Audio
 
 All in all, to record desktop audio with OBS, you have to enter a third-party audio driver. To find out the intricacies of this solution, you may read the solutions as follow:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **1\. Close the OBS and Restart**
 
 While using OBS studio, the users might experience the difficulties of OBS not capturing mic audio. This problem arises because the program only captures mic audio, and it doesn't support the desktop audio or system sound. to repair the "OBS no sound" problem on your PC is simply to shut the OBS studio software and thereafter restart it once more.
 
 ![restart](https://images.wondershare.com/filmora/article-images/restart.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **2\. Run it as Administrator**
 
@@ -56,7 +60,11 @@ You can run OBS as an administrator on Windows 10 and Windows 11 effortlessly. B
 ![run it as administrator](https://images.wondershare.com/filmora/article-images/run-it-as-administrator.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **3\. Unmute OBS**
@@ -79,10 +87,6 @@ Click the Desktop Audio Device drop-down option if the proper device is not chos
 
 ![check the sound settings](https://images.wondershare.com/filmora/article-images/check-the-sound-settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **5\. Remove Other Programs for Audio Control**
 
 Try recording with your speakers as the default playback device instead of headphones. To accomplish it, right-click the Speakers system tray icon and choose Open Sound settings.
@@ -92,14 +96,6 @@ Try recording with your speakers as the default playback device instead of headp
 * Select the Set Default option and click the Apply button.
 
 ![audio control](https://images.wondershare.com/filmora/article-images/audio-control.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **6\. Update your audio driver**
 
@@ -121,7 +117,11 @@ If none of the techniques can assist you, your OBS is experiencing an undefined 
 ![reinstall obs](https://images.wondershare.com/filmora/article-images/reinstall-obs.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Use OBS Alternative
@@ -162,14 +162,21 @@ After the above efficient approaches, we have utilized to cure the "OBS No Sound
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-basic-screen-capture-windows-10-version-for-2024/"><u>[New] Basic Screen Capture, Windows 10 Version for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-junior-jams-and-junction-gaming/"><u>[New] Junior Jams & Junction Gaming</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-transform-tiktok-videos-innovative-background-updates/"><u>[New] Transform TikTok Videos Innovative Background Updates</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/nveiling-the-secret-behind-successful-youtube-thumbnails/"><u>[New] Unveiling The Secret Behind Successful YouTube Thumbnails</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-the-ultimate-guide-to-zdsoft-video-recording/"><u>[Updated] 2024 Approved The Ultimate Guide to ZDSoft Video Recording</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-top-offline-iphone-and-ipad-games-fun-without-wi-fi-for-2024/"><u>[Updated] Top Offline iPhone & iPad Games – Fun Without Wi-Fi for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-determining-cost-effectiveness-of-youtubers/"><u>2024 Approved Determining Cost-Effectiveness of Youtubers</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-apps-and-online-tools-to-track-oppo-a59-5g-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Oppo A59 5G Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/the-insiders-guide-to-flawless-game-recordings-on-playstation-4-for-2024/"><u>The Insider’s Guide to Flawless Game Recordings on PlayStation 4 for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-perfect-pair-5-sleek-webcams-with-built-in-microphones/"><u>[New] 2024 Approved Perfect Pair 5 Sleek Webcams with Built-In Microphones</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-dynamic-background-adaptation-in-microsoft-teams-beforeafter-calls/"><u>[New] Dynamic Background Adaptation in Microsoft Teams Before/After Calls</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-groundbreision-of-top-8-free-video-call-software-for-companies/"><u>[New] Groundbreision of Top 8 Free Video Call Software for Companies</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-building-an-audience-on-ig-steps-to-reach-1k-in-one-month/"><u>[Updated] 2024 Approved Building an Audience on IG Steps to Reach 1K in One Month</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-enhance-your-screenshot-experience-apple-and-androids-best-sticker-add-ons-for-2024/"><u>[Updated] Enhance Your Screenshot Experience Apple & Android's Best Sticker Add-Ons for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-no-more-troubles-mastering-ipad-video-captures-now-for-2024/"><u>[Updated] No More Troubles? Mastering iPad Video Captures Now for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-reviving-the-reluctant-connection-of-your-obs-capture-device-for-2024/"><u>[Updated] Reviving the Reluctant Connection of Your OBS Capture Device for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-unleash-your-youtube-potential-steps-to-finding-and-managing-video-collab-partners-for-2024/"><u>[Updated] Unleash Your YouTube Potential Steps to Finding & Managing Video Collab Partners for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1724766127617-windows-10-dvd/"><u>圧倒的好評 Windows 10 DVD 書き込み手順解明!</u></a></li>
+<li><a href="https://windows11.techidaily.com/clearing-up-steam-cloud-errors/"><u>Clearing Up Steam Cloud Errors</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-nokia-31-smartphone-analysis-ideal-choice-for-first-time-users/"><u>Comprehensive Nokia 3.1 Smartphone Analysis - Ideal Choice for First-Time Users</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/free-fast-skype-to-mp3-guide-for-call-recorders-for-2024/"><u>Free, Fast Skype to MP3 Guide for Call Recorders for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-15-to-the-previous-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 15 to the Previous iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-xiaomi-redmi-a2plus-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Xiaomi Redmi A2+ without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-enhancing-your-iphones-screen-recording-skills/"><u>In 2024, Enhancing Your Iphone's Screen Recording Skills</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/peeking-at-pro-screen-recording-tools/"><u>Peeking at Pro Screen Recording Tools</u></a></li>
 </ul></div>
 

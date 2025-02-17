@@ -1,7 +1,7 @@
 ---
 title: "Saving a Look at Your Window for 2024"
-date: 2025-02-03T19:11:40.253Z
-updated: 2025-02-08T02:36:03.070Z
+date: 2025-02-13T16:37:59.410Z
+updated: 2025-02-17T16:00:47.035Z
 tags: 
   - screen-recording
   - ai video
@@ -62,6 +62,10 @@ The Windows Key + Shift + S keyboard shortcut can also be used to activate the S
 
 ![ Windows Screen Sketch](https://images.wondershare.com/filmora/article-images/windows-screen-sketch-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The Free Form option lets you create a screenshot in any shape you want, while the Full-Screen feature automatically captures the entire screen. The image you create will be saved on your hard-drive, and if you want to edit it, you'll have to import the file into Screen Sketch.
 
 #### Step 2. Editing the Screenshot
@@ -70,23 +74,19 @@ After taking a screenshot you will get a notification in the Windows Action Cent
 
 ![ Windows Screen Sketch](https://images.wondershare.com/filmora/article-images/windows-screen-sketch-editing.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 You can add annotations to the screenshots, by clicking on the bullet point pen, pencil or highlighter icons. The Ruler tool can assist you when drawing straight and curved lines, while the Eraser and Crop tools should be used to remove all unwanted elements in your screenshots.
 
 ![ Windows Screen Sketch](https://images.wondershare.com/filmora/article-images/windows-screen-sketch-editing-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### Step 3. Saving and Exporting Screenshots
 
 Click on the Save icon, in the app's toolbar ribbon, and select the destination where the file will be stored. You can also copy the screenshot to the clipboard, by clicking on the icon located next to the Save option.
 
 ![ Windows Screen Sketch](https://images.wondershare.com/filmora/article-images/windows-screen-sketch-saving.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 The Share feature enables you to post the picture on social media or send it via email. PC owners who don't have the latest Windows update can use the Snipping Tool or some other method of creating a screenshot.
 
@@ -96,12 +96,20 @@ All versions of Windows 10 feature the Xbox app that offers the DVR support and 
 
 ![ Windows Game Bar Screenshot](https://images.wondershare.com/filmora/article-images/xbox-game-bar-screenshot-shotkey.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Select the 'Yes, this is a game' option if a dialogue box pops-up on the screen and click on the Camera icon or hold the Windows, Alt and PrintScreen keys to take a screenshot. A Screenshot Saved notification will appear on the screen and you should click on in order to access the picture you've just taken using the Xbox app. The file will be displayed in the Game DVR> On This PC menu. The Game Bar saves screenshots in the PNG file format and it stores them in C:\\Users\\\[your username\]\\Videos\\Captures.
 
 ![ Windows Game Bar Screenshot](https://images.wondershare.com/filmora/article-images/xbox-game-bar-screenshot.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 3: Using the Snipping Tool to Take Flexible Screenshots
@@ -109,10 +117,6 @@ Select the 'Yes, this is a game' option if a dialogue box pops-up on the screen 
 This popular app for taking screenshots has been bundled with all versions of the Windows OS since Windows Vista has been released in 2006, which means that PC owners who have Windows 7,8 or 10 installed on their device can use it to take screenshots. For nearly a decade The Snipping Tool has offered the same set of tools, but recently the Delay option that allows you to select how long the software should wait before taking the screenshot was added to the list of the app's features.
 
 ![ Windows snipping tool ](https://images.wondershare.com/filmora/article-images/snipping-tool-screenshot.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 However, this option is only available on the Windows 10 version of the app, and it is a great improvement since it enables you to include mouse cursor and drop-down menus in your screenshots.
 
@@ -122,10 +126,6 @@ You can launch the app from the Start menu or by typing its name in the Search C
 
 ![ Windows snipping tool ](https://images.wondershare.com/filmora/article-images/snipping-tool-screenshot-new.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Afterward, you can just hold the left mouse button and drag the mouse to select the portion of the screen you'd like to capture. When ready to take the snapshot release the mouse key and wait for the app to display the image.
 
 #### Step 2: Annotating and Saving the Screenshots
@@ -133,10 +133,6 @@ Afterward, you can just hold the left mouse button and drag the mouse to select 
 Once you've taken the screenshot you can use the Pen and Highlighter features to add annotations, while the Eraser tool will enable you to easily correct all mistakes you make during this process.
 
 The app lets you Save the screenshot in PNG, JPEG, GIF or MHTML file formats and it also lets you email the pictures to your friends and colleagues. You can choose the folder where the file will be saved, and if you are not happy with the result you can click on the New icon to take another screenshot.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 4: Using the Share Charm to Take Screenshots on Windows 8.1
 
@@ -188,6 +184,10 @@ Leave a comment and let us know what is your favorite method of taking screensho
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
@@ -203,22 +203,19 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-convenient-chromebook-shot-techniques-method-4/"><u>[New] 2024 Approved Convenient Chromebook Shot Techniques (Method #4)</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/024-approved-explore-online-communities-with-youtube-monetization-opportunities/"><u>[New] 2024 Approved Explore Online Communities with YouTube Monetization Opportunities</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-celestial-warriors-unite-release-date/"><u>[New] Celestial Warriors Unite! Release Date</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-comedy-kings-and-queens-of-2023/"><u>[New] Comedy Kings & Queens of 2023</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-best-practices-for-capturing-streamed-television/"><u>[New] In 2024, Best Practices for Capturing Streamed Television</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-enhancing-webcam-gaming-experience-and-quality/"><u>[New] In 2024, Enhancing WebCam Gaming Experience & Quality</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-master-list-of-leading-free-screen-capture-programs/"><u>[Updated] 2024 Approved Master List of Leading Free Screen Capture Programs</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-your-ultimate-guide-to-effortless-xbox-one-image-snaps/"><u>[Updated] 2024 Approved Your Ultimate Guide to Effortless Xbox One Image Snaps</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-mastering-video-recording-and-editing-with-adobe-connect-for-2024/"><u>[Updated] Mastering Video Recording & Editing with Adobe Connect for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-navigating-the-world-of-asmr-videos-for-2024/"><u>[Updated] Navigating the World of ASMR Videos for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-simple-steps-modify-windows-speech-of-sea-creatures/"><u>[Updated] Simple Steps Modify Windows Speech of Sea Creatures</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-stealthy-speakers-sanctuary-discovering-quiet-voice-apps-androidios-for-2024/"><u>[Updated] Stealthy Speakers' Sanctuary Discovering Quiet Voice Apps (Android/iOS) for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Oppo A59 5G | Dr.fone</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/battle-of-broadcasting-go-live-with-obstwitch/"><u>Battle of Broadcasting Go Live with OBS/Twitch</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Tecno Pop 8? | Dr.fone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/nintendo-switch-top-hd-game-captures/"><u>Nintendo Switch Top HD Game Captures</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/scrutinizing-software-for-video-editing-the-bandicam-camtasia-comparison/"><u>Scrutinizing Software for Video Editing The Bandicam-Camtasia Comparison</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-guide-to-premium-zero-fee-video-meeting-solutions-for-2024/"><u>[New] Guide to Premium, Zero-Fee Video Meeting Solutions for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-ideal-top-ten-video-calls-applications-for-alltech/"><u>[New] Ideal Top-Ten Video Calls Applications for Alltech</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-what-everyone-should-learn-about-subscribing-to-youtube-tv/"><u>[New] In 2024, What Everyone Should Learn About Subscribing to YouTube TV</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-professional-meeting-aesthetics-blur-backgrounds-tips-for-2024/"><u>[New] Professional Meeting Aesthetics Blur Backgrounds Tips for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-shaping-viewers-attention-employing-jump-cuts-in-video-editing/"><u>[New] Shaping Viewers’ Attention Employing Jump Cuts in Video Editing</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-virtual-universe-showdown-meta-and-omni-explored/"><u>[Updated] 2024 Approved Virtual Universe Showdown Meta & Omni Explored</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-seamless-integration-of-custom-backgrounds-on-microsoft-teams-calls/"><u>[Updated] In 2024, Seamless Integration of Custom Backgrounds on Microsoft Teams Calls</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-xsplit-index-direct-split-and-reviews/"><u>[Updated] In 2024, XSplit Index Direct Split and Reviews</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-smooth-blur-magic-for-instagrams-story-moments/"><u>[Updated] Smooth Blur Magic for Instagram's Story Moments</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-the-premier-screen-recording-software-roundup-for-2024/"><u>[Updated] The Premier Screen Recording Software Roundup for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-vlogging-hurdles-how-to-triumph-over-ten-common-obstacles-for-2024/"><u>[Updated] Vlogging Hurdles How to Triumph Over Ten Common Obstacles for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/exploring-dynamic-blur-techniques-in-adobes-creative-suite-for-2024/"><u>Exploring Dynamic Blur Techniques in Adobe's Creative Suite for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-latest-drivers-for-killer-wireless-product-1535-easy-installation-steps-inside/"><u>Get Your Latest Drivers for Killer Wireless Product 1535 - Easy Installation Steps Inside!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Infinix GT 10 Pro? | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Unraveling ShareX  Professional Perspectives & Picks\""
-date: 2024-12-07T09:18:50.372Z
-updated: 2024-12-14T08:43:48.900Z
+date: 2025-02-14T16:39:38.772Z
+updated: 2025-02-17T17:52:37.303Z
 tags: 
   - screen-recording
   - ai video
@@ -51,10 +51,6 @@ Step 4: Open ShareX and go to Capture> Screen Recording option.
 
 ![sharex capture](https://images.wondershare.com/filmora/article-images/sharex-capture.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 5: You will be prompted to download and install FFmpeg.exe file automatically. Click on Yes button.
 
 ![sharex install ffmpeg file](https://images.wondershare.com/filmora/article-images/sharex-install-ffmpeg-file.jpg)
@@ -69,19 +65,11 @@ Step 2: You have to use your mouse pointer to draw the area on the screen that y
 
 ![sharex draw the area](https://images.wondershare.com/filmora/article-images/sharex-draw-the-area.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 3: Thereafter, recording will start automatically and you have to click on Stop button to stop recording.
 
 ![sharex click on stop button](https://images.wondershare.com/filmora/article-images/sharex-click-on-stop-button.jpg)
 
 The recorded file will be saved automatically and you can view it directly from ShareX home screen.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3\. ShareX Alternatives
 
@@ -105,36 +93,12 @@ Once you are done recording your screen video, you can edit it like a pro. You c
 
 ![filmora record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
 
-### [OBS](https://tools.techidaily.com/wondershare/filmora/download/)
-
-OBS is a completely free screen recorder with advanced features and customizable settings. OBS is particularly popular for streaming videos online such as streaming gameplay on Twitch. OBS Studio allows you to record your screen as well as from any external video producing devices starting from webcam to gaming consoles.
-
-You can capture video from multiple video sources and switch between scenes instantly. Moreover, you can record while streaming. The issue with OBS Studio is that the user interface is not very user-friendly, and hence, the software puts pressure on performance of the system while recording high-quality videos.
-
-![obs streaming videos online](https://images.wondershare.com/filmora/article-images/obs-streaming-videos-online.jpg)
-
-### [Fraps](https://tools.techidaily.com/wondershare/filmora/download/)
-
-Fraps is another premium screen recorder where you need to pay one-time free only for unlimited recording. The software is particularly useful when you have not so high-end computer. You can record your screen as well as webcam. You can also customize resolution, frame per second rate, and much more.
-
-There are hotkeys available for easy operation. The software shows various recording parameters in a corner while recording. You can also take screenshots with the software. However, there is no editing option available. If you have Windows XP or Windows 7, you can use Fraps to easily record your screen without any performance issue.
-
-![fraps premium screen recorder](https://images.wondershare.com/filmora/article-images/fraps-premium-screen-recorder.jpg)
-
-## Conclusion
-
-ShareX is great if you want to capture screenshots of your current screen as well as record your screen. However, the settings are not highly customizable while recording and the lack of features is a huge concern if you want to record regularly. That is why we have recommended the best ShareX alternatives, and our top pick is Wondershare Filmora which is easy to use and feature-rich.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-Once you are done recording your screen video, you can edit it like a pro. You can trim out unnecessary parts, join short videos, and insert various video effects starting from animations to transitions. You can even replace green screen in your webcam video. Moreover, you can also audio effects as well as edit the audio timeline. Thereafter, you can export the recorded file in various file formats.
-
-![filmora record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### [OBS](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -152,6 +116,10 @@ Fraps is another premium screen recorder where you need to pay one-time free onl
 There are hotkeys available for easy operation. The software shows various recording parameters in a corner while recording. You can also take screenshots with the software. However, there is no editing option available. If you have Windows XP or Windows 7, you can use Fraps to easily record your screen without any performance issue.
 
 ![fraps premium screen recorder](https://images.wondershare.com/filmora/article-images/fraps-premium-screen-recorder.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -173,14 +141,6 @@ You can capture video from multiple video sources and switch between scenes inst
 
 ![obs streaming videos online](https://images.wondershare.com/filmora/article-images/obs-streaming-videos-online.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### [Fraps](https://tools.techidaily.com/wondershare/filmora/download/)
 
 Fraps is another premium screen recorder where you need to pay one-time free only for unlimited recording. The software is particularly useful when you have not so high-end computer. You can record your screen as well as webcam. You can also customize resolution, frame per second rate, and much more.
@@ -188,6 +148,10 @@ Fraps is another premium screen recorder where you need to pay one-time free onl
 There are hotkeys available for easy operation. The software shows various recording parameters in a corner while recording. You can also take screenshots with the software. However, there is no editing option available. If you have Windows XP or Windows 7, you can use Fraps to easily record your screen without any performance issue.
 
 ![fraps premium screen recorder](https://images.wondershare.com/filmora/article-images/fraps-premium-screen-recorder.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -202,11 +166,7 @@ Once you are done recording your screen video, you can edit it like a pro. You c
 ![filmora record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### [OBS](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -218,7 +178,11 @@ You can capture video from multiple video sources and switch between scenes inst
 ![obs streaming videos online](https://images.wondershare.com/filmora/article-images/obs-streaming-videos-online.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### [Fraps](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -230,7 +194,43 @@ There are hotkeys available for easy operation. The software shows various recor
 ![fraps premium screen recorder](https://images.wondershare.com/filmora/article-images/fraps-premium-screen-recorder.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## Conclusion
+
+ShareX is great if you want to capture screenshots of your current screen as well as record your screen. However, the settings are not highly customizable while recording and the lack of features is a huge concern if you want to record regularly. That is why we have recommended the best ShareX alternatives, and our top pick is Wondershare Filmora which is easy to use and feature-rich.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+Once you are done recording your screen video, you can edit it like a pro. You can trim out unnecessary parts, join short videos, and insert various video effects starting from animations to transitions. You can even replace green screen in your webcam video. Moreover, you can also audio effects as well as edit the audio timeline. Thereafter, you can export the recorded file in various file formats.
+
+![filmora record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
+
+### [OBS](https://tools.techidaily.com/wondershare/filmora/download/)
+
+OBS is a completely free screen recorder with advanced features and customizable settings. OBS is particularly popular for streaming videos online such as streaming gameplay on Twitch. OBS Studio allows you to record your screen as well as from any external video producing devices starting from webcam to gaming consoles.
+
+You can capture video from multiple video sources and switch between scenes instantly. Moreover, you can record while streaming. The issue with OBS Studio is that the user interface is not very user-friendly, and hence, the software puts pressure on performance of the system while recording high-quality videos.
+
+![obs streaming videos online](https://images.wondershare.com/filmora/article-images/obs-streaming-videos-online.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+### [Fraps](https://tools.techidaily.com/wondershare/filmora/download/)
+
+Fraps is another premium screen recorder where you need to pay one-time free only for unlimited recording. The software is particularly useful when you have not so high-end computer. You can record your screen as well as webcam. You can also customize resolution, frame per second rate, and much more.
+
+There are hotkeys available for easy operation. The software shows various recording parameters in a corner while recording. You can also take screenshots with the software. However, there is no editing option available. If you have Windows XP or Windows 7, you can use Fraps to easily record your screen without any performance issue.
+
+![fraps premium screen recorder](https://images.wondershare.com/filmora/article-images/fraps-premium-screen-recorder.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -261,21 +261,21 @@ ShareX is great if you want to capture screenshots of your current screen as wel
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-expert-advice-on-archiving-lol-fights/"><u>[New] 2024 Approved Expert Advice on Archiving LOL Fights</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-the-ultimate-harvest-hangout-top-10-agri-games-to-enjoy-together/"><u>[New] In 2024, The Ultimate Harvest Hangout Top 10 Agri-Games to Enjoy Together</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-top-10-screen-capture-utilities-for-windows-macos/"><u>[New] Top 10 Screen Capture Utilities for Windows, macOS</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-ultimate-budget-friendly-viewer-contests/"><u>[Updated] 2024 Approved Ultimate Budget-Friendly Viewer Contests</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-dynamic-presenters-discourse-analysis-8th-ver-for-2024/"><u>[Updated] Dynamic Presenter's Discourse Analysis 8Th Ver for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-depth-insights-on-preserving-ps4-gaming-history-for-2024/"><u>[Updated] In-Depth Insights on Preserving PS4 Gaming History for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-innovation-unveiled-5-cutting-edge-webcams-with-sound-tech/"><u>[Updated] Innovation Unveiled 5 Cutting-Edge Webcams With Sound Tech</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Poco X6 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-navigating-advanced-settings-a-beginners-guide-to-google-photos/"><u>In 2024, Navigating Advanced Settings A Beginner's Guide to Google Photos</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-videopad-video-editor-2023-a-detailed-review-and-recommendation-for-beginners-and-pros/"><u>New 2024 Approved Videopad Video Editor 2023 A Detailed Review and Recommendation for Beginners and Pros</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/ps4-screen-recording-techniques-for-professional-gamers-for-2024/"><u>Ps4 Screen Recording Techniques for Professional Gamers for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-fixes-for-windows-11-sluggish-closure-a-step-by-step-guide/"><u>Quick Fixes for Windows 11 Sluggish Closure: A Step-by-Step Guide</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/steps-for-saving-encrypted-data-on-a-disk-with-the-aomei-backup-tool/"><u>Steps for Saving Encrypted Data on a Disk with the AOMEI Backup Tool</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/superior-video-quality-best-webcams-for-zoom-excellence/"><u>Superior Video Quality Best Webcams for Zoom Excellence</u></a></li>
-<li><a href="https://blog-min.techidaily.com/troubleshooting-steps-for-overcoming-non-fullscreen-playback-issues-on-iphoneipad-and-android-platforms/"><u>Troubleshooting Steps for Overcoming Non-Fullscreen Playback Issues on iPhone/iPad and Android Platforms</u></a></li>
-<li><a href="https://games-able.techidaily.com/xbox-series-x-controller-frequent-connectivity-fixes/"><u>Xbox Series X Controller: Frequent Connectivity Fixes</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-professional-audio-choice-the-ultimate-10-spotify-tools/"><u>[New] 2024 Approved Professional Audio Choice The Ultimate 10 Spotify Tools</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-farmers-hangout-top-10-friendly-agricultural-games-to-bond-with-friends/"><u>[Updated] 2024 Approved Farmers' Hangout Top 10 Friendly Agricultural Games to Bond With Friends</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-innovative-mac-tool-for-screen-and-audio-capture/"><u>[Updated] 2024 Approved Innovative Mac Tool for Screen & Audio Capture</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-maximize-your-zoom-experience-with-top-three-strategies/"><u>[Updated] 2024 Approved Maximize Your Zoom Experience with Top Three Strategies</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-ignite-interest-essential-youtube-video-concepts/"><u>[Updated] Ignite Interest Essential YouTube Video Concepts</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-unlock-your-screen-androids-premier-free-recorder-tools/"><u>[Updated] In 2024, Unlock Your Screen Android's Premier Free Recorder Tools</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-step-by-step-process-for-successful-obs-integration-on-macos-for-2024/"><u>[Updated] Step-by-Step Process for Successful OBS Integration on macOS for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-perfect-ringtones-leading-download-pages/"><u>2024 Approved Perfect Ringtones Leading Download Pages</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-premiere-vr-developers-shaping-the-future/"><u>2024 Approved Premiere VR Developers Shaping the Future</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-simplified-screen-recording-for-gamers/"><u>2024 Approved Simplified Screen Recording for Gamers</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-lava-yuva-3-pro-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Lava Yuva 3 Pro to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/gamegazers-graphic-guide-for-2024/"><u>GameGazer's Graphic Guide for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-asus-rog-phone-8-pro-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Asus ROG Phone 8 Pro Devices</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-scrutinizing-splitcam-a-leader-in-video-tech/"><u>In 2024, Scrutinizing SplitCam - A Leader in Video Tech?</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-secrets-revealed-flawless-and-straightforward-ipad-screen-recording/"><u>In 2024, Secrets Revealed Flawless and Straightforward iPad Screen Recording</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlock-the-power-of-local-gpo-control-on-windows-11/"><u>Unlock the Power of Local GPO Control on Windows 11</u></a></li>
 </ul></div>
 
