@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Immediate Actions  Reactivating OBS Audio Track for 2024\""
-date: 2025-02-16T18:00:44.255Z
-updated: 2025-02-17T16:11:47.083Z
+date: 2025-03-02T08:47:11.138Z
+updated: 2025-03-06T10:29:33.851Z
 tags: 
   - screen-recording
   - ai video
@@ -31,10 +31,6 @@ Edit system and microphone audio seperately
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Solutions to Fix OBS Not Recording Audio
 
 All in all, to record desktop audio with OBS, you have to enter a third-party audio driver. To find out the intricacies of this solution, you may read the solutions as follow:
@@ -54,14 +50,6 @@ You can run OBS as an administrator on Windows 10 and Windows 11 effortlessly. B
 * Right Click on OBS Studio and click Run as administrator
 
 ![run it as administrator](https://images.wondershare.com/filmora/article-images/run-it-as-administrator.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **3\. Unmute OBS**
 
@@ -83,10 +71,6 @@ Click the Desktop Audio Device drop-down option if the proper device is not chos
 
 ![check the sound settings](https://images.wondershare.com/filmora/article-images/check-the-sound-settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **5\. Remove Other Programs for Audio Control**
 
 Try recording with your speakers as the default playback device instead of headphones. To accomplish it, right-click the Speakers system tray icon and choose Open Sound settings.
@@ -105,10 +89,6 @@ If the Desktop Audio stopped recording after the Windows Driver update, you may 
 * From there, expand the Sound, video, and game controller, then right-click the audio driver and Update.
 
 ![update your audio driver](https://images.wondershare.com/filmora/article-images/update-your-audio-driver.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **7\. Reinstall OBS**
 
@@ -136,10 +116,6 @@ After the above efficient approaches, we have utilized to cure the "OBS No Sound
 
 ![record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Features Why You Should Go for Filmora:**
 
 * It has both the versions for Windows and Mac
@@ -162,16 +138,15 @@ After the above efficient approaches, we have utilized to cure the "OBS No Sound
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-beam-your-best-lol-playing-moments-onto-screen-3-ways/"><u>[New] Beam Your Best LOL Playing Moments Onto Screen (3 Ways)</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-brain-busting-the-premier-room-challenge-list/"><u>[New] In 2024, Brain-Busting The Premier Room Challenge List</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-the-photographers-roadmap-to-stunning-hdr-portraits-for-2024/"><u>[New] The Photographer's Roadmap to Stunning HDR Portraits for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-obs-guide-seamless-youtube-and-twitch-streaming/"><u>[Updated] OBS Guide Seamless YouTube and Twitch Streaming</u></a></li>
-<li><a href="https://fox-links.techidaily.com/discover-top-8-gaming-gloves-for-vr/"><u>Discover Top 8 Gaming Gloves for VR</u></a></li>
-<li><a href="https://article-files.techidaily.com/fotoscape-studio-comparing-paired-clients-tools/"><u>FotoScape Studio Comparing Paired Clients' Tools</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-by-checkra1n-even-from-apple-iphone-6s-if-youve-tried-everything-by-drfone-ios/"><u>How To Bypass iCloud By Checkra1n Even From Apple iPhone 6s If Youve Tried Everything</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-creating-humor-making-funny-parody-videos/"><u>In 2024, Creating Humor Making Funny Parody Videos</u></a></li>
-<li><a href="https://games-able.techidaily.com/premium-powering-the-best-charger-picks-for-dualsense-ps5/"><u>Premium Powering: The Best Charger Picks for DualSense PS5</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/ps3-gaming-reimagined-best-emulators-of-the-year/"><u>PS3 Gaming Reimagined Best Emulators of the Year</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/straightforward-recording-for-windows-10/"><u>Straightforward Recording for Windows 10</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/framelock-the-future-of-screen-capturing-in-2024/"><u>'Framelock' – The Future of Screen Capturing, In 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-navigating-zoom-recordings-for-business-success/"><u>[New] 2024 Approved Navigating Zoom Recordings for Business Success</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-masterful-screencasting-insights-into-advanced-techniques-and-tools/"><u>[Updated] 2024 Approved Masterful Screencasting Insights Into Advanced Techniques & Tools</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-top-windows-cutting-tools-for-editors-and-vids/"><u>[Updated] 2024 Approved Top Windows Cutting Tools for Editors & Vids</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-beginners-guide-to-interpreting-facebook-metrics/"><u>[Updated] Beginner's Guide to Interpreting Facebook Metrics</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-professional-screen-grabber-for-modern-win11-for-2024/"><u>[Updated] Professional Screen Grabber for Modern Win11 for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-premier-10-online-yoga-streams-to-enhance-fitness/"><u>[Updated] The Premier 10 Online Yoga Streams to Enhance Fitness</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/1728490274794-sd/"><u>「データ劣化したSDメモリから情報を復元する技術ガイド」</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-harnessing-android-potential-for-stunning-time-lapse-videos/"><u>2024 Approved Harnessing Android Potential for Stunning Time-Lapse Videos</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Samsung Galaxy A24 | Dr.fone</u></a></li>
 </ul></div>
 

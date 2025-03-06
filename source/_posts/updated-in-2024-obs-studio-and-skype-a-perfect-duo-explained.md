@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, OBS Studio & Skype  A Perfect Duo Explained\""
-date: 2025-02-12T16:11:29.343Z
-updated: 2025-02-17T16:17:51.742Z
+date: 2025-02-27T09:14:41.171Z
+updated: 2025-03-05T23:38:16.072Z
 tags: 
   - screen-recording
   - ai video
@@ -21,10 +21,6 @@ Video interviews for remote jobs are quite common these days because of this qui
 
 So in this article I will discuss that how can you record your skype videos using OBS. Skype has been extensively used for quite a long time now and it hasn’t lost its edge over the years but has actually upgraded and improved its services with time. Coming to OBS which is an open-source software used widely for streaming purposes. It provides an incredible experience courtesy of its variety of editing and recording options. The audio can be recorded from the system and the microphone. And video can be fetched from the webcam. Along with the recording of specific section of the screen.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: Recording Skype Calls with OBS
 
 To begin with shedding some light on the OBS program:
@@ -41,10 +37,6 @@ After this you have to open the OBS program and set it up for skype calls, firs 
 
 ![obs program set up for skype](https://images.wondershare.com/filmora/article-images/obs-program-set-up-for-skype.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![obs vlc videos source](https://images.wondershare.com/filmora/article-images/obs-vlc-videos-source.jpg)
 
 To setup NDI plugin you have to visit <https://github.com/Palakis/obs-ndi/releases/tag/4.9.1> and check for the compatible version with your operating system. On this website the plugin is available for windows, mac and Linux.
@@ -55,17 +47,9 @@ And after addition of plug in you would want to click on ‘+’ again and selec
 
 ![obs additon of plug in](https://images.wondershare.com/filmora/article-images/obs-additon-of-plug-in.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 And clicking on it will open a new window where you have to select the guest feed, which will be possible once the call has begun. The call connected will appear on the NDI plugin window.
 
 ![obs new window select the guest feed](https://images.wondershare.com/filmora/article-images/obs-new-window-select-the-guest-feed.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 As you receive the call from the reciever you will see the incoming feed of him as shown in the figure.
 
@@ -100,19 +84,11 @@ For macOS 10.12 or later
 
 ![filmora regard screen size](https://images.wondershare.com/filmora/guide/recording-04.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * This window is to configure all the audio and video devices. So you can get audio from any device and similarly video devices can also be configured.
 
 ![filmora configure all the audio devices](https://images.wondershare.com/filmora/guide/recording-05.png)
 
 * After the configuration, you can click on the big red button to start the recording.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## FAQs Regarding Skype Recording
 
@@ -210,17 +186,9 @@ For macOS 10.12 or later
 
 ![filmora regard screen size](https://images.wondershare.com/filmora/guide/recording-04.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * This window is to configure all the audio and video devices. So you can get audio from any device and similarly video devices can also be configured.
 
 ![filmora configure all the audio devices](https://images.wondershare.com/filmora/guide/recording-05.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * After the configuration, you can click on the big red button to start the recording.
 
@@ -272,10 +240,6 @@ For macOS 10.12 or later
 * This window is to configure all the audio and video devices. So you can get audio from any device and similarly video devices can also be configured.
 
 ![filmora configure all the audio devices](https://images.wondershare.com/filmora/guide/recording-05.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * After the configuration, you can click on the big red button to start the recording.
 
@@ -334,24 +298,22 @@ So form the above discussion it can be concluded that OBS for screen recording c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-how-to-screen-capture-anything-including-netflix-on-a-mac-in-six-steps/"><u>[New] 2024 Approved How to Screen Capture Anything, Including Netflix, on a Mac in Six Steps</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-audience-take-movaviscreenvisions-new-release/"><u>[New] In 2024, Audience Take MovaviScreenVision's New Release</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-proven-picks-for-high-quality-screenshot-tools-on-a-budget/"><u>[New] Proven Picks for High-Quality Screenshot Tools on a Budget</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-advanced-techniques-in-developing-compelling-customer-success-narratives/"><u>[Updated] 2024 Approved Advanced Techniques in Developing Compelling Customer Success Narratives</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-how-to-save-powerpoint-presentation-as-video-on-windows-and-mac-os/"><u>[Updated] 2024 Approved How to Save PowerPoint Presentation as Video on Windows and Mac OS</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-beyond-liberty-city-best-games-resembling-gta-v/"><u>[Updated] Beyond Liberty City Best Games Resembling GTA V</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-how-to-record-lol-gameplay3-methods-for-2024/"><u>[Updated] How To Record LOL Gameplay?(3 Methods) for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-showdown-of-streamers-assessing-the-best-for-you-obs-vs-twitch-studio/"><u>[Updated] In 2024, Showdown of Streamers Assessing the Best for You - OBS vs Twitch Studio</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-unlock-11-budget-friendly-creativity-for-youtube-names/"><u>[Updated] In 2024, Unlock 11 Budget-Friendly Creativity for YouTube Names</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-navigating-video-editor-landscape-choose-filmora-or-democracy-creator-in-2024/"><u>[Updated] Navigating Video Editor Landscape Choose Filmora or Democracy Creator, In 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-capture-the-action-in-depth-guide-to-game-recording-on-win10/"><u>2024 Approved Capture the Action In-Depth Guide to Game Recording on Win10</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/free-windows-and-mac-screen-saver-software-with-full-control/"><u>Free Windows & Mac Screen Saver Software with Full Control</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/fundamentals-of-narrative-crafting-for-2024/"><u>Fundamentals of Narrative Crafting for 2024</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-itel-p55-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Itel P55 5G | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-vivo-y55s-5g-2023-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Vivo Y55s 5G (2023) to Another | Dr.fone</u></a></li>
-<li><a href="https://article-posts.techidaily.com/must-have-10-fcp-plug-ins-for-professionals-for-2024/"><u>Must-Have 10 FCP Plug-Ins for Professionals for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcome-browser-blues-ending-google-chromes-sudden-shutdowns-forever/"><u>Overcome Browser Blues: Ending Google Chrome's Sudden Shutdowns Forever</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/video-calls-that-protect-our-selection-of-the-best-free-secure-applications-for-mobile-tech/"><u>Video Calls That Protect Our Selection of the Best Free, Secure Applications for Mobile Tech</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-top-techniques-for-awesome-instagram-videos/"><u>[New] 2024 Approved Top Techniques for Awesome Instagram Videos</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-ideal-choices-the-very-best-6-video-grabber-tools-for-2024/"><u>[New] Ideal Choices The Very Best 6 Video Grabber Tools for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-accelerated-learning-for-effective-nvidia-screener-use/"><u>[New] In 2024, Accelerated Learning for Effective NVIDIA Screener Use</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-master-the-art-of-sharing-gaming-moments-xboxfb-livestream-for-2024/"><u>[New] Master the Art of Sharing Gaming Moments Xbox/FB Livestream for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-the-ultimate-guide-downloading-setting-up-and-operating-ez-grabber/"><u>[New] The Ultimate Guide Downloading, Setting Up & Operating EZ Grabber</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-capturing-heights-a-deep-dive-into-gopro-karma/"><u>[Updated] Capturing Heights A Deep Dive Into GoPro Karma</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-jumpstart-your-recording-with-this-obs-mac-setup-guide/"><u>[Updated] In 2024, Jumpstart Your Recording with This OBS Mac Setup Guide</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-recordingcritique-assessment-for-2024/"><u>[Updated] RecordingCritique Assessment for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-essential-tips-for-google-podcast-distribution/"><u>2024 Approved Essential Tips for Google Podcast Distribution</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-precision-capturing-of-gameplay-with-obs-studio/"><u>2024 Approved Precision Capturing of Gameplay with OBS Studio</u></a></li>
+<li><a href="https://fox-search.techidaily.com/can-refreshing-your-os-improve-computer-performance-discover-tips-from-yl-computings-expert-guide/"><u>Can Refreshing Your OS Improve Computer Performance? Discover Tips From YL Computing's Expert Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/car-speaker-breakdown-understanding-possible-causes/"><u>Car Speaker Breakdown: Understanding Possible Causes</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/exploring-the-capabilities-of-bandicam-for-multimedia-creators-for-2024/"><u>Exploring the Capabilities of Bandicam for Multimedia Creators for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-flaky-windows-apps-a-step-by-step-guide/"><u>Fixing Flaky Windows Apps: A Step-by-Step Guide</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-elite-desktopmobile-communication-software-zoom-substitutes/"><u>In 2024, Elite Desktop/Mobile Communication Software (Zoom Substitutes)</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-essential-screen-recording-steps-for-perfection/"><u>In 2024, Essential Screen Recording Steps for Perfection</u></a></li>
+<li><a href="https://howto.techidaily.com/reasons-for-vivo-y27-5g-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Vivo Y27 5G Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
 </ul></div>
 

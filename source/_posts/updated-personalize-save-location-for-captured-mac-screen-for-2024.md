@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Personalize Save Location for Captured Mac Screen for 2024"
-date: 2025-02-12T16:29:04.004Z
-updated: 2025-02-17T16:42:30.165Z
+date: 2025-03-03T00:35:40.938Z
+updated: 2025-03-06T12:16:08.633Z
 tags: 
   - screen-recording
   - ai video
@@ -31,10 +31,6 @@ Here's how you can change the location where the screenshots you take using the 
 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### The All-in-One Screen Recorder & Video Editor
 
 * Record desktop screen, voiceover, and webcam simultaneously
@@ -52,19 +48,11 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: How to Save Screenshots to a Specific Folder on Mac
 
 Changing the folder where you store your screenshots is not an irreversible process, which means that you can reset the destination where the files are saved to Desktop at any point. Do not delete the new folder, because your Mac may not be able to take screenshots, afterward. The process described below is the only way you can delete a folder or add a new destination for your screenshots, and failing to comply with it may cause your Mac to malfunction.
 
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Create a new folder on the desired location on your hard drive, and then launch Terminal, by typing Terminal in the Search Box and clicking on its icon. Once the app is open, you should insert the following command into the Terminal window:
 
@@ -73,10 +61,6 @@ Create a new folder on the desired location on your hard drive, and then launch 
 Then enter a space at the end after 'location'.
 
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal-settings.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 The next step is to add the new location at which screenshots will be saved and you can do this by simply dragging the folder you created into Terminal and adding it at the end of the command you just entered. A path is created and the command line should now contain the folder's unique location and it should look like this:
 
@@ -87,10 +71,6 @@ To execute the command you have to press Enter. After Terminal finishes running 
 **killall SystemUIServer**
 
 Hit Enter once more to confirm the changes and run the new command. Close Terminal app by clicking on the Terminal menu and selecting the Quick Terminal option. The default location where the screenshots are saved on your Mac is now changed and every time you take a screenshot using the Command + Shift + 3 shortcut the file will be saved at the new location. If for whatever reason you want to make the Desktop once again the destination where the screenshots on your computer will be saved here's how you can do it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: How to Change the Screenshot Save Location Back to Desktop
 
@@ -119,14 +99,18 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-coolest-minecraft-mansion-projects-revealed/"><u>[New] 2024 Approved Coolest Minecraft Mansion Projects Revealed</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-from-watching-to-archiving-how-to-record-with-ease-netflix-and-macos/"><u>[New] 2024 Approved From Watching to Archiving How to Record with Ease, Netflix & MacOS</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-unlock-advanced-editing-text-insertion-tips-on-images-in-microsofts-photos/"><u>[New] 2024 Approved Unlock Advanced Editing Text Insertion Tips on Images in Microsoft's Photos</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-leading-webcam-models-enhancing-twitchs-viewer-experience/"><u>[New] In 2024, Leading Webcam Models Enhancing Twitch's Viewer Experience</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-transform-ppt-deck-into-video-stream/"><u>[New] In 2024, Transform PPT Deck Into Video Stream</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-integrate-with-ease-an-in-depth-look-at-instagrams-music-icons-for-2024/"><u>[New] Integrate with Ease An In-Depth Look at Instagram's Music Icons for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-unveiling-colors-top-11-grading-and-correction-techniques/"><u>[Updated] 2024 Approved Unveiling Colors Top 11 Grading & Correction Techniques</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/cam-protection-the-ultimate-10-guide-for-2024/"><u>Cam Protection The Ultimate 10 Guide for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/overcome-your-iphones-frustrating-flaw-with-expert-advice/"><u>Overcome Your iPhone's Frustrating Flaw with Expert Advice</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-achieving-professional-quality-remotely/"><u>[New] 2024 Approved Achieving Professional Quality Remotely</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-debating-digital-domains-obs-versus-twitch/"><u>[New] In 2024, Debating Digital Domains OBS Versus Twitch</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-mac-studio-screen-and-sounds-recording-feature/"><u>[New] In 2024, Mac Studio Screen & Sounds Recording Feature</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-exploring-vidmas-screen-capture-tool-for-2024/"><u>[Updated] Exploring Vidma's Screen Capture Tool for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-deciphering-the-process-of-bulk-downloads-from-tiktoks-treasure-trove/"><u>2024 Approved Deciphering the Process of Bulk Downloads From TikTok's Treasure Trove</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-leveraging-board-features-for-virtual-collaboration-android-ios-and-windows-guide/"><u>2024 Approved Leveraging Board Features for Virtual Collaboration Android, iOS & Windows Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastery-in-motion-a-thorough-review-of-magix-vpxs-features/"><u>2024 Approved Mastery in Motion A Thorough Review of Magix VPX's Features</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-scripted-sign-offs-for-the-savvy-viewer/"><u>2024 Approved Scripted Sign-Offs for the Savvy Viewer</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-step-by-step-guide-mastering-zoom-on-a-windows-10-device/"><u>2024 Approved Step-by-Step Guide Mastering Zoom on a Windows 10 Device</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/6-best-linkedin-video-downloaders-to-save-videos-from-linkedin/"><u>6 Best Linkedin Video Downloaders to Save Videos From LinkedIn</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-transcribe-speech-absolutely-gratis/"><u>In 2024, Transcribe Speech, Absolutely Gratis</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/movavi-livre-converter-de-ape-para-ogg-online-e-gratuito/"><u>Movavi Livre: Converter De APE Para OGG Online E Gratuito</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-frame-rate-issues-and-connectivity-spikes-in-cod-black-ops-iv/"><u>Troubleshooting Frame Rate Issues & Connectivity Spikes in COD: Black Ops IV</u></a></li>
 </ul></div>
 

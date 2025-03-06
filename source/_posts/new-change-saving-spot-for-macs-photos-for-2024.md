@@ -1,7 +1,7 @@
 ---
 title: "[New] Change Saving Spot for Mac's Photos for 2024"
-date: 2025-02-14T16:12:40.001Z
-updated: 2025-02-17T16:49:08.012Z
+date: 2025-03-03T21:38:34.232Z
+updated: 2025-03-06T01:32:56.766Z
 tags: 
   - screen-recording
   - ai video
@@ -48,23 +48,11 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: How to Save Screenshots to a Specific Folder on Mac
 
 Changing the folder where you store your screenshots is not an irreversible process, which means that you can reset the destination where the files are saved to Desktop at any point. Do not delete the new folder, because your Mac may not be able to take screenshots, afterward. The process described below is the only way you can delete a folder or add a new destination for your screenshots, and failing to comply with it may cause your Mac to malfunction.
 
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Create a new folder on the desired location on your hard drive, and then launch Terminal, by typing Terminal in the Search Box and clicking on its icon. Once the app is open, you should insert the following command into the Terminal window:
 
@@ -84,10 +72,6 @@ To execute the command you have to press Enter. After Terminal finishes running 
 
 Hit Enter once more to confirm the changes and run the new command. Close Terminal app by clicking on the Terminal menu and selecting the Quick Terminal option. The default location where the screenshots are saved on your Mac is now changed and every time you take a screenshot using the Command + Shift + 3 shortcut the file will be saved at the new location. If for whatever reason you want to make the Desktop once again the destination where the screenshots on your computer will be saved here's how you can do it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2: How to Change the Screenshot Save Location Back to Desktop
 
 The process of changing the default screenshot save location back to Desktop is nearly identical to the process we just described. You just have to open the Terminal app and insert the following command into the prompt.
@@ -99,10 +83,6 @@ Make sure that your username is properly written, and then press Enter to run th
 Don't forget that deleting the folder you use as a default location for storing screenshots should only be done using the process we just described in the Terminal application, since all other methods may cause unnecessary trouble.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Max Wales
 
@@ -119,20 +99,24 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-streaming-success-capturing-dota-2s-epic-battles-2enas/"><u>[New] 2024 Approved Streaming Success Capturing Dota 2'S Epic Battles (2Enas)</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-elevate-your-livestream-game-twitch-and-youtube-via-obs/"><u>[New] Elevate Your Livestream Game Twitch & YouTube via OBS</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-step-by-step-webcam-recording-on-hp-systems-for-2024/"><u>[New] Step-by-Step Webcam Recording on HP Systems for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-speaker-breakdown-latest-models/"><u>[Updated] 2024 Approved Speaker Breakdown Latest Models</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-heroic-duel-noir-knights-vs-aurora-guardians/"><u>[Updated] In 2024, Heroic Duel Noir Knights Vs Aurora Guardians</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-essential-9-video-calling-apps-android-and-ios-review/"><u>2024 Approved Essential 9 Video Calling Apps Android & iOS Review</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-seconds-to-enjoy-a-look-at-20mb-video-files/"><u>2024 Approved Seconds to Enjoy - A Look at 20MB Video Files</u></a></li>
-<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-realme-c51-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Realme C51 | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-nubia-red-magic-9-proplus-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Nubia Red Magic 9 Pro+ Phone? | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/exclusive-imagery-tale-constructor/"><u>Exclusive Imagery Tale Constructor</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/investigating-the-prowess-of-splitcam-cameras-for-2024/"><u>Investigating the Prowess of SplitCam Cameras for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/key-strategies-for-harvesting-free-photo-frames/"><u>Key Strategies for Harvesting Free Photo Frames</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/ps1-classics-on-your-desktop-the-best-emulators-reviewed/"><u>PS1 Classics on Your Desktop The Best Emulators Reviewed</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-filmora-x-just-got-faster-arm-support-now-available/"><u>Updated 2024 Approved Filmora X Just Got Faster ARM Support Now Available</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Realme GT 5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-download-x-recorder-for-pc/"><u>[New] Download X-Recorder for PC</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-how-to-record-voice-memo-on-iphone-in-2024/"><u>[New] How to Record Voice Memo on iPhone, In 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-master-instagram-livestreams-with-ease-your-complete-guide-to-obs-usage/"><u>[New] In 2024, Master Instagram Livestreams with Ease Your Complete Guide to OBS Usage</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-elevating-your-webinar-footage-with-best-practices/"><u>[Updated] Elevating Your Webinar Footage with Best Practices</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-enhance-your-iphone-hd-video-clarity-in-premiere-pro-effortlessly-for-2024/"><u>[Updated] Enhance Your iPhone HD Video Clarity in Premiere Pro Effortlessly for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-essential-software-for-efficient-teleconferences-for-2024/"><u>[Updated] Essential Software for Efficient Teleconferences for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-the-ultimate-list-of-serene-pc-gaming/"><u>[Updated] The Ultimate List of Serene PC Gaming</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-a-collection-of-trendy-tiktok-backgrounds/"><u>2024 Approved A Collection of Trendy TikTok Backgrounds</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-oneplus-ace-2v-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from OnePlus Ace 2V to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/ballot-bonanza-prime-election-strategy-games-for-2024/"><u>Ballot Bonanza Prime Election Strategy Games for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-the-most-recent-generic-bluetooth-adapter-driver-compatible-with-windows/"><u>Download the Most Recent Generic Bluetooth Adapter Driver Compatible with Windows</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-explore-twitter-videos-in-high-fidelity-format/"><u>In 2024, Explore Twitter Videos in High Fidelity Format</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-how-to-screen-hulu-on-any-system-seamlessly/"><u>In 2024, How to Screen Hulu On Any System Seamlessly</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-premier-free-android-recording-apps-no-ads/"><u>In 2024, Premier Free Android Recording Apps (No Ads)</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-premium-audio-capabilities-1-10-free-desktop-tools/"><u>In 2024, Premium Audio Capabilities #1-#10 Free Desktop Tools</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-unlock-apple-id-without-phone-number-on-apple-iphone-xs-max-by-drfone-ios/"><u>In 2024, Unlock Apple ID without Phone Number On Apple iPhone XS Max</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/professional-editing-strategies-for-youtube-videos-after-upload-for-2024/"><u>Professional Editing Strategies for YouTube Videos After Upload for 2024</u></a></li>
+<li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-infinix-smart-8-hd-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for Infinix Smart 8 HD</u></a></li>
+<li><a href="https://solve-help.techidaily.com/yl-software-insights-comprehensive-techniques-to-gather-business-sector-email-subscribers/"><u>YL Software Insights: Comprehensive Techniques to Gather Business Sector Email Subscribers</u></a></li>
 </ul></div>
 

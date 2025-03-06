@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Journey Through the Maze  Old Vs. Innovative RPGs\""
-date: 2025-02-12T16:01:59.378Z
-updated: 2025-02-17T17:36:16.172Z
+date: 2025-03-05T08:17:48.990Z
+updated: 2025-03-05T16:54:47.517Z
 tags: 
   - screen-recording
   - ai video
@@ -44,10 +44,6 @@ Part 1: What's the Difference Between Roguelikes and Roguelites?
 In order to best understand these two game genres, we must first analyze the origin of their namesakes. Way back in 1980, game designers Michael Toy and Glenn Wichman released an ASCII art dungeon crawler called _Rogue_. Inspired by the pen-and-paper RPG _Dungeons & Dragons_, this turn-based adventure game had players explore dungeons in which they fought monsters and gathered items to help them power up their characters. The game's defining mechanic was **permadeath**. This meant that once your character died, it was literally the end. You couldn't create a save nor revive your fallen hero in any way. Starting over meant a completely fresh game with a brand new character. What's more is that starting a new game meant the dungeons were completely different, including enemy placement, room location, and item distribution. Every decision could mean either living and carrying on or dying and starting over, making the choices players made meaningful.
 
 ![michael-toy-glenn-wichman](https://images.wondershare.com/filmora/article-images/michael-toy-glenn-wichman.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What is a Roguelike Game?
 
@@ -105,10 +101,6 @@ Recognized as one of the best roguelikes of all time, _Dungeon Crawl Stone Soup_
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Roguelite Games
 
 For this genre, we've chosen three games that are completely different to illustrate the wider variety of titles that exists within the roguelite space.
@@ -119,29 +111,17 @@ _Dead Cells_ is an exploration-based action platformer (a.k.a. a metroidvania) w
 
 ![deadcells-poster](https://images.wondershare.com/filmora/article-images/deadcells-poster.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### Slay the Spire
 
 One of the most highly praised indie games, MegaCrit's _Slay the Spire_ is a shining example of a perfect blend of genres. It's a deckbuilding card game where you must climb the titular Spire while defeating enemies and bosses in turn-based card battles, so you can ultimately slay its heart. Each run consists of 3 Acts, each of which gives you choices of pathways that are procedurally generated. While enemy placement is somewhat controlled at first, it becomes more truly random the higher you climb. What makes StS particularly challenging is that it affords very few options to restore health so guarding your HP is vital. While death does mean you'll have to start all the way from the bottom, you can unlock new cards for each of the game's 4 classes as you level them up. The game also offers a wide variety of options for challenges and seeded custom runs.
 
 ![slay-the-spire](https://images.wondershare.com/filmora/article-images/slay-the-spire.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### Hades
 
 Nominated for a Game of the Year award, _Hades_ is a beloved title that has converted many gamers to the roguelite genre. Your aim in the game, as the son of Hades, is to escape the Ancient Greek hell and ascend to the top of Olympus with the rest of the pantheon. The gameplay is fast-paced action hack-and-slash but it's in a top-down perspective which makes it feel a lot closer to _Rogue_ than other games in the genre. It also has a lot of elements that are randomized, including the location of helpful shops. Your build will also feel wildly different between runs as even the Gods that appear to power you up are random as well as the abilities they offer you to choose from.
 
 ![deadcells-poster](https://images.wondershare.com/filmora/article-images/mirror-hades.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Bonus:** With thousand of effects, Filmora X help you record your gameplay and edit it into nice montage.
 
@@ -164,21 +144,22 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-effortless-subtitling-and-cc-addition-techniques-for-youtube-users/"><u>[New] 2024 Approved Effortless Subtitling & CC Addition Techniques for YouTube Users</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-covertly-engage-with-fb-live-feeds-for-2024/"><u>[New] Covertly Engage with FB Live Feeds for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-unveiling-six-techniques-to-screen-record-your-streamed-movies-on-macos-for-2024/"><u>[New] Unveiling Six Techniques to Screen Record Your Streamed Movies on MacOS for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-unlocking-the-secrets-of-high-quality-twitch-broadcasts/"><u>[Updated] 2024 Approved Unlocking the Secrets of High-Quality Twitch Broadcasts</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-10-leading-free-online-recording-tools-expert-opinions/"><u>[Updated] In 2024, 10 Leading Free Online Recording Tools - Expert Opinions</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-advanced-strategies-in-voice-memo-mastery/"><u>[Updated] In 2024, Advanced Strategies in Voice Memo Mastery</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-unveiling-hash-tags-that-multiply-your-view-count-by-six/"><u>[Updated] In 2024, Unveiling Hash Tags that Multiply Your View Count by Six</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-mastering-video-creation-adobe-captivate-guide/"><u>[Updated] Mastering Video Creation Adobe Captivate Guide</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-optimal-steps-to-record-silent-videos-for-2024/"><u>[Updated] Optimal Steps to Record Silent Videos for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-recording-the-virtual-realm-for-2024/"><u>[Updated] Recording the Virtual Realm for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-unraveling-galaxy-s8s-enhanced-cinematic-capabilities/"><u>2024 Approved Unraveling Galaxy S8's Enhanced Cinematic Capabilities</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722978068662-get-your-killer-e2500-gigabit-nic-drivers-installed-now-free-downloads-available/"><u>Get Your Killer E2500 Gigabit NIC Drivers Installed Now - Free Downloads Available!</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-tecno-spark-20-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Tecno Spark 20 Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/1726028737938-pciphoneandroid/"><u>PC/iPhone/Androidで効果的なビデオ背景音楽除去ガイド【マルチプラットフォーム】</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/skjermbilde-med-lydopptagelse-under-windows-njunten-veien-til-4-forskjellige-metoder/"><u>Skjermbilde Med Lydopptagelse Under Windows Njunten - Veien Til 4 Forskjellige Metoder</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/ultimate-guide-ipad-voice-capture-strategies-for-2024/"><u>Ultimate Guide IPad Voice Capture Strategies for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-crystal-clear-play-top-5-ultra-hd-gaming-pcmonitor-screens/"><u>[New] 2024 Approved Crystal Clear Play Top 5 Ultra HD Gaming PC/Monitor Screens</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-easy-routines-for-screen-recording-in-gaming/"><u>[New] Easy Routines for Screen Recording in Gaming</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-emulate-elegance-the-premier-selection-of-ps1-emulators-for-pc/"><u>[New] In 2024, Emulate Elegance The Premier Selection of PS1 Emulators for PC</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-mastering-clear-video-capture-with-obs-even-when-dark/"><u>[New] In 2024, Mastering Clear Video Capture with OBS, Even When Dark</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-step-into-success-beginners-guide-to-hosting-tech-product-discussions-online/"><u>[Updated] 2024 Approved Step-Into Success Beginner’s Guide to Hosting Tech Product Discussions Online</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-transforming-team-meeting-aesthetics-the-prepost-customization-angle/"><u>[Updated] 2024 Approved Transforming Team Meeting Aesthetics The Pre/Post Customization Angle</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/1716070174820-updated-in-2024-instant-mac-screen-savior-free/"><u>[Updated] In 2024, Instant Mac Screen Savior - Free!</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-leveraging-the-power-of-creative-commons-rights/"><u>[Updated] Leveraging the Power of Creative Commons Rights</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-tomtom-actioncam-review-innovations/"><u>[Updated] TomTom Actioncam Review Innovations</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-unlocking-steam-gameplay-footage-secrets-for-2024/"><u>[Updated] Unlocking Steam Gameplay Footage Secrets for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-the-wealth-of-mr-beast/"><u>2024 Approved The Wealth of Mr. Beast</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/aligning-phonetablet-zoom-schedules-with-pc-plans-for-2024/"><u>Aligning Phone/Tablet Zoom Schedules with PC Plans for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On ZTE Axon 40 Lite | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-successfully-fix-the-persistent-black-display-error-on-your-iphone/"><u>How To Successfully Fix The Persistent Black Display Error On Your iPhone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-zte-axon-40-lite-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from ZTE Axon 40 Lite to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-gopro-tips-shooting-underwater-video-with-gopro/"><u>In 2024, GoPro Tips Shooting Underwater Video with GoPro</u></a></li>
+<li><a href="https://win-guides.techidaily.com/procedura-fai-da-te-per-riprodurre-un-sistema-operativo-su-una-memoria-usb-passaggi-essenziali/"><u>Procedura Fai-Da-Te per Riprodurre Un Sistema Operativo Su Una Memoria USB: Passaggi Essenziali</u></a></li>
 </ul></div>
 
